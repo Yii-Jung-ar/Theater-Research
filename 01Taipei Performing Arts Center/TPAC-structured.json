@@ -1,0 +1,132 @@
+{
+  "project_id": "TPAC_Taipei",
+  "name_zh": "臺北表演藝術中心",
+  "name_en": "Taipei Performing Arts Center",
+  "nickname": "TPAC",
+  "category": "Performing Arts Center",
+  "location": {
+    "city": "Taipei",
+    "district": "Shilin",
+    "context_description": "Opposite Jiantan MRT station, adjacent to Shilin Night Market"
+  },
+  "urban_roles": [
+    "Cultural landmark",
+    "Node on cultural axis linking Science Museum, Astronomical Museum, Yuanshan, National Palace Museum",
+    "Extension of night-market street life into a public theater machine"
+  ],
+  "timeline": {
+    "competition_years": "2008-2009",
+    "construction_start": "2012-02-16",
+    "planned_completion": "2015",
+    "trial_opening": "2022-03",
+    "official_opening_planned": "2022-08"
+  },
+  "scale": {
+    "gfa_sqm_primary": 58658,
+    "gfa_sqm_alt": 50000,
+    "height_m": 63
+  },
+  "massing": {
+    "main_cube": "Central cubic volume consolidating stages, backstages and support spaces",
+    "theater_volumes": "Three auditoria protruding from the cube, forming multiple 'fronts'",
+    "ground_plaza": "Lifted volume creates plaza under the cube as extension of street"
+  },
+  "theaters": [
+    {
+      "name_zh": "大劇院",
+      "name_en": "Grand Theater",
+      "type": "Large theatre, non-shoebox, folded seating bowl",
+      "seats": 1500,
+      "primary_uses": ["Large-scale performing arts"],
+      "relations": ["Can be combined with Multiform/Blue Box to form Super Theater"]
+    },
+    {
+      "name_zh": "球形劇場（鏡框式中劇場）",
+      "name_en": "Globe Playhouse / Proscenium Playhouse",
+      "type": "Spherical auditorium with inner and outer shells, proscenium formed at intersection with cube",
+      "seats": 800,
+      "primary_uses": ["Drama", "Medium-scale productions"],
+      "relations": ["Shares backstage and support spaces via cube"]
+    },
+    {
+      "name_zh": "藍盒劇場（多形式中劇場）",
+      "name_en": "Blue Box / Multiform Theatre",
+      "type": "Black-box-like multiform experimental space",
+      "seats": 800,
+      "primary_uses": ["Most experimental performances", "Non-typical scenography"],
+      "relations": ["Can be combined with Grand Theater as Super Theater"]
+    }
+  ],
+  "super_theater": {
+    "exists": true,
+    "description": "Massive factory-like environment formed by coupling Grand Theater and Multiform Theatre",
+    "approx_stage_length_m": 100
+  },
+  "typology": {
+    "批判對象": "Standard package of 2000-seat auditorium + 1500-seat theatre + black box with conservative 19th-century internal layouts",
+    "strategies": [
+      "Experimentation in internal workings rather than iconic shell",
+      "Consolidation of back-of-house into cube to allow coupling/decoupling of stages",
+      "Use of spherical and box typologies to generate new proscenium conditions"
+    ]
+  },
+  "publicness": {
+    "city_interface": [
+      "Street extends into the building under the lifted cube",
+      "Plaza works as additional stage for public gatherings",
+      "Multiple 'faces' instead of single front/back"
+    ],
+    "public_loop": {
+      "exists": true,
+      "description": "Trajectory through typically hidden theatre infrastructure and production spaces, open even to visitors without tickets"
+    },
+    "discursive_keywords": [
+      "Break the fourth wall",
+      "Extend street into building",
+      "Welcome everyone, even without ticket",
+      "Cultural landmark",
+      "Part of cultural axis"
+    ]
+  },
+  "finance_governance": {
+    "client": "Department of Cultural Affairs, Taipei City Government",
+    "budget_ntd_main": 3800000000,
+    "budget_ntd_alt": 5400000000,
+    "design_fee_ntd": 570000000,
+    "procurement": {
+      "method": "International competition",
+      "entries": 136,
+      "countries": 24
+    },
+    "shortlisted_teams": [
+      "MORPHOSIS (Thom Mayne)",
+      "Jose Ignacio Abalos",
+      "OMA (Rem Koolhaas)"
+    ]
+  },
+  "teams": {
+    "lead_architect": "OMA (Office for Metropolitan Architecture)",
+    "partners_in_charge": ["Rem Koolhaas", "David Gianotten"],
+    "project_director": "Chiaju Lin",
+    "local_architect": "Da-Yuan Architectural Group",
+    "consultants": {
+      "theatre": ["dUCKS scéno", "行式管理"],
+      "interior_landscape": ["Inside Outside"],
+      "acoustics": ["DHV"],
+      "structure": ["Arup Structure", "永俊"],
+      "mep": ["Arup MEP", "恆開", "林伸"],
+      "fire": ["Arup Fire", "臺灣防災"],
+      "lighting": ["大公設計"],
+      "façade": ["ABT", "美商希迪西"],
+      "sustainability": ["Arup Building Physics", "澄毓"]
+    }
+  },
+  "sources": [
+    {"id": "archdaily_en", "type": "architectural media", "language": "en"},
+    {"id": "oma_official_en", "type": "architect text", "language": "en"},
+    {"id": "av_en", "type": "architectural review", "language": "en"},
+    {"id": "forgemind_zh", "type": "professional blog / media", "language": "zh-TW"},
+    {"id": "taipei_cultural_affairs_zh", "type": "government press release", "language": "zh-TW"},
+    {"id": "vogue_taiwan_zh", "type": "magazine interview", "language": "zh-TW"}
+  ]
+}
