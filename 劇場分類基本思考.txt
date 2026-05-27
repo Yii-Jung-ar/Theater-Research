@@ -1,0 +1,9 @@
+規模：座位數、面積、劇場規模(國家級、地區型)
+location：洲、國家、城市、人口
+program：單一劇場或綜合性劇場-劇場類型
+form：外觀、座位配置
+site：context
+composition：空間秩序-circulation、acessibility
+participant：architecture、client、user、consultant、operator
+
+
