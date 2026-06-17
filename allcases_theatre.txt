@@ -1,0 +1,264 @@
+{
+  "project 01": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Oslo Opera House (奧斯陸歌劇院)",
+        "theater_scale_hierarchy": "國家級音樂與劇場機構 (Norway's largest music and theatrical institution)",
+        "gross_floor_area": "38,500 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (主廳)",
+          "seating_capacity": "約 1,370 席 (1,400 席為總體估算)",
+          "stage_type": "Horseshoe 鏡框馬蹄形劇院",
+          "primary_performance_type": "歌劇 (Opera)、芭蕾舞 (Ballet)",
+          "key_hardware_&_acoustic_conditions": "配備 16m x 16m 主舞台、11.8m 深下沉式舞台、兩側台與兩後台；高靈活性樂池升降台 (3 組獨立升降機)；側邊配備可調節鏡框寬度之活動式移動塔 (Mobile Towers)；天花板懸吊 8.5 噸兼具聲學反射功能之鏡片狀水晶吊燈 (Chandelier)；三層看台前緣與後牆採三維曲面固體橡木板與凸面反射面板以優化殘響時間。"
+        },
+        {
+          "hall_name": "Stage 2 (二號舞台)",
+          "seating_capacity": "最多 400 席",
+          "stage_type": "Flexible / Black Box 多功能黑盒子式",
+          "primary_performance_type": "歌劇、芭蕾、宴會、搖滾音樂會、實驗劇與兒童劇",
+          "key_hardware_&_acoustic_conditions": "無傳統吊桿塔 (Fly Tower)，改採大型電動滑輪系統控制布景與反射板；配備兩座大型升降台以調整階梯式觀眾席、樂池或將座椅車載運至地下室；舞台由可拆卸地板組成；以一只 9m 高滑動大門連通後台與景庫；內部置入獨立的高級構造物件，外飾高光澤紅面板，內飾金屬銀，並設有四座兼具照明、空調與聲學機能之技術天橋。"
+        },
+        {
+          "hall_name": "Rehearsal Room 1 (一號排練室)",
+          "seating_capacity": "150 席",
+          "stage_type": "Black Box 黑盒子式 (兼作公共表演空間)",
+          "primary_performance_type": "實驗性跨領域劇場、日常訓練與排練",
+          "key_hardware_&_acoustic_conditions": "具備高度音響減震消音牆面 (Acoustic Attenuation)；通過一條源自前台大廳沿南向立面的專屬通道引導公眾進入。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "挪威",
+        "city": "奧斯陸",
+        "urban_context": "濱水重劃區 (Bjørvika 半島前工業造船廠，為奧斯陸海濱都市更新策略之首要催化劑)"
+      },
+      "participants_&_operation": {
+        "architect": "Snøhetta (主導建築師)",
+        "client": "Statsbygg (挪威公共建設與財產管理局，代表 Ministry of Church and Cultural Affairs 負責規劃與管理)",
+        "end_user": "The Norwegian National Opera & Ballet (挪威國家歌劇與芭蕾舞團)",
+        "consultants": [
+          "Theatre Projects (劇場顧問)",
+          "Brekke & Strand Akustikk (聲學顧問)",
+          "Arup Acoustics (聲學顧問)",
+          "Ingeniør Per Rasmussen AS (電氣工程)",
+          "Reinertsen Engineering (結構工程)",
+          "NGI (地質工程)"
+        ],
+        "operator": "The Norwegian National Opera & Ballet (挪威國家歌劇與芭蕾舞團)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "將傳統上具有高度封閉性與階級感的世界級藝術機構，轉化為面向全體公眾開放的民主化都市基礎設施",
+        "在原為高污染、具備都市裂痕的工業歷史廢棄港口碼頭，重塑都市紋理、海濱自然景觀與公共生活的交織關係",
+        "多廳機能（主廳、多功能廳、大型排練室與高達 1000 間房的後勤工廠）之動線分流、聲學相互隔離，以及地下構造物應對地基沉陷之挑戰"
+      ],
+      "concept": [
+        "地毯 (The Carpet)：將公共空間與屋頂轉化為向都市與峽灣延伸、允許所有人自由漫步、共享產權的水平與斜向連續性幾何地景（實踐挪威傳統「自由漫遊權」allemannsretten 精神）",
+        "浪牆 (The Wave Wall)：以有機木質波浪牆壁面作為陸地與海洋、挪威與世界、日常與藝術之間的真實及象徵性「門檻」，成為公眾相遇藝術的交界面",
+        "工廠 (The Factory)：將後台複雜的藝術生產機能與工作坊，視為一個自給自足、理性規劃且具備高度功能彈性的生產機器"
+      ],
+      "strategy": [
+        "塊體斜向楔形下沉與水平延伸：建築體量向西、北兩側逐漸沉入水面，使屋頂直接與地面銜接，模糊建築與都市公共空間的邊界",
+        "功能帶垂直堆疊與一分為二：以一條南北向的「歌劇大街 (Opera Street)」為界，西側垂直堆疊公共大廳與劇場核心，東側佈置 3 至 4 層的生產車間與行政辦公區",
+        "跨界藝術整合與材質敘事：與藝術家深度合作，將 18,000 m² 的義大利 Carrara 白大理石屋頂編織成無重複的雕塑紋理；工廠外牆採用特殊壓印技術的工業鋁板皮層"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "proscenium stage",
+        "substage",
+        "side stage",
+        "rear stage",
+        "orchestra pit",
+        "horseshoe seating bowl",
+        "fly tower",
+        "chandelier",
+        "acoustic panels",
+        "convex wall panels",
+        "FOH lobby",
+        "atrium",
+        "grand staircase",
+        "glass curtain wall",
+        "glass fins",
+        "opera street",
+        "loading dock",
+        "scenery workshop",
+        "rehearsal rooms",
+        "green courtyard",
+        "public plaza",
+        "accessible sloping roof",
+        "waterfront promenade"
+      ],
+      "c2_semantic_relations": [
+        "Main Auditorium → embedded within (Spatial Relation) → Public Roofscape Landscape",
+        "Opera Street (North-South Corridor) → splits into Front-of-House and Back-of-House (Functional Relation) → Public/Stage Areas (West) & Production Areas (East)",
+        "Loading Dock (East-West) → splits back of house into (Spatial Relation) → Hard Workshops (North) & Soft Workshops/Changing Rooms (South)",
+        "Finished Scenery → moves through (Circulation Relation) → Loading Dock → Rear Stage Area",
+        "Grand Staircase → peels out of (Conceptual Relation) → Timber Wave Wall",
+        "Grand Staircase → provides access to (Circulation Relation) → Three Galleries around Auditorium",
+        "Glass Curtain Wall (Low-iron Glass with Glass Fins) → allows views into (Perceptual Relation) → Timber Wave Wall & Public Foyer",
+        "Generous Windows at Street Level → give a glimpse of (Perceptual Relation) → Scenery Workshop Activities",
+        "White Carrara Marble Carpet → seamlessly covers (Material & Tectonic Relation) → Roof and Lobby Ground Plane",
+        "Timber Wave Wall (Oak) → wraps around (Spatial Relation) → Horseshoe Main Auditorium Volume",
+        "Timber Wave Wall → acts as (Functional Relation) → Acoustic Attenuator within Foyer Space",
+        "Sound-insulated Rehearsal Rooms (Basement) → face with vegetation screen (Spatial Relation) → Central Green Courtyard"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民與遊客打破了傳統文化建築的拘束感，在可漫步的白色大理石斜屋頂上聚集、靜坐、野餐、滑板，冬季甚至進行雪橇活動，使建築徹底成為都市日常景觀",
+        "屋頂廣場（最多容納 15,000 人）與劇場級聲學大廳經常性地舉辦戶外音樂會、歌劇同步轉播及各類公眾活動，展現了極高的公共空間使用率",
+        "演職人員在 rationally planned 的「工廠」內，可透過高挑的貨梯、大尺度的滑動門直接在裝飾車間、大型排練室與舞台間高效運輸高達 9 米的布景物件"
+      ],
+      "discourse_&_criticism": [
+        "建築界讚譽其為「2007年最顯著的建築」並開創了「建築即地景 (Architecture as Landscape)」的全新範式，成功擺脫了地標建築常流於形式的「畢爾包效應」",
+        "獲頒密斯凡德羅獎 (Mies van der Rohe Award 2009) 與歐洲城市公共空間獎 (European Prize for Urban Public Space 2010)，評審團讚其為「給城市的禮物」與「都市組織再生的催化劑」",
+        "媒體（如《衛報》）給予極高評價，認為它在提供世界級音樂廳卓越物理聲學表現的同時，完美回應了民主、開放與 joint ownership（共同所有權）的社會學論述"
+      ],
+      "tectonic_results": [
+        "實踐了將海濱空間還給公眾的願景，成為奧斯陸最受歡迎的觀光景點與水岸文化區（包含後續 Munch 美術館、新圖書館）的都市發展基石",
+        "結合建築興建進行的大規模工業環境清理，成功讓受污染的海灣恢復至近百年來最乾淨的狀態，使得多種動植物回歸，衝擊力遠超單一建築藍圖而上升至國土海線復育層面",
+        "精準的材料接縫細部、與多位藝術家高度整合的壓印金屬板與不重複大理石切削工藝，展現出高精度的構造美學表現力，並在夜間透過巨幅高透玻璃幕牆，將溫暖的木質核心化為都市燈塔"
+      ]
+    }
+  }
+}
+
+
+
+{
+  "project 02": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Taipei Performing Arts Center (台北表演藝術中心)",
+        "theater_scale_hierarchy": "國際級/城市級公共表演藝術中心",
+        "gross_floor_area": "58,658 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Grand Theater (大劇院)",
+          "seating_capacity": "1,500 席",
+          "stage_type": "Proscenium 鏡框式劇院",
+          "primary_performance_type": "大型歌劇、芭蕾舞、戲劇、音樂劇",
+          "key_hardware_&_acoustic_conditions": "配備非對稱的當代鏡框形狀設計，並透過多功能大工廠（Super Theater/Central Cube）與藍色球形大劇院形體進行功能與後台系統的實時耦合。"
+        },
+        {
+          "hall_name": "Proscenium Playhouse (球劇場)",
+          "seating_capacity": "800 席",
+          "stage_type": "Spherical Proscenium 悬浮球形鏡框式劇院",
+          "primary_performance_type": "當代戲劇、舞蹈、中型音樂劇、跨領域實驗表演",
+          "key_hardware_&_acoustic_conditions": "懸浮於立方體之上的球體形狀（Sphere），觀眾席懸停於內殼與外殼之間，內部結構交錯，創造出獨特的聲學反射及前台大廳（Foyer）的幾何包覆感。"
+        },
+        {
+          "hall_name": "Blue Box (藍盒子)",
+          "seating_capacity": "800 席",
+          "stage_type": "Black Box / Variable 實驗型黑盒子式",
+          "primary_performance_type": "前衛戲劇、跨界多媒體藝術、前沿實驗表演",
+          "key_hardware_&_acoustic_conditions": "具備高度可變性與機能彈性，其舞台與後台端點可與大劇院進行物理性連通，組合成巨型大工廠（Super Theater）。"
+        },
+        {
+          "hall_name": "Super Theater (超級大劇場/大工廠)",
+          "seating_capacity": "2,300 席（推測，由大劇院與藍盒子組合而成）",
+          "stage_type": "Coupled / Extended Stage 耦合延伸式巨型舞台空間",
+          "primary_performance_type": "超大型史詩劇作、跨領域巨幅演出、特殊規格國際級展演",
+          "key_hardware_&_acoustic_conditions": "由大劇院（Grand Theater）與藍盒子（Blue Box）的舞台進行軸向貫通（Coupled），共享長達 100 米的中央大工廠（Central Cube）後台與軌道吊桿系統，可提供以往只能在工業工廠實現的巨型空間尺度與舞台配置。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲",
+        "country": "台灣",
+        "city": "台北",
+        "urban_context": "高密度都市中心 (鄰近士林夜市，具備極度活躍、混雜且充滿常民生命力的街道紋理與大眾運輸導向發展 (TOD) 節點)"
+      },
+      "participants_&_operation": {
+        "architect": "OMA (主導建築師：Rem Koolhaas, David Gianotten) / 姚仁喜 | 大元建築工場 (執行建築師 LDI)",
+        "client": "台北市政府 (Taipei City Government)",
+        "end_user": "多元表演藝術團體、市民、國內外藝術愛好者與夜市觀光人流",
+        "consultants": [
+          "Inside Outside (景觀與室內設計顧問)",
+          "Arup (結構工程、機電工程、建築物理聲學顧問)（推測）",
+          "姚仁喜 | 大元建築工場 (在地執行專業團隊)"
+        ],
+        "operator": "台北市文化基金會台北表演藝術中心（推測）"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "打破當代表演藝術劇場逐漸走向標準化、封閉化且與大眾日常社會生活脫節的內向型保守營運策略",
+        "在高密度的士林夜市基地、極度有限的都市土地邊界內，如何高效容納並整合三個完全不同尺度的劇場機能與後勤動線",
+        "如何將精緻的高雅文化艺术空間 (Highbrow Art) 與極具常民野性的在地街道文化 (Masses / Street Culture) 進行空間論述與機能上的雙向共榮"
+      ],
+      "concept": [
+        "劇場魔術方塊 (The Central Cube)：將三個獨立劇場的舞台與後台核心機能向內壓縮、拔高，拼貼並外掛（Plugged）於一個中央集約式的幾何立方體，實現資源的高效共享",
+        "公共導覽迴路 (Public Loop / The Loop)：一條專門面向大眾開放的免費空間基礎設施軌道，穿透劇院底層、後台技術空間及頂部平台，使非買票觀眾也能直觀體驗舞台生產背後的日常藝術「工廠」面貌",
+        "都市奇觀與舞台景觀 (Architecture as Public Spectacle)：將建築本體轉化為士林夜市街道的垂直延伸，劇場量體赤裸地向都市凸顯，使表演藝術與都市社會生活互為背景"
+      ],
+      "strategy": [
+        "外掛式幾何塊體操作 (Sphere-in-Box / Cube-and-Volumes)：將大劇院、球劇場與藍盒子作為顯著的特定幾何量體，從高懸於地面的中央立方體（Central Cube）中向外凸顯（Float/Plugged），留下底層地面的都市開放廣場",
+        "軸向大工廠耦合技術 (Super Theater Coupling)：將大劇院與藍盒子配置於中央立方體的相對兩端，藉由中央舞台軌道與防火隔音閘門的開啟，在水平軸線上將兩者融合成一座巨型連續表演空間",
+        "雙層波浪玻璃立面與結構巨拱：中央立方體外包覆深色的波浪玻璃（Corrugated Glass），與外掛的鋁質幾何體（如球劇場）形成材質上的虛實對比，並透過巨型鋼構桁架與核心筒將體量抬高，釋放地面的公眾動線"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "central cube",
+        "sphere volume",
+        "proscenium stage",
+        "asymmetric proscenium",
+        "blue box",
+        "super theater",
+        "stage",
+        "backstage",
+        "shared backstage system",
+        "shared foyer system",
+        "public loop",
+        "urban foyer",
+        "vertical circulation core",
+        "staircase",
+        "escalator",
+        "bridge",
+        "terrace",
+        "roof deck",
+        "structural frame",
+        "corrugated glass curtain wall",
+        "site plaza"
+      ],
+      "c2_semantic_relations": [
+        "Three Individual Theaters → plugged into (Spatial Relation) → Central Cube",
+        "Central Cube → lifts off the ground to create (Spatial Relation) → Sheltered Public Plaza & Urban Foyer",
+        "Public Loop → corridors escalate and penetrate through (Circulation Relation) → Central Cube, Backstage Infrastructure, and Technical Zones",
+        "Grand Theater Stage → horizontally couples with via Central Cube (Functional Relation) → Blue Box Stage",
+        "Shared Foyer System → continuous multi-level flow beneath (Circulation Relation) → Floating Sphere Volume & Grand Theater Bowl",
+        "Corrugated Glass Curtain Wall → wraps around and encloses (Material & Tectonic Relation) → Central Cube Industrial Core",
+        "Movable Soundproof Apertures → dynamically isolate or connect (Functional Relation) → Grand Theater and Blue Box",
+        "Vertical Circulation Cores → support and structure (Material & Tectonic Relation) → Cantilevered Theater Volumes",
+        "Public Loop Windows → allow visual access into (Perceptual Relation) → Secret Backstage Production & Rehearsal Activities",
+        "Elevated Roof Terraces → extend viewpoints toward (Perceptual Relation) → Surrounding Shilin Urban Night Market Landscape"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "士林夜市的逛街人流與日常市民被底層架空的巨型廣場吸引，在劇場下方停留、穿梭，使文化建築底層成為台北極具活力的「都市客廳（Urban Foyer）」",
+        "不特定的大眾透過「公共導覽迴路（Public Loop）」在建築內部上下漫遊，近距離觀看演職人員的排練與道具裝卸，打破了傳統精緻藝術與庶民生活的物理隔離",
+        "演職人員與舞台技術人員在「大工廠（Central Cube）」模式開啟時，能夠實時調動並組合兩個廳的後勤資源，體驗到前所未有的超大尺度空間實驗與調度可能"
+      ],
+      "discourse_&_criticism": [
+        "建築界視其為 OMA（雷姆．庫哈斯）繼西雅圖中央圖書館、CCTV 大樓後，對「公共建築機能重組與集約化」的又一激進空間宣言，顛覆了西方百年來固化的劇院範式",
+        "大眾媒體與公眾輿論曾對其前衛、甚至帶有工業未完工感的「皮蛋豆腐（圓球外掛方塊）」奇特視覺外觀引發兩極化的美學論戰與高度社會關注",
+        "專業評論讚譽其成功地將「劇場（Theater）」的黑盒子生產過程轉化為對都市開放的「社會公共景觀（Public Spectacle）」，是當代難得具有高度包容性與實驗性的民主化建築範例"
+      ],
+      "tectonic_results": [
+        "透過獨特的形式操作與高度集約的幾何塊體堆疊，在台北極高密度的都市裂縫中，成功創造了一個專屬全體市民的標誌性地標（Civic Landmark）",
+        "其實際運作模糊了高雅藝術與社會大眾的邊界，為台北的都市文化生活、市民聚集行為帶來了極強的視覺表現力與跨領域的創意衝擊",
+        "波浪玻璃皮層在夜間透出的工業與劇場技術燈光，使其在繁華雜亂的士林夜市霓虹燈火中，宛如一座巨大的當代文化生產機器與都市燈塔"
+      ]
+    }
+  }
+}
+
+
+
