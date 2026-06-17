@@ -1,0 +1,104 @@
+{
+ "precedent_dna": {
+   "gene_a_conditions": {
+     "identity_&_scale": {
+       "project_name": "SESC Pompéia (龐培亞文化體育中心 / Centro de Lazer Fábrica da Pompéia)",
+       "theater_scale_hierarchy": "地方社區綜合型文化體育與休閒基礎設施（嵌入型劇場） [cite: 2187, 2217]",
+       "gross_floor_area": "15,000 m²（推測）"
+     },
+     "halls_specification": [
+       {
+         "hall_name": "龐培亞劇院大廳 (SESC Pompéia Theatre Hall / T1)",
+         "seating_capacity": "300 - 1,000 席（低置信度推測，採非固定座席配置）",
+         "stage_type": "Flexible Stage / Arena / Thrust 混合可變式雙向看台與中心舞台 [cite: 2308]",
+         "primary_performance_type": "話劇/舞台劇表演 Theatre Performance、社區集會活動 Community Events、實驗性與前衛跨領域展演 Experimental Performance [cite: 2199]",
+         "key_hardware_&_acoustic_conditions": "設置於舊鋼桶工廠大跨度工業廠房體量內 [cite: 2189]；舞台與观众席採無階級對稱配置，拒絕常規精緻精裝。配置 Lina Bo Bardi 親自設計的特製純硬木無襯墊「反消費主義」低高度觀劇木椅 (Cadeirinha de madeira) [cite: 2308]；無常規布景吊桿塔 (Fly Tower)，依賴裸露的歷史金屬屋架進行非定式懸吊 [cite: 2195]；無空調機械暖通系統，純依賴廠房原有高側窗與自然對流 [cite: 2317, 2318]。"
+       }
+     ],
+     "location_&_context": {
+       "continent": "南美洲",
+       "country": "巴西",
+       "city": "聖保羅 (São Paulo)",
+       "urban_context": "Pompéia 藍領工人階級社區 [cite: 2219]，建立於 1920 年代由 François Hennebique 技術流派設計的廢棄舊鋼桶製作工廠 (Fábrica de Tambores) 歷史工業遺產基地上 [cite: 2189, 2218, 2220]。"
+     },
+     "participants_&_operation": {
+       "architect": "Lina Bo Bardi（與 Brazil Arquitetura 團隊及現場工人協作） [cite: 2197, 2207, 2273]",
+       "client": "SESC (Serviço Social do Comércio 巴西商業社會服務局) [cite: 2188, 2217]",
+       "end_user": "聖保羅一般常民階級、工人家庭、周邊麵包店與零售店青年、社區兒童與第三年齡層長者 [cite: 2188, 2324, 2332]",
+       "consultants": [
+         "現場營造技術指導：Lina Bo Bardi 親自駐地指導（大批無經驗工人協作） [cite: 2197]",
+         "哲學與空間論述諮詢：Eduardo Subirats [cite: 2322]"
+       ],
+       "operator": "SESC (巴西商業社會服務局) [cite: 2217]"
+     }
+   },
+   "gene_b_design_intentions": {
+     "issue": [
+       "反思並對抗 1970-1980 年代拉丁美洲軍政府獨裁統治下，常民公共生活與政治空間的僵化、 castrated 閹割狀態與社會不平等 [cite: 2188, 2229, 2328]",
+       "批判當時西方社會風行的歐美 Post-Modern 後現代主義「復古狂熱 (Retromania)」以及將歷史文資過度商業消費化、裝飾化、階級化的保守思維 [cite: 2295, 2298, 2304]",
+       "基地技術限制：後方大片地下區域被「黑水溪 (Águas Pretas)」暗渠大範圍覆蓋，形成法令嚴格禁止新築土建的「非建地帶 (Area non edificandi)」 [cite: 2311]，必須在極端不規則的殘留基地邊界內硬性置入大體量體育館機能"
+     ],
+     "concept": [
+       "「工業考古學 (Arqueologia Industrial)」：不摧毀歷史，而是剝離冗餘，將舊結構誠實還原為具備集體社會尊嚴的文化載體 [cite: 2189, 2204]",
+       "「窮人建築 (Arquitetura Pobre)」空間論述：拒絕商業消費主義的虛假舒適，以最謙遜、工藝化的低微物質手段，彰顯最大程度的溝通自由與生命尊嚴 [cite: 2292]",
+       "非紀念性地景「小城塞 (Cidadela)」：將精緻文化「去神聖化」，使劇場、體育與日常生活無縫編織為底層常民的「烏托邦街道延伸」 [cite: 2199, 2227, 2319]"
+     ],
+     "strategy": [
+       "全面性保留與加固策略：全盤留存 1920 年代的紅磚廠房、鋼骨桁架與 Hennebique 早期鋼筋混凝土框架，僅進行內部表面剝離，植入水池、壁爐與非階級式可活動式劇場地坪 [cite: 2195, 2220, 2291]",
+       "垂直堆疊與立體跨越：針對非建地帶的死局，設計兩座巨大的粗獷主義裸露混凝土方筒塔樓 (Sports block & Dressing rooms)，將球場垂直疊合，中間以 8 道長達 25 米的巨型預力混凝土人形空中步行橋 (Footbridges) 橫空跨越，產生強烈的形體撞擊 [cite: 2203, 2222, 2223]",
+       "反技術與自然交互：拒絕裝設任何地毯與機械空調 (Air-conditioning) [cite: 2317]，塔樓外牆開鑿大批不規則、無玻璃的變形蟲狀洞口（被戲稱為「西班牙內戰彈孔」） [cite: 2225]，實踐永久性的全自然跨向交叉風道風帆[cite: 2318]."
+     ]
+   },
+   "gene_c_form_composition": {
+     "c1_vocabulary": [
+       "Main Performance Hall",
+       "Public Hall",
+       "Open Gathering Space",
+       "Circulation Areas",
+       "Community Activity Zones",
+       "Technical Support Spaces",
+       "Service Areas",
+       "Backstage Support",
+       "Concrete Towers",
+       "Diagonal Walkways",
+       "Prestressed Footbridges",
+       "Rough Concrete Shell",
+       "Brick Walls",
+       "Exposed Steel Roof",
+       "Spanish Civil War Holes",
+       "Cylindrical Water Tower",
+       "Wooden Deck",
+       "Outdoor Waterfall",
+       "Movable Seating Layouts",
+       "Cadeirinha de Madeira"
+     ],
+     "c2_semantic_relations": [
+       "Main Performance Hall → embedded within (Spatial Relation) → Brick Walls",
+       "Concrete Towers → vertical stack of program elements over (Spatial Relation) [cite: 2222] → Community Activity Zones",
+       "Diagonal Walkways → brace and connect across non-buildable zone (Circulation Relation) [cite: 2203, 2316] → Concrete Towers",
+       "Spanish Civil War Holes → allow natural cross ventilation through (Functional Relation) [cite: 2318] → Concrete Towers",
+       "Exposed Steel Roof → structure spanning above (Material & Tectonic Relation) [cite: 2195] → Main Performance Hall",
+       "Wooden Deck → covers the non-buildable ground plane between (Spatial Relation) [cite: 2320] → Concrete Towers",
+       "Outdoor Waterfall → terminates the recreational edge of (Functional Relation) [cite: 2321] → Wooden Deck",
+       "Cadeirinha de Madeira → enforces distance and cognitive engagement within (Conceptual Relation) [cite: 2308] → Main Performance Hall",
+       "Cylindrical Water Tower → vertical visual anchor separate from (Conceptual Relation) [cite: 2224] → Concrete Towers"
+     ]
+   },
+   "gene_d_outcomes_&_reflection": {
+     "user_behavior": [
+       "週末期間，成千上萬的常民家庭、兒童與青年在無拘無束的紅磚廠房「內街」自由穿梭，在非固定座席的劇場內席地而坐或任意走動，將高雅戲劇徹底轉化為熱烈好玩的街頭市集 [cite: 2193, 2278, 2283]",
+       "青年在雨水傾盆的未裝修露天大木平台上無拘無束地踢足球，家庭圍繞著室內大壁爐或室外「集體大淋浴瀑布」聚會烤肉，完全實踐了身體的去體制化自由 [cite: 2279, 2280, 2328]",
+       "觀眾在觀劇時坐在全硬木椅上，被迫保持身體的挺拔與警醒（Distanciar e envolver），促使觀演行為從常規中產階級的被動式娛樂享受，轉化為高度專注的民主集體思辨 [cite: 2308]"
+     ],
+     "discourse_&_criticism": [
+       "被全球建築界公認為當代舊建築翻新與「工業遺產再利用 (Adaptive Reuse)」最難以逾越的永續烏托邦史詩級範例，完美展示了現代主義最高社會理想的落地 [cite: 2202, 2204]",
+       "國際評論常將其與同期的巴黎龐畢度中心進行跨歐美對比，讚譽龐培亞文化體育中心擺脫了歐洲高科技、高資本消費主義的奇觀陷阱，以「穷人建築」的低技高匠手法，創造了更具草根黏性、無階級排他的常民樂園 [cite: 2233, 2234, 2292]",
+       "這座在獨裁高壓政治尾聲中奇蹟誕生的「公民城堡」，被盛讚為 Lina Bo Bardi 給予聖保羅這座悲傷、擁擠都市最為慷慨、最富生命力的「一抹微風與自由Lasca de luz」 [cite: 2224, 2229, 2288]"
+     ],
+     "tectonic_results": [
+       "粗獷裸露的巨型垂直混凝土塔身，與長達25米橫向穿插的立體步行空中天橋構造強烈咬合，在老舊紅磚廠房旁形成了極具表現力與戲劇性張力的當代城市雕塑意象 [cite: 2200, 2203, 2218]",
+       "放棄現代暖通圖紙、完全藉由工地即興彩色A4草圖手繪，由總師親自帶領無經驗工人敲打澆灌出的不修邊幅混凝土蜂窩牆面，誠實赤裸地開創出專屬巴西本土大眾文化尊嚴的構造詩學 [cite: 2196, 2197, 2226]"
+     ]
+   }
+ }
+}

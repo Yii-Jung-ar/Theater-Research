@@ -1,0 +1,105 @@
+{
+ "precedent_dna": {
+   "gene_a_conditions": {
+     "identity_&_scale": {
+       "project_name": "Teatro Degli Arcimboldi (阿爾欽博第劇院)[cite: 9, 10]",
+       "theater_scale_hierarchy": "國家級/地標型專業歌劇院與多功能大型劇院[cite: 9, 10]",
+       "gross_floor_area": "18,400 m² (觀眾席佔 7,400 m²，製作後台佔 11,000 m²)[cite: 9]"
+     },
+     "halls_specification": [
+       {
+         "hall_name": "主歌劇院大廳 (Main Auditorium)[cite: 9, 10]",
+         "seating_capacity": "2,346 - 2,375 席[cite: 9]",
+         "stage_type": "Proscenium Stage 鏡框式舞台[cite: 9, 10]",
+         "primary_performance_type": "歌劇 Opera (初期完美對接斯卡拉歌劇院劇目)[cite: 9]、芭蕾舞 Ballet[cite: 9]、話劇/舞台劇 Drama[cite: 9]、爵士、古典與流行音樂會[cite: 9]",
+         "key_hardware_&_acoustic_conditions": "配備義大利最大的表演舞台，全區長 50 x 寬 40 米[cite: 9]，可同時容納三部歌劇的布景與後台流暢運作[cite: 9]。舞台塔 (Stage Tower) 淨高達 30 米[cite: 9]，舞台開口為 16 x 12 米[cite: 9]。觀眾席配備活動可調式凹面反射板系統 (Adjustable Concave Panels)[cite: 9]、下沉活動式樂池 (Orchestra Pit)[cite: 10]、精密幾何天花聲學肋線[cite: 9]、與一組內置 118 盞鹵素燈的特製五段疊層夾絲玻璃半圓形巨型反聲吊燈 (Semicircular Chandelier)[cite: 9]。"
+       }
+     ],
+     "location_&_context": {
+       "continent": "歐洲[cite: 9, 10]",
+       "country": "義大利[cite: 9, 10]",
+       "city": "米蘭 (Milan)[cite: 9, 10]",
+       "urban_context": "位於舊倍耐力 (Pirelli) 輪胎工廠基地之 La Bicocca 工業重劃區[cite: 9]，距市中心 4.5 英里[cite: 9]，處於連結米蘭核心與北郊都市帶 (Monza、Lecco、Varese、Como) 的交通基礎設施關鍵樞紐紋理中[cite: 9]。"
+     },
+     "participants_&_operation": {
+       "architect": "Vittorio Gregotti (Gregotti Associati International)、Mario Botta、Elisabetta Fabbri[cite: 9]",
+       "client": "米蘭市政府 (Comune di Milano) 聯合 Pirelli 輪胎集團[cite: 9]",
+       "end_user": " Teatro alla Scala (斯卡拉歌劇院駐團演職人員，臨時替代期)[cite: 9]、各類跨界藝術表演團隊與米蘭大都會區觀眾[cite: 9]",
+       "consultants": [
+         "燈光設計顧問：Achille Castiglioni[cite: 9]"
+       ],
+       "operator": "米蘭市政府文化相關單位（及 TAM 營運團隊）[cite: 9]"
+     }
+   },
+   "gene_b_design_intentions": {
+     "issue": [
+       "斯卡拉歌劇院 2001 年底面臨近三年的閉館大修[cite: 9]，必須在極短的 27 個月內[cite: 9] 高效催生一座無論在音響、舞台尺度、後台容量上均能「一比一完美承接、不中斷國家歌劇全本劇目」的頂級替代劇場[cite: 9]",
+       "舊工業區轉型的都市更新挑戰：如何在歷史藍領工人階級的破敗老廠區，置入高雅文化核，帶動 Hangar Bicocca 等當代藝術軸線轉型[cite: 9]",
+       "都市高可及性與區域服務：如何利用大型基礎設施交通網優勢，打破僅服務精緻市中心的傳統，向有 300 萬人口的米蘭大都會輻射圈開放[cite: 9]"
+     ],
+     "concept": [
+       "以一個面向公共廣場的巨型灰色「聲音放大器/超級喇叭 (Gigantesco Megafono)」作為建築整體美學隱喻[cite: 9]",
+       "實踐建築師 Hermann Mathesius 的經典包浩斯整體哲學論述——「從湯匙到城市 (Dal cucchiaio alla città)」[cite: 9]，將宏觀的工業區 riconversione 更新與極致微觀的燈具、舞台格柵構造視為同一總體幾何體系[cite: 9]",
+       "互動與明晰分布：藉由幾何簡單造型的量體交織，坦率地向都市宣告劇院機能的明晰分區[cite: 9]"
+     ],
+     "strategy": [
+       "三體分離與幾何堆疊策略：將整棟建物解構為「前台大廳/票務 (Foyer)、觀眾席 (Auditorium)、舞台塔 (Stage Tower)」三大清晰可辨的簡潔實體積木塊面[cite: 9, 10]",
+       "以一面巨大倒扣傾斜的斜面玻璃帷幕牆 (Large Curved and Sloping Glass Wall) 撐起前台大廳門戶，上方配置厚重的混凝土入口雨庇 (Canopy)，強化公共軸線的視覺儀式感與吸納人流的標誌性[cite: 9]",
+       "極致完備的後台工廠化：置入全義大利最大、高達七層以上的全套排練基建（包含 7 樓與舞台一比一斜度的舞蹈排練廳，以及地下一樓可容納 100 人交響樂團、可移動隔音牆分區的 Insonorizzata 聲樂排練廳）[cite: 9]。"
+     ]
+   },
+   "gene_c_form_composition": {
+     "c1_vocabulary": [
+       "Main auditorium",
+       "Proscenium stage",
+       "Orchestra pit",
+       "Fly tower",
+       "Stage support spaces",
+       "Backstage circulation",
+       "Side stage zones",
+       "Auditorium seating bowl",
+       "Stalls seating level",
+       "First gallery",
+       "Balcony tiers",
+       "Public foyer",
+       "Entrance hall",
+       "Main entrance plaza",
+       "Vertical circulation cores",
+       "Staircases",
+       "Glass curtain wall",
+       "Entrance canopy",
+       "Stage tower volume",
+       "Helix staircase",
+       "Internal garden",
+       "Adjustable concave panels",
+       "Semicircular chandelier"
+     ],
+     "c2_semantic_relations": [
+       "Stage tower volume → vertical stack above (Spatial Relation) → Proscenium stage[cite: 9, 10]",
+       "Glass curtain wall → encloses and brightens (Material & Tectonic Relation) → Entrance hall[cite: 9, 10]",
+       "Entrance canopy → cantilevers over (Spatial Relation) → Main entrance plaza[cite: 9, 10]",
+       "Balcony tiers → cantilevered above and look down into (Spatial Relation) → Entrance hall[cite: 9, 10]",
+       "Adjustable concave panels → aligned on the edge of (Functional Relation) → Balcony tiers[cite: 9]",
+       "Helix staircase → drills down vertically from (Circulation Relation) → Public foyer[cite: 9]",
+       "Internal garden → sits at the level of -1 adjacent to (Spatial Relation) → Helix staircase[cite: 9]",
+       "Semicircular chandelier → suspended from ceiling over (Functional Relation) → Stalls seating level[cite: 9, 10]",
+       "Stage support spaces → structurally flanked behind (Functional Relation) → Stage tower volume[cite: 10]"
+     ]
+   },
+   "gene_d_outcomes_&_reflection": {
+     "user_behavior": [
+       "完美地在斯卡拉閉館期間全面承接其 2001/2002 傳統歌劇季度演出[cite: 9]，原裝的巨型布景與多達百人的交響樂團、 étoile 芭蕾名伶在外應、演、練流線上毫無阻礙地流暢切換[cite: 9]",
+       "市民即使在非觀劇時間，也能經由前台 Foyer、螺旋鋼梯下達地下一樓的「TAM Bar」與由舊員工餐廳改制而來的「Dal Milanese」特色餐廳聚會、停留，甚至在室內中庭花園享受休閒生活[cite: 9]",
+       "藉由 Castiglioni 沿著大廳鋼柱頂部環繞配置的 12 盞特製雙色性投光燈 (Dichroic Lamps)，觀眾在行走時能在傾斜玻璃外牆上捕捉到無數如璀璨冠冕般的動態光影折射與視覺互動[cite: 9]"
+     ],
+     "discourse_&_criticism": [
+       "國際建築界與劇院學者高度讚譽 Gregotti 將傳統古典大劇院空間邏輯進行現代化、工業感轉譯的功力[cite: 10]；雖然僅僅耗時 27 個月且預算克制（850億里拉）[cite: 9]，卻創造出毫無廉價感的公共文化建築里程碑[cite: 9]",
+       "在斯卡拉歌劇院 2004 年底重新開館後，該建築非但沒有退化為閒置的‘文化蚊子館’，反而成功藉由其「適合所有音樂類型」的高度音響硬體包容性，轉型為兼具爵士、搖滾、當代視覺藝術的獨立綜合性都會文化中心[cite: 9]"
+     ],
+     "tectonic_results": [
+       "室內完全覆蓋的溫潤紅色實木面版 (Wooden Red Panels)[cite: 9] 與天花板精密計算的吸音格子構造相結合[cite: 9]，提供了近乎完美的古典管弦樂聲學反射表現，打破了大容積劇院音響乾澀的宿命[cite: 9]",
+       "作為 La Bicocca 工業區 riconversione 更新戰略的第一塊巨型基石，其落成成功帶動了周邊 Hangar Bicocca 現代藝術館、電影實驗中心、義大利電影資料館的空間集聚效應，徹底將工人群居的污染老廠區蛻變為米蘭當代藝術的核心心臟[cite: 9]"
+     ]
+   }
+ }
+}

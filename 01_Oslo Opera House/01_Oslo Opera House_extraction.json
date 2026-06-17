@@ -1,0 +1,115 @@
+{
+ "precedent_dna": {
+   "gene_a_conditions": {
+     "identity_&_scale": {
+       "project_name": "Oslo Opera House 奥斯陸歌劇院 (Norwegian National Opera and Ballet)",
+       "theater_scale_hierarchy": "國家級/地標型公共文化建築與表演藝術中心",
+       "gross_floor_area": "38,500 m²"
+     },
+     "halls_specification": [
+       {
+         "hall_name": "主音樂廳 (Main Auditorium)",
+         "seating_capacity": "1370-1400 席",
+         "stage_type": "Horseshoe 經典馬蹄形鏡框式劇場",
+         "primary_performance_type": "歌劇 Opera、芭蕾舞 Ballet、交響樂 Symphony",
+         "key_hardware_&_acoustic_conditions": "配置 16m x 16m 主舞台、兩側台及兩後台；11.8m 深下沉式舞台。配備高度彈性的活動式三段升降樂池 (Orchestra Pit)、可調式活動中幅塔樓 (Mobile Towers)、5800 顆手造水晶 LED 巨型吸音/反射吊燈 (Chandelier) 與 3D 電腦雕刻實木曲面反射座席層板。"
+       },
+       {
+         "hall_name": "二號舞台 (Stage 2)",
+         "seating_capacity": "400 席",
+         "stage_type": "Flexible Stage 多功能可變式黑盒子劇場",
+         "primary_performance_type": "實驗性跨領域劇場 Experimental Art、搖滾音樂會 Rock Concert、兒童劇、宴會",
+         "key_hardware_&_acoustic_conditions": "座席配置於巨型移動台車 (Seating Wagons) 系統，藉由 2 組大型升降機轉換為階梯看台或隱入地下室；無常規吊桿塔 (Fly Tower)，改採全自動懸吊滑車系統 (Motorised Pully System)，四座高空技術天橋 (Technical Bridges) 整合照明與可變聲學簾幕。"
+       },
+       {
+         "hall_name": "一號排練廳 (Rehearsal Room 1)",
+         "seating_capacity": "150 席",
+         "stage_type": "Black Box 黑盒子劇場（兼排練空間）",
+         "primary_performance_type": "中小型實驗表演、室內樂排練、公眾教育展演",
+         "key_hardware_&_acoustic_conditions": "與公共前台大廳以直通廊道連結，具備高規格獨立隔音構造與活動式聲學遮簾。"
+       }
+     ],
+     "location_&_context": {
+       "continent": "歐洲",
+       "country": "挪威",
+       "city": "奧斯陸 (Oslo)",
+       "urban_context": "Bjørvika 舊港口工業濱水重劃區，作為城市紋理與峽灣景觀交會處的視覺終端與都市更新催化劑。"
+     },
+     "participants_&_operation": {
+       "architect": "Snøhetta (主導建築、景觀、室內、藝術整合設計)",
+       "client": "Statsbygg (挪威國家民產管理局，代表公共行政與文化部)",
+       "end_user": "The Norwegian Opera and Ballet (挪威國家歌劇與芭蕾舞團，包含約 600 名跨專業演職人員)",
+       "consultants": [
+         "聲學顧問：Brekke & Strand Akustikk, Arup Acoustics",
+         "劇場顧問：Theatre Projects",
+         "結構工程：Reinertsen Engineering",
+         "藝術協作：Kristian Blystad, Kalle Grude, Jorunn Sannes, Astrid Løvaas, Kirsten Wagle, Olafur Eliasson, Pae White"
+       ],
+       "operator": "挪威國家歌劇與芭蕾舞團"
+     }
+  },
+   "gene_b_design_intentions": {
+     "issue": [
+       "傳統歌劇院作為十九世紀精緻文化堡壘的符號與日常大眾公共生活的割裂",
+       "如何將高污染的歷史舊工業船廠基地 (Brownfield) 轉譯為具備高度生態與社會親和力的都市民主基礎設施",
+       "在緊湊的大型現代化‘劇場工廠’（後台高密度物流）與極度開放無邊界的公民景觀（前台屋頂）間建立機能平衡"
+     ],
+     "concept": [
+       "將建築本體化為可攀爬的‘都市地景毯 (The Carpet)’，落實挪威傳統‘漫遊權 (Allemannsretten)’的民主精神",
+       "藉由‘浪壁 (The Wave Wall)’建立文化藝術與常民日常、陸地與峽灣的象徵性與物理性感知閾界面",
+       "將複雜多元的後台後勤部門模組化操作，實踐高度理性與生產效率的‘劇場工廠 (The Factory)’"
+     ],
+     "strategy": [
+       "極低矮的斜向楔形體量操縱，以水平延展取代垂直紀念性，將大理石屋面化為延伸至水面的巨型坡道公共廣坪",
+       "通透高達 15 米的低鐵高透光玻璃幕牆 (Low-iron Glass Curtain Wall) 與玻璃肋 (Glass Fins) 構造，使內部波浪形木質鼓狀核心筒體在夜間向都市裸露發光"
+     ]
+  },
+   "gene_c_form_composition": {
+     "c1_vocabulary": [
+       "proscenium stage",
+       "orchestra pit",
+       "seating_bowl",
+       "balcony tiers",
+       "lobby",
+       "foyer",
+       "staircases",
+       "vertical circulation core",
+       "backstage",
+       "dressing rooms",
+       "technical rooms",
+       "waterfront plaza",
+       "accessible roof",
+       "curtain wall",
+       "wave wall",
+       "central chandelier",
+       "loading dock",
+       "courtyard",
+       "opera street"
+     ],
+     "c2_semantic_relations": [
+       "accessible roof → wraps around and encloses (Spatial Relation) → seating_bowl",
+       "wave wall → acoustically shields and defines (Functional Relation) → foyer",
+       "staircases → peeled out of (Material & Tectonic Relation) → wave wall",
+       "curtain wall → allows panoramic views from (Perceptual Relation) → waterfront plaza",
+       "opera street → longitudinally bisects (Circulation Relation) → foyer",
+       "loading dock → directly interfaces with (Circulation Relation) → backstage",
+       "courtyard → lightwell for (Spatial Relation) → dressing rooms",
+       "central chandelier → acoustic reflector above (Functional Relation) → orchestra pit"
+     ]
+  },
+   "gene_d_outcomes_&_reflection": {
+     "user_behavior": [
+       "每日有大量滑板客、散步者與日光浴群眾在無持票狀態下自由攀登大理石屋頂，將劇院屋面化為市民日常與跨年雪橇的集體運動場",
+       "前台大廳具備卓越劇場級聲學，除常規散場停留，亦能自發轉化為免票公眾音樂會與當代藝術展演舞台",
+       "獨立的中央‘歌劇大街 (Opera Street)’流線分流明確，成功保障 600 名內部演職人員與巨型道具物流的機能流暢"
+     ],
+     "discourse_&_criticism": [
+       "榮獲 2009 密斯凡德羅當代建築獎與 2010 歐洲城市公共空間獎，被國際評論界譽為二十一世紀‘地景建築 (Architecture as Landscape)’的奠基里程碑",
+       "建築成功帶動港口 BJØRVIKA 重劃區的全面文化擴張（催化 Munch 美術館、國家圖書館進駐），展現極強的畢爾包效應與都市 tissue 再生能量"
+     ],
+     "tectonic_results": [
+       "結合義大利 La Facciata 白大理石屋面與深色阿摩尼亞燻蒸橡木核心，建立極富敘事性的極簡材料構造對比",
+       "透過重度受污工業船廠基地的大規模都市清理，成功將奧斯陸峽灣水質與沿岸生態恢復至百年來最佳狀態，實踐了公共工程的環境回饋"
+     ]
+  }
+}

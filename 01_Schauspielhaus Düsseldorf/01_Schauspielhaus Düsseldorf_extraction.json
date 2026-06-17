@@ -1,0 +1,107 @@
+{
+ "precedent_dna": {
+   "gene_a_conditions": {
+     "identity_&_scale": {
+       "project_name": "Schauspielhaus Düsseldorf 德國杜塞道夫戲劇院 (D'haus)",
+       "theater_scale_hierarchy": "地方綜合型暨城市核心當代指標性劇院",
+       "gross_floor_area": "15,000 m²（推測）"
+     },
+     "halls_specification": [
+       {
+         "hall_name": "主劇場 (Main Auditorium) [cite: 681]",
+         "seating_capacity": "800-1000 席（推測）",
+         "stage_type": "Proscenium-like Stage 類鏡框式舞台",
+         "primary_performance_type": "話劇/舞台劇 Drama、當代戲劇表演",
+         "key_hardware_&_acoustic_conditions": "座席採不對稱扇形配置 (Fan-shaped)，維持 Bernard Pfau 原初設計歷史風貌保留完整 [cite: 681]；前台大廳過渡空間擁有一組極富韻律感的放射狀肋鋼筋混凝土構造天棚 (Ribbed/Radial Ceiling System)。"
+       },
+       {
+         "hall_name": "次劇場/小劇場 (Secondary Auditorium / Studio Theatre) [cite: 681]",
+         "seating_capacity": "200-400 席（推測）",
+         "stage_type": "Flexible Stage / Studio 可變式實驗劇場空間（推測）",
+         "primary_performance_type": "前衛實驗戲劇、中小型話劇、現代舞",
+         "key_hardware_&_acoustic_conditions": "與主劇場並置於單一雕塑感外殼內並共享同一套前台公共大廳設施；保留 1960 年代原汁原味之核心空間佈局 [cite: 681]。"
+       }
+     ],
+     "location_&_context": {
+       "continent": "歐洲 [cite: 675]",
+       "country": "德國 [cite: 661, 675]",
+       "city": "杜塞道夫 (Düsseldorf) [cite: 661, 675]",
+       "urban_context": "緊鄰古斯塔夫-格林根斯廣場 (Gustaf-Gründgens-Platz)，夾置於現代主義高樓 Dreischeibenhaus 與綠能地景 Kö-Bogen II 之間的歷史文化核心紋理區 [cite: 676, 678]。"
+     },
+     "participants_&_operation": {
+       "architect": "ingenhoven associates (主持建築師：Christoph Ingenhoven, Oliver Ingenhoven)；原創初版建築師：Bernard Pfau (1965-1970) [cite: 664, 665, 677]",
+       "client": "屋頂與外牆翻修：杜塞道夫市政府 (City of Düsseldorf)；公共區域改造：Neue Schauspiel GmbH [cite: 663]",
+       "end_user": "劇院演職人員、杜塞道夫市民、當代戲劇觀眾 [cite: 672]",
+       "consultants": [
+         "結構與物理學工程：Werner Sobek, VDS Statik [cite: 667, 670]",
+         "燈光顧問：Tropp Lighting Design [cite: 668]",
+         "色彩分析諮詢：Farb-Bau Prof. Friedrich Schmuck [cite: 671]",
+         "聲學/物理顧問：ISRW Dr.-Ing. Klapdor [cite: 670]"
+       ],
+       "operator": "Neue Schauspiel GmbH [cite: 663]"
+     }
+   },
+   "gene_b_design_intentions": {
+     "issue": [
+       "原建物因 1960 年代不合理的都市交通規劃政策，導致主入口背對霍夫加登公園 (Hofgarten) 轉向內側，長期呈現極度封閉、與城市邊界割裂的孤立狀態 [cite: 682, 683]",
+       "17米長的無接縫原裝薄鋼板外牆皮層老化，如何在不破壞受保護歷史文化財產 (Historic Conservation) 法規前提下，進行當代高規格的節能物理性能更新 [cite: 675, 686, 687]",
+       "重新活化極度老舊的公共大廳流線，使其適應高密度現代都市公共生活與當代精緻觀劇硬體規範 [cite: 673, 680]"
+     ],
+     "concept": [
+       "劇院作為民主的「都市客廳（Theater opens to the city）」[cite: 672]，消除建築與公共廣場、地景公園之間的第四面牆",
+       "以「精準微創介入（Few yet precise intervention works）」與「歷史原色考證考古（Research into the original colors）」實踐新舊共生的批判性保護論述 [cite: 675, 688, 691]"
+     ],
+     "strategy": [
+       "全玻璃全景化策略：拆除舊票務黑盒子，以 360° 全透光超白清玻璃取代原有阻絕視線的青銅色防曬玻璃，並在廣場增設全透明圓形輕量玻璃亭 (Round Glass Pavilion)，讓街頭景觀與大廳人流無縫滲透 [cite: 684, 685]",
+       "輕量化構造更換：採用全新輕量化鋁合金面版與現代夾具系統，一比一完美還原 Bernard Pfau 原初流線型、無拼縫的白色雕塑感建築皮層 (Curved Building Envelope) [cite: 686, 687]",
+       "色彩學時空分期：將新增的前台衣帽間、洗手間等現代技術升級設施統一設定為「無煙煤灰色 (Gray Anthracite)」，藉此與 Pfau 原始奔放的明亮原色系建立清楚的時代辨識度 [cite: 691]"
+     ]
+   },
+   "gene_c_form_composition": {
+     "c1_vocabulary": [
+       "Main auditorium",
+       "Secondary auditorium",
+       "Theatre entrance",
+       "Lobby",
+       "Foyer",
+       "Box office",
+       "Cloakroom",
+       "Cafe / restaurant",
+       "Public plaza",
+       "Urban park",
+       "Staircases",
+       "Vertical circulation cores",
+       "Backstage",
+       "Roof garden",
+       "Curved building envelope",
+       "Double-glazed vestibule",
+       "Video wall",
+       "Round pavilion"
+     ],
+     "c2_semantic_relations": [
+       "Main auditorium → nested inside (Spatial Relation) → Curved building envelope",
+       "Secondary auditorium → side-by-side with (Spatial Relation) → Main auditorium",
+       "Double-glazed vestibule → replaces the solid (Conceptual Relation) → Theatre entrance [cite: 684, 685]",
+       "Round pavilion → activates the edge of (Circulation Relation) → Public plaza [cite: 685]",
+       "Lobby → wrapping horizontal buffer around (Spatial Relation) → Main auditorium",
+       "Video wall → provides visual focus within (Perceptual Relation) → Foyer [cite: 684]",
+       "Cafe / restaurant → links interior hospitality to (Functional Relation) → Public plaza",
+       "Curved building envelope → contrast in tectonic logic with (Conceptual Relation) → Urban park"
+     ]
+   },
+   "gene_d_outcomes_&_reflection": {
+     "user_behavior": [
+       "原先封閉陰暗的前台被 360° 通透視界解放，市民與觀劇者在透光大廳、全景 vestibule 與新圓形玻璃亭周邊自由駐足、交流，消除了傳統劇院的階級距離感 [cite: 684, 685]",
+       "咖啡廳與新演藝公共界面的水平延展，成功促使 Gustaf-Gründgens-Platz 廣場人流與劇院內部日常生活產生全天候自發性的對話 [cite: 676]"
+     ],
+     "discourse_&_criticism": [
+       "建築界高度讚賞 ingenhoven associates 對這座戰後現代主義文化地標的「外科手術式精準修復」，認為其在滿足極端挑剔的文資歷史考證之餘，成功注入了現代永續機能 [cite: 675, 679]",
+       "劇院流線型的純白軀體與相鄰嚴肅剛正的 Dreischeibenhaus 鋼骨高樓、Kö-Bogen II 的巨幅植生綠牆，共同構築成全歐洲最著名的戰後與當代前衛建築教科書級都市集聚群 [cite: 678]"
+     ],
+     "tectonic_results": [
+       "藉由全新高性能鋁合金面版替代原初無法升級的鋼板构造，解決了長達半個世紀的外牆冷橋、節能缺陷與接縫滲漏等工程隱患，徹底優化了當代建築物理性能 [cite: 680, 686, 687]",
+       "無煙煤灰色新構造與Pfau歷史檔案原色的強烈對比，誠實地向公眾揭示了修復時間軸的軌跡，使建築本體化為一部活生生的歷史空間演繹作品 [cite: 690, 691]"
+     ]
+   }
+ }
+}
