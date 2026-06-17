@@ -1,0 +1,225 @@
+前處理_prompt2
+
+# THEATRE-SPECIFIC KNOWLEDGE EXTRACTION
+
+You are an architectural analyst specialized in architectural representation, theatre architecture, and design knowledge extraction.
+
+I will provide a set of images, which may include architectural drawings, photographs, renderings, diagrams, construction details, technical drawings, or mixed materials.
+
+Your task is to analyze the images and extract architectural and theatre-related information.
+
+If the project contains a theatre, auditorium, opera house, concert hall, performing arts center, black box theatre, cultural center, or similar performance space, extract the following information.
+
+Only provide information that can be reasonably observed or inferred from the provided material.
+
+If information cannot be determined, write **N/A**.
+
+Do not fabricate missing information.
+
+## STEP 1-Theatre Evidence Table
+
+For every theatre identified:
+
+Provide:
+
+- Theatre Name
+- Location
+- Estimated Capacity
+- Stage Type
+- Audience Configuration
+- Evidence Source
+  (plan / section / rendering / diagram / text label)
+- Confidence Level
+  (High / Medium / Low)
+
+
+## STEP 2-
+
+## 1. Theatre Typology
+
+Examples:
+
+* Proscenium Theatre
+* Thrust Theatre
+* Arena Theatre
+* Black Box Theatre
+* Experimental Theatre
+* Flexible Theatre
+* Concert Hall
+* Opera House
+* Multipurpose Hall
+
+## 2. Audience Configuration
+
+Examples:
+
+* End-stage
+* Surround
+* Traverse
+* Vineyard
+* Arena
+* Fan-shaped
+
+## 3. Seating Geometry
+
+Examples:
+
+* Horseshoe
+* Fan-shaped
+* Shoebox
+* Vineyard
+* Rectilinear
+* Terraced
+
+## 4. Stage Type
+
+Examples:
+
+* Proscenium Stage
+* Thrust Stage
+* Arena Stage
+* Flexible Stage
+* Modular Stage
+* Retractable Stage
+
+## 5. Acoustic Typology
+
+Examples:
+
+* Shoebox Hall
+* Vineyard Hall
+* Fan-shaped Hall
+* Black Box Acoustic Environment
+
+## 6. Front-of-House Spaces
+
+Identify spaces such as:
+
+* foyer
+* lobby
+* ticketing
+* exhibition spaces
+* cafés
+* public gathering areas
+
+## 7. Back-of-House Spaces
+
+Identify spaces such as:
+
+* dressing rooms
+* rehearsal rooms
+* green rooms
+* loading docks
+* technical rooms
+* workshops
+* storage
+
+## 8. Circulation Systems
+
+Identify relationships among:
+
+* audience circulation
+* performer circulation
+* service circulation
+* VIP circulation
+
+## 9. Convertible Theatre Systems
+
+Identify any evidence of:
+
+* movable seating
+* retractable seating
+* adjustable stage
+* transformable auditorium
+* mergeable theatres
+* variable acoustics
+
+## 10. Relationship Between Theatre and Building
+
+Describe:
+
+* whether the theatre is the primary organizational element
+* whether multiple theatres exist
+* whether the theatre is embedded, inserted, or detached
+
+## 11. Relationship Between Theatre Volume and Architectural Form
+
+Describe how the theatre influences building form.
+
+Examples:
+
+* theatre-driven form
+* concealed volume
+* expressed volume
+* independent envelope
+
+## 12. Visibility of Theatre Volume Within Building Massing
+
+Examples:
+
+* clearly expressed
+* partially expressed
+* concealed
+
+## 13. Cultural and Programmatic Role
+
+Examples:
+
+* civic landmark
+* community theatre
+* educational venue
+* national cultural institution
+* experimental arts platform
+
+## 14. Key Architectural Concepts Embodied by the Theatre Design
+
+Examples:
+
+* flexibility
+* transparency
+* public engagement
+* monumentality
+* acoustic optimization
+* urban integration
+* adaptive performance environments
+
+## 15. Auditorium–Stage Relationship
+
+Examples:
+
+* frontal
+* thrust
+* surround
+* immersive
+* variable
+
+## 16. Theatre Cluster Organization
+
+Examples:
+
+* single theatre
+* dual theatre
+* multi-theatre complex
+* shared foyer system
+* shared backstage system
+
+## 17. Public Space Integration
+
+Examples:
+
+* public plaza
+* urban foyer
+* indoor street
+* cultural concourse
+* civic gathering space
+
+## 18. Architectural Expression of Performance
+
+Examples:
+
+* stage-like architecture
+* curtain metaphor
+* acoustic form generation
+* audience-focused organization
+* theatrical circulation
+* performance as urban event
