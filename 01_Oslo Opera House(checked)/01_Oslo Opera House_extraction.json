@@ -1,0 +1,129 @@
+{
+  "project 01": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Oslo Opera House (奧斯陸歌劇院)",
+        "theater_scale_hierarchy": "國家級音樂與劇場機構 (Norway's largest music and theatrical institution)",
+        "gross_floor_area": "38,500 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (主廳)",
+          "seating_capacity": "約 1,370 席 (1,400 席為總體估算)",
+          "stage_type": "Horseshoe 鏡框馬蹄形劇院",
+          "primary_performance_type": "歌劇 (Opera)、芭蕾舞 (Ballet)",
+          "key_hardware_&_acoustic_conditions": "配備 16m x 16m 主舞台、11.8m 深下沉式舞台、兩側台與兩後台；高靈活性樂池升降台 (3 組獨立升降機)；側邊配備可調節鏡框寬度之活動式移動塔 (Mobile Towers)；天花板懸吊 8.5 噸兼具聲學反射功能之鏡片狀水晶吊燈 (Chandelier)；三層看台前緣與後牆採三維曲面固體橡木板與凸面反射面板以優化殘響時間。"
+        },
+        {
+          "hall_name": "Stage 2 (二號舞台)",
+          "seating_capacity": "最多 400 席",
+          "stage_type": "Flexible / Black Box 多功能黑盒子式",
+          "primary_performance_type": "歌劇、芭蕾、宴會、搖滾音樂會、實驗劇與兒童劇",
+          "key_hardware_&_acoustic_conditions": "無傳統吊桿塔 (Fly Tower)，改採大型電動滑輪系統控制布景與反射板；配備兩座大型升降台以調整階梯式觀眾席、樂池或將座椅車載運至地下室；舞台由可拆卸地板組成；以一只 9m 高滑動大門連通後台與景庫；內部置入獨立的高級構造物件，外飾高光澤紅面板，內飾金屬銀，並設有四座兼具照明、空調與聲學機能之技術天橋。"
+        },
+        {
+          "hall_name": "Rehearsal Room 1 (一號排練室)",
+          "seating_capacity": "150 席",
+          "stage_type": "Black Box 黑盒子式 (兼作公共表演空間)",
+          "primary_performance_type": "實驗性跨領域劇場、日常訓練與排練",
+          "key_hardware_&_acoustic_conditions": "具備高度音響減震消音牆面 (Acoustic Attenuation)；通過一條源自前台大廳沿南向立面的專屬通道引導公眾進入。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "挪威",
+        "city": "奧斯陸",
+        "urban_context": "濱水重劃區 (Bjørvika 半島前工業造船廠，為奧斯陸海濱都市更新策略之首要催化劑)"
+      },
+      "participants_&_operation": {
+        "architect": "Snøhetta (主導建築師)",
+        "client": "Statsbygg (挪威公共建設與財產管理局，代表 Ministry of Church and Cultural Affairs 負責規劃與管理)",
+        "end_user": "The Norwegian National Opera & Ballet (挪威國家歌劇與芭蕾舞團)",
+        "consultants": [
+          "Theatre Projects (劇場顧問)",
+          "Brekke & Strand Akustikk (聲學顧問)",
+          "Arup Acoustics (聲學顧問)",
+          "Ingeniør Per Rasmussen AS (電氣工程)",
+          "Reinertsen Engineering (結構工程)",
+          "NGI (地質工程)"
+        ],
+        "operator": "The Norwegian National Opera & Ballet (挪威國家歌劇與芭蕾舞團)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "將傳統上具有高度封閉性與階級感的世界級藝術機構，轉化為面向全體公眾開放的民主化都市基礎設施",
+        "在原為高污染、具備都市裂痕的工業歷史廢棄港口碼頭，重塑都市紋理、海濱自然景觀與公共生活的交織關係",
+        "多廳機能（主廳、多功能廳、大型排練室與高達 1000 間房的後勤工廠）之動線分流、聲學相互隔離，以及地下構造物應對地基沉陷之挑戰"
+      ],
+      "concept": [
+        "地毯 (The Carpet)：將公共空間與屋頂轉化為向都市與峽灣延伸、允許所有人自由漫步、共享產權的水平與斜向連續性幾何地景（實踐挪威傳統「自由漫遊權」allemannsretten 精神）",
+        "浪牆 (The Wave Wall)：以有機木質波浪牆壁面作為陸地與海洋、挪威與世界、日常與藝術之間的真實及象徵性「門檻」，成為公眾相遇藝術的交界面",
+        "工廠 (The Factory)：將後台複雜的藝術生產機能與工作坊，視為一個自給自足、理性規劃且具備高度功能彈性的生產機器"
+      ],
+      "strategy": [
+        "塊體斜向楔形下沉與水平延伸：建築體量向西、北兩側逐漸沉入水面，使屋頂直接與地面銜接，模糊建築與都市公共空間的邊界",
+        "功能帶垂直堆疊與一分為二：以一條南北向的「歌劇大街 (Opera Street)」為界，西側垂直堆疊公共大廳與劇場核心，東側佈置 3 至 4 層的生產車間與行政辦公區",
+        "跨界藝術整合與材質敘事：與藝術家深度合作，將 18,000 m² 的義大利 Carrara 白大理石屋頂編織成無重複的雕塑紋理；工廠外牆採用特殊壓印技術的工業鋁板皮層"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "proscenium stage",
+        "substage",
+        "side stage",
+        "rear stage",
+        "orchestra pit",
+        "horseshoe seating bowl",
+        "fly tower",
+        "chandelier",
+        "acoustic panels",
+        "convex wall panels",
+        "FOH lobby",
+        "atrium",
+        "grand staircase",
+        "glass curtain wall",
+        "glass fins",
+        "opera street",
+        "loading dock",
+        "scenery workshop",
+        "rehearsal rooms",
+        "green courtyard",
+        "public plaza",
+        "accessible sloping roof",
+        "waterfront promenade"
+      ],
+      "c2_semantic_relations": [
+        "Main Auditorium → embedded within (Spatial Relation) → Public Roofscape Landscape",
+        "Opera Street (North-South Corridor) → splits into Front-of-House and Back-of-House (Functional Relation) → Public/Stage Areas (West) & Production Areas (East)",
+        "Loading Dock (East-West) → splits back of house into (Spatial Relation) → Hard Workshops (North) & Soft Workshops/Changing Rooms (South)",
+        "Finished Scenery → moves through (Circulation Relation) → Loading Dock → Rear Stage Area",
+        "Grand Staircase → peels out of (Conceptual Relation) → Timber Wave Wall",
+        "Grand Staircase → provides access to (Circulation Relation) → Three Galleries around Auditorium",
+        "Glass Curtain Wall (Low-iron Glass with Glass Fins) → allows views into (Perceptual Relation) → Timber Wave Wall & Public Foyer",
+        "Generous Windows at Street Level → give a glimpse of (Perceptual Relation) → Scenery Workshop Activities",
+        "White Carrara Marble Carpet → seamlessly covers (Material & Tectonic Relation) → Roof and Lobby Ground Plane",
+        "Timber Wave Wall (Oak) → wraps around (Spatial Relation) → Horseshoe Main Auditorium Volume",
+        "Timber Wave Wall → acts as (Functional Relation) → Acoustic Attenuator within Foyer Space",
+        "Sound-insulated Rehearsal Rooms (Basement) → face with vegetation screen (Spatial Relation) → Central Green Courtyard"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民與遊客打破了傳統文化建築的拘束感，在可漫步的白色大理石斜屋頂上聚集、靜坐、野餐、滑板，冬季甚至進行雪橇活動，使建築徹底成為都市日常景觀",
+        "屋頂廣場（最多容納 15,000 人）與劇場級聲學大廳經常性地舉辦戶外音樂會、歌劇同步轉播及各類公眾活動，展現了極高的公共空間使用率",
+        "演職人員在 rationally planned 的「工廠」內，可透過高挑的貨梯、大尺度的滑動門直接在裝飾車間、大型排練室與舞台間高效運輸高達 9 米的布景物件"
+      ],
+      "discourse_&_criticism": [
+        "建築界讚譽其為「2007年最顯著的建築」並開創了「建築即地景 (Architecture as Landscape)」的全新範式，成功擺脫了地標建築常流於形式的「畢爾包效應」",
+        "獲頒密斯凡德羅獎 (Mies van der Rohe Award 2009) 與歐洲城市公共空間獎 (European Prize for Urban Public Space 2010)，評審團讚其為「給城市的禮物」與「都市組織再生的催化劑」",
+        "媒體（如《衛報》）給予極高評價，認為它在提供世界級音樂廳卓越物理聲學表現的同時，完美回應了民主、開放與 joint ownership（共同所有權）的社會學論述"
+      ],
+      "tectonic_results": [
+        "實踐了將海濱空間還給公眾的願景，成為奧斯陸最受歡迎的觀光景點與水岸文化區（包含後續 Munch 美術館、新圖書館）的都市發展基石",
+        "結合建築興建進行的大規模工業環境清理，成功讓受污染的海灣恢復至近百年來最乾淨的狀態，使得多種動植物回歸，衝擊力遠超單一建築藍圖而上升至國土海線復育層面",
+        "精準的材料接縫細部、與多位藝術家高度整合的壓印金屬板與不重複大理石切削工藝，展現出高精度的構造美學表現力，並在夜間透過巨幅高透玻璃幕牆，將溫暖的木質核心化為都市燈塔"
+      ]
+    }
+  }
+}

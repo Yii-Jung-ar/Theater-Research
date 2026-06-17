@@ -1,0 +1,141 @@
+你是一位資深的建築語意分析師。請根據我給出的兩份資料進行語意解析與模組化建構，輸出該劇院/建築案例的 Precedent DNA，涵蓋四大模組（Gene A–D），並以條列式方式明確分類。
+
+請深度整合以下兩份輸入資料：
+1.文字說明：主要提供案例之基地條件、設計意圖、劇場機能設定、操作營運策略與空間整體觀。
+2.空間構成補充資料 (preprocess)：提供由建築平立剖面、照片及分析圖轉譯而來的空間語彙（Vocabulary）、語意關係（Semantic Relations）與整體空間印象（Overall Spatial Impression），主要用以支援 Gene_C 的建構。
+
+---
+
+請輸出下列四項 Gene（請以清單格式條列，分類清楚，語意精簡專業，使用建築專業術語）：
+
+Gene_A：Conditions 條件與脈絡
+說明此建築的外部邊界與基本設定，須包含以下子項（若無提及，請根據常識與建築經驗合理推測並註記「（推測）」）：
+	Identity & Scale（定位與規模）：建築/劇場名稱、劇場定位層級（如國家級、地方綜合型）、總樓地板面積 (GFA)、總座位數（若有分廳請列出各自規模，如大劇院、黑盒子）。
+	Location & Context（地點與環境）：洲別、國家、城市、基地所處的城市紋理或人口脈絡（如高密度都市中心、濱水重劃區）。
+	Participants & Operation（參與者與營運）：主導建築師（及在地合作事務所）、業主單位、最終使用者、專業顧問團隊（如聲學、劇場顧問）、實際營運管理單位。
+
+Gene_B：Design Intentions 設計意圖
+剖析設計底層的論述與策略：
+	Issue：此案面對的空間挑戰、都市議題、特殊機能限制（如高難度的劇場聲學隔離、極小基地內的動線分流、文化保存衝突、大眾運輸導向發展 (TOD) 整合）。
+	Concept：核心的抽象設計理念、美學語彙或設計隱喻（例如：將開放式大廳視為都市公共廣場的延伸、場所精神的再現）。
+	Strategy：為實踐理念所採取的具體空間構造或塊體操作策略（例如：巨型懸挑體量、雙層呼吸式幕牆皮層、垂直堆疊機能、大地測量穹頂）。
+
+Gene_C：Form Composition 空間構成與語意關係
+請精準消化圖面轉譯資料與文字，建構空間的語意圖譜：
+C1: Vocabulary（空間語彙）：
+  請列出案例中出現的重要空間元素。必須涵蓋劇院核心元素與通用建築元素，如：proscenium stage (鏡框式舞台), fly tower (布景吊桿塔), orchestra pit (樂池), acoustic panels (聲學反射板), FOH lobby (前台大廳), BOH backstage (後台), atrium, ramp, curtain wall, lightwell, public plaza...
+C2: Semantic Relations（語意關係）：
+  請嚴格使用以下格式標註空間構成的語意關係（Subject 與 Object 必為單一空間元素，Relation 為單一明確動詞或短語，Relation Type 必須從括號分類中擇一）：
+	格式：[Subject] → [Relation (Relation Type)] → [Object]
+	Relation Type 分類標準：
+	Spatial Relation（空間位置／接鄰／包含／垂直堆疊）
+	Circulation Relation（觀眾、演職人員、後勤貨運之動線與流動）
+	Functional Relation（機能支援／前後台隔離／聲學防護整合）
+	Conceptual Relation（抽象設計理念與幾何體量塊體間的關聯）
+	Material & Tectonic Relation（材質構造構成／包覆／構造接合表現）
+	Other（請自命名，並補一行說明用途）
+範例語句參考：
+	Fly Tower → vertical stack above (Spatial Relation) → Proscenium Stage
+	Acoustic Shell → encloses (Functional Relation) → Concert Hall Stage
+	Grand Ramp → spirals through (Circulation Relation) → FOH Foyer Atrium
+	Double-skin Facade → wraps around (Material & Tectonic Relation) → Monolithic Massing
+	Glass Curtain Wall → allows views into (Perceptual Relation) → Public Plaza
+
+Gene_D：Outcomes & Reflection 結果與回饋
+描述建築落成後的實際社會效應與空間表現：
+	User Behavior（使用者行為反應）：觀眾、市民或演職人員的空間行為反應（例如在公共大廳停留、在濱水廣場聚集、前後台流線的實際運作流暢度）。
+	Discourse & Criticism（社會評論與媒體反饋）：建築界的專業評論、大眾媒體反饋、爭議事件（如畢爾包地標效應、預算超支、營運機能缺陷、公眾輿論反彈、聲學瑕疵或政治角力）。
+	Tectonic Results（空間操作結果回顧）：設計者自身的回顧，或該空間在都市、文化層面所帶來的實際衝擊與視覺表現力。
+
+---
+
+# 核心邊界與防外洩指引
+1. 禁止聯網搜尋：執行此任務時，切勿上網搜尋任何外部資料。
+2. 僅限使用所提供的資料：你只能根據本提示詞最下方附帶的「文字說明」與「空間構成補充資料 (preprocess)」進行語意萃取。
+3. 推論邊界規範：
+   只有在「座位數、面積、年份、參與者、地點」等基礎客觀事實缺失時，允許你根據案例名稱與既有專業知識進行合理的低度推測，但必須在字尾加註「（推測）」，若完全無法推論請填入 `"未知"`。
+   對於空間構成（Gene_C）、設計策略（Gene_B）與空間關係，絕對禁止引用非提供文本中的外部描述。
+4. 空值阻斷機制：若為提供檔案名稱含有「文字說明」與「空間構成補充資料 (preprocess)」的檔案，請勿生成任何 Precedent DNA 內容，請直接且僅輸出以下錯誤 JSON 物件：`{"error": "No input data provided."}`。
+
+執行與輸出指引
+1.輸出規範：僅輸出一個有效的 Markdown JSON 程式碼區塊（即以 ```json 開頭與 ``` 結尾）。在區塊之外，不得包含任何前後對話、解釋性文字、Markdown 標題或客套話。
+2.建築與劇場專業術語：請務必使用精準的建築與劇場學術語（如：Proscenium, Thrust, Vineyard, Arena, Black Box, Horseshoe, Shoebox 等）。
+3.多劇場處理原則：若案例包含多個劇場/廳，請務必在 `halls_specification` 陣列中為每個廳建立獨立的物件。若只有單一劇場，該陣列內則僅保留一個物件。
+4.缺失資料處理：若某些資訊未在資料中明確提供，請根據建築經驗合理推論並在字尾加註「（推測）」，若完全無法推論請填入 `"未知"`。
+
+---
+
+# JSON Schema 架構
+請將分析結果精準填入以下 JSON 結構中：
+
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "建築/劇場案例的官方名稱與常見別稱",
+        "theater_scale_hierarchy": "劇場總體定位層級（如國家級、地方綜合型、實驗性劇院群）",
+        "gross_floor_area": "總樓地板面積 (GFA)，請註明單位"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "個別劇場/音樂廳名稱（例如：大劇院、中劇院、音樂廳、實驗劇場）",
+          "seating_capacity": "該廳總座位數（例如：1200 席）",
+          "stage_type": "舞台與觀眾席形式（請精準分類，如：Proscenium 鏡框式、Thrust 伸展式、Vineyard 葡萄園式、Arena 圓形/環抱式、Black Box 黑盒子、Shoebox 鞋盒式等）",
+          "primary_performance_type": "主要服務之表演藝術類型（例如：歌劇 Opera、交響樂 Symphony、芭蕾舞 Ballet、現代舞 Modern Dance、話劇/舞台劇 Drama、音樂劇 Musical、實驗性跨領域劇場 Experimental Art）",
+          "key_hardware_&_acoustic_conditions": "該廳關鍵之硬體與建築物理聲學條件描述（例如：配備 50 組自動化布景吊桿塔 (Fly Tower)、可變音響反射板 (Acoustic Shell)、固定式管風琴、活動式下沉樂池等）"
+        }
+      ],
+      "location_&_context": {
+        "continent": "所在洲別",
+        "country": "國家名稱",
+        "city": "城市名稱",
+        "urban_context": "基地所處的城市紋理或人口脈絡（如高密度都市中心、濱水重劃區）"
+      },
+      "participants_&_operation": {
+        "architect": "主導建築師/事務所名稱（及在地合作事務所 LDI）",
+        "client": "業主單位（如政府機關、私人开发商）",
+        "end_user": "最終使用者（如目標觀眾、特定駐團）",
+        "consultants": [
+          "專業顧問團隊列表，特別註明劇場顧問 (Theater Consultant) 與 聲學顧問 (Acoustician)"
+        ],
+        "operator": "實際營運管理單位"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "此案面對的空間挑戰、都市議題或多廳機能整合限制（如各廳間的聲學噪音防護、極小基地多廳動線分流）"
+      ],
+      "concept": [
+        "核心的抽象設計理念、美學語彙或設計隱喻（例如：將多個劇場體量包裹於單一連續性皮層中）"
+      ],
+      "strategy": [
+        "為實踐理念所採取的具體空間構造、材料皮層或塊體操作策略（例如：3D 曲面不規則形體、巨型鋼構懸挑）"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "請列出案例中出現的重要空間元素（須涵蓋劇院核心與通用元素，如：proscenium stage, fly tower, orchestra pit, acoustic panels, FOH lobby, BOH backstage, atrium, ramp, curtain wall, public plaza...）"
+      ],
+      "c2_semantic_relations": [
+        "格式必須嚴格遵守：[Subject] → [Relation (Relation Type)] → [Object]",
+        "Relation Type 必須從以下分類擇一：Spatial, Circulation, Perceptual, Functional, Conceptual, Material & Tectonic",
+        "範例：Grand Theater Stage → isolated soundproof wall from (Functional Relation) → Concert Hall",
+        "請根據資料至少生成 5 組以上的空間語意關係鏈，並著重描述各劇場間的相對關係、前後台與公眾動線"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "觀眾、市民或演職人員的實際空間行為反應（例如在公共大廳停留、多廳同時演出時的人流分流狀況）"
+      ],
+      "discourse_&_criticism": [
+        "建築界的專業評論、大眾媒體反饋或爭議事件（如某特定廳的聲學評價瑕疵、多廳營運預算超支）"
+      ],
+      "tectonic_results": [
+        "設計者自身的回顧，或該空間在都市、文化層面所帶來的實際衝擊與視覺表現力"
+      ]
+    }
+  }
+}
+
+
+

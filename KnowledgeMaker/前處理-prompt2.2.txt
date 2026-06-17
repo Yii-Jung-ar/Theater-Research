@@ -1,0 +1,462 @@
+前處理-prompt2.2
+# THEATRE-SPECIFIC KNOWLEDGE EXTRACTION
+
+You are an architectural analyst specialized in architectural representation, theatre architecture, performance venue typology, and design knowledge extraction.
+
+I will provide a set of images, which may include architectural drawings, photographs, renderings, diagrams, construction details, technical drawings, or mixed materials.
+
+Your task is to analyze the images and extract theatre-specific architectural knowledge.
+
+If the project contains a theatre, auditorium, opera house, concert hall, performing arts center, black box theatre, cultural center, studio theatre, multipurpose hall, or similar performance venue, extract the following information.
+
+Only provide information that can be reasonably observed or inferred from the provided material.
+
+If information cannot be determined, write **N/A**.
+
+Do not fabricate missing information.
+
+If information cannot be directly observed from plans, sections, photographs, renderings, diagrams, annotations, dimensions, legends, captions, or text labels, return **N/A**.
+
+Base all conclusions solely on the provided material.
+
+Do not use external knowledge.
+
+---
+
+# STEP 1 — Theatre Inventory, Classification & Evidence Table
+
+Identify all theatres, auditoriums, concert halls, opera halls, studio theatres, black box theatres, experimental theatres, multipurpose halls, and performance venues found within the project.
+
+For each venue, provide:
+
+* Theatre Name
+* Location
+* Theatre Typology
+* Estimated Capacity
+* Stage Type
+* Audience Configuration
+* Seating Geometry
+* Primary Function
+* Evidence Source
+
+  * Plan
+  * Section
+  * Elevation
+  * Rendering
+  * Photograph
+  * Diagram
+  * Text Label
+* Confidence Level
+
+  * High
+  * Medium
+  * Low
+* Evidence Quality
+
+  * Direct Evidence
+  * Strong Inference
+  * Weak Inference
+  * N/A
+
+---
+
+## Total Number of Theatres
+
+Identify:
+
+* Single Theatre
+* Dual Theatre
+* Triple Theatre
+* Multi-Theatre Complex
+
+---
+
+## Theatre Hierarchy
+
+Identify whether venues function as:
+
+* Main Hall
+* Secondary Hall
+* Studio Theatre
+* Experimental Theatre
+* Educational Venue
+* Community Venue
+* Multipurpose Venue
+
+---
+
+## Shared Infrastructure
+
+Identify evidence of:
+
+* Shared Foyer
+* Shared Lobby
+* Shared Backstage
+* Shared Loading Dock
+* Shared Dressing Rooms
+* Shared Rehearsal Facilities
+* Shared Technical Facilities
+* Shared Public Circulation
+
+---
+
+## Theatre Relationships
+
+Identify whether theatres are:
+
+* Independent
+* Connected
+* Side-by-side
+* Stacked
+* Clustered around a common foyer
+* Clustered around a common public space
+* Mergeable
+* Transformable
+
+Describe supporting evidence.
+
+---
+
+# A. Theatre Core Characteristics
+
+## 1. Audience Configuration
+
+Examples:
+
+* End-stage
+* Surround
+* Traverse
+* Vineyard
+* Arena
+* Fan-shaped
+* Hybrid
+
+Describe evidence supporting the classification.
+
+---
+
+## 2. Seating Geometry
+
+Examples:
+
+* Horseshoe
+* Fan-shaped
+* Shoebox
+* Vineyard
+* Rectilinear
+* Terraced
+* Hybrid
+
+Describe evidence supporting the classification.
+
+---
+
+## 3. Stage Type
+
+Examples:
+
+* Proscenium Stage
+* Thrust Stage
+* Arena Stage
+* Flexible Stage
+* Modular Stage
+* Retractable Stage
+* Variable Stage
+
+Describe evidence supporting the classification.
+
+---
+
+## 4. Acoustic Typology
+
+Examples:
+
+* Shoebox Hall
+* Vineyard Hall
+* Fan-shaped Hall
+* Black Box Acoustic Environment
+* Opera House Acoustic Environment
+* Multipurpose Acoustic Environment
+
+Only identify when sufficient evidence exists.
+
+Otherwise return N/A.
+
+---
+
+## 5. Auditorium–Stage Relationship
+
+Examples:
+
+* Frontal
+* Thrust
+* Surround
+* Immersive
+* Variable
+* Reconfigurable
+
+Describe the spatial relationship between audience and performance area.
+
+---
+
+# B. Theatre Operations and Technical Systems
+
+## 6. Front-of-House Spaces (FOH)
+
+Identify spaces such as:
+
+* foyer
+* lobby
+* ticketing
+* exhibition spaces
+* cafés
+* restaurants
+* public gathering areas
+* educational spaces
+* retail spaces
+
+Describe FOH organization and relationships.
+
+---
+
+## 7. Back-of-House Spaces (BOH)
+
+Identify spaces such as:
+
+* dressing rooms
+* rehearsal rooms
+* green rooms
+* loading docks
+* technical rooms
+* workshops
+* storage
+* orchestra facilities
+* performer support spaces
+
+Describe BOH organization and relationships.
+
+---
+
+## 8. Circulation Systems
+
+Identify relationships among:
+
+* audience circulation
+* performer circulation
+* service circulation
+* VIP circulation
+
+Describe:
+
+* separation or overlap of circulation systems
+* vertical circulation strategy
+* connections between FOH and BOH
+* public/private hierarchy
+
+---
+
+## 9. Convertible Theatre Systems
+
+Identify any evidence of:
+
+* movable seating
+* retractable seating
+* adjustable stage
+* transformable auditorium
+* mergeable theatres
+* variable acoustics
+* movable partitions
+* configurable audience layouts
+* adjustable performance environments
+
+For every conclusion:
+
+* Describe the evidence.
+* Distinguish between observed evidence and inference.
+
+---
+
+# C. Theatre–Building Relationships
+
+## 10. Relationship Between Theatre and Building
+
+Describe:
+
+* whether the theatre is the primary organizational element
+* whether multiple theatres exist
+* whether the theatre is embedded, inserted, attached, or detached
+* how theatre spaces organize the overall building
+
+---
+
+## 11. Relationship Between Theatre Volume and Architectural Form
+
+Describe how the theatre influences building form.
+
+Examples:
+
+* theatre-driven form
+* concealed volume
+* expressed volume
+* independent envelope
+* volume-in-volume strategy
+* theatre as architectural core
+
+Describe supporting evidence.
+
+---
+
+## 12. Visibility of Theatre Volume Within Building Massing
+
+Examples:
+
+* clearly expressed
+* partially expressed
+* concealed
+
+Describe evidence from:
+
+* exterior photographs
+* renderings
+* sections
+* massing diagrams
+* plans
+
+---
+
+## 13. Theatre Cluster Organization
+
+Examples:
+
+* single theatre
+* dual theatre
+* triple theatre
+* multi-theatre complex
+* shared foyer system
+* shared backstage system
+
+Describe:
+
+* theatre hierarchy
+* spatial relationships between venues
+* shared infrastructure
+* cluster organization strategy
+
+If multiple theatres exist, explain how they are organized as a system.
+
+---
+
+# D. Cultural, Urban, and Architectural Expression
+
+## 14. Cultural and Programmatic Role
+
+Examples:
+
+* civic landmark
+* community theatre
+* educational venue
+* national cultural institution
+* experimental arts platform
+* regional performing arts center
+
+Base conclusions only on observable evidence.
+
+---
+
+## 15. Key Architectural Concepts Embodied by the Theatre Design
+
+Examples:
+
+* flexibility
+* transparency
+* public engagement
+* monumentality
+* acoustic optimization
+* urban integration
+* adaptive performance environments
+* accessibility
+* cultural connectivity
+
+Describe supporting evidence.
+
+---
+
+## 16. Public Space Integration
+
+Examples:
+
+* public plaza
+* urban foyer
+* indoor street
+* cultural concourse
+* civic gathering space
+* rooftop public space
+
+Describe relationships between:
+
+* theatre and city
+* theatre and landscape
+* theatre and public circulation
+* theatre and civic space
+
+---
+
+## 17. Architectural Expression of Performance
+
+Examples:
+
+* stage-like architecture
+* curtain metaphor
+* acoustic form generation
+* audience-focused organization
+* theatrical circulation
+* performance as urban event
+
+Describe how the architecture communicates ideas related to:
+
+* performance
+* spectatorship
+* gathering
+* theatricality
+* public participation
+
+---
+
+# OUTPUT REQUIREMENTS
+
+For every section:
+
+1. Provide concise analytical descriptions.
+2. Cite the evidence source whenever possible.
+3. Assign:
+
+   * Confidence Level
+
+     * High
+     * Medium
+     * Low
+4. Assign:
+
+   * Evidence Quality
+
+     * Direct Evidence
+     * Strong Inference
+     * Weak Inference
+     * N/A
+
+---
+
+# RULES
+
+* Do not use external knowledge.
+* Do not assume theatre types from project reputation or project name.
+* Do not estimate capacities without spatial evidence.
+* Do not identify convertible theatre systems without observable evidence.
+* Do not infer mergeable theatres unless clear evidence exists.
+* If evidence is insufficient, return **N/A**.
+* Distinguish clearly between observation and inference.
+* Prioritize information visible in plans and sections over renderings.
+* Prioritize text labels when available.
+* When conflicting evidence exists, explain the conflict and lower the confidence level.
+
+The goal is to extract theatre-specific architectural knowledge from visual evidence and identify spatial, organizational, operational, technical, and architectural characteristics of theatre environments.

@@ -1,0 +1,404 @@
+{
+  "project_name": "Hong Kong Cultural Centre",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Visible plans, site diagrams, architectural model photographs, sectional/organizational diagrams, exterior photographs, and venue illustrations only",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Site Plan",
+        "evidence": "Urban waterfront planning diagrams showing the cultural centre parcel within Tsim Sha Tsui waterfront development."
+      },
+      {
+        "type": "Building Plan",
+        "evidence": "Ground-level organizational plan showing multiple venue volumes and circulation zones."
+      },
+      {
+        "type": "Venue Organization Diagram",
+        "evidence": "Diagrammatic floor organization identifying several performance spaces."
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photograph",
+        "evidence": "Waterfront building massing and relationship to Victoria Harbour."
+      },
+      {
+        "type": "Architectural Model Photograph",
+        "evidence": "Model showing auditorium volumes and venue arrangement."
+      },
+      {
+        "type": "Historical Rendering",
+        "evidence": "Original conceptual exterior perspective."
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Venue Typology Diagram",
+        "evidence": "Exploded venue organization showing multiple halls."
+      },
+      {
+        "type": "Building Organization Diagram",
+        "evidence": "Spatial relationship between auditoria and support spaces."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Performing Arts and Cultural Centre",
+
+    "primary_program": "Multi-Venue Performance Complex",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Main Lobby",
+        "Foyer",
+        "Public Concourse",
+        "Waterfront Plaza",
+        "Public Gathering Areas",
+        "Circulation Spine"
+      ],
+
+      "BOH": [
+        "Backstage Areas",
+        "Technical Support Spaces",
+        "Service Circulation",
+        "Loading and Support Areas",
+        "Performer Facilities"
+      ],
+
+      "performance_spaces": [
+        "Concert Hall",
+        "Grand Theatre",
+        "Studio Theatre"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Clustered Venue Organization",
+
+      "description": "Multiple performance venues are organized around a shared public circulation system and common support infrastructure.",
+
+      "public_private_separation": "Strong separation between audience circulation and backstage operations.",
+
+      "circulation_structure": "Centralized foyer and circulation spine connecting multiple venues."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Multi-Venue Cultural Complex",
+
+      "description": "Independent performance halls are grouped within a single architectural container and connected through shared public and operational infrastructure."
+    },
+
+    "urban_relationship": {
+      "waterfront_condition": true,
+      "civic_visibility": true,
+      "landmark_presence": true,
+
+      "description": "The project occupies a highly prominent waterfront site and functions as a major civic cultural destination."
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Monolithic Volume",
+      "Sculptural Roof Profile",
+      "Harbour-Facing Façade",
+      "Terraced Massing",
+      "Large Auditorium Volumes",
+      "Civic Monumentality"
+    ],
+
+    "materiality": [
+      "Concrete",
+      "Stone Cladding",
+      "Glass"
+    ],
+
+    "atmosphere": {
+      "external_character": "Monumental and civic",
+      "urban_presence": "Highly visible",
+      "cultural_identity": "Institutional performing arts landmark"
+    },
+
+    "contextual_relationship": {
+      "waterfront_engagement": "Direct",
+      "urban_role": "Cultural anchor",
+      "public_visibility": "High"
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 3,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "venue_name": "Concert Hall",
+        "evidence": "Large fan-shaped auditorium visible in venue diagrams and building organization drawings."
+      },
+      {
+        "theatre_id": "T2",
+        "venue_name": "Grand Theatre",
+        "evidence": "Large proscenium-based theatre volume visible in plan and organizational diagrams."
+      },
+      {
+        "theatre_id": "T3",
+        "venue_name": "Studio Theatre",
+        "evidence": "Smaller experimental venue visible in venue diagrams."
+      }
+    ],
+
+    "multi_theatre_complex": true,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Concert Hall",
+
+      "theatre_typology": "Concert Hall",
+
+      "primary_function": [
+        "Symphonic Performance",
+        "Orchestral Concerts",
+        "Music Performance"
+      ],
+
+      "estimated_capacity": {
+        "value": "1500-2500",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "End-stage",
+
+      "seating_geometry": "Fan-shaped",
+
+      "stage_form": "Concert Platform",
+
+      "auditorium_stage_relationship": "Frontal",
+
+      "transformability": {
+        "classification": "Fixed"
+      },
+
+      "confidence_level": "Medium",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    {
+      "theatre_id": "T2",
+
+      "theatre_name": "Grand Theatre",
+
+      "theatre_typology": "Proscenium Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Dance",
+        "Large Scale Theatre Production"
+      ],
+
+      "estimated_capacity": {
+        "value": "1000-2000",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "End-stage",
+
+      "seating_geometry": "Fan-shaped",
+
+      "stage_form": "Proscenium Stage",
+
+      "auditorium_stage_relationship": "Frontal",
+
+      "transformability": {
+        "classification": "Fixed"
+      },
+
+      "confidence_level": "Medium",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    {
+      "theatre_id": "T3",
+
+      "theatre_name": "Studio Theatre",
+
+      "theatre_typology": "Studio Theatre",
+
+      "primary_function": [
+        "Experimental Performance",
+        "Small Scale Productions",
+        "Flexible Programming"
+      ],
+
+      "estimated_capacity": {
+        "value": "100-500",
+        "unit": "seats",
+        "confidence": "Low"
+      },
+
+      "audience_configuration": "Hybrid",
+
+      "seating_geometry": "Rectilinear",
+
+      "stage_form": "Flexible Stage",
+
+      "auditorium_stage_relationship": "Variable",
+
+      "transformability": {
+        "classification": "Variable"
+      },
+
+      "confidence_level": "Low",
+      "evidence_quality": "Strong Inference"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Multi-Theatre Performing Arts Centre",
+
+    "hierarchy": {
+      "main_hall": "T1 Concert Hall",
+      "secondary_hall": "T2 Grand Theatre",
+      "studio_theatre": "T3 Studio Theatre"
+    },
+
+    "shared_infrastructure": [
+      "Main Foyer",
+      "Public Circulation",
+      "Backstage Facilities",
+      "Technical Support",
+      "Loading Infrastructure",
+      "Service Areas"
+    ],
+
+    "operational_relationships": {
+      "venue_independence": "Independent venues",
+      "shared_support": true,
+      "shared_public_space": true
+    },
+
+    "spatial_relationships": {
+      "organization": "Clustered Around Shared Public Core",
+      "venue_arrangement": "Parallel Venue Volumes"
+    }
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "affected_venues": [],
+
+    "connection_mechanism": null,
+
+    "confidence_level": "Medium"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_cluster_organization": "Clearly Expressed",
+
+    "volume_in_volume_strategy": true,
+
+    "theatre_as_organizational_core": false,
+
+    "description": "The architectural form is generated by several large venue volumes grouped into a single cultural complex.",
+
+    "visibility_of_theatre_volume": "Clearly Expressed"
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Major Metropolitan Performing Arts Centre",
+
+    "programmatic_role": "Multi-disciplinary cultural venue",
+
+    "public_space_integration": {
+      "waterfront_plaza": true,
+      "urban_destination": true,
+      "tourist_and_local_use": true
+    },
+
+    "architectural_expression_of_performance": {
+      "venue_volumes_visible": true,
+      "monumental_form": true,
+      "cultural_identity_emphasized": true
+    },
+
+    "spectatorship": {
+      "large_scale_audience": true,
+      "multiple_performance_types": true,
+      "diverse_programming": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "multi_theatre_classification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "concert_hall_identification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "grand_theatre_identification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "studio_theatre_identification": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "capacity_estimation": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    },
+
+    "transformability": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    }
+  },
+
+  "knowledge_tags": [
+    "Hong Kong Cultural Centre",
+    "Multi-Theatre Complex",
+    "Concert Hall",
+    "Grand Theatre",
+    "Studio Theatre",
+    "Performing Arts Centre",
+    "Waterfront Cultural Building",
+    "Clustered Venue Organization",
+    "Shared FOH Infrastructure",
+    "Fixed Theatre",
+    "Proscenium Theatre",
+    "Civic Landmark"
+  ]
+}

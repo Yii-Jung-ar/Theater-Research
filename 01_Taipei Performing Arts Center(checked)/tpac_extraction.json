@@ -1,0 +1,129 @@
+{
+  "project 02": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Taipei Performing Arts Center (台北表演藝術中心)",
+        "theater_scale_hierarchy": "國際級/城市級公共表演藝術中心",
+        "gross_floor_area": "58,658 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Grand Theater (大劇院)",
+          "seating_capacity": "1,500 席",
+          "stage_type": "Proscenium 鏡框式劇院",
+          "primary_performance_type": "大型歌劇、芭蕾舞、戲劇、音樂劇",
+          "key_hardware_&_acoustic_conditions": "配備非對稱的當代鏡框形狀設計，並透過多功能大工廠（Super Theater/Central Cube）與藍色球形大劇院形體進行功能與後台系統的實時耦合。"
+        },
+        {
+          "hall_name": "Proscenium Playhouse (球劇場)",
+          "seating_capacity": "800 席",
+          "stage_type": "Spherical Proscenium 悬浮球形鏡框式劇院",
+          "primary_performance_type": "當代戲劇、舞蹈、中型音樂劇、跨領域實驗表演",
+          "key_hardware_&_acoustic_conditions": "懸浮於立方體之上的球體形狀（Sphere），觀眾席懸停於內殼與外殼之間，內部結構交錯，創造出獨特的聲學反射及前台大廳（Foyer）的幾何包覆感。"
+        },
+        {
+          "hall_name": "Blue Box (藍盒子)",
+          "seating_capacity": "800 席",
+          "stage_type": "Black Box / Variable 實驗型黑盒子式",
+          "primary_performance_type": "前衛戲劇、跨界多媒體藝術、前沿實驗表演",
+          "key_hardware_&_acoustic_conditions": "具備高度可變性與機能彈性，其舞台與後台端點可與大劇院進行物理性連通，組合成巨型大工廠（Super Theater）。"
+        },
+        {
+          "hall_name": "Super Theater (超級大劇場/大工廠)",
+          "seating_capacity": "2,300 席（推測，由大劇院與藍盒子組合而成）",
+          "stage_type": "Coupled / Extended Stage 耦合延伸式巨型舞台空間",
+          "primary_performance_type": "超大型史詩劇作、跨領域巨幅演出、特殊規格國際級展演",
+          "key_hardware_&_acoustic_conditions": "由大劇院（Grand Theater）與藍盒子（Blue Box）的舞台進行軸向貫通（Coupled），共享長達 100 米的中央大工廠（Central Cube）後台與軌道吊桿系統，可提供以往只能在工業工廠實現的巨型空間尺度與舞台配置。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲",
+        "country": "台灣",
+        "city": "台北",
+        "urban_context": "高密度都市中心 (鄰近士林夜市，具備極度活躍、混雜且充滿常民生命力的街道紋理與大眾運輸導向發展 (TOD) 節點)"
+      },
+      "participants_&_operation": {
+        "architect": "OMA (主導建築師：Rem Koolhaas, David Gianotten) / 姚仁喜 | 大元建築工場 (執行建築師 LDI)",
+        "client": "台北市政府 (Taipei City Government)",
+        "end_user": "多元表演藝術團體、市民、國內外藝術愛好者與夜市觀光人流",
+        "consultants": [
+          "Inside Outside (景觀與室內設計顧問)",
+          "Arup (結構工程、機電工程、建築物理聲學顧問)（推測）",
+          "姚仁喜 | 大元建築工場 (在地執行專業團隊)"
+        ],
+        "operator": "台北市文化基金會台北表演藝術中心（推測）"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "打破當代表演藝術劇場逐漸走向標準化、封閉化且與大眾日常社會生活脫節的內向型保守營運策略",
+        "在高密度的士林夜市基地、極度有限的都市土地邊界內，如何高效容納並整合三個完全不同尺度的劇場機能與後勤動線",
+        "如何將精緻的高雅文化艺术空間 (Highbrow Art) 與極具常民野性的在地街道文化 (Masses / Street Culture) 進行空間論述與機能上的雙向共榮"
+      ],
+      "concept": [
+        "劇場魔術方塊 (The Central Cube)：將三個獨立劇場的舞台與後台核心機能向內壓縮、拔高，拼貼並外掛（Plugged）於一個中央集約式的幾何立方體，實現資源的高效共享",
+        "公共導覽迴路 (Public Loop / The Loop)：一條專門面向大眾開放的免費空間基礎設施軌道，穿透劇院底層、後台技術空間及頂部平台，使非買票觀眾也能直觀體驗舞台生產背後的日常藝術「工廠」面貌",
+        "都市奇觀與舞台景觀 (Architecture as Public Spectacle)：將建築本體轉化為士林夜市街道的垂直延伸，劇場量體赤裸地向都市凸顯，使表演藝術與都市社會生活互為背景"
+      ],
+      "strategy": [
+        "外掛式幾何塊體操作 (Sphere-in-Box / Cube-and-Volumes)：將大劇院、球劇場與藍盒子作為顯著的特定幾何量體，從高懸於地面的中央立方體（Central Cube）中向外凸顯（Float/Plugged），留下底層地面的都市開放廣場",
+        "軸向大工廠耦合技術 (Super Theater Coupling)：將大劇院與藍盒子配置於中央立方體的相對兩端，藉由中央舞台軌道與防火隔音閘門的開啟，在水平軸線上將兩者融合成一座巨型連續表演空間",
+        "雙層波浪玻璃立面與結構巨拱：中央立方體外包覆深色的波浪玻璃（Corrugated Glass），與外掛的鋁質幾何體（如球劇場）形成材質上的虛實對比，並透過巨型鋼構桁架與核心筒將體量抬高，釋放地面的公眾動線"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "central cube",
+        "sphere volume",
+        "proscenium stage",
+        "asymmetric proscenium",
+        "blue box",
+        "super theater",
+        "stage",
+        "backstage",
+        "shared backstage system",
+        "shared foyer system",
+        "public loop",
+        "urban foyer",
+        "vertical circulation core",
+        "staircase",
+        "escalator",
+        "bridge",
+        "terrace",
+        "roof deck",
+        "structural frame",
+        "corrugated glass curtain wall",
+        "site plaza"
+      ],
+      "c2_semantic_relations": [
+        "Three Individual Theaters → plugged into (Spatial Relation) → Central Cube",
+        "Central Cube → lifts off the ground to create (Spatial Relation) → Sheltered Public Plaza & Urban Foyer",
+        "Public Loop → corridors escalate and penetrate through (Circulation Relation) → Central Cube, Backstage Infrastructure, and Technical Zones",
+        "Grand Theater Stage → horizontally couples with via Central Cube (Functional Relation) → Blue Box Stage",
+        "Shared Foyer System → continuous multi-level flow beneath (Circulation Relation) → Floating Sphere Volume & Grand Theater Bowl",
+        "Corrugated Glass Curtain Wall → wraps around and encloses (Material & Tectonic Relation) → Central Cube Industrial Core",
+        "Movable Soundproof Apertures → dynamically isolate or connect (Functional Relation) → Grand Theater and Blue Box",
+        "Vertical Circulation Cores → support and structure (Material & Tectonic Relation) → Cantilevered Theater Volumes",
+        "Public Loop Windows → allow visual access into (Perceptual Relation) → Secret Backstage Production & Rehearsal Activities",
+        "Elevated Roof Terraces → extend viewpoints toward (Perceptual Relation) → Surrounding Shilin Urban Night Market Landscape"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "士林夜市的逛街人流與日常市民被底層架空的巨型廣場吸引，在劇場下方停留、穿梭，使文化建築底層成為台北極具活力的「都市客廳（Urban Foyer）」",
+        "不特定的大眾透過「公共導覽迴路（Public Loop）」在建築內部上下漫遊，近距離觀看演職人員的排練與道具裝卸，打破了傳統精緻藝術與庶民生活的物理隔離",
+        "演職人員與舞台技術人員在「大工廠（Central Cube）」模式開啟時，能夠實時調動並組合兩個廳的後勤資源，體驗到前所未有的超大尺度空間實驗與調度可能"
+      ],
+      "discourse_&_criticism": [
+        "建築界視其為 OMA（雷姆．庫哈斯）繼西雅圖中央圖書館、CCTV 大樓後，對「公共建築機能重組與集約化」的又一激進空間宣言，顛覆了西方百年來固化的劇院範式",
+        "大眾媒體與公眾輿論曾對其前衛、甚至帶有工業未完工感的「皮蛋豆腐（圓球外掛方塊）」奇特視覺外觀引發兩極化的美學論戰與高度社會關注",
+        "專業評論讚譽其成功地將「劇場（Theater）」的黑盒子生產過程轉化為對都市開放的「社會公共景觀（Public Spectacle）」，是當代難得具有高度包容性與實驗性的民主化建築範例"
+      ],
+      "tectonic_results": [
+        "透過獨特的形式操作與高度集約的幾何塊體堆疊，在台北極高密度的都市裂縫中，成功創造了一個專屬全體市民的標誌性地標（Civic Landmark）",
+        "其實際運作模糊了高雅藝術與社會大眾的邊界，為台北的都市文化生活、市民聚集行為帶來了極強的視覺表現力與跨領域的創意衝擊",
+        "波浪玻璃皮層在夜間透出的工業與劇場技術燈光，使其在繁華雜亂的士林夜市霓虹燈火中，宛如一座巨大的當代文化生產機器與都市燈塔"
+      ]
+    }
+  }
+}

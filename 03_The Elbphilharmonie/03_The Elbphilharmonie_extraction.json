@@ -1,0 +1,114 @@
+{
+ "precedent_dna": {
+   "gene_a_conditions": {
+     "identity_&_scale": {
+       "project_name": "Elbphilharmonie Hamburg (漢堡易北愛樂廳)",
+       "theater_scale_hierarchy": "國際國家級/都會型頂級複合式音樂藝術中心與綜合體地標",
+       "gross_floor_area": "120,000 m²（推測）"
+     },
+     "halls_specification": [
+       {
+         "hall_name": "大音樂廳 (Main Concert Hall / Grand Hall / T1)",
+         "seating_capacity": "2,100 席",
+         "stage_type": "Vineyard 葡萄園環抱式舞台",
+         "primary_performance_type": "交響樂 Symphonic Music、大型管弦樂演奏 Orchestral Performance",
+         "key_hardware_&_acoustic_conditions": "座席環繞中央演奏台陡峭升起，觀眾距指揮最大距離不超過 30 米。配備與豐田泰久合作設計的「白皮膚 (White Skin)」特殊牆面及天花構造，由 10,000 片精密銑削的高密度石膏纖維板組成；配置兼具技術與照明機能的巨型中央反射板吊燈 (Reflector/Chandelier)，以及客製化結合於观众席周邊的 4,765 根克萊斯 (Klais) 管風琴。"
+       },
+       {
+         "hall_name": "室內音樂廳 (Chamber Music Hall / Recital Hall / T2)",
+         "seating_capacity": "550 席",
+         "stage_type": "End-stage 扇形平台式舞台 (Fan-shaped)",
+         "primary_performance_type": "室內樂 Chamber Music、獨奏獨唱會 Recitals、小型合奏",
+         "key_hardware_&_acoustic_conditions": "採用精緻的波浪形實木面板 (Wave-shaped wooden panelling) 包覆，專為高靈敏度室內樂物理聲學環境打造，具備固定式多功能音樂演奏平台。"
+       },
+       {
+         "hall_name": "碼頭工作室 (Kaistudios / T3)",
+         "seating_capacity": "150 席（Kaistudio 1）",
+         "stage_type": "Flexible Stage 可變式工作室劇場",
+         "primary_performance_type": "實驗性跨領域展演 Experimental Performance、音樂教育推廣 Education、小型活動",
+         "key_hardware_&_acoustic_conditions": "位於歷史磚石基座內部低層區，屬於由 7 個房間組成的音樂教育區核心，具備高度可調節的空間形制與彈性硬體配置。"
+       }
+     ],
+     "location_&_context": {
+       "continent": "歐洲",
+       "country": "德國",
+       "city": "漢堡 (Hamburg)",
+       "urban_context": "HafenCity 港口新城西側岬角終端 (Kaispitze)，三面臨水，緊鄰世界文化遺產倉庫城 (Speicherstadt) 的非典型歷史濱水重劃區紋理。"
+     },
+     "participants_&_operation": {
+       "architect": "Herzog & de Meuron (赫佐格與德默隆建築事務所)",
+       "client": "漢堡市政府（及相關開發公共實體）",
+       "end_user": "北德廣播易北愛樂樂團、國際巡演音樂家、漢堡市民與全球文化觀光遊客",
+       "consultants": [
+         "聲學顧問：Nagata Acoustics ( Nagata  Nagata Acoustics / 豐田泰久 Yasuhisa Toyota)",
+         "管風琴製造：Johannes Klais Orgelbau"
+       ],
+       "operator": "漢堡易北愛樂廳營運管理官方機構"
+     }
+   },
+   "gene_b_design_intentions": {
+     "issue": [
+       "傳統大型精緻文化設施流於服務少數特權階層的社會排他性，需透過多重都會機能整合打造真正具備公民磁吸效應的開放場所",
+       "歷史文資結構增建的極端載重與物理邊界限制：如何在 1960 年代 Werner Kallmorgen 設計的煢獨冷峻、內部無光窗的舊可可豆倉庫 (Kaispeicher A) 結構頂部，承託一個巨大的當代文化鋼綠巨構",
+       "高密度的多廳機能與商用空間（奢華住宅、五星級飯店）垂直並置時，面臨的極端極限聲學防噪隔離與巨量複雜動線分流挑戰"
+     ],
+     "concept": [
+       "「垂直堆疊的體量中之體量 (Stacked Volume-in-Volume)」與「三明治都市（City within a Building）」",
+       "將傳統愛樂廳改寫為「音樂的足球場 (Football Stadium for Music)」，以垂直極致陡峭的幾何拓撲拉近表演者與聽眾的交互距離",
+       "新舊矛盾並置的美學對比：粗獷古老的工業磚石碼頭（地景）與 Sumptuous 、閃爍變幻的晶體皇冠（天空）的劇烈物理撞擊"
+     ],
+     "strategy": [
+       "鉸鏈式空中公共廣場 (Elevated Public Plaza)：在舊倉庫與新玻璃晶體的相接界面（海拔37米處）橫向挖空出一個全開放的 360° 全景都市公共平台，作為城市生命延伸的巨型鉸鏈",
+       "敘事性弧形巨型電梯 (The Tube)：在東側主入口置入一條長達 80 米、微彎無法一眼望穿、外殼鑲嵌無數玻璃碎片的時空隧道手扶梯，創造極具儀式感的慢速抵達體驗",
+       "晶體幕牆三維操縱：玻璃外殼採用 1,100 片單獨建模、部分微凹、部分雕刻開鑿的曲面雙層節能玻璃單元，使建築轉化為實時反射易北河水、天空與城市表情的巨大 iridescent 投影面。"
+     ]
+   },
+   "gene_c_form_composition": {
+     "c1_vocabulary": [
+       "Main Concert Hall",
+       "Chamber Music Hall",
+       "Kaistudios",
+       "Main Entrance",
+       "Public Plaza",
+       "Foyer",
+       "Lounge",
+       "Restaurant",
+       "Lookout",
+       "Escalator System",
+       "Backstage",
+       "Control Room",
+       "Technical Rooms",
+       "Glass Crown",
+       "Brick Base",
+       "White Skin",
+       "Reflector"
+     ],
+     "c2_semantic_relations": [
+       "Glass Crown → vertical stack above (Spatial Relation) → Brick Base",
+       "Public Plaza → acts as a programmatic hinge between (Conceptual Relation) → Brick Base",
+       "Escalator System → pierces diagonally through (Circulation Relation) → Brick Base",
+       "Main Concert Hall → suspended as an isolated acoustic cocoon within (Functional Relation) → Glass Crown",
+       "White Skin → wraps and acoustically sculpts (Material & Tectonic Relation) → Main Concert Hall",
+       "Reflector → suspended directly over (Spatial Relation) → Main Concert Hall",
+       "Foyer → interlocking vertical volume surrounding (Circulation Relation) → Main Concert Hall",
+       "Chamber Music Hall → independent cluster parallel to (Spatial Relation) → Foyer"
+     ]
+   },
+   "gene_d_outcomes_&_reflection": {
+     "user_behavior": [
+       "市民與全球遊客即使不買音樂會門票，也會自發經由 The Tube 電梯前往海拔 37 米的公眾廣場，將其作為漢堡日常約會、眺望老港天際線與享受落日的標誌性都市露台",
+       "聽眾在 Grand Hall 內部體驗到極具戲劇性的「圍攏感 (Surround)」，陡峭看台使數千名觀眾的臉孔本身化為劇場不對稱的立面牆體，極大拉高了觀劇的群體互動與沉浸感",
+       "飯店旅客、豪宅住戶、愛樂饕客與Kaistudio 的音樂學童，在高度交織的公共核心筒與梯間系統中產生不期而遇的「微縮城市」生活體驗"
+     ],
+     "discourse_&_criticism": [
+       "被公認為21世紀全球最為大膽且最成功的地標型音樂廳建築，顛覆了傳統鞋盒（Shoebox）與常規 Scharoun 式葡萄園型的形制，開創了高樓精緻音樂基礎設施的新範式",
+       "落成後成功將長年「沉默、邊緣化」的港口工業遺跡 A 號倉庫，轉化為啟動整個歐洲最大內城更新計畫 HafenCity 的核心發光文化引擎，發揮出極強的地緣政治與文化標竿效應",
+       "儘管在十多年的興建期中因極端複雜的「雙層盒中盒隔音工程」與曲面晶體玻璃施工導致預算嚴重超支與工期延宕，但 2016 年底落成後其驚世的空間張力與豐田泰久近乎完美的聲學反饋，使大眾公論與批判媒體迅速轉為一面倒的讚譽"
+     ],
+     "tectonic_results": [
+       "完美實踐了「批判性地域文資再利用 (Adaptive Reuse)」的構造神話，利用原本承載數千噸沉重可可豆袋的 archaic 倉庫厚重承重牆（地景），成功轉化為支撐當代懸浮音響空腔（天空）的最穩固物理基座",
+       "10,000 片精密銑削石膏反聲板「白皮膚」與兼具管風琴隱藏、音響反射及照明功能的中央雕塑反射反聲盤，共同展現出高科技數位工程與室內構造極致融合的戲劇化表現力"
+     ]
+   }
+ }
+}

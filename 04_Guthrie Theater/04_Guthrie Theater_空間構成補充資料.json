@@ -1,0 +1,401 @@
+{
+  "project_name": "Guthrie Theater",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based on visible site plan, building sections, elevations, exterior photographs, and interior auditorium images contained in the uploaded case-study set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Site Plan",
+        "evidence": "Building relationship to riverfront edge, surrounding urban fabric, and access routes."
+      },
+      {
+        "type": "Building Sections",
+        "evidence": "Multiple longitudinal and transverse sections showing stacked theatres, public circulation, and support spaces."
+      },
+      {
+        "type": "Elevations",
+        "evidence": "North, south, east, and west façade drawings."
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photographs",
+        "evidence": "Overall building massing, cantilevered volumes, and riverfront relationship."
+      },
+      {
+        "type": "Interior Auditorium Photographs",
+        "evidence": "Audience configuration, stage geometry, and theatre atmosphere."
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Sectional Organization Analysis",
+        "evidence": "Venue stacking and vertical circulation relationships visible in building sections."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Multi-Venue Performing Arts Center",
+
+    "primary_program": "Drama and Live Performance",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Main Lobby",
+        "Public Gathering Space",
+        "Foyer",
+        "Observation Terrace",
+        "Vertical Circulation",
+        "Public Bridge"
+      ],
+
+      "BOH": [
+        "Backstage",
+        "Dressing Rooms",
+        "Technical Support Areas",
+        "Loading Facilities",
+        "Production Spaces",
+        "Stage Support Areas"
+      ],
+
+      "performance_spaces": [
+        "Large Thrust Theatre",
+        "Proscenium Theatre",
+        "Studio Theatre"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Vertically Stacked Theatre Complex",
+
+      "description": "Multiple performance venues are vertically organized within a single building envelope and connected through shared circulation and support infrastructure.",
+
+      "public_private_separation": "Strong",
+
+      "circulation_structure": "Public circulation forms a vertical network linking multiple performance venues and viewing platforms."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Multi-Theatre Vertical Cluster",
+
+      "description": "Independent theatres are combined into a single architectural organism organized around shared public and operational systems."
+    },
+
+    "vertical_organization": {
+      "lower_levels": [
+        "Service Areas",
+        "Loading Facilities",
+        "Technical Infrastructure"
+      ],
+
+      "middle_levels": [
+        "Performance Venues",
+        "Foyers",
+        "Public Circulation"
+      ],
+
+      "upper_levels": [
+        "Observation Spaces",
+        "Administrative Areas",
+        "Support Facilities"
+      ]
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Cantilevered Volume",
+      "Industrial Expression",
+      "Riverfront Landmark",
+      "Dark Cladding",
+      "Large Glazed Openings",
+      "Expressed Theatre Volumes"
+    ],
+
+    "materiality": [
+      "Metal Cladding",
+      "Glass",
+      "Concrete",
+      "Timber Interior Finishes"
+    ],
+
+    "atmosphere": {
+      "public_spaces": "Dramatic and civic",
+      "auditoria": "Immersive and audience-focused",
+      "urban_character": "Landmark cultural destination"
+    },
+
+    "contextual_relationship": {
+      "riverfront": true,
+      "industrial_context": true,
+      "urban_landmark": true
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 3,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "venue_name": "Wurtele Thrust Stage",
+        "evidence": "Large thrust auditorium visible in sections and interior photographs."
+      },
+      {
+        "theatre_id": "T2",
+        "venue_name": "McGuire Proscenium Stage",
+        "evidence": "Secondary frontal theatre visible in sectional organization drawings."
+      },
+      {
+        "theatre_id": "T3",
+        "venue_name": "Dowling Studio",
+        "evidence": "Smaller flexible venue visible in sectional and programmatic organization."
+      }
+    ],
+
+    "multi_theatre_complex": true,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Wurtele Thrust Stage",
+
+      "theatre_typology": "Thrust Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Classical Theatre",
+        "Large Scale Stage Productions"
+      ],
+
+      "estimated_capacity": {
+        "value": "700-1200",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "Surround",
+
+      "seating_geometry": "Horseshoe",
+
+      "stage_form": "Thrust Stage",
+
+      "auditorium_stage_relationship": "Thrust",
+
+      "transformability": {
+        "classification": "Fixed"
+      },
+
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    {
+      "theatre_id": "T2",
+
+      "theatre_name": "McGuire Proscenium Stage",
+
+      "theatre_typology": "Proscenium Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Musical Performance",
+        "Large Scale Theatre"
+      ],
+
+      "estimated_capacity": {
+        "value": "300-800",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "End-stage",
+
+      "seating_geometry": "Fan-shaped",
+
+      "stage_form": "Proscenium Stage",
+
+      "auditorium_stage_relationship": "Frontal",
+
+      "transformability": {
+        "classification": "Fixed"
+      },
+
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    {
+      "theatre_id": "T3",
+
+      "theatre_name": "Dowling Studio",
+
+      "theatre_typology": "Studio Theatre",
+
+      "primary_function": [
+        "Experimental Performance",
+        "Flexible Theatre",
+        "Contemporary Productions"
+      ],
+
+      "estimated_capacity": {
+        "value": "100-300",
+        "unit": "seats",
+        "confidence": "Low"
+      },
+
+      "audience_configuration": "Hybrid",
+
+      "seating_geometry": "Rectilinear",
+
+      "stage_form": "Flexible Stage",
+
+      "auditorium_stage_relationship": "Variable",
+
+      "transformability": {
+        "classification": "Variable"
+      },
+
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Multi-Theatre Performing Arts Center",
+
+    "hierarchy": {
+      "main_hall": "T1 Wurtele Thrust Stage",
+      "secondary_hall": "T2 McGuire Proscenium Stage",
+      "studio_theatre": "T3 Dowling Studio"
+    },
+
+    "shared_infrastructure": [
+      "Main Lobby",
+      "Foyer System",
+      "Vertical Circulation",
+      "Backstage Facilities",
+      "Technical Support",
+      "Loading Facilities"
+    ],
+
+    "operational_relationships": {
+      "venue_independence": true,
+      "shared_support": true,
+      "shared_public_space": true
+    },
+
+    "spatial_relationships": {
+      "organization": "Vertical Venue Cluster",
+      "venue_arrangement": "Stacked and interconnected performance spaces"
+    }
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "confidence_level": "Medium"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_cluster_organization": "Clearly Expressed",
+
+    "volume_in_volume_strategy": true,
+
+    "theatre_as_organizational_core": false,
+
+    "visibility_of_theatre_volume": "Clearly Expressed",
+
+    "description": "Distinct theatre volumes organize the building section and are legible within the overall architectural composition."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Major Regional Theatre Institution",
+
+    "programmatic_role": "Drama production, presentation, education, and public engagement",
+
+    "public_space_integration": {
+      "riverfront_destination": true,
+      "civic_gathering_space": true,
+      "urban_landmark": true
+    },
+
+    "architectural_expression_of_performance": {
+      "theatre_volumes_visible": true,
+      "dramatic_public_circulation": true,
+      "performance_integrated_with_architecture": true
+    },
+
+    "spectatorship": {
+      "multiple_viewing_models": true,
+      "diverse_performance_types": true,
+      "high_audience_engagement": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "multi_theatre_classification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "thrust_theatre_identification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "proscenium_theatre_identification": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "studio_theatre_identification": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "transformability": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    }
+  },
+
+  "knowledge_tags": [
+    "Guthrie Theater",
+    "Multi-Theatre Complex",
+    "Wurtele Thrust Stage",
+    "McGuire Proscenium Stage",
+    "Dowling Studio",
+    "Thrust Theatre",
+    "Proscenium Theatre",
+    "Studio Theatre",
+    "Vertical Venue Cluster",
+    "Riverfront Cultural Building",
+    "Volume-in-Volume",
+    "Performing Arts Center"
+  ]
+}

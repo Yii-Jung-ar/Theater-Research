@@ -1,0 +1,916 @@
+{
+  "project 01": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Oslo Opera House (奧斯陸歌劇院)",
+        "theater_scale_hierarchy": "國家級音樂與劇場機構 (Norway's largest music and theatrical institution)",
+        "gross_floor_area": "38,500 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (主廳)",
+          "seating_capacity": "約 1,370 席 (1,400 席為總體估算)",
+          "stage_type": "Horseshoe 鏡框馬蹄形劇院",
+          "primary_performance_type": "歌劇 (Opera)、芭蕾舞 (Ballet)",
+          "key_hardware_&_acoustic_conditions": "配備 16m x 16m 主舞台、11.8m 深下沉式舞台、兩側台與兩後台；高靈活性樂池升降台 (3 組獨立升降機)；側邊配備可調節鏡框寬度之活動式移動塔 (Mobile Towers)；天花板懸吊 8.5 噸兼具聲學反射功能之鏡片狀水晶吊燈 (Chandelier)；三層看台前緣與後牆採三維曲面固體橡木板與凸面反射面板以優化殘響時間。"
+        },
+        {
+          "hall_name": "Stage 2 (二號舞台)",
+          "seating_capacity": "最多 400 席",
+          "stage_type": "Flexible / Black Box 多功能黑盒子式",
+          "primary_performance_type": "歌劇、芭蕾、宴會、搖滾音樂會、實驗劇與兒童劇",
+          "key_hardware_&_acoustic_conditions": "無傳統吊桿塔 (Fly Tower)，改採大型電動滑輪系統控制布景與反射板；配備兩座大型升降台以調整階梯式觀眾席、樂池或將座椅車載運至地下室；舞台由可拆卸地板組成；以一只 9m 高滑動大門連通後台與景庫；內部置入獨立的高級構造物件，外飾高光澤紅面板，內飾金屬銀，並設有四座兼具照明、空調與聲學機能之技術天橋。"
+        },
+        {
+          "hall_name": "Rehearsal Room 1 (一號排練室)",
+          "seating_capacity": "150 席",
+          "stage_type": "Black Box 黑盒子式 (兼作公共表演空間)",
+          "primary_performance_type": "實驗性跨領域劇場、日常訓練與排練",
+          "key_hardware_&_acoustic_conditions": "具備高度音響減震消音牆面 (Acoustic Attenuation)；通過一條源自前台大廳沿南向立面的專屬通道引導公眾進入。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "挪威",
+        "city": "奧斯陸",
+        "urban_context": "濱水重劃區 (Bjørvika 半島前工業造船廠，為奧斯陸海濱都市更新策略之首要催化劑)"
+      },
+      "participants_&_operation": {
+        "architect": "Snøhetta (主導建築師)",
+        "client": "Statsbygg (挪威公共建設與財產管理局，代表 Ministry of Church and Cultural Affairs 負責規劃與管理)",
+        "end_user": "The Norwegian National Opera & Ballet (挪威國家歌劇與芭蕾舞團)",
+        "consultants": [
+          "Theatre Projects (劇場顧問)",
+          "Brekke & Strand Akustikk (聲學顧問)",
+          "Arup Acoustics (聲學顧問)",
+          "Ingeniør Per Rasmussen AS (電氣工程)",
+          "Reinertsen Engineering (結構工程)",
+          "NGI (地質工程)"
+        ],
+        "operator": "The Norwegian National Opera & Ballet (挪威國家歌劇與芭蕾舞團)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "將傳統上具有高度封閉性與階級感的世界級藝術機構，轉化為面向全體公眾開放的民主化都市基礎設施",
+        "在原為高污染、具備都市裂痕的工業歷史廢棄港口碼頭，重塑都市紋理、海濱自然景觀與公共生活的交織關係",
+        "多廳機能（主廳、多功能廳、大型排練室與高達 1000 間房的後勤工廠）之動線分流、聲學相互隔離，以及地下構造物應對地基沉陷之挑戰"
+      ],
+      "concept": [
+        "地毯 (The Carpet)：將公共空間與屋頂轉化為向都市與峽灣延伸、允許所有人自由漫步、共享產權的水平與斜向連續性幾何地景（實踐挪威傳統「自由漫遊權」allemannsretten 精神）",
+        "浪牆 (The Wave Wall)：以有機木質波浪牆壁面作為陸地與海洋、挪威與世界、日常與藝術之間的真實及象徵性「門檻」，成為公眾相遇藝術的交界面",
+        "工廠 (The Factory)：將後台複雜的藝術生產機能與工作坊，視為一個自給自足、理性規劃且具備高度功能彈性的生產機器"
+      ],
+      "strategy": [
+        "塊體斜向楔形下沉與水平延伸：建築體量向西、北兩側逐漸沉入水面，使屋頂直接與地面銜接，模糊建築與都市公共空間的邊界",
+        "功能帶垂直堆疊與一分為二：以一條南北向的「歌劇大街 (Opera Street)」為界，西側垂直堆疊公共大廳與劇場核心，東側佈置 3 至 4 層的生產車間與行政辦公區",
+        "跨界藝術整合與材質敘事：與藝術家深度合作，將 18,000 m² 的義大利 Carrara 白大理石屋頂編織成無重複的雕塑紋理；工廠外牆採用特殊壓印技術的工業鋁板皮層"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "proscenium stage",
+        "substage",
+        "side stage",
+        "rear stage",
+        "orchestra pit",
+        "horseshoe seating bowl",
+        "fly tower",
+        "chandelier",
+        "acoustic panels",
+        "convex wall panels",
+        "FOH lobby",
+        "atrium",
+        "grand staircase",
+        "glass curtain wall",
+        "glass fins",
+        "opera street",
+        "loading dock",
+        "scenery workshop",
+        "rehearsal rooms",
+        "green courtyard",
+        "public plaza",
+        "accessible sloping roof",
+        "waterfront promenade"
+      ],
+      "c2_semantic_relations": [
+        "Main Auditorium → embedded within (Spatial Relation) → Public Roofscape Landscape",
+        "Opera Street (North-South Corridor) → splits into Front-of-House and Back-of-House (Functional Relation) → Public/Stage Areas (West) & Production Areas (East)",
+        "Loading Dock (East-West) → splits back of house into (Spatial Relation) → Hard Workshops (North) & Soft Workshops/Changing Rooms (South)",
+        "Finished Scenery → moves through (Circulation Relation) → Loading Dock → Rear Stage Area",
+        "Grand Staircase → peels out of (Conceptual Relation) → Timber Wave Wall",
+        "Grand Staircase → provides access to (Circulation Relation) → Three Galleries around Auditorium",
+        "Glass Curtain Wall (Low-iron Glass with Glass Fins) → allows views into (Perceptual Relation) → Timber Wave Wall & Public Foyer",
+        "Generous Windows at Street Level → give a glimpse of (Perceptual Relation) → Scenery Workshop Activities",
+        "White Carrara Marble Carpet → seamlessly covers (Material & Tectonic Relation) → Roof and Lobby Ground Plane",
+        "Timber Wave Wall (Oak) → wraps around (Spatial Relation) → Horseshoe Main Auditorium Volume",
+        "Timber Wave Wall → acts as (Functional Relation) → Acoustic Attenuator within Foyer Space",
+        "Sound-insulated Rehearsal Rooms (Basement) → face with vegetation screen (Spatial Relation) → Central Green Courtyard"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民與遊客打破了傳統文化建築的拘束感，在可漫步的白色大理石斜屋頂上聚集、靜坐、野餐、滑板，冬季甚至進行雪橇活動，使建築徹底成為都市日常景觀",
+        "屋頂廣場（最多容納 15,000 人）與劇場級聲學大廳經常性地舉辦戶外音樂會、歌劇同步轉播及各類公眾活動，展現了極高的公共空間使用率",
+        "演職人員在 rationally planned 的「工廠」內，可透過高挑的貨梯、大尺度的滑動門直接在裝飾車間、大型排練室與舞台間高效運輸高達 9 米的布景物件"
+      ],
+      "discourse_&_criticism": [
+        "建築界讚譽其為「2007年最顯著的建築」並開創了「建築即地景 (Architecture as Landscape)」的全新範式，成功擺脫了地標建築常流於形式的「畢爾包效應」",
+        "獲頒密斯凡德羅獎 (Mies van der Rohe Award 2009) 與歐洲城市公共空間獎 (European Prize for Urban Public Space 2010)，評審團讚其為「給城市的禮物」與「都市組織再生的催化劑」",
+        "媒體（如《衛報》）給予極高評價，認為它在提供世界級音樂廳卓越物理聲學表現的同時，完美回應了民主、開放與 joint ownership（共同所有權）的社會學論述"
+      ],
+      "tectonic_results": [
+        "實踐了將海濱空間還給公眾的願景，成為奧斯陸最受歡迎的觀光景點與水岸文化區（包含後續 Munch 美術館、新圖書館）的都市發展基石",
+        "結合建築興建進行的大規模工業環境清理，成功讓受污染的海灣恢復至近百年來最乾淨的狀態，使得多種動植物回歸，衝擊力遠超單一建築藍圖而上升至國土海線復育層面",
+        "精準的材料接縫細部、與多位藝術家高度整合的壓印金屬板與不重複大理石切削工藝，展現出高精度的構造美學表現力，並在夜間透過巨幅高透玻璃幕牆，將溫暖的木質核心化為都市燈塔"
+      ]
+    }
+  }
+}
+
+
+
+{
+  "project 02": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Taipei Performing Arts Center (台北表演藝術中心)",
+        "theater_scale_hierarchy": "國際級/城市級公共表演藝術中心",
+        "gross_floor_area": "58,658 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Grand Theater (大劇院)",
+          "seating_capacity": "1,500 席",
+          "stage_type": "Proscenium 鏡框式劇院",
+          "primary_performance_type": "大型歌劇、芭蕾舞、戲劇、音樂劇",
+          "key_hardware_&_acoustic_conditions": "配備非對稱的當代鏡框形狀設計，並透過多功能大工廠（Super Theater/Central Cube）與藍色球形大劇院形體進行功能與後台系統的實時耦合。"
+        },
+        {
+          "hall_name": "Proscenium Playhouse (球劇場)",
+          "seating_capacity": "800 席",
+          "stage_type": "Spherical Proscenium 悬浮球形鏡框式劇院",
+          "primary_performance_type": "當代戲劇、舞蹈、中型音樂劇、跨領域實驗表演",
+          "key_hardware_&_acoustic_conditions": "懸浮於立方體之上的球體形狀（Sphere），觀眾席懸停於內殼與外殼之間，內部結構交錯，創造出獨特的聲學反射及前台大廳（Foyer）的幾何包覆感。"
+        },
+        {
+          "hall_name": "Blue Box (藍盒子)",
+          "seating_capacity": "800 席",
+          "stage_type": "Black Box / Variable 實驗型黑盒子式",
+          "primary_performance_type": "前衛戲劇、跨界多媒體藝術、前沿實驗表演",
+          "key_hardware_&_acoustic_conditions": "具備高度可變性與機能彈性，其舞台與後台端點可與大劇院進行物理性連通，組合成巨型大工廠（Super Theater）。"
+        },
+        {
+          "hall_name": "Super Theater (超級大劇場/大工廠)",
+          "seating_capacity": "2,300 席（推測，由大劇院與藍盒子組合而成）",
+          "stage_type": "Coupled / Extended Stage 耦合延伸式巨型舞台空間",
+          "primary_performance_type": "超大型史詩劇作、跨領域巨幅演出、特殊規格國際級展演",
+          "key_hardware_&_acoustic_conditions": "由大劇院（Grand Theater）與藍盒子（Blue Box）的舞台進行軸向貫通（Coupled），共享長達 100 米的中央大工廠（Central Cube）後台與軌道吊桿系統，可提供以往只能在工業工廠實現的巨型空間尺度與舞台配置。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲",
+        "country": "台灣",
+        "city": "台北",
+        "urban_context": "高密度都市中心 (鄰近士林夜市，具備極度活躍、混雜且充滿常民生命力的街道紋理與大眾運輸導向發展 (TOD) 節點)"
+      },
+      "participants_&_operation": {
+        "architect": "OMA (主導建築師：Rem Koolhaas, David Gianotten) / 姚仁喜 | 大元建築工場 (執行建築師 LDI)",
+        "client": "台北市政府 (Taipei City Government)",
+        "end_user": "多元表演藝術團體、市民、國內外藝術愛好者與夜市觀光人流",
+        "consultants": [
+          "Inside Outside (景觀與室內設計顧問)",
+          "Arup (結構工程、機電工程、建築物理聲學顧問)（推測）",
+          "姚仁喜 | 大元建築工場 (在地執行專業團隊)"
+        ],
+        "operator": "台北市文化基金會台北表演藝術中心（推測）"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "打破當代表演藝術劇場逐漸走向標準化、封閉化且與大眾日常社會生活脫節的內向型保守營運策略",
+        "在高密度的士林夜市基地、極度有限的都市土地邊界內，如何高效容納並整合三個完全不同尺度的劇場機能與後勤動線",
+        "如何將精緻的高雅文化艺术空間 (Highbrow Art) 與極具常民野性的在地街道文化 (Masses / Street Culture) 進行空間論述與機能上的雙向共榮"
+      ],
+      "concept": [
+        "劇場魔術方塊 (The Central Cube)：將三個獨立劇場的舞台與後台核心機能向內壓縮、拔高，拼貼並外掛（Plugged）於一個中央集約式的幾何立方體，實現資源的高效共享",
+        "公共導覽迴路 (Public Loop / The Loop)：一條專門面向大眾開放的免費空間基礎設施軌道，穿透劇院底層、後台技術空間及頂部平台，使非買票觀眾也能直觀體驗舞台生產背後的日常藝術「工廠」面貌",
+        "都市奇觀與舞台景觀 (Architecture as Public Spectacle)：將建築本體轉化為士林夜市街道的垂直延伸，劇場量體赤裸地向都市凸顯，使表演藝術與都市社會生活互為背景"
+      ],
+      "strategy": [
+        "外掛式幾何塊體操作 (Sphere-in-Box / Cube-and-Volumes)：將大劇院、球劇場與藍盒子作為顯著的特定幾何量體，從高懸於地面的中央立方體（Central Cube）中向外凸顯（Float/Plugged），留下底層地面的都市開放廣場",
+        "軸向大工廠耦合技術 (Super Theater Coupling)：將大劇院與藍盒子配置於中央立方體的相對兩端，藉由中央舞台軌道與防火隔音閘門的開啟，在水平軸線上將兩者融合成一座巨型連續表演空間",
+        "雙層波浪玻璃立面與結構巨拱：中央立方體外包覆深色的波浪玻璃（Corrugated Glass），與外掛的鋁質幾何體（如球劇場）形成材質上的虛實對比，並透過巨型鋼構桁架與核心筒將體量抬高，釋放地面的公眾動線"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "central cube",
+        "sphere volume",
+        "proscenium stage",
+        "asymmetric proscenium",
+        "blue box",
+        "super theater",
+        "stage",
+        "backstage",
+        "shared backstage system",
+        "shared foyer system",
+        "public loop",
+        "urban foyer",
+        "vertical circulation core",
+        "staircase",
+        "escalator",
+        "bridge",
+        "terrace",
+        "roof deck",
+        "structural frame",
+        "corrugated glass curtain wall",
+        "site plaza"
+      ],
+      "c2_semantic_relations": [
+        "Three Individual Theaters → plugged into (Spatial Relation) → Central Cube",
+        "Central Cube → lifts off the ground to create (Spatial Relation) → Sheltered Public Plaza & Urban Foyer",
+        "Public Loop → corridors escalate and penetrate through (Circulation Relation) → Central Cube, Backstage Infrastructure, and Technical Zones",
+        "Grand Theater Stage → horizontally couples with via Central Cube (Functional Relation) → Blue Box Stage",
+        "Shared Foyer System → continuous multi-level flow beneath (Circulation Relation) → Floating Sphere Volume & Grand Theater Bowl",
+        "Corrugated Glass Curtain Wall → wraps around and encloses (Material & Tectonic Relation) → Central Cube Industrial Core",
+        "Movable Soundproof Apertures → dynamically isolate or connect (Functional Relation) → Grand Theater and Blue Box",
+        "Vertical Circulation Cores → support and structure (Material & Tectonic Relation) → Cantilevered Theater Volumes",
+        "Public Loop Windows → allow visual access into (Perceptual Relation) → Secret Backstage Production & Rehearsal Activities",
+        "Elevated Roof Terraces → extend viewpoints toward (Perceptual Relation) → Surrounding Shilin Urban Night Market Landscape"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "士林夜市的逛街人流與日常市民被底層架空的巨型廣場吸引，在劇場下方停留、穿梭，使文化建築底層成為台北極具活力的「都市客廳（Urban Foyer）」",
+        "不特定的大眾透過「公共導覽迴路（Public Loop）」在建築內部上下漫遊，近距離觀看演職人員的排練與道具裝卸，打破了傳統精緻藝術與庶民生活的物理隔離",
+        "演職人員與舞台技術人員在「大工廠（Central Cube）」模式開啟時，能夠實時調動並組合兩個廳的後勤資源，體驗到前所未有的超大尺度空間實驗與調度可能"
+      ],
+      "discourse_&_criticism": [
+        "建築界視其為 OMA（雷姆．庫哈斯）繼西雅圖中央圖書館、CCTV 大樓後，對「公共建築機能重組與集約化」的又一激進空間宣言，顛覆了西方百年來固化的劇院範式",
+        "大眾媒體與公眾輿論曾對其前衛、甚至帶有工業未完工感的「皮蛋豆腐（圓球外掛方塊）」奇特視覺外觀引發兩極化的美學論戰與高度社會關注",
+        "專業評論讚譽其成功地將「劇場（Theater）」的黑盒子生產過程轉化為對都市開放的「社會公共景觀（Public Spectacle）」，是當代難得具有高度包容性與實驗性的民主化建築範例"
+      ],
+      "tectonic_results": [
+        "透過獨特的形式操作與高度集約的幾何塊體堆疊，在台北極高密度的都市裂縫中，成功創造了一個專屬全體市民的標誌性地標（Civic Landmark）",
+        "其實際運作模糊了高雅藝術與社會大眾的邊界，為台北的都市文化生活、市民聚集行為帶來了極強的視覺表現力與跨領域的創意衝擊",
+        "波浪玻璃皮層在夜間透出的工業與劇場技術燈光，使其在繁華雜亂的士林夜市霓虹燈火中，宛如一座巨大的當代文化生產機器與都市燈塔"
+      ]
+    }
+  }
+}
+
+
+
+{
+  "project 03": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Frederick P. Rose Hall / Jazz at Lincoln Center (林肯中心爵士樂廳 / 羅斯劇院) [cite: 601, 657]",
+        "theater_scale_hierarchy": "全球首座專為爵士樂設計之國家級/國際級多廳表演、教育與廣播綜合設施 [cite: 601, 644]",
+        "gross_floor_area": "14,590 m² (約 175,000 平方英呎) [cite: 614, 655]"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Rose Theater (羅斯劇院) [cite: 603, 689]",
+          "seating_capacity": "1,109 至 1,233 席 (亦有記載為 1,300 席) [cite: 603, 660, 770]",
+          "stage_type": "Horseshoe / Variable 鏡框馬蹄形至環抱式可變劇院 [cite: 606, 693, 765]",
+          "primary_performance_type": "爵士樂音樂會 (Jazz)、歌劇 (Opera)、舞蹈 (Dance)、戲劇 (Theater)、電影 (Film) 與交響樂 (Symphony) [cite: 605, 695]",
+          "key_hardware_&_acoustic_conditions": "設計靈感源自義大利小型歌劇院，觀眾與舞台最大距離不超過 95 英呎 [cite: 765, 774]；配置 11 座可移動式舞台座椅塔樓 (Movable Towers)，能自由在傳統鏡框式舞台與環抱式舞台（Theater-in-the-round）之間切換配置 [cite: 606, 693]；配置 83 英呎高之 BOH 吊桿空間 (Fly Space) [cite: 772]；配備可調式下沉樂池升降台（達三個層級，可用於增加座位或延伸舞台）[cite: 694]；硬體包含可伸縮式音樂廳天花板反射罩 (Retractable Concert Shell Ceiling)、精密可調式聲學窗簾與橫幅旗幕系統 (Acoustical Curtain and Banner System) [cite: 607, 690]；全廳構造採獨立浮動式「盒中盒（Box within a box）」抗震消音技術，背景噪音低於人類聽覺極限（NC-1 級音響防護）[cite: 661, 777, 780]。"
+        },
+        {
+          "hall_name": "The Appel Room / The Allen Room (阿佩爾廳 / 艾倫廳) [cite: 603, 659, 702]",
+          "seating_capacity": "310 至 600 席 (亦有記載為 500 席) [cite: 603, 663, 684]",
+          "stage_type": "Amphitheater 階梯扇形扇面圓形劇場 [cite: 663, 705]",
+          "primary_performance_type": "爵士樂、晚宴、社交舞會、企業活動與學術研討會 [cite: 612, 786]",
+          "key_hardware_&_acoustic_conditions": "靈感源自古希臘圓形劇場與 Rainbow Room [cite: 663]；舞台後方設置一面高 15.2 公尺、寬 25.3 公尺（50′ × 83′）的巨型低鐵玻璃幕牆幕皮，直接將中央公園與曼哈頓天際線作為舞台背景 [cite: 608, 706]；配置多層機械液壓式可調升降梯看台（幾何排布可由 7 層階梯劇場模式，平滑調整為 4 層寬闊平台之宴會廳模式）[cite: 707, 708, 785]；舞台底層可拆卸 [cite: 709]；為克服玻璃反射，其幕牆玻璃採特殊向外微傾角安裝以引導聲波向上反射 [cite: 787]，頂部懸掛黑色高密度聚苯乙烯幾何聲學擴散器 (Styrofoam Diffusers)，側牆採聲學透光織物包覆之吸音與反射交錯棋盤系統 [cite: 788, 789]；音響採高度定向指向性系統設計，達 NC-1 級防護 [cite: 790]（推測）。"
+        },
+        {
+          "hall_name": "Dizzy’s Club Coca-Cola (迪茲克拉克可口可樂俱樂部) [cite: 604, 659]",
+          "seating_capacity": "140 席 [cite: 604, 665]",
+          "stage_type": "Thrust / Club Intimate 伸展式親密爵士俱樂部廳 [cite: 719, 720]",
+          "primary_performance_type": "小編制爵士樂合奏、深夜現場演出、晨間租賃會議與私人宴會 [cite: 612, 718, 722]",
+          "key_hardware_&_acoustic_conditions": "高懸於綜合大樓內部的沙龍式俱樂部空間，配備全套獨立商業廚房支援 [cite: 611, 716]；空間採用高雅弧形竹製壁面 (Bamboo Walls) 包覆優化室內反射音質 [cite: 720]；同樣設有俯瞰中央公園與紐約天際線的專屬玻璃觀景窗，並配置獨立設計的聲學擴散器與吸音面板 [cite: 716, 792]。"
+        },
+        {
+          "hall_name": "Irene Diamond Education Center / Rehearsal Studio (艾琳鑽石教育中心/綜合錄音排練廳) [cite: 604, 686]",
+          "seating_capacity": "100-200席（推測，包含兩座大型排練工作室與一間常規教室） [cite: 686]",
+          "stage_type": "Flexible / Flat Floor 靈活平底無固定席多能空間 [cite: 794, 795]",
+          "primary_performance_type": "爵士大樂團排練、錄音、舞蹈排練、合唱與網路遠距教學 [cite: 756, 794, 795]",
+          "key_hardware_&_acoustic_conditions": "規模達 3,500 平方英呎，配置專業彈性避震木地板 (Sprung Floor) [cite: 686, 795]；具備極高硬體規格之全套頂級錄音室設施，聲學背景噪音亦嚴格隔離至 NC-1 級超靜音標準 [cite: 794, 798]；整個複合體所有劇場、排練與教學空間皆以高頻寬光纖線纜 (Fiber-optic Cable) 全面聯網耦合，任何空間皆可實時進行多通道影音廣播與高畫質同步錄製 [cite: 667, 799]。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲 [cite: 600]",
+        "country": "美國 [cite: 613]",
+        "city": "紐約市曼哈頓 (New York City, Manhattan) [cite: 602]",
+        "urban_context": "極高密度高層都市核心區 (嵌入哥倫布圓環 Columbus Circle 之 Time Warner Center 綜合體雙子塔裙樓 5 樓以上之高層商業內部) [cite: 602, 658]"
+      },
+      "participants_&_operation": {
+        "architect": "Rafael Viñoly Architects PC (主導建築師事務所) [cite: 647]；David Rockwell (負責 Ertegun Jazz Hall of Fame 之室內美學與藝術裝置設計) [cite: 669, 670]",
+        "client": "Jazz at Lincoln Center (林肯中心爵士樂協會，獲紐約市政府、紐約州及聯邦撥款與民間聯合資助) [cite: 730, 749, 750]",
+        "end_user": "Jazz at Lincoln Center Orchestra、客座國際知名演職人員、國內外樂迷、學生與社會大眾 [cite: 743, 797]",
+        "consultants": [
+          "Sound of Jazz (Artec Consultants, Inc. 與 Walters-Storyk Design Group, Inc. 共同組成的劇場規畫與聲學音響顧問聯盟) [cite: 640]",
+          "WSP (MEP 機電/消防工程顧問、電信與數據傳輸顧問) [cite: 636, 639]",
+          "Dewhurst Macfarlane & Partners (結構工程顧問) [cite: 638]",
+          "Flack & Kurtz (機電綜合工程) [cite: 651]",
+          "Cline Bettridge Bernstein Lighting Design, Inc. (外牆與室內照明顧問) [cite: 635]",
+          "Turner Construction Company (工程營運與營建經理) [cite: 632]",
+          "Cini-Little International, Inc. / Post & Grossbard (餐飲與廚房後勤顧問) [cite: 633]",
+          "Great Performances / Spoonbread Inc. (獨家特約餐飲營運商) [cite: 711, 721]"
+        ],
+        "operator": "Jazz at Lincoln Center (林肯中心爵士樂協會) [cite: 630]"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "功能定位與聲學特性之根本衝突：傳統大型音樂廳（如 Alice Tully、Avery Fisher Halls）專為古典不插電弦樂設計，其長殘響時間會使爵士樂乾脆的爵士鼓點、快節奏管樂模糊並產生大量乒乓餘音 [cite: 757, 759]。本案必須量身打造一種「不至於過度吸音、卻又能精確捕捉器樂溫暖與顆粒感」的短殘響爵士聲學空間 [cite: 760]",
+        "極端複雜的垂直高空嵌入與環境噪音控制限制：將三大專屬劇場置於繁華曼哈頓高密度商業裙樓之 5 樓以上高空，底層為大型購物商場與頂級餐廳 [cite: 741, 747]，地下緊鄰高震動、高噪音之 Columbus Circle 地鐵捷運交匯站 [cite: 776]。如何在保證各廳大面積透明景觀視窗的同時，徹底隔絕低頻都市震動噪音，達到錄音室級別的 NC-1 超靜音環境 [cite: 777, 778]",
+        "空間權益之民主論述論證：扭轉古典大劇院 19 世紀做法中「包廂作為社會階級觀念見證」的守舊象徵 [cite: 420]，反思爵士樂起源於市井街道、充滿互動性與即興對話的精神 [cite: 600, 744]，力圖在奢華的紐約商業中心地帶，建構一個拉近觀眾與樂手物理距離、具備平等精神的「常民音樂殿堂」 [cite: 748, 803]"
+      ],
+      "concept": [
+        "律動小屋/搖擺之家 (The House of Swing)：將爵士樂的親密、直接與高互動性作為空間的核心驅動力，使建築在精神上與物理上皆成為自由互動的藝術容器 [cite: 743]",
+        "城鎮公共廣場 (Town Square Design) 與新奧爾良門廊 (Porches)：將大劇場內部座椅視為社區公共廣場的聚落延伸，看台前緣木質方格包廂宛如紐約或新奧爾良街頭市民駐足的門廊，建立全方位的親密凝聚感 [cite: 660, 770]",
+        "融入都市紋理的文化巨幕 (The Monumental Window)：將劇場舞台與大堂前台視為城市公共生活的舞台（Urban Stage），透過正對 59 街軸線的大幅透明皮層，讓爵士樂的文化力量向街道散發、宣示存在感 [cite: 600, 609]"
+      ],
+      "strategy": [
+        "高空懸浮浮動隔震系統（Box-in-a-Box）：使整個 Rose Theater 與錄音工作室化為獨立於母體大樓的混凝土與鋼構浮箱，底部全系統支承於複雜的特製鋼構與不銹鋼、氯丁橡膠阻尼緩衝墊（Neoprene Padding）之上，斬斷固體傳聲與地鐵震動波 [cite: 661, 780, 781]",
+        "舞台幾何多態轉譯與可調聲學皮層：於 Rose Theater 中裝設 11 座重型鋼構懸空移動式座椅塔樓，並於舞台上方懸吊活動可收折式音響反射罩、隱藏式吸音帷幕旗幕系統，以硬體機械運動實時應對不同藝術門類的幾何排布與聲學配置 [cite: 606, 607, 690]",
+        "傾斜消音玻璃立面與幾何吸音棋盤：在 The Appel Room 的 15 米大片景觀玻璃上採取特定角度的向上微傾斜安裝，使聲音反彈至天花，並於側壁與頂棚佈置由黑色 Styrofoam 組成的多面體擴散模組與高透聲織物吸音棋盤格，平衡大視覺通透與極致聲學隔離 [cite: 706, 787, 788, 789]"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "main auditorium",
+        "performance stage",
+        "proscenium stage",
+        "movable towers",
+        "retractable concert shell ceiling",
+        "orchestra pit",
+        "adjustable lift",
+        "horseshoe seating arrangement",
+        "balcony tiers",
+        "wood veneer boxes",
+        "amphitheater",
+        "mechanical tiers",
+        "removable stage",
+        "glass wall enclosure",
+        "ertegun atrium",
+        "public lobby",
+        "vertical circulation cores",
+        "bamboo walls",
+        "box within a box",
+        "neoprene padding",
+        "acoustical baffles",
+        "styrofoam diffusers",
+        "rehearsal studio",
+        "fiber-optic cable"
+      ],
+      "c2_semantic_relations": [
+        "Rose Theater Volume → insulated and floating on (Material & Tectonic Relation) → Steel and Neoprene Padding",
+        "Rose Theater Box → nested inside (Spatial Relation) → Time Warner Center Building Framework",
+        "Eleven Movable On-stage Seating Towers → link in a gentle curve on (Conceptual Relation) → Theater-in-the-round Configuration",
+        "Eleven Movable On-stage Seating Towers → store against (Spatial Relation) → Back Wall of Traditional Proscenium Stage",
+        "Orchestra Pit → configured on (Functional Relation) → Adjustable Lift",
+        "Ertegun Atrium → serves as (Functional Relation) → Facility's Main Public Lobby",
+        "East-facing Windows → allow natural light and views into (Perceptual Relation) → Ertegun Atrium",
+        "15.2-meter-high Glass Wall → forms a backdrop for (Perceptual Relation) → The Appel Room Performance Stage",
+        "Glass Wall → tilted slightly upward to reflect sound toward (Functional Relation) → Ceiling Styrofoam Diffusers",
+        "Geometrically Shaped Black Styrofoam Diffusers → scatter sound down onto (Functional Relation) → Amphitheater Audience Seating",
+        "Seductively-curved Bamboo Walls → envelope and enclose (Material & Tectonic Relation) → Dizzy’s Club",
+        "Fiber-optic Cable Networks → interconnect (Other: Technological Communication Relation - 用於各空間音訊與高畫質視訊傳輸、錄製互聯) → All Performing, Rehearsal, and Classroom Spaces"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "觀眾在只有 90 到 95 英呎的最遠座席限制下，能極為清晰地捕捉爵士樂手撥弦、敲擊與呼吸的細節，台前圍繞的 Porches 門廊座椅設計極大促進了演出者與愛好者之間的「即興互呼應」與高度情感流動 [cite: 696, 766, 774]",
+        "非購票公眾與到訪賓客在白天常於陽光充足、擁有東向視野的 Ertegun 大中庭內駐留休憩 [cite: 730]；而夜間大批樂迷聚集於 The Appel Room 的階梯看台或 Dizzy’s Club，一邊享受現場演繹，一邊透過無死角巨幅玻璃凝視流光溢彩的紐約曼哈頓街景與中央公園 [cite: 703, 714, 720]",
+        "舞台調度與音響工程師能夠在極短的時間內，利用液壓機械平台將 The Appel Room 的 7 層劇院座席調整為 4 層寬闊平台用以舉辦盛大奢華的市民舞會或晚宴 [cite: 708, 785]；演職團隊亦可在 Rose Theater 將巨大移動式塔樓移至後台、降下 83 呎高空的幕布迅速切換成正規歌劇或話劇模式 [cite: 772]"
+      ],
+      "discourse_&_criticism": [
+        "建築與音樂評論界（如《紐約時報》、《紐約客》及《建築實錄》）對此給予極高的專業讚譽，公認其為「世界上第一個專門為爵士樂訂製設計的頂級表演聖殿」，具有里程碑式的歷史社會意義 [cite: 601, 622, 624]",
+        "建築師拉斐爾·維諾里（Rafael Viñoly）被譽為「宏大姿態的大師」，評審團授予其 USITT 美術優秀 Merit Award 與建築照明雜誌卓越成就獎 [cite: 620, 628, 629]，肯定其在極度苛刻的商業高樓中成功締造完美聲學奇蹟的硬核構造實力 [cite: 603, 661]",
+        "社會輿論對該空間給予了高度的民主化民主評價，極大讚揚了馬薩利斯（Marsalis）所堅持的「這不是少數文人雅士的奢侈玩物，而是用普羅大眾資助的、屬於全體紐約市民的 House of Swing（搖擺之家）」之社會平等主義營運論述 [cite: 743, 748, 749]"
+      ],
+      "tectonic_results": [
+        "在形式表現上，該大樓顛覆了傳統劇場多具有明顯正面與背面的封閉形象，透過面向 59 街軸線、高懸於都市高空的「巨型文化落地窗（The Monumental Window）」，向整座曼哈頓城市赤裸宣示了爵士樂作為美國最本土藝術的強大存在感 [cite: 600, 609]",
+        "在技術層面，完美實現了在震耳欲聾、地鐵交匯的商業都市地標核心內，創造出低於人類聽覺界限、宛如真空般 NC-1 殘響控制的極致寧靜錄音與展演環境，將高難度建築物理與前衛美學完美融合 [cite: 776, 777]",
+        "全設施高規格光纖網絡的互聯網架設，使該中心在落成後不僅是個實體劇場，更一躍成為全美乃至全球最重要的爵士樂全天候遠距教學、線上高清高畫質廣播與現場高音質數位唱片製作的文化創意生產基地 [cite: 601, 756]"
+      ]
+    }
+  }
+}
+
+
+
+{
+  "project 04": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Gran Teatre del Liceu (利塞奧大劇院) [cite: 810]",
+        "theater_scale_hierarchy": "國家級/國際級歷史歌劇院與文化中心 [cite: 861, 887]",
+        "gross_floor_area": "36,341 m² (重建與擴建後，原歷史建築約為 12,000 m²) [cite: 914]"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (大劇院音樂廳) [cite: 828]",
+          "seating_capacity": "2,320 席 [cite: 921]",
+          "stage_type": "Proscenium / Horseshoe 鏡框式馬蹄形傳統義大利歌劇院 [cite: 829, 955]",
+          "primary_performance_type": "歌劇 (Opera)、芭蕾舞 (Ballet)、交響樂與戲劇演奏 [cite: 925]",
+          "key_hardware_&_acoustic_conditions": "具備 14 公尺寬之鏡框式舞台embocadura [cite: 829]；配備全新現代化十字形立體舞台系統 (Cross-shaped Stage)，包含兩座主升降平台及整合式次級三公尺相對運動平台 [cite: 812, 1027]；地下設有大型貨車專用液壓升降台，可直達地下 4、8、12 公尺之深層景庫與裝配車間進行全自動電腦化換景 [cite: 1028, 1029]；舞台上方配置現代化鋼構布景吊桿塔 (Fly Tower System) [cite: 812, 917]；配備主動式水幕防火隔離鋼構安全幕 (Active Fire Curtain Layout) [cite: 991, 992]；觀眾席維持經典馬蹄形 5 層看台環抱幾何排布 [cite: 828, 850]，看台前緣採低 antepechos 結構 voladizos 設計優化聲音均勻度與視線 intimacy [cite: 1050, 1051]。"
+        },
+        {
+          "hall_name": "Foyer Polivalente (多功能地下前廳廳) [cite: 934, 935]",
+          "seating_capacity": "800 席 (容納人數) [cite: 934]",
+          "stage_type": "Flexible / Flat Floor 靈活平底無固定席多能空間 [cite: 935]",
+          "primary_performance_type": "室內樂演奏、中小型音樂會、文化活動、講座與票務活動 [cite: 936, 938]",
+          "key_hardware_&_acoustic_conditions": "位於主觀眾席（Platea）下方的全新挖深增建空間，具備高度隔音防護整合與全套獨立之空調控制網絡，可與 St. Pau 街新入口大堂進行流線無縫耦合 [cite: 934]。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "西班牙",
+        "city": "巴塞隆納 (Barcelona) [cite: 815]",
+        "urban_context": "極高密度歷史舊城中心紋理 (位於著名的 La Rambla 蘭布拉大道，夾處於密集城市歷史街廓 mitgeres 之間的轉角基地) [cite: 824, 842, 916]"
+      },
+      "participants_&_operation": {
+        "architect": "Lluís Dilmé, Xavier Fabré, Ignasi de Solà-Morales (1990-1998 重建與擴建主導建築師群) [cite: 840, 841]；Miquel Garriga i Roca (1844-1847 歷史原創建築師) [cite: 821, 822]；Josep Oriol Mestres (1862 第一期歷史重建建築師) [cite: 831, 832]；Lluís Domènech i Montaner (歷史咖啡廳局部改造建築師) [cite: 833, 834]；José V. Martí Estellés (1990 年代機電與綜合設備工程總負責人) [cite: 1034]",
+        "client": "Consorci del Gran Teatre del Liceu (利塞奧大劇院公眾財團聯合會) [cite: 816]",
+        "end_user": "巴塞隆納市民、國際歌劇與芭蕾舞藝術表演團體、歌劇受眾與國內外觀光人流 [cite: 890, 900]",
+        "consultants": [
+          "TEST JG Consultoría / JG Ingenieros (建築運行維護管理、能源與水冷中央機房更換審計顧問) [cite: 858, 865]",
+          "Pirelli Cables y Sistemas (全設施無鹵素防爆高安全 Afumex 電纜網絡與中央配電盤構造顧問) [cite: 891, 893]",
+          "UTE ESA: EMTE, SULZER, AGELECTRIC (劇院綜合機電與空調管道 UTE 工程聯合體) [cite: 1035]",
+          "UNITEK / AGECONTROL (自動化大樓中央計算機控制系統與結構化綜合佈線技術顧問) [cite: 1041, 1042]"
+        ],
+        "operator": "Fundació del Gran Teatre del Liceu (利塞奧大劇院基金會營運管理單位) [cite: 870]"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "創新與記憶之空間張力論證（Innovation vs. Memory）：在 1994 年毀滅性大火後，如何兼顧「原地、原樣重建」具備極高空間凝聚力與神聖歷史符號的古典音樂大廳，同時置入 21 世紀最尖端的全自動化劇院生產機器、反恐防火安全構造與世界級舒適度指標 [cite: 847, 849, 850]",
+        "極小歷史邊界內的塊體膨脹限制：在狹窄、mezquino 且與兩側民房共用 mitgeres 的古城歷史街區內，如何在完全不破壞 Rambla 歷史立面的前提下，將總面積由 12,000 m² 擴張近三倍至 36,000 m²，以置入龐大的現代側台、景庫、多功能排練廳與高達 40 米深的地下升降機坑 [cite: 913, 914, 930]",
+        "水文與環境物理聲學隔離挑戰：新劇場地底最深處達負 23 公尺至 40 公尺，而都市地下水位（Nivel Freàtic）卻高懸於地底負 9 公尺處，必須在強大水壓下建立全密封的止水防水圍護，並將重型舞台電機噪音與古典音樂殘響進行完美的 Functional Isolation [cite: 930, 931]"
+      ],
+      "concept": [
+        "廢墟上的鳳凰涅槃與符號延續（The Rebirth of an Identity）：不把大火視為與歷史的斷裂，而是將倖存的「Sala dels Miralls（鏡廳）」、古希臘中庭大堂與馬蹄形看台重塑為巴塞隆納集體記憶與加泰隆尼亞文化主權的圖章 [cite: 852, 900, 910]",
+        "多態疊加與空間的「十字拼貼」：將劇院後半部分的後台、生產車間與行政辦公區，視為一架高度理性的、以現代形式與十字形現代舞台（Cross-shaped Stage）為核心的文化生產工廠 [cite: 812, 853]",
+        "不對稱中的都市滲透（Urban Infiltration）：藉由在 St. Pau 側街開闢全新第二通廊入口與多功能地下 Foyer，將原本只面向 Rambla 的封閉性單向歷史邊界轉化為多向度的都市毛細血管網絡 [cite: 934]"
+      ],
+      "strategy": [
+        "新舊體量一體化包裹（Volume Encapsulation）：設計一座全新的巨型新 badalot 屋頂罩體，將歷史音樂廳上方超高的現代化鋼構布景吊桿塔與大廳體量融合成單一宏大的現代幾何塊體，向都市彰顯機能豐富性 [cite: 855, 917]",
+        "深度開挖與地下「垂直逆向功能分流」：在保留地面看台外壁的同時，垂直向下開挖深達 23-40 米之岩層，將以往堆置於地面的龐大道具庫、裝配換景車間逆向置於地底，透過信息化液壓升降台在演出實時進行三維舞台調度 [cite: 926, 1029]",
+        "物理弱電高階分離與分級防火阻隔：將電力變壓系統嚴格拆分為「一般動力/空調」與「Dimmers/舞台電機」兩條獨立線路，利用乾燥式變壓器作為物理濾波器阻止高頻諧波干擾音響訊號 [cite: 947, 948, 952]；全棟鋪設無鹵素低煙 AFUMEX 電纜，並以 800 個光學感熱探頭聯網防煙閘門進行區域空間鎖定 [cite: 972, 981, 985]"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "main auditorium",
+        "proscenium stage",
+        "cross-shaped stage",
+        "orchestra pit",
+        "fly tower",
+        "stage house",
+        "side stage zones",
+        "backstage area",
+        "under-stage machinery zone",
+        "loading platform",
+        "rigging loft",
+        "technical galleries",
+        "balcony tiers",
+        "private boxes",
+        "dimmers",
+        "fire curtain",
+        "sprinklers",
+        "entrance hall",
+        "public foyer",
+        "sala dels miralls",
+        "staircase",
+        "vertical circulation cores",
+        "neoclassical facade"
+      ],
+      "c2_semantic_relations": [
+        "Main Auditorium → occupies central position in (Spatial Relation) → Original Building Envelope [cite: 850]",
+        "New Badalot (Roof Volume) → integrates and wraps (Material & Tectonic Relation) → Fly Tower and Grand Main Auditorium [cite: 855]",
+        "Proscenium Stage → directly connected beneath (Spatial Relation) → Fly Tower and Rigging Loft [cite: 812]",
+        "Two Main Elevating Platforms → lift sets from (Circulation Relation) → Under-stage Machinery Zone (-12m) → Proscenium Stage Level (0m) [cite: 1027]",
+        "Truck Loading Platform → drops vehicular loads to (Circulation Relation) → Underground Backstage Service Levels (-4m, -8m, -12m) [cite: 1028]",
+        "Active Fire Curtain → physically isolates at proscenium opening (Functional Relation) → Stage House from Main Auditorium [cite: 991, 992]",
+        "Audience Circulation Corridors → wrap concentrically around (Circulation Relation) → Horseshoe Balcony Tiers [cite: 1051]",
+        "New Public Foyer → structurally excavated beneath (Spatial Relation) → Stalls Seating (Platea) [cite: 934]",
+        "New Entrance and Vestibule (Sant Pau Street) → flows into (Circulation Relation) → New Public Foyer [cite: 934]",
+        "Majestic Marble Staircase → branches out from (Circulation Relation) → Greek-order Entrance Hall [cite: 825]",
+        "Dimmers (Lighting Regulators) → feed harmonics back into (Other: Technical Grid Interrelation - 產生電磁諧波反饋干擾) → Electrical Supply Network [cite: 950]",
+        "Dry Transformers (2000 KVA) → act as an electromagnetic filter between (Functional Relation) → Lighting/Machinery Grid and General Power Supply [cite: 944, 952]"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "持票觀眾在演出前常聚集於富麗堂皇的「鏡廳（Sala dels Miralls）」或由馬理斯大理石鋪設的宏偉中央階梯拍照、流連，體驗高度 Ceremonial 儀式性的文藝復興式社交生活 [cite: 825, 852, 910]",
+        "龐大的市民階層、無持票觀光客則被引導至全新開闢的 St. Pau 街道入口與地下多功能大前廳，在此處進行跨界音樂交流、選購唱片，使原本高冷封閉的古典劇院邊界化為積極活躍的常民都市公共空間 [cite: 934, 936]",
+        "後勤裝卸團隊與機械工程師可直接在劇院地底下，藉由全自動中央計算機編程，平滑調度並預先拼裝未來兩到三個劇目的重型史詩級布景，隨後以液壓裝置升入舞台，實現了高效率、不中斷的全球一流水準劇目輪替營運 [cite: 926, 1029]"
+      ],
+      "discourse_&_criticism": [
+        "利塞奧大劇院被加泰隆尼亞與巴塞隆納人民公認為「國家自身集體身分認同的最高空間圖騰（Representació de la seva pròpia identitat）」，其浴火重生的速度與質量引發了全歐洲文化界的集體震撼與極高讚譽 [cite: 883, 899, 900]",
+        "建築與歷史遺產評論界極力稱讚其由 Solà-Morales 領銜的「創新與記憶雙軌並行（Tensió entre la Innovació i la Memòria）」空間哲學，認為它提供了一個「在原址精確還原歷史聖殿、同時在後方植入21世紀全新現代化功能外殼」的極致典範 [cite: 849, 853, 884]",
+        "部分技術媒體與重型機電工程期刊高度推崇其「歐盟單一 unified 400V 電壓超前實踐」與「Afumex 零毒性高速電纜網」的硬核基礎設施配置，公認其技術安全冗餘與防震隔音指標已超越同期的巴黎歌劇院與米蘭斯卡拉大劇院 [cite: 944, 951, 972]"
+      ],
+      "tectonic_results": [
+        "設計團隊成功在寸土寸金、邊界極度受限的加泰隆尼亞老城區核心，以驚人的高密度地下構造切削技術， multiplied 將其可用公共與生產面積擴張近三倍，徹底解決了困擾劇院一世紀之久的「體量Congestion（內部循環擁堵）」宿命 [cite: 914, 1048]",
+        "新 badalot（大屋頂構造）的嵌入，雖然在歷史天際線上呈現出一個巨大的現代化單一立方塊體，但其精準對齊了劇場原始的幾何中軸，完美回應了百年歷史建築的佈局脈絡與都市公共地標存在感 [cite: 855]",
+        "全設施高達 800 個點對點光學智慧型探頭、主動式噴淋系統及耐 400°C 高高溫的排煙防爆機房的建立，使這座曾兩度毀於祝融的古老文化容器擁有了近乎絕對安全的防禦裝甲，成功幫助利塞奧大劇院大步跨入21世紀的下一個五十年 [cite: 892, 981, 995]"
+      ]
+    }
+  }
+}
+
+
+
+{
+  "project 05": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Teatro Degli Arcimboldi (TAM)",
+        "theater_scale_hierarchy": "國家級/歌劇院級大型綜合劇院（起初作為米蘭斯卡拉歌劇院維修期間的替代場館，後轉為獨立營運之多功能文化地標）",
+        "gross_floor_area": "18,400 m² (總樓地板面積)；其中 7,400 m² 用於觀眾與公眾空間，11,000 m² 用於後台生產製作"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "主劇院 (Main Auditorium)",
+          "seating_capacity": "2,346 席（部分資料記載為 2,375 席）",
+          "stage_type": "Proscenium 鏡框式舞台",
+          "primary_performance_type": "歌劇 (Opera)、交響樂 (Symphony)、芭蕾舞 (Ballet)、現代舞 (Modern Dance)、流行與爵士音樂會 (Pop/Jazz Concerts)、音樂劇 (Musical) 及綜合舞台劇 (Drama)",
+          "key_hardware_&_acoustic_conditions": "配置全義大利最大的舞台（平面尺寸 50 x 40 米），30米高的舞台齒輪塔/布景吊桿塔 (Stage Tower/Fly Tower)，舞台開口為 16 x 12 米。觀眾席採雙層 Platea (主池座) 與兩層懸挑 Gallerie (樓座/歌劇院畫廊) 配置。物理聲學採「 cassa armonica (共鳴箱)」概念設計，艙體覆蓋紅色木質面板並配置可調節凹面聲學反射板 (adjustable concave acoustic panels)，天花板採特殊石膏造型研究以優化聲學擴散。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "義大利",
+        "city": "米蘭",
+        "urban_context": "位於米蘭市中心以北約 4.5 英里的 Bicocca (比可卡) 區。該基地原為 Pirelli (倍耐力) 輪胎工廠，屬於工業重劃/都市更新區域，現已轉型為集大學、當代藝術中心（如 Hangar Bicocca、電影資料館等）於一體的複合型高密度都市紋理，具備高度發達的大眾運輸導向 (TOD) 基礎設施網絡。"
+      },
+      "participants_&_operation": {
+        "architect": "Vittorio Gregotti (主導建築師 / Gregotti Associati International)，共同協作：Mario Botta, Elisabetta Fabbri；在地協作與分工團隊：Augusto Cagnardi, Pier Luigi Cerri, Carlo Magnani, Michele Reginaldi",
+        "client": "米蘭市政府 (Comune di Milano) 與 倍耐力地產 (Pirelli Real Estate) 共同合作開發",
+        "end_user": "米蘭斯卡拉歌劇院駐團（初期）、大眾市民、國內外巡演劇團與藝術家",
+        "consultants": [
+          "BCV Progetti (結構工程 / Progetto strutturale)",
+          "Castiglioni (照明設計 / Lighting Designer)",
+          "米蘭市政府與斯卡拉歌劇院聲學專家團隊 (聲學顧問 / 推測)"
+        ],
+        "operator": "TAM (Teatro Arcimboldi Milano) 營運管理單位 / 產權屬於地方公共團體 (Ente pubblico territoriale)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "在短短 27 個月的極端時間限制內，建造一座規模與技術指標完全比照米蘭斯卡拉歌劇院（Teatro alla Scala）的暫代場館，以確保其維修期間歌劇賽季不中斷，同時面臨極高要求的歌劇/交響樂建築物理聲學挑戰。",
+        "在遠離傳統都市中心的工業廢棄邊緣（Pirelli 舊輪胎廠區）置入大型文化基礎設施，必須突破「歌劇院必在市中心」的傳統都市教條，並承擔帶動整個 Bicocca 地區由工業廢墟向當代藝術更新區轉型的地標性任務。",
+        "解決高達 2,400 人流在大型前台公共空間與都市基礎設施、停車場、地鐵、鐵路等交通節點之間的快速分流與動線引導。"
+      ],
+      "concept": [
+        "將建築隱喻為一個向都市發聲的「巨大灰色喇叭/擴音器 (gigantesco megafono)」，透過純粹、本質且簡練的幾何體量，外顯劇場內部的功能邏輯與聲音流向。",
+        "實踐 Hermann Mathesius 的傳統包浩斯哲學「從湯匙到城市 (dal cucchiaio alla città)」，將建築設計、室內細部、照明燈具、聲學構件至整體的都市重劃紋理，視為一個高度尊重歷史地緣脈絡、一體化設計的幾何連續體。",
+        "藉由通透的巨幅弧形斜面玻璃幕牆，將前台大廳（FOH Lobby）塑造為都市公共廣場的延伸，模糊室內外邊界，展現文化設施的當代市民性與公共開放度。"
+      ],
+      "strategy": [
+        "體量三段式清晰堆疊操作：將複雜機能切分為明確可讀的三大幾何實體——「前台公共區（弧形斜面玻璃體）」、「觀眾席艙體（主要長方形體）」與「舞台塔（高聳立方體）」，以外顯形式表露內部機能的分流。",
+        "雙層懸挑與剖面高差操作：觀眾席內部設置雙層 Platea 池座與雙層 aggettanti（懸挑）樓座，後側服務 corridors 同步向中庭 vestibolo 懸挑，創造豐富的垂直幾何層次；地底剖面下挖設置下沉花園、地下餐廳與停車場，藉由螺旋梯（scala a elica）進行垂直整合。",
+        "材質構造的本土對話與一體化光影策略：外部採用義大利北部傳統的磚紅/白色灰泥抹面 (intonaco)，基座包覆黑金剛石/黑色大理石 (granito/marmo nero) 以確立基座厚重感；室內鋼柱外圍圍繞客製化的 12 盞雙色調光冕燈（crown of 12 dichroic lamps），藉由大玻璃牆形成光影繁複反射，達到結構、照明與皮層一體化。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "main auditorium",
+        "proscenium stage",
+        "orchestra pit",
+        "fly tower / stage house",
+        "stage tower volume",
+        "stage rigging zone",
+        "backstage circulation",
+        "side stage zones",
+        "rehearsal rooms",
+        "dance rehearsal room (piano 7)",
+        "singing rehearsal room (piano -1)",
+        "auditorium seating bowl",
+        "platea (stalls seating level)",
+        "prima galleria (first gallery)",
+        "balcony tiers",
+        "FOH lobby",
+        "entrance hall / vestibolo",
+        "stairwells / staircases",
+        "scala a elica (spiral staircase)",
+        "green elevator",
+        "curtain wall (glass and steel)",
+        "entrance canopy",
+        "main entrance plaza",
+        "exterior forecourt / urban plaza",
+        "sunken garden",
+        "acoustic timber finishes / wooden panels",
+        "movable concave acoustic panels",
+        "molded plaster ceiling",
+        "glass sound-reflection panels",
+        "semi-circular chandelier"
+      ],
+      "c2_semantic_relations": [
+        "Fly Tower / Stage House → vertical stack above (Spatial Relation) → Proscenium Stage",
+        "Sunken Garden → adjacent and open to (Spatial Relation) → Singing Rehearsal Room & Restaurant (Piano -1)",
+        "Entrance Canopy → projects over and marks (Conceptual Relation) → Main Entrance Plaza",
+        "Glass and Steel Curtain Wall → encloses and allows views into (Perceptual Relation) → FOH Lobby",
+        "Balcony Tiers & Stalls Balconies → overlook and project into (Spatial Relation) → Entrance Hall / Vestibolo",
+        "Scala a elica (Spiral Staircase) → connects ground floor with (Circulation Relation) → Sunken Garden & Restaurant (Piano -1)",
+        "Green Elevator & Main Stair Systems → distribute audiences vertically to (Circulation Relation) → TAM Bar (Piano +1) & Balcony Tiers",
+        "Acoustic Timber Finishes & Wooden Red Panels → coat and line inside of (Material & Tectonic Relation) → Auditorium Seating Bowl",
+        "Movable Concave Acoustic Panels → attached onto (Material & Tectonic Relation) → Balcony Tiers Fronts",
+        "Glass Sound-Reflection Panels & Molded Plaster Ceiling → function as cassa armonica inside (Functional Relation) → Main Auditorium",
+        "Dedicated Backstage Circulation → strictly isolates performers from (Functional Relation) → FOH Lobby & Public Circulation Corridors",
+        "Dance Rehearsal Room (Piano 7) → mirrors scale and slope of (Conceptual Relation) → Proscenium Stage"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "觀眾與市民在演出前後大量聚集於寬敞的入口廣場與高大通透的玻璃前廳，大面積的玻璃幕牆使前廳內活動、吧台區 (TAM Bar) 的社交行為外顯為城市夜景的一部分。",
+        "演職人員、舞蹈家、高達百人的大型交響樂團得以在後台專屬的頂層舞蹈教室（Piano 7）以及完全隔音、可移動牆體分隔的地下大排練廳（Piano -1）進行高效率的生產排練，前後台動線完全分離，營運流線順暢。",
+        "餐廳 (Dal Milanese) 成功由起初僅服務斯卡拉員工的內部食堂轉型為面向公眾開放的特色餐飲，吸引非觀劇人潮在地底與下沉花園停留。"
+      ],
+      "discourse_&_criticism": [
+        "該案作為義大利數十年來首座新建的大型歌劇院設施，在建築界獲得了「理性主義與當代技術完美結合」的高度評價，被譽為訴說米蘭世紀之交工業轉型的當代建築文化圖騰。",
+        "初期曾面對關於「地處邊遠外圍、違反歌劇院位於老城中心之傳統」的都市論述質疑，但隨著 La Scala 樂季在此順利演出、 Riccardo Muti 指揮的開幕劇《茶花女》獲得巨大成功，大眾輿論與專業媒體對其逼近斯卡拉標準的精湛建築物理聲學與視線給予了極高讚譽。",
+        "此案亦因在短短 27 個月的超短週期內、以 850 億里拉的預算高效落成，且功能邊界劃分極其嚴謹，被視為大型公共文化工程的高效典範，而非爭議性的財務黑洞。"
+      ],
+      "tectonic_results": [
+        "設計者 Vittorio Gregotti 透過此案完美實踐了其反現代主義通用教條、強調「歷史與地理脈絡對話」的理論。建築不追求炫目的自由曲面雕塑感，而是以極其嚴謹、雄渾的幾何塊體呼應其所在的 Bicocca 工業歷史基地紋理。",
+        "劇院落成後，成功發揮了強大的都市催化劑（Urban Catalyst）效應，成功作為核心樞紐，將一個昔日的藍領工人階級工廠區，強力拉動轉型為集當代藝術中心、大型大學校區、電影學院於一體的米蘭北部新文化重鎮。",
+        "內部「喇叭」與「共鳴箱」的幾何構造操作，使建築在落成後展現出極強的空間polivalenza（多功能適應性），在其結束「斯卡拉代班」的歷史使命後，完美轉型為能從容接納爵士、流行、古典、音樂劇等全方位當代藝術的殿堂。"
+      ]
+    }
+  }
+}
+
+
+
+{
+  "project 06": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Schauspielhaus Düsseldorf (D'haus 杜塞道夫戲劇院)",
+        "theater_scale_hierarchy": "雙廳型市立綜合戲劇院/具歷史古蹟地位之國家級 post-war 建築文化地標 [cite: 174, 190, 218, 220]",
+        "gross_floor_area": "19,000 m² (總樓地板面積/GFA) [cite: 215]"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "主劇院大廳 (Main Auditorium / Great Hall)",
+          "seating_capacity": "未知（前次於 2010/11 年由建築師 Jörg Friedrich 進行內部整修，本次更新案予以保留 intact，但未提及具體座位數） [cite: 227]",
+          "stage_type": "Proscenium-like Stage 類鏡框式舞台 [cite: 227]",
+          "primary_performance_type": "話劇/舞台劇 (Drama)、口述劇場 (Spoken-word Theatre) [cite: 192, 251]",
+          "key_hardware_&_acoustic_conditions": "佔據主要建築體量核心，採 End-stage 配置與扇形（Fan-shaped）觀眾席幾何佈局 [cite: 227]。舞台上方設有高聳的輕微傾斜式布景吊桿塔/摺棚屋頂 (gently sloping tent roof above the fly tower) [cite: 230]。在本次整修中兩大廳功能維持未動 [cite: 196, 227]。"
+        },
+        {
+          "hall_name": "次要劇院/實驗劇場 (Secondary Auditorium / Studio Theatre)",
+          "seating_capacity": "未知（本次整修予以保留未動，未提及具體座位數） [cite: 196, 227]",
+          "stage_type": "未知（平面圖顯示為較小 footprint 的非固定多功能/次要表演舞台空間）",
+          "primary_performance_type": "實驗性劇場、當代戲劇、中小型舞台劇 [cite: 192, 251]",
+          "key_hardware_&_acoustic_conditions": "與主劇院並置（Side-by-side）於同一建築外殼內，共享前台公共大廳、入口廣場與基礎設施網絡 [cite: 196]。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "德國",
+        "city": "杜塞道夫 (Düsseldorf) [cite: 176]",
+        "urban_context": "位於 Gustaf-Gründgens-Platz 1 號廣場，地處高密度的商業與市中心文化核心區 [cite: 191, 213]。劇院緊鄰著名的戰後現代主義摩天大樓 Dreischeibenhaus 以及新型綠色幕牆地標 Kö-Bogen II，建築後側緊鄰 Hofgarten 公共歷史公園，構成都市硬質廣場與軟質綠帶景觀的關鍵交界節點 [cite: 193, 197]。"
+      },
+      "participants_&_operation": {
+        "architect": "Bernard Pfau (1965–1970 原始設計建築師) [cite: 192]；ingenhoven associates (2018–2022 永續翻新與再利用主導建築師 / Christoph Ingenhoven, Oliver Ingenhoven 等團隊) [cite: 179, 180]",
+        "client": "杜塞道夫市政府 (State Capital Düsseldorf，負責屋頂與修復外牆) 及 Neue Schauspiel GmbH (負責公共區域與室內整修) [cite: 178, 263, 264]",
+        "end_user": "D'haus 劇團、市民大眾、專業演職人員、戲劇藝術家 [cite: 187, 222]",
+        "consultants": [
+          "Werner Sobek AG (屋頂與外牆結構、建築物理與外牆設計顧問) [cite: 269, 271, 278]",
+          "VDS Statik und konstruktiver Ingenieurbau (公共區域結構工程) [cite: 270]",
+          "Tropp Lighting Design GmbH (整體室內外照明設計顧問) [cite: 274]",
+          "ISRW Dr.-Ing. Klapdor GmbH (公共區域建築物理/聲學顧問) [cite: 277]",
+          "Farb-Bau Prof. Friedrich Schmuck (原始色彩分析與古蹟修復諮詢) [cite: 281]",
+          "Petra Blaisse / Inside Outside (客製化室內牆面窗簾設計) [cite: 297]",
+          "Hahlhege & G + N Consult (專案營運營建管理團隊) [cite: 267, 268]"
+        ],
+        "operator": "Neue Schauspiel GmbH / 杜塞道夫市文化局共同管理營運 [cite: 178, 264]"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "古蹟保存與現代化機能的衝突：劇院於 1998 年列為歷史古蹟，因年代久遠其屋頂、外牆、機電消防系統及員工遊憩環境皆不符合當代現代化劇院標準，且存在潛在危險的構造損傷，需在嚴格的古蹟保護法規下完成修復 [cite: 217, 220, 221]。",
+        "1960年代都市規劃的缺陷（都市閉鎖感）：原始建築師 Pfau 因當時的交通政策被迫將主入口移至面向市區廣場側，卻未重新梳理內部基礎設施，導致前台大廳產生極強的面對 Hofgarten 公園的空間封閉感與動線混亂，無法與周邊都市紋理真正融合 [cite: 197, 198, 299]。",
+        "原始構造更新之技術挑戰：長達 16-17 米的原始無接縫鋼板外牆及 Thyssen 專用特殊卡扣基座已無法在保留原樣的狀況下升級，必須以新技術全面研發替代材質以完美再現原始設計精神 [cite: 201, 234, 235]。"
+      ],
+      "concept": [
+        "「劇場作為市民的城市雕塑 (Theatre as civic sculpture)」與「朝向城市 360 度開放的文化界膜」 [cite: 199]。透過將舊有封閉元素剝離，改採極致通透的清透玻璃（clear glass），令整棟建築在厚重的防護古蹟外殼下展現 buoyant lightness (浮動的輕盈感) [cite: 283, 301]。",
+        "「歷史色彩與當代介入的幾何辯證」：基於 Pfau 檔案庫研究進行色彩學考古，以明亮色調重現 1970 年完工之原始面貌，並將當代新置入的機能構造（如更衣室、新洗手間）統一採啞光炭灰色（gray anthracite）或霧黑色處理，創造新舊紋理之間誠實且克制的幾何對話 [cite: 204, 206, 297]。"
+      ],
+      "strategy": [
+        "入口節點重塑與 360 度公共軸線：拆除後續增建的封閉票務亭，在 Gustaf-Gründgens-Platz 廣場前置入一個全新通透的圓形玻璃票務亭（Düsseldorfer Schauspielhaus 2 Pavilion） [cite: 200, 240, 300]；同時打造一個全新的雙層玻璃前庭（double-glazed vestibule）和大型多媒體影像牆（video wall），重組主入口，讓公眾視線能從廣場面對劇院前廳一路延伸貫穿至後側的 Hofgarten 歷史公園 [cite: 199, 200, 301]。",
+        "外牆與屋頂系統的構造性置換 (Tectonic Replacement)：將 17 米長的原廠鋼板與基座全數拆除，以當代輕量化鋁合金面板系統（lightweight aluminum panels）結合最新的熱絕緣隔熱技術（thermal insulation standards）完全重新打造成無接縫的連續白色曲面雕塑外殼，並在多層次的平屋頂與 fly tower 帳篷屋頂上全面實施廣泛綠化（extensive greening） [cite: 201, 202, 231, 232]。",
+        "後勤流線界線隔離（景觀構築學）：在後台區域更新藝術家入口與卸貨區（delivery/disposal zone），藉由建造一座全新的現澆清水混凝土視覺屏障牆（visual screen in concrete），在極小基地內精準分離藝術家進出場與後勤重型物流的動線衝突，並透過全區統一的地板鋪面設計（new floor finish）將劇院與都市廣場在視覺上無縫縫合 [cite: 243, 244]。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "main auditorium",
+        "secondary auditorium",
+        "fly tower",
+        "gently sloping tent roof",
+        "flat roofs",
+        "foyer",
+        "lobby",
+        "double-glazed vestibule",
+        "clear glass facade",
+        "round glass pavilion (main ticket office)",
+        "box office / parking entry",
+        "cloakroom",
+        "cafe / restaurant",
+        "public plaza (Gustaf-Grundgens-Platz)",
+        "urban park (Hofgarten)",
+        "staircases / grand stairs",
+        "vertical circulation cores",
+        "underground parking level",
+        "artists' entrance",
+        "delivery / disposal zone",
+        "visual screen (concrete wall)",
+        "curved building envelope",
+        "lightweight aluminum panels",
+        "fair-faced concrete walls",
+        "ribbed ceiling beams / radial structural system",
+        "characterful curtains (by Petra Blaisse)",
+        "video wall"
+      ],
+      "c2_semantic_relations": [
+        "Gently Sloping Tent Roof → sits vertically above (Spatial Relation) → Fly Tower",
+        "Double-glazed Vestibule → reorganizes and extends (Circulation Relation) → Theatre Entrance & Foyer [cite: 199, 301]",
+        "Clear Glass Facade → allows visually transparent views through Foyer to (Perceptual Relation) → Urban Park (Hofgarten) [cite: 301]",
+        "Round Glass Pavilion (Main Ticket Office) → detached on and activates (Spatial Relation) → Public Plaza (Gustaf-Grundgens-Platz) [cite: 200, 300]",
+        "Ribbed Ceiling Beams & Radial Structural System → structure and ornament (Material & Tectonic Relation) → Foyer & Lobby Ceilings",
+        "Characterful Curtains (by Petra Blaisse) → hang as soft acoustic wall coverings inside (Material & Tectonic Relation) → Public Areas / Foyer [cite: 297]",
+        "Visual Screen (Concrete Wall) → structurally isolates Artists' Entrance from (Functional Relation) → Delivery / Disposal Zone [cite: 243]",
+        "New Floor Finish → visually merges Public Plaza with (Conceptual Relation) → Theatre Exterior Surroundings [cite: 244]",
+        "Underground Parking Level → connects vertically via Vertical Circulation Cores to (Circulation Relation) → Lobby & Box Office [cite: 238]",
+        "Curved Building Envelope (Lightweight Aluminum Panels) → wraps seamlessly around (Material & Tectonic Relation) → Main Auditorium & Secondary Auditorium Volumes [cite: 202]",
+        "Matt Black Contemporary Functional Additions → visually differentiate from (Conceptual Relation) → Original Bright-Colored Fair-Faced Concrete Walls [cite: 206, 228, 297]"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "得益於全新置入的 360° 雙層玻璃通透前庭與外部圓形票務亭，市民與劇院觀眾的流線變得極其自由流暢。觀眾不再感到被厚重外牆隔絕，而是在 Gustaf-Gründgens-Platz 廣場、透明大廳與後方 Hofgarten 公園的木蘭花林之間自由穿梭停留，咖啡廳與餐廳邊緣亦成為活躍的市民社交界面 [cite: 199, 200, 301]。",
+        "演職人員與後勤技術人員的日常空間品質獲得劇烈提升；新建的混凝土視覺遮蔽牆完美梳理了藝術家走道與垃圾/貨物裝卸區的日常運作冲突，使演員進出場秩序大為改善 [cite: 222, 243]。"
+      ],
+      "discourse_&_criticism": [
+        "該翻新案在國際建築界獲得極高讚譽，先後斬獲或入圍 2022 年 Architizer A+ Awards 決賽、德國 DAM-Preis 短名單以及德國國家外牆建築獎（Deutscher Fassadenpreis 2022），專業媒體盛讚其為「敏感且高度克制的歷史文化遺產活化典範」 [cite: 258, 259, 261, 294]。",
+        "大眾媒體與公眾輿論對其「徹底解決自 1960 年代以來長達半世紀的主入口朝向爭議」表示高度肯定，成功化解了過去劇院與大自然公眾公園（Hofgarten）之間的閉鎖死結，實現了高超的都市公共空間縫合 [cite: 197, 199]。"
+      ],
+      "tectonic_results": [
+        "建築團隊 ingenhoven associates 透過此案成功實踐了古蹟「恢復原貌（1970年原始版）」與「當代構造升級」的平衡。透過材料與皮層構造學的深度研究，以輕量化鋁合金卡扣系統與高性能綠化屋頂，在完全不改變 Bernard Pfau 標誌性雕塑外形比例的前提下，為戰後現代主義圖騰賦予了當代永續建築的技術壽命 [cite: 223, 231, 232, 237]。",
+        "在都市層面上，劇院翻新與周邊的 Dreischeibenhaus 及新完工的 Kö-Bogen II 形成了互補呼應的跨世紀 German post-war 建築交響樂群，將曾經交通混亂的 Gustaf-Gründgens-Platz 廣場，成功催化轉變為杜塞道夫市最核心的、全開放式的頂級市民當代藝術與文化生活中心群 [cite: 191, 193]。"
+      ]
+    }
+  }
+}
+
+
+
+{
+  "project 07": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "衛武營國家藝術文化中心 (National Kaohsiung Center for the Arts Weiwuying)",
+        "theater_scale_hierarchy": "國家級旗艦表演藝術中心 / 亞洲最大規模的表演場館",
+        "gross_floor_area": "總樓地板面積 (GFA)：141,000 m²（建物投影面積 3.4 公頃，基地面積 9.9 公頃）"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "歌劇院 (Opera House)",
+          "seating_capacity": "2,236 席",
+          "stage_type": "Horseshoe 馬蹄鐵式",
+          "primary_performance_type": "歌劇 Opera、芭蕾舞 Ballet、大型音樂劇 Musical",
+          "key_hardware_&_acoustic_conditions": "舞台配備電腦控制的舞台機械系統，觀眾席座椅呈現紅色調"
+        },
+        {
+          "hall_name": "音樂廳 (Concert Hall)",
+          "seating_capacity": "1,981 席",
+          "stage_type": "Vineyard 葡萄園式",
+          "primary_performance_type": "交響樂 Symphony、古典音樂演出",
+          "key_hardware_&_acoustic_conditions": "亞洲最大規模的音樂廳管風琴（由 9,085 支管組成），採用矮牆分隔階梯區塊以縮短聲響反射距離，部分聲學敏感區位採用「盒中盒 (Box-in-Box)」隔震結構（防震彈簧與隔震橡膠），座椅呈香檳色"
+        },
+        {
+          "hall_name": "戲劇院 (Playhouse)",
+          "seating_capacity": "1,210 席",
+          "stage_type": "Thrust 伸展式（可變動調整）",
+          "primary_performance_type": "話劇/舞台劇 Drama、現代舞 Modern Dance、傳統戲曲",
+          "key_hardware_&_acoustic_conditions": "舞台與觀眾席具備高度可變性與適應性，座椅呈「Mecanoo 藍」"
+        },
+        {
+          "hall_name": "表演廳 (Recital Hall)",
+          "seating_capacity": "434 席",
+          "stage_type": "Shoebox 鞋盒式（推測）",
+          "primary_performance_type": "室內樂 Chamber Music、獨奏與小型編制演出",
+          "key_hardware_&_acoustic_conditions": "專為小型室內樂與獨奏設計之親密聲學空間，座椅呈香檳色"
+        },
+        {
+          "hall_name": "戶外劇場 (Outdoor Theater)",
+          "seating_capacity": "可容納高達 5,000 名觀眾",
+          "stage_type": "Arena 環抱式 / 開放式地景劇場",
+          "primary_performance_type": "大眾戶外演出、跨界展演、市民廣場活動",
+          "key_hardware_&_acoustic_conditions": "屋頂曲線自然下墜與地面草坡綠帶無縫相接的開放式劇場"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲 (Asia)",
+        "country": "台灣 (Taiwan)",
+        "city": "高雄市鳳山區 (Kaohsiung City)",
+        "urban_context": "原為軍事新訓中心基地，後轉型為 47 公頃都會公園綠地的一部分；基地面臨高濕度與高鹽度的濱海亞熱帶氣候環境"
+      },
+      "participants_&_operation": {
+        "architect": "Mecanoo architecten（主導建築師：Francine Houben、Nuno Fontarra） / 台灣在地合作事務所：創時建築師事務所 (Archasia Design Group)",
+        "client": "中華民國文化部衛武營藝術文化中心籌備處 (Preparatory Office of The Wei-Wu-Ying Center for the Arts of the Ministry of Culture)",
+        "end_user": "南部地區市民、國內外拔尖表演藝術團體、目標藝文大眾",
+        "consultants": [
+          "聲學顧問：Xu-Acoustique",
+          "劇場顧問：Theateradvies、翊泰設計 (Yi Tai)",
+          "結構工程：Supertech",
+          "機械工程：Yuan Tai",
+          "電機工程：Heng Kai",
+          "燈光顧問：CMA lighting",
+          "消防安全：Ju Jiang",
+          "管風琴顧問：Olivier Latry",
+          "屋頂與帷幕顾问：CWI",
+          "3D 幾何顧問：Lead Dao",
+          "交通顧問：Su International"
+        ],
+        "operator": "國家表演藝術中心衛武營國家藝術文化中心（推測）"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "巨型多廳表演體量（四廳一戶外）的機能整合，以及各廳院間嚴苛的聲學噪音防護與振動隔離（對抗戶外噪音與多廳同時演出的互相干擾）。",
+        "如何在傳統軍事基地圍牆倒塌後，將 47 公頃的封閉基地轉化為完全向公眾開放、具高度通透性且融入常民生活的都市公共地景。",
+        "在高濕度與高鹽度的嚴酷氣候條件下，挑戰大跨度不規則 3D 曲面鋼骨構造的耐久性與高精度施工可行性。"
+      ],
+      "concept": [
+        "「榕樹群 (Banyan Trees)」意象：汲取園區內茂盛老榕樹盤根錯節、枝葉相互交織的自然形態，將遮蔭、通透、內外合一的自然空間經驗轉譯為建築語彙。",
+        "「貨輪造船工業的轉譯」：將高雄既有的在地造船重工業技術，轉化為流線型、連續起伏的巨型鋼構造皮層，使建築本體成為地景的延伸，建構無邊界的日常藝術空間。"
+      ],
+      "strategy": [
+        "「連續性波浪鋼板曲面皮層」：利用精密造船焊接技術，將 2,000 多片三維彎曲的厚重鋼板於現場鑄造焊接，形塑如同一片巨大烏雲或榕樹冠蔭般覆蓋整座基地的連續地景屋頂。",
+        "「垂直與水平機能複合堆疊」：將四座核心劇場（歌劇院、音樂廳、戲劇院、表演廳）作為獨立結構體（Box）嵌入巨型流線屋頂下方，而結構體之間的剩餘水平空間則釋放為全天候開放的「半戶外榕樹廣場 (Banyan Plaza)」。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "banyan plaza",
+        "continuous steel skin",
+        "proscenium stage",
+        "horseshoe auditorium",
+        "vineyard concert hall",
+        "acoustic balconies",
+        "acoustic walls",
+        "orchestra pit",
+        "organ gallery",
+        "fly tower",
+        "stage machinery",
+        "box-in-box system",
+        "anti-vibration springs",
+        "isolation rubber",
+        "soundproof walls",
+        "FOH foyer",
+        "BOH backstage",
+        "service cores",
+        "sunken plaza",
+        "amphitheater slope",
+        "cargo loading docks",
+        "structural columns",
+        "3D curved steel plates"
+      ],
+      "c2_semantic_relations": [
+        "Continuous Steel Skin → wraps around (Material & Tectonic Relation) → Four Main Theatre Volumes",
+        "Banyan Plaza → flows horizontally through (Circulation Relation) → FOH Foyers",
+        "Box-in-Box System → acoustically isolates (Functional Relation) → Vineyard Concert Hall",
+        "Anti-vibration Springs & Isolation Rubber → inserts between (Material & Tectonic Relation) → Theatre Concrete Boxes and Main Structure",
+        "Acoustic Balconies → split into stepped segments within (Spatial Relation) → Vineyard Concert Hall",
+        "Fly Tower → vertical stack above (Spatial Relation) → Proscenium Stage of Lyric Theatre",
+        "Amphitheater Slope → continuous transition into (Conceptual Relation) → Public Park Landscape",
+        "BOH Backstage → separates symmetrically from (Functional Relation) → FOH Foyer via Central Service Cores",
+        "Cargo Loading Docks → provides direct logistic access to (Circulation Relation) → Stage Backstage Areas"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民與公眾能夠在無圍牆限制的環境下，自由地穿梭於 47 公頃的都會公園、戶外劇場草坡與半戶外的「榕樹廣場」之間，使散步、休憩等日常活動與高雅表演藝術發生有機交織。",
+        "半戶外榕樹廣場因其遮蔭與通透對流的物理特性，成為高雄炎熱氣候下市民全天候聚集、練舞、停留的主要都市公共客廳。"
+      ],
+      "discourse_&_criticism": [
+        "國際媒體與建築界（如攝影師 Iwan Baan 的影像記錄）高度讚譽其為造船工業技術成功轉譯為前衛建築構築學（Tectonics）的典範，突破了傳統劇院作為封閉「文化殿堂」的孤立狀態。",
+        "作為「亞洲最大規模表演場館」，其龐大的營運規模與多廳同時運作時的跨領域節目調度能力，成為亞洲乃至全球當代劇場操作營運（Theater Operation）注目的焦點。"
+      ],
+      "tectonic_results": [
+        "成功運用精密 3D 幾何計算與造船焊接工藝，在台灣南部實踐了高難度的大跨度雙曲面鋼構建築，將地方工業感與流線型地景美學完美融為一體。",
+        "透過「榕樹廣場」這一充滿場所精神（Genius Loci）的空間操作，消融了室內與戶外、精緻藝術與庶民生活的邊界，為當代大型公共文化建築提供了極具啟發性的空間民主化範型。"
+      ]
+    }
+  }
+}
