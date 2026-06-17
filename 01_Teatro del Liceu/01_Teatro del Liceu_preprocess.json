@@ -1,0 +1,348 @@
+{
+"project_overview": {
+"building_type": "Single-Theatre Opera House",
+"primary_organization": "Theatre as Architectural Core",
+"total_number_of_venues": 1,
+"theatre_cluster_type": "Single Theatre",
+"confidence_level": "High",
+"evidence_quality": "Direct Evidence"
+},
+
+"image_classification": {
+"P1_architectural_drawings": [
+"Theatre floor plan",
+"Longitudinal theatre section",
+"Technical stage section"
+],
+"P2_photographs_renderings": [
+"Exterior façade photograph",
+"Exterior urban streetscape photograph",
+"Interior auditorium photograph"
+],
+"P3_details_construction_diagrams": [
+"Stage-house technical section",
+"Auditorium section diagram",
+"Seating-layout plan"
+]
+},
+
+"theatre_inventory": [
+{
+"theatre_id": "T1",
+"theatre_name": "N/A",
+"location": "Central building volume",
+"theatre_typology": "Large Proscenium Opera-House Theatre",
+"estimated_capacity": {
+"value": "N/A",
+"description": "Large-capacity venue; exact capacity not determinable from available drawings."
+},
+"stage_form": "Proscenium Stage",
+"audience_configuration": "End-stage",
+"seating_geometry": "Horseshoe",
+"transformability": "Fixed",
+"primary_function": "Large-scale theatrical performance venue",
+"evidence_source": [
+"Plan",
+"Section",
+"Interior Photograph"
+],
+"confidence_level": "High",
+"evidence_quality": "Direct Evidence"
+}
+],
+
+"theatre_hierarchy": {
+"T1": "Main Hall"
+},
+
+"shared_infrastructure": {
+"shared_foyer": "N/A",
+"shared_lobby": "N/A",
+"shared_backstage": "N/A",
+"shared_loading_dock": "N/A",
+"shared_dressing_rooms": "N/A",
+"shared_rehearsal_facilities": "N/A",
+"shared_technical_facilities": "N/A",
+"shared_public_circulation": "N/A",
+"confidence_level": "High",
+"evidence_quality": "Direct Evidence"
+},
+
+"theatre_relationships": {
+"independent": true,
+"connected": false,
+"side_by_side": false,
+"stacked": false,
+"clustered_around_common_foyer": false,
+"clustered_around_common_public_space": false,
+"mergeable": false,
+"transformable": false,
+"confidence_level": "High",
+"evidence_quality": "Direct Evidence"
+},
+
+"P1_architectural_drawings": {
+"vocabulary_extraction": [
+"Main auditorium",
+"Proscenium stage",
+"Orchestra pit",
+"Fly tower",
+"Stage house",
+"Backstage area",
+"Side stage zones",
+"Stage support spaces",
+"Auditorium seating bowl",
+"Stalls seating",
+"Multiple balcony levels",
+"Private boxes",
+"Public foyer",
+"Entrance hall",
+"Circulation corridors",
+"Staircases",
+"Vertical circulation cores",
+"Technical galleries",
+"Catwalks",
+"Rigging loft",
+"Under-stage machinery zone",
+"Loading/service areas",
+"Administrative/support rooms",
+"Mechanical/service spaces"
+],
+
+```
+"quantity_estimation": {
+  "main_auditorium": 1,
+  "proscenium_stage": 1,
+  "fly_tower": 1,
+  "orchestra_pit": 1,
+  "main_foyer": 1,
+  "auditorium_seating_bowl": 1,
+  "balcony_tiers": "approximately 4–5",
+  "side_stage_zones": "approximately 2",
+  "vertical_circulation_cores": "approximately 4–6",
+  "staircases": "approximately 8–12",
+  "technical_catwalk_levels": "approximately 3–5",
+  "under_stage_levels": "approximately 2–3"
+},
+
+"spatial_relationships": [
+  "Auditorium occupies the central organizational position.",
+  "Public foyer and entrance spaces front the urban street.",
+  "Audience circulation wraps around the auditorium and distributes vertically to balcony levels.",
+  "Proscenium stage is directly connected to the fly tower.",
+  "Technical circulation is separated from public circulation.",
+  "Backstage functions are concentrated behind the stage.",
+  "Vertical circulation connects foyer, balconies, technical galleries, and support spaces."
+],
+
+"overall_spatial_logic": "Traditional opera-house organization centered on a horseshoe auditorium connected to a proscenium stage and fly tower. Public functions occupy the urban frontage while technical and backstage functions are concentrated behind the performance zone."
+```
+
+},
+
+"theatre_core_characteristics": {
+"audience_configuration": {
+"type": "End-stage",
+"evidence": [
+"Audience seating located on one side of stage.",
+"Frontal viewing arrangement visible in section."
+],
+"confidence_level": "High",
+"evidence_quality": "Direct Evidence"
+},
+
+```
+"seating_geometry": {
+  "type": "Horseshoe",
+  "evidence": [
+    "Curved auditorium wrapping around stage.",
+    "Multiple curved balcony levels."
+  ],
+  "confidence_level": "High",
+  "evidence_quality": "Direct Evidence"
+},
+
+"stage_classification": {
+  "stage_form": "Proscenium Stage",
+  "audience_configuration": "End-stage",
+  "transformability": "Fixed",
+  "evidence": [
+    "Proscenium opening visible in section.",
+    "Distinct separation between auditorium and stage house.",
+    "No transformable systems visible."
+  ],
+  "confidence_level": "High",
+  "evidence_quality": "Direct Evidence"
+},
+
+"acoustic_typology": {
+  "type": "Opera House Acoustic Environment",
+  "confidence_level": "Medium",
+  "evidence_quality": "Strong Inference"
+},
+
+"auditorium_stage_relationship": {
+  "type": "Frontal",
+  "confidence_level": "High",
+  "evidence_quality": "Direct Evidence"
+}
+```
+
+},
+
+"FOH": {
+"spaces": [
+"Entrance hall",
+"Lobby",
+"Foyer",
+"Audience circulation spaces"
+],
+"organization": "Public spaces occupy the front portion of the building and distribute audiences vertically to multiple balcony levels.",
+"confidence_level": "Medium",
+"evidence_quality": "Strong Inference"
+},
+
+"BOH": {
+"spaces": [
+"Stage support zone",
+"Side-stage areas",
+"Technical spaces",
+"Under-stage service levels"
+],
+"not_verifiable": [
+"Dressing rooms",
+"Green rooms",
+"Rehearsal rooms",
+"Workshops"
+],
+"organization": "Support spaces concentrated behind and below the stage.",
+"confidence_level": "Medium",
+"evidence_quality": "Strong Inference"
+},
+
+"circulation_systems": {
+"audience_circulation": [
+"Multiple balcony-access levels",
+"Vertical circulation through stair systems"
+],
+"performer_circulation": "Separate backstage circulation inferred",
+"service_circulation": "Technical circulation concentrated in stage house",
+"public_private_hierarchy": "Clear separation between auditorium and stage-support zones",
+"confidence_level": "Medium",
+"evidence_quality": "Strong Inference"
+},
+
+"convertible_theatre_systems": {
+"movable_seating": false,
+"retractable_seating": false,
+"adjustable_stage": false,
+"transformable_auditorium": false,
+"mergeable_theatre_system": false,
+"variable_acoustics": "N/A",
+"confidence_level": "High",
+"evidence_quality": "Direct Evidence"
+},
+
+"theatre_building_relationship": {
+"relationship": "Theatre as Architectural Core",
+"description": "The auditorium and stage house dominate both plan and section and organize the building mass around performance functions.",
+"confidence_level": "High",
+"evidence_quality": "Direct Evidence"
+},
+
+"theatre_volume_and_form": {
+"type": "Theatre-Driven Form",
+"description": "Largest building volume corresponds to the auditorium and fly tower.",
+"confidence_level": "High",
+"evidence_quality": "Direct Evidence"
+},
+
+"visibility_of_theatre_volume": {
+"classification": "Partially Expressed",
+"description": "The theatre volume is evident in section but not strongly expressed in the urban façade.",
+"confidence_level": "Medium",
+"evidence_quality": "Strong Inference"
+},
+
+"P2_photographs_renderings": {
+"design_vocabulary": [
+"Historic theatre façade",
+"Symmetrical composition",
+"Arched openings",
+"Classical ornamentation",
+"Pilasters",
+"Decorative cornices",
+"Stone masonry façade",
+"Balustrades",
+"Monumental entrance"
+],
+
+```
+"atmospheric_description": {
+  "lighting": "Natural daylight",
+  "materiality": [
+    "Stone",
+    "Stucco",
+    "Glass",
+    "Metal framing"
+  ],
+  "texture": "Rich ornamental façade articulation",
+  "scale": "Monumental civic scale",
+  "spatial_mood": [
+    "Formal",
+    "Ceremonial",
+    "Prestigious",
+    "Historic"
+  ]
+},
+
+"spatial_composition": [
+  "Strong bilateral symmetry",
+  "Central entrance as focal point",
+  "Rhythmic façade repetition",
+  "Vertical hierarchy"
+],
+
+"design_intent": [
+  "Cultural monumentality",
+  "Civic identity",
+  "Institutional presence"
+],
+
+"contextual_relationship": {
+  "urban_context": "Integrated into dense urban frontage",
+  "landscape": "Street trees provide foreground buffer",
+  "public_realm": "Strong engagement with street and pedestrians"
+}
+```
+
+},
+
+"cultural_and_architectural_expression": {
+"cultural_role": "Major civic cultural venue",
+
+```
+"key_architectural_concepts": [
+  "Monumentality",
+  "Audience-focused organization",
+  "Performance-centered planning",
+  "Technical stage integration",
+  "Public/private hierarchy"
+],
+
+"public_space_integration": {
+  "theatre_city_relationship": "Direct engagement with urban street frontage",
+  "theatre_public_circulation_relationship": "Main entrance integrated with city circulation",
+  "theatre_landscape_relationship": "Minimal landscape mediation"
+},
+
+"architectural_expression_of_performance": [
+  "Auditorium as dominant spatial focus",
+  "Stacked balconies emphasize spectatorship",
+  "Fly tower expresses performance technology",
+  "Arrival sequence reinforces cultural significance"
+]
+```
+
+}
+}
