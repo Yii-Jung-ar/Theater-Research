@@ -1,0 +1,120 @@
+{
+  "project 04": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Gran Teatre del Liceu (利塞奧大劇院) [cite: 810]",
+        "theater_scale_hierarchy": "國家級/國際級歷史歌劇院與文化中心 [cite: 861, 887]",
+        "gross_floor_area": "36,341 m² (重建與擴建後，原歷史建築約為 12,000 m²) [cite: 914]"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (大劇院音樂廳) [cite: 828]",
+          "seating_capacity": "2,320 席 [cite: 921]",
+          "stage_type": "Proscenium / Horseshoe 鏡框式馬蹄形傳統義大利歌劇院 [cite: 829, 955]",
+          "primary_performance_type": "歌劇 (Opera)、芭蕾舞 (Ballet)、交響樂與戲劇演奏 [cite: 925]",
+          "key_hardware_&_acoustic_conditions": "具備 14 公尺寬之鏡框式舞台embocadura [cite: 829]；配備全新現代化十字形立體舞台系統 (Cross-shaped Stage)，包含兩座主升降平台及整合式次級三公尺相對運動平台 [cite: 812, 1027]；地下設有大型貨車專用液壓升降台，可直達地下 4、8、12 公尺之深層景庫與裝配車間進行全自動電腦化換景 [cite: 1028, 1029]；舞台上方配置現代化鋼構布景吊桿塔 (Fly Tower System) [cite: 812, 917]；配備主動式水幕防火隔離鋼構安全幕 (Active Fire Curtain Layout) [cite: 991, 992]；觀眾席維持經典馬蹄形 5 層看台環抱幾何排布 [cite: 828, 850]，看台前緣採低 antepechos 結構 voladizos 設計優化聲音均勻度與視線 intimacy [cite: 1050, 1051]。"
+        },
+        {
+          "hall_name": "Foyer Polivalente (多功能地下前廳廳) [cite: 934, 935]",
+          "seating_capacity": "800 席 (容納人數) [cite: 934]",
+          "stage_type": "Flexible / Flat Floor 靈活平底無固定席多能空間 [cite: 935]",
+          "primary_performance_type": "室內樂演奏、中小型音樂會、文化活動、講座與票務活動 [cite: 936, 938]",
+          "key_hardware_&_acoustic_conditions": "位於主觀眾席（Platea）下方的全新挖深增建空間，具備高度隔音防護整合與全套獨立之空調控制網絡，可與 St. Pau 街新入口大堂進行流線無縫耦合 [cite: 934]。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "西班牙",
+        "city": "巴塞隆納 (Barcelona) [cite: 815]",
+        "urban_context": "極高密度歷史舊城中心紋理 (位於著名的 La Rambla 蘭布拉大道，夾處於密集城市歷史街廓 mitgeres 之間的轉角基地) [cite: 824, 842, 916]"
+      },
+      "participants_&_operation": {
+        "architect": "Lluís Dilmé, Xavier Fabré, Ignasi de Solà-Morales (1990-1998 重建與擴建主導建築師群) [cite: 840, 841]；Miquel Garriga i Roca (1844-1847 歷史原創建築師) [cite: 821, 822]；Josep Oriol Mestres (1862 第一期歷史重建建築師) [cite: 831, 832]；Lluís Domènech i Montaner (歷史咖啡廳局部改造建築師) [cite: 833, 834]；José V. Martí Estellés (1990 年代機電與綜合設備工程總負責人) [cite: 1034]",
+        "client": "Consorci del Gran Teatre del Liceu (利塞奧大劇院公眾財團聯合會) [cite: 816]",
+        "end_user": "巴塞隆納市民、國際歌劇與芭蕾舞藝術表演團體、歌劇受眾與國內外觀光人流 [cite: 890, 900]",
+        "consultants": [
+          "TEST JG Consultoría / JG Ingenieros (建築運行維護管理、能源與水冷中央機房更換審計顧問) [cite: 858, 865]",
+          "Pirelli Cables y Sistemas (全設施無鹵素防爆高安全 Afumex 電纜網絡與中央配電盤構造顧問) [cite: 891, 893]",
+          "UTE ESA: EMTE, SULZER, AGELECTRIC (劇院綜合機電與空調管道 UTE 工程聯合體) [cite: 1035]",
+          "UNITEK / AGECONTROL (自動化大樓中央計算機控制系統與結構化綜合佈線技術顧問) [cite: 1041, 1042]"
+        ],
+        "operator": "Fundació del Gran Teatre del Liceu (利塞奧大劇院基金會營運管理單位) [cite: 870]"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "創新與記憶之空間張力論證（Innovation vs. Memory）：在 1994 年毀滅性大火後，如何兼顧「原地、原樣重建」具備極高空間凝聚力與神聖歷史符號的古典音樂大廳，同時置入 21 世紀最尖端的全自動化劇院生產機器、反恐防火安全構造與世界級舒適度指標 [cite: 847, 849, 850]",
+        "極小歷史邊界內的塊體膨脹限制：在狹窄、mezquino 且與兩側民房共用 mitgeres 的古城歷史街區內，如何在完全不破壞 Rambla 歷史立面的前提下，將總面積由 12,000 m² 擴張近三倍至 36,000 m²，以置入龐大的現代側台、景庫、多功能排練廳與高達 40 米深的地下升降機坑 [cite: 913, 914, 930]",
+        "水文與環境物理聲學隔離挑戰：新劇場地底最深處達負 23 公尺至 40 公尺，而都市地下水位（Nivel Freàtic）卻高懸於地底負 9 公尺處，必須在強大水壓下建立全密封的止水防水圍護，並將重型舞台電機噪音與古典音樂殘響進行完美的 Functional Isolation [cite: 930, 931]"
+      ],
+      "concept": [
+        "廢墟上的鳳凰涅槃與符號延續（The Rebirth of an Identity）：不把大火視為與歷史的斷裂，而是將倖存的「Sala dels Miralls（鏡廳）」、古希臘中庭大堂與馬蹄形看台重塑為巴塞隆納集體記憶與加泰隆尼亞文化主權的圖章 [cite: 852, 900, 910]",
+        "多態疊加與空間的「十字拼貼」：將劇院後半部分的後台、生產車間與行政辦公區，視為一架高度理性的、以現代形式與十字形現代舞台（Cross-shaped Stage）為核心的文化生產工廠 [cite: 812, 853]",
+        "不對稱中的都市滲透（Urban Infiltration）：藉由在 St. Pau 側街開闢全新第二通廊入口與多功能地下 Foyer，將原本只面向 Rambla 的封閉性單向歷史邊界轉化為多向度的都市毛細血管網絡 [cite: 934]"
+      ],
+      "strategy": [
+        "新舊體量一體化包裹（Volume Encapsulation）：設計一座全新的巨型新 badalot 屋頂罩體，將歷史音樂廳上方超高的現代化鋼構布景吊桿塔與大廳體量融合成單一宏大的現代幾何塊體，向都市彰顯機能豐富性 [cite: 855, 917]",
+        "深度開挖與地下「垂直逆向功能分流」：在保留地面看台外壁的同時，垂直向下開挖深達 23-40 米之岩層，將以往堆置於地面的龐大道具庫、裝配換景車間逆向置於地底，透過信息化液壓升降台在演出實時進行三維舞台調度 [cite: 926, 1029]",
+        "物理弱電高階分離與分級防火阻隔：將電力變壓系統嚴格拆分為「一般動力/空調」與「Dimmers/舞台電機」兩條獨立線路，利用乾燥式變壓器作為物理濾波器阻止高頻諧波干擾音響訊號 [cite: 947, 948, 952]；全棟鋪設無鹵素低煙 AFUMEX 電纜，並以 800 個光學感熱探頭聯網防煙閘門進行區域空間鎖定 [cite: 972, 981, 985]"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "main auditorium",
+        "proscenium stage",
+        "cross-shaped stage",
+        "orchestra pit",
+        "fly tower",
+        "stage house",
+        "side stage zones",
+        "backstage area",
+        "under-stage machinery zone",
+        "loading platform",
+        "rigging loft",
+        "technical galleries",
+        "balcony tiers",
+        "private boxes",
+        "dimmers",
+        "fire curtain",
+        "sprinklers",
+        "entrance hall",
+        "public foyer",
+        "sala dels miralls",
+        "staircase",
+        "vertical circulation cores",
+        "neoclassical facade"
+      ],
+      "c2_semantic_relations": [
+        "Main Auditorium → occupies central position in (Spatial Relation) → Original Building Envelope [cite: 850]",
+        "New Badalot (Roof Volume) → integrates and wraps (Material & Tectonic Relation) → Fly Tower and Grand Main Auditorium [cite: 855]",
+        "Proscenium Stage → directly connected beneath (Spatial Relation) → Fly Tower and Rigging Loft [cite: 812]",
+        "Two Main Elevating Platforms → lift sets from (Circulation Relation) → Under-stage Machinery Zone (-12m) → Proscenium Stage Level (0m) [cite: 1027]",
+        "Truck Loading Platform → drops vehicular loads to (Circulation Relation) → Underground Backstage Service Levels (-4m, -8m, -12m) [cite: 1028]",
+        "Active Fire Curtain → physically isolates at proscenium opening (Functional Relation) → Stage House from Main Auditorium [cite: 991, 992]",
+        "Audience Circulation Corridors → wrap concentrically around (Circulation Relation) → Horseshoe Balcony Tiers [cite: 1051]",
+        "New Public Foyer → structurally excavated beneath (Spatial Relation) → Stalls Seating (Platea) [cite: 934]",
+        "New Entrance and Vestibule (Sant Pau Street) → flows into (Circulation Relation) → New Public Foyer [cite: 934]",
+        "Majestic Marble Staircase → branches out from (Circulation Relation) → Greek-order Entrance Hall [cite: 825]",
+        "Dimmers (Lighting Regulators) → feed harmonics back into (Other: Technical Grid Interrelation - 產生電磁諧波反饋干擾) → Electrical Supply Network [cite: 950]",
+        "Dry Transformers (2000 KVA) → act as an electromagnetic filter between (Functional Relation) → Lighting/Machinery Grid and General Power Supply [cite: 944, 952]"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "持票觀眾在演出前常聚集於富麗堂皇的「鏡廳（Sala dels Miralls）」或由馬理斯大理石鋪設的宏偉中央階梯拍照、流連，體驗高度 Ceremonial 儀式性的文藝復興式社交生活 [cite: 825, 852, 910]",
+        "龐大的市民階層、無持票觀光客則被引導至全新開闢的 St. Pau 街道入口與地下多功能大前廳，在此處進行跨界音樂交流、選購唱片，使原本高冷封閉的古典劇院邊界化為積極活躍的常民都市公共空間 [cite: 934, 936]",
+        "後勤裝卸團隊與機械工程師可直接在劇院地底下，藉由全自動中央計算機編程，平滑調度並預先拼裝未來兩到三個劇目的重型史詩級布景，隨後以液壓裝置升入舞台，實現了高效率、不中斷的全球一流水準劇目輪替營運 [cite: 926, 1029]"
+      ],
+      "discourse_&_criticism": [
+        "利塞奧大劇院被加泰隆尼亞與巴塞隆納人民公認為「國家自身集體身分認同的最高空間圖騰（Representació de la seva pròpia identitat）」，其浴火重生的速度與質量引發了全歐洲文化界的集體震撼與極高讚譽 [cite: 883, 899, 900]",
+        "建築與歷史遺產評論界極力稱讚其由 Solà-Morales 領銜的「創新與記憶雙軌並行（Tensió entre la Innovació i la Memòria）」空間哲學，認為它提供了一個「在原址精確還原歷史聖殿、同時在後方植入21世紀全新現代化功能外殼」的極致典範 [cite: 849, 853, 884]",
+        "部分技術媒體與重型機電工程期刊高度推崇其「歐盟單一 unified 400V 電壓超前實踐」與「Afumex 零毒性高速電纜網」的硬核基礎設施配置，公認其技術安全冗餘與防震隔音指標已超越同期的巴黎歌劇院與米蘭斯卡拉大劇院 [cite: 944, 951, 972]"
+      ],
+      "tectonic_results": [
+        "設計團隊成功在寸土寸金、邊界極度受限的加泰隆尼亞老城區核心，以驚人的高密度地下構造切削技術， multiplied 將其可用公共與生產面積擴張近三倍，徹底解決了困擾劇院一世紀之久的「體量Congestion（內部循環擁堵）」宿命 [cite: 914, 1048]",
+        "新 badalot（大屋頂構造）的嵌入，雖然在歷史天際線上呈現出一個巨大的現代化單一立方塊體，但其精準對齊了劇場原始的幾何中軸，完美回應了百年歷史建築的佈局脈絡與都市公共地標存在感 [cite: 855]",
+        "全設施高達 800 個點對點光學智慧型探頭、主動式噴淋系統及耐 400°C 高高溫的排煙防爆機房的建立，使這座曾兩度毀於祝融的古老文化容器擁有了近乎絕對安全的防禦裝甲，成功幫助利塞奧大劇院大步跨入21世紀的下一個五十年 [cite: 892, 981, 995]"
+      ]
+    }
+  }
+}
