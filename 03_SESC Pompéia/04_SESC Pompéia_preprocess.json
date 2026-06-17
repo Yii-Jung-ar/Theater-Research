@@ -1,0 +1,297 @@
+{
+  "project_name": "SESC Pompéia",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based exclusively on the uploaded floor plan, interior photographs, exterior photographs, and aerial views visible in the provided image set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Floor Plan",
+        "evidence": "Plan showing performance hall, support spaces, circulation, and adjacent program areas."
+      }
+    ],
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Interior Photographs",
+        "evidence": "Large industrial performance hall with exposed roof structure and flexible audience arrangement."
+      },
+      {
+        "type": "Exterior Photographs",
+        "evidence": "Relationship between reused industrial structures and adjacent concrete tower volumes."
+      },
+      {
+        "type": "Aerial Photographs",
+        "evidence": "Overall campus organization and building clustering."
+      }
+    ],
+    "P3_Diagrams": []
+  },
+
+  "architectural_analysis": {
+    "building_type": "Cultural and Community Complex",
+
+    "primary_program": "Multi-Program Cultural Facility",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Public Hall",
+        "Open Gathering Space",
+        "Circulation Areas",
+        "Community Activity Zones"
+      ],
+
+      "BOH": [
+        "Technical Support Spaces",
+        "Service Areas",
+        "Backstage Support"
+      ],
+
+      "performance_spaces": [
+        "Main Performance Hall"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Adaptive Reuse Campus",
+
+      "description": "Performance functions are embedded within a larger cultural complex composed of repurposed industrial halls and new support structures.",
+
+      "public_private_separation": "Moderate",
+
+      "circulation_structure": "Large open circulation zones connect performance and community functions."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Industrial Hall Conversion",
+
+      "description": "Existing industrial volumes are retained and adapted to support cultural, social, and performance activities."
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Adaptive Reuse",
+      "Industrial Structure",
+      "Exposed Steel Roof",
+      "Large Span Hall",
+      "Raw Concrete",
+      "Brick Surfaces",
+      "Flexible Interior Volume"
+    ],
+
+    "materiality": [
+      "Concrete",
+      "Brick",
+      "Steel",
+      "Metal Roofing"
+    ],
+
+    "atmosphere": {
+      "performance_space": "Informal and flexible",
+      "public_character": "Collective and community-oriented",
+      "spatial_character": "Industrial and open"
+    },
+
+    "contextual_relationship": {
+      "urban_integration": true,
+      "adaptive_reuse": true,
+      "community_focus": true
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 1,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "location": "Large-span industrial hall",
+        "evidence": "Performance seating and stage arrangement visible in photographs and plan."
+      }
+    ],
+
+    "multi_theatre_complex": false,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "SESC Pompéia Theatre Hall",
+
+      "theatre_typology": "Multipurpose Hall",
+
+      "primary_function": [
+        "Theatre Performance",
+        "Community Events",
+        "Cultural Programming",
+        "Experimental Performance"
+      ],
+
+      "estimated_capacity": {
+        "value": "300-1000",
+        "unit": "seats",
+        "confidence": "Low"
+      },
+
+      "audience_configuration": "Hybrid",
+
+      "seating_geometry": "Rectilinear",
+
+      "stage_form": "Flexible Stage",
+
+      "auditorium_stage_relationship": "Variable",
+
+      "spatial_characteristics": {
+        "large_open_floor": true,
+        "industrial_enclosure": true,
+        "flexible_audience_arrangement": true,
+        "non_hierarchical_space": true
+      },
+
+      "FOH_components": [
+        "Public Hall",
+        "Gathering Areas",
+        "Open Circulation"
+      ],
+
+      "BOH_components": [
+        "Technical Support",
+        "Service Areas"
+      ],
+
+      "circulation_strategy": {
+        "audience": "Direct access from surrounding public spaces.",
+        "performers": "Support access integrated into hall perimeter."
+      },
+
+      "acoustic_typology": {
+        "classification": "Multipurpose Performance Hall",
+        "evidence": "Large adaptable enclosure without clearly visible fixed acoustic geometry."
+      },
+
+      "transformability": {
+        "classification": "Flexible",
+        "evidence": "Movable seating layouts and open-span performance floor are visible; fixed audience arrangement is not evident."
+      },
+
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Single Detected Performance Venue within Larger Cultural Complex",
+
+    "hierarchy": {
+      "main_hall": "T1",
+      "secondary_hall": null,
+      "studio_theatre": null,
+      "experimental_theatre": null
+    },
+
+    "shared_infrastructure": [
+      "Public Gathering Areas",
+      "Circulation Network",
+      "Community Facilities"
+    ],
+
+    "operational_relationships": {
+      "performance_space_embedded_in_larger_complex": true
+    }
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening"
+    ],
+
+    "confidence_level": "Low"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_as_organizational_core": false,
+
+    "volume_in_volume_strategy": false,
+
+    "visibility_of_theatre_volume": "Partially Expressed",
+
+    "theatre_cluster_organization": "Embedded Venue",
+
+    "description": "The performance hall is one component within a broader social and cultural complex rather than the sole organizing element."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Community-Oriented Cultural Infrastructure",
+
+    "programmatic_role": "Integration of recreation, culture, gathering, and performance",
+
+    "public_space_integration": {
+      "community_use": true,
+      "informal_public_space": true,
+      "cultural_accessibility": true
+    },
+
+    "architectural_expression_of_performance": {
+      "performance_integrated_with_daily_life": true,
+      "non_monumental_theatre_expression": true,
+      "industrial_reuse_visible": true
+    },
+
+    "spectatorship": {
+      "informal": true,
+      "flexible": true,
+      "community_focused": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "Medium",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_typology": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "audience_configuration": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    },
+
+    "stage_form": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    },
+
+    "transformability": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    }
+  },
+
+  "knowledge_tags": [
+    "SESC Pompeia",
+    "Adaptive Reuse",
+    "Industrial Architecture",
+    "Multipurpose Hall",
+    "Flexible Theatre",
+    "Community Cultural Center",
+    "Open Performance Space",
+    "Industrial Hall Conversion",
+    "Embedded Venue",
+    "Cultural Infrastructure"
+  ]
+}

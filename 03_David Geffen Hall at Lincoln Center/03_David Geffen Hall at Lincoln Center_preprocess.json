@@ -1,0 +1,343 @@
+{
+  "project_name": "David Geffen Hall at Lincoln Center",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_type": [
+    "Architectural Drawings",
+    "Photographs",
+    "Renderings",
+    "Seating Diagrams"
+  ],
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Plan",
+        "evidence": "Main floor plan showing auditorium, lobby, stage, and support spaces"
+      },
+      {
+        "type": "Section",
+        "evidence": "Building section showing auditorium volume and lobby stacking"
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photographs",
+        "evidence": "Urban context, façade expression, relationship to Lincoln Center plaza"
+      },
+      {
+        "type": "Interior Photographs",
+        "evidence": "Auditorium, seating, acoustic enclosure, materiality"
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Seating Diagram",
+        "evidence": "Audience configuration and seating distribution"
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Performing Arts Venue",
+    "primary_program": "Concert Hall",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Entrance Lobby",
+        "Atrium Lobby",
+        "Tier Lobby",
+        "Restaurant",
+        "Lounge",
+        "Welcome Center",
+        "Terrace"
+      ],
+
+      "BOH": [
+        "Back-of-House",
+        "Technical Support Spaces",
+        "Mechanical Spaces"
+      ],
+
+      "performance_spaces": [
+        "Main Auditorium",
+        "Stage Platform"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Centralized Core Organization",
+
+      "public_sequence": [
+        "Urban Plaza",
+        "Entrance Lobby",
+        "Atrium Lobby",
+        "Tier Lobby",
+        "Auditorium"
+      ],
+
+      "audience_circulation": "Vertical circulation through stacked lobby system",
+
+      "performer_circulation": "Separated backstage access to stage",
+
+      "public_private_separation": "Clear separation between FOH and BOH systems"
+    },
+
+    "spatial_logic": {
+      "type": "Volume-in-Volume",
+      "description": "The auditorium acts as the organizational core surrounded by circulation and public gathering spaces."
+    },
+
+    "vertical_organization": {
+      "upper_levels": [
+        "Tier Seating",
+        "Technical Support"
+      ],
+
+      "middle_levels": [
+        "Auditorium"
+      ],
+
+      "lower_levels": [
+        "Mechanical Infrastructure"
+      ]
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Glass Façade",
+      "Transparent Base",
+      "Layered Public Interface",
+      "Curved Acoustic Surfaces",
+      "Timber Interior Finish",
+      "Terraced Seating"
+    ],
+
+    "materiality": [
+      "Glass",
+      "Metal",
+      "Wood Acoustic Cladding"
+    ],
+
+    "atmosphere": {
+      "lighting": "Warm and controlled",
+      "spatial_character": "Immersive and acoustically focused",
+      "public_character": "Open and civic"
+    },
+
+    "spatial_composition": {
+      "auditorium_focus": "Audience visually concentrated toward stage platform",
+      "seating_arrangement": "Multi-level enveloping arrangement"
+    },
+
+    "urban_relationship": {
+      "context": "Integrated into major cultural campus",
+      "visibility": "Highly visible from public plaza",
+      "public_engagement": "Strong visual connection between interior activity and city"
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 1,
+
+    "venues": [
+      {
+        "theatre_id": "T1",
+        "location": "Building Core",
+        "relationship": "Primary and only confirmed venue"
+      }
+    ],
+
+    "multi_theatre_complex": false,
+
+    "shared_infrastructure": "N/A",
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Main Hall",
+
+      "theatre_typology": "Concert Hall",
+
+      "primary_function": [
+        "Symphonic Music",
+        "Orchestral Performance",
+        "Large Scale Musical Events"
+      ],
+
+      "estimated_capacity": {
+        "value": "2000-3000",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "Hybrid End-stage",
+
+      "seating_geometry": "Vineyard-Hybrid",
+
+      "stage_form": "Concert Platform End Stage",
+
+      "auditorium_stage_relationship": "Immersive Surrounding Relationship",
+
+      "FOH_components": [
+        "Lobby",
+        "Atrium",
+        "Restaurant",
+        "Lounge",
+        "Terrace"
+      ],
+
+      "BOH_components": [
+        "Backstage Support",
+        "Technical Spaces",
+        "Mechanical Spaces"
+      ],
+
+      "circulation_strategy": {
+        "audience": "Lobby to tier lobby to auditorium sequence",
+        "performers": "Dedicated backstage access"
+      },
+
+      "acoustic_typology": {
+        "classification": "Symphonic Concert Hall",
+        "evidence": "Wood-lined acoustic enclosure and surrounding seating"
+      },
+
+      "transformability": {
+        "classification": "Fixed",
+        "evidence": "No visible retractable or variable systems"
+      }
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Single Venue Facility",
+
+    "hierarchy": {
+      "main_hall": "T1",
+      "secondary_hall": null,
+      "studio_theatre": null,
+      "experimental_theatre": null
+    },
+
+    "shared_facilities": [],
+
+    "operational_relationships": "N/A"
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "affected_venues": [],
+
+    "connection_mechanism": null,
+
+    "confidence_level": "High"
+  },
+
+  "theatre_building_relationship": {
+    "organizational_role": "Theatre as Organizational Core",
+
+    "volume_strategy": "Volume-in-Volume",
+
+    "visibility_of_theatre_volume": "Partially Expressed",
+
+    "theatre_cluster_organization": "Single-Core Organization",
+
+    "description": "The auditorium volume defines the primary spatial structure of the building."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Major Civic Performance Venue",
+
+    "public_space_integration": {
+      "relationship_to_city": "Direct connection to cultural plaza",
+      "public_visibility": "High",
+      "urban_presence": "Strong civic landmark"
+    },
+
+    "architectural_expression_of_performance": {
+      "transparency": true,
+      "public_lobby_visibility": true,
+      "performance_identity_visible": true
+    },
+
+    "spectatorship_model": {
+      "engagement": "Collective",
+      "proximity": "Enhanced",
+      "immersion": "High"
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_typology": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "audience_configuration": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "seating_geometry": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "capacity_estimation": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "acoustic_typology": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "transformability": {
+      "confidence": "Medium",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "mergeability": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    }
+  },
+
+  "knowledge_tags": [
+    "Concert Hall",
+    "Hybrid End-stage",
+    "Vineyard Seating",
+    "Volume-in-Volume",
+    "Cultural Building",
+    "Single Auditorium",
+    "Civic Landmark",
+    "Acoustic Architecture",
+    "FOH-BOH Separation",
+    "Fixed Theatre"
+  ]
+}

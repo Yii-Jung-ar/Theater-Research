@@ -1,0 +1,357 @@
+{
+  "project_name": "Arena Stage at the Mead Center for American Theater",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based on visible exterior photographs, interior theatre photographs, public-space images, and venue imagery contained in the provided image set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [],
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photographs",
+        "evidence": "Building envelope, glazed enclosure, and relationship between theatre volumes."
+      },
+      {
+        "type": "Interior Photographs",
+        "evidence": "Multiple auditorium configurations and public gathering spaces."
+      }
+    ],
+    "P3_Diagrams": []
+  },
+
+  "architectural_analysis": {
+    "building_type": "Multi-Venue Performing Arts Center",
+
+    "primary_program": "Drama and Live Performance",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Central Lobby",
+        "Public Gathering Space",
+        "Foyer",
+        "Circulation Spine",
+        "Event Space"
+      ],
+
+      "BOH": [
+        "Backstage Areas",
+        "Technical Support Spaces",
+        "Performer Facilities",
+        "Stage Support Areas"
+      ],
+
+      "performance_spaces": [
+        "Large Thrust Theatre",
+        "Proscenium Theatre",
+        "Flexible Studio Theatre"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Theatre Cluster Under Shared Enclosure",
+
+      "description": "Multiple independent theatre volumes are grouped within a larger public enclosure and connected through shared circulation and support systems.",
+
+      "public_private_separation": "Strong",
+
+      "circulation_structure": "Shared public foyer serving multiple venues."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Multi-Theatre Cluster",
+
+      "description": "Several performance venues operate independently while sharing common public and backstage infrastructure."
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Glazed Envelope",
+      "Contained Theatre Volumes",
+      "Exposed Structure",
+      "Transparent Public Interface",
+      "Large Gathering Hall",
+      "Performance Cluster"
+    ],
+
+    "materiality": [
+      "Glass",
+      "Steel",
+      "Concrete",
+      "Wood Interior Finishes"
+    ],
+
+    "atmosphere": {
+      "public_spaces": "Open, civic, and communal",
+      "auditoria": "Immersive and performance-focused",
+      "overall_character": "Contemporary cultural destination"
+    },
+
+    "contextual_relationship": {
+      "urban_presence": "Prominent",
+      "civic_identity": "Strong",
+      "public_visibility": "High"
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 3,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "venue_name": "Fichandler Stage",
+        "evidence": "Large audience enclosure with audience wrapping performance area."
+      },
+      {
+        "theatre_id": "T2",
+        "venue_name": "Kreeger Theater",
+        "evidence": "Frontal audience-stage arrangement visible in venue imagery."
+      },
+      {
+        "theatre_id": "T3",
+        "venue_name": "Arlene and Robert Kogod Cradle",
+        "evidence": "Smaller flexible performance venue visible in venue imagery."
+      }
+    ],
+
+    "multi_theatre_complex": true,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Fichandler Stage",
+
+      "theatre_typology": "Thrust Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Large Scale Theatre Productions"
+      ],
+
+      "estimated_capacity": {
+        "value": "500-900",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "Surround",
+
+      "seating_geometry": "Horseshoe",
+
+      "stage_form": "Thrust Stage",
+
+      "auditorium_stage_relationship": "Thrust",
+
+      "transformability": {
+        "classification": "Fixed"
+      },
+
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    {
+      "theatre_id": "T2",
+
+      "theatre_name": "Kreeger Theater",
+
+      "theatre_typology": "Proscenium Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Musical Theatre",
+        "Large Scale Performance"
+      ],
+
+      "estimated_capacity": {
+        "value": "400-800",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "End-stage",
+
+      "seating_geometry": "Fan-shaped",
+
+      "stage_form": "Proscenium Stage",
+
+      "auditorium_stage_relationship": "Frontal",
+
+      "transformability": {
+        "classification": "Fixed"
+      },
+
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    {
+      "theatre_id": "T3",
+
+      "theatre_name": "Kogod Cradle",
+
+      "theatre_typology": "Studio Theatre",
+
+      "primary_function": [
+        "Experimental Theatre",
+        "Flexible Performance",
+        "Small Scale Productions"
+      ],
+
+      "estimated_capacity": {
+        "value": "100-300",
+        "unit": "seats",
+        "confidence": "Low"
+      },
+
+      "audience_configuration": "Hybrid",
+
+      "seating_geometry": "Rectilinear",
+
+      "stage_form": "Flexible Stage",
+
+      "auditorium_stage_relationship": "Variable",
+
+      "transformability": {
+        "classification": "Variable"
+      },
+
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Multi-Theatre Performing Arts Center",
+
+    "hierarchy": {
+      "main_hall": "T1 Fichandler Stage",
+      "secondary_hall": "T2 Kreeger Theater",
+      "studio_theatre": "T3 Kogod Cradle"
+    },
+
+    "shared_infrastructure": [
+      "Lobby",
+      "Foyer",
+      "Public Circulation",
+      "Backstage Facilities",
+      "Technical Support",
+      "Loading and Service Areas"
+    ],
+
+    "operational_relationships": {
+      "venue_independence": true,
+      "shared_support": true,
+      "shared_public_space": true
+    },
+
+    "spatial_relationships": {
+      "organization": "Clustered Venue System",
+      "venue_arrangement": "Independent theatre volumes within common enclosure"
+    }
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "confidence_level": "Medium"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_cluster_organization": "Clearly Expressed",
+
+    "volume_in_volume_strategy": true,
+
+    "theatre_as_organizational_core": false,
+
+    "visibility_of_theatre_volume": "Clearly Expressed",
+
+    "description": "Multiple theatre volumes are visually legible as independent objects contained within a larger architectural enclosure."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Major Regional Performing Arts Institution",
+
+    "programmatic_role": "Multi-disciplinary theatre production and presentation",
+
+    "public_space_integration": {
+      "public_gathering": true,
+      "civic_destination": true,
+      "community_engagement": true
+    },
+
+    "architectural_expression_of_performance": {
+      "theatre_volumes_expressed": true,
+      "shared_cultural_hall": true,
+      "performance_visible_in_architecture": true
+    },
+
+    "spectatorship": {
+      "multiple_viewing_models": true,
+      "diverse_performance_types": true,
+      "audience_choice": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "multi_theatre_classification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "fichandler_identification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "kreeger_identification": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "kogod_identification": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "transformability": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    }
+  },
+
+  "knowledge_tags": [
+    "Arena Stage",
+    "Mead Center",
+    "Multi-Theatre Complex",
+    "Fichandler Stage",
+    "Kreeger Theater",
+    "Kogod Cradle",
+    "Thrust Theatre",
+    "Proscenium Theatre",
+    "Studio Theatre",
+    "Volume-in-Volume",
+    "Shared Lobby",
+    "Performing Arts Center"
+  ]
+}

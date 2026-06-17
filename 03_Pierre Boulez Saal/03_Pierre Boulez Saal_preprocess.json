@@ -1,0 +1,353 @@
+{
+  "project_name": "Pierre Boulez Saal",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based exclusively on visible plans, sections, auditorium photographs, architectural model photographs, conceptual sketches, and building drawings contained in the uploaded image set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Floor Plans",
+        "evidence": "Two auditorium plans showing audience configuration, stage arrangement, circulation, and room organization."
+      },
+      {
+        "type": "Sections",
+        "evidence": "Longitudinal and transverse sections showing auditorium insertion within existing building structure."
+      },
+      {
+        "type": "Detailed Section",
+        "evidence": "Section through auditorium volume illustrating balcony structure and room enclosure."
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photograph",
+        "evidence": "Historic building envelope and urban street relationship."
+      },
+      {
+        "type": "Interior Auditorium Photograph",
+        "evidence": "Audience seating, balcony ring, central performance area, and materiality."
+      },
+      {
+        "type": "Architectural Model Photograph",
+        "evidence": "Auditorium insertion within existing building fabric."
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Concept Sketch",
+        "evidence": "Oval spatial concept describing audience enclosure around performance area."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Music Performance Venue",
+
+    "primary_program": "Chamber Music Hall",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Entrance",
+        "Lobby",
+        "Foyer",
+        "Bar",
+        "Audience Circulation",
+        "Balcony Ring"
+      ],
+
+      "BOH": [
+        "Artist Office",
+        "Practice Room",
+        "Seminar Room",
+        "Recording Studio",
+        "Technical Spaces"
+      ],
+
+      "performance_spaces": [
+        "Pierre Boulez Hall",
+        "Central Performance Platform"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Auditorium Inserted Within Existing Building",
+
+      "description": "A freestanding oval auditorium is inserted into a rectilinear historic building shell. Ancillary functions occupy the perimeter between the auditorium and the exterior walls.",
+
+      "public_private_separation": "Moderate",
+
+      "circulation_structure": "Audience circulation occurs around the perimeter of the oval hall and through an upper balcony ring."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Volume-in-Volume",
+
+      "description": "The performance hall functions as an independent architectural object placed inside an existing building envelope."
+    },
+
+    "vertical_organization": {
+      "lower_levels": [
+        "Entrance",
+        "Lobby",
+        "Bar",
+        "Performance Hall"
+      ],
+
+      "middle_levels": [
+        "Balcony Seating",
+        "Audience Circulation"
+      ],
+
+      "upper_levels": [
+        "Practice Rooms",
+        "Seminar Rooms",
+        "Recording Facilities",
+        "Administrative Functions"
+      ]
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Oval Auditorium",
+      "Continuous Balcony Ring",
+      "Timber Acoustic Interior",
+      "Central Performance Platform",
+      "Embedded Performance Volume",
+      "Historic Building Shell"
+    ],
+
+    "materiality": [
+      "Wood",
+      "Steel",
+      "Plaster",
+      "Historic Masonry"
+    ],
+
+    "atmosphere": {
+      "auditorium": "Intimate and immersive",
+      "audience_experience": "Close visual and acoustic relationship to performers",
+      "spatial_character": "Warm, continuous, and enveloping"
+    },
+
+    "contextual_relationship": {
+      "adaptive_reuse": true,
+      "historic_context": true,
+      "urban_integration": true
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 1,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "location": "Center of building footprint",
+        "evidence": "Single oval auditorium visible in plans, sections, photographs, and model."
+      }
+    ],
+
+    "multi_theatre_complex": false,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Pierre Boulez Hall",
+
+      "theatre_typology": "Concert Hall",
+
+      "primary_function": [
+        "Chamber Music",
+        "Recitals",
+        "Small Ensemble Performance",
+        "Music Education Events"
+      ],
+
+      "estimated_capacity": {
+        "value": "500-800",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "Surround",
+
+      "seating_geometry": "Terraced Oval Hybrid",
+
+      "stage_form": "Central Concert Platform",
+
+      "auditorium_stage_relationship": "Surround",
+
+      "spatial_characteristics": {
+        "audience_wraps_performance_area": true,
+        "central_stage": true,
+        "continuous_balcony_ring": true,
+        "multiple_viewing_angles": true,
+        "short_viewing_distance": true
+      },
+
+      "FOH_components": [
+        "Lobby",
+        "Foyer",
+        "Bar",
+        "Audience Circulation Ring",
+        "Balcony Access"
+      ],
+
+      "BOH_components": [
+        "Practice Rooms",
+        "Seminar Rooms",
+        "Recording Studio",
+        "Administrative Areas"
+      ],
+
+      "circulation_strategy": {
+        "audience": "Perimeter circulation surrounding the oval hall with access to both main floor and balcony seating.",
+        "performers": "Dedicated support rooms connected to performance platform."
+      },
+
+      "acoustic_typology": {
+        "classification": "Chamber Music Hall",
+        "evidence": "Compact surround audience arrangement and acoustically enclosed timber-lined volume."
+      },
+
+      "transformability": {
+        "classification": "Flexible",
+        "evidence": "Plans indicate multiple possible stage and seating positions within the oval enclosure, although no retractable systems are visible."
+      },
+
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Single-Venue Music Hall",
+
+    "hierarchy": {
+      "main_hall": "T1",
+      "secondary_hall": null,
+      "studio_theatre": null,
+      "experimental_theatre": null
+    },
+
+    "shared_infrastructure": [],
+
+    "operational_relationships": "N/A"
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "affected_venues": [],
+
+    "connection_mechanism": null,
+
+    "confidence_level": "High"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_as_organizational_core": true,
+
+    "volume_in_volume_strategy": true,
+
+    "visibility_of_theatre_volume": "Clearly Expressed",
+
+    "theatre_cluster_organization": "Single-Core",
+
+    "description": "The oval concert hall is the dominant architectural object and spatial organizer within the larger historic building envelope."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Music Performance and Education Venue",
+
+    "programmatic_role": "Chamber music presentation integrated with teaching, rehearsal, and educational functions.",
+
+    "public_space_integration": {
+      "urban_integration": true,
+      "educational_programming": true,
+      "cultural_destination": true
+    },
+
+    "architectural_expression_of_performance": {
+      "audience_enclosure_emphasized": true,
+      "musician_audience_proximity": true,
+      "performance_space_as_object": true
+    },
+
+    "spectatorship": {
+      "immersive": true,
+      "surround_viewing": true,
+      "high_acoustic_intimacy": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_typology": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "audience_configuration": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "stage_form": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "seating_geometry": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "capacity_estimation": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "transformability": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    }
+  },
+
+  "knowledge_tags": [
+    "Pierre Boulez Saal",
+    "Concert Hall",
+    "Chamber Music Hall",
+    "Surround Audience",
+    "Central Stage",
+    "Oval Auditorium",
+    "Volume-in-Volume",
+    "Adaptive Reuse",
+    "Music Education",
+    "Audience Enclosure",
+    "Flexible Configuration",
+    "Single Venue"
+  ]
+}

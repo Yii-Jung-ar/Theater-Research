@@ -1,0 +1,370 @@
+{
+  "project_name": "National Kaohsiung Center for the Arts (Weiwuying)",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based on visible site plan, floor plan, venue diagrams, architectural concept diagrams, auditorium images, exterior photographs, and labeled venue illustrations contained in the uploaded image set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Site Plan",
+        "evidence": "Overall building footprint and park relationship."
+      },
+      {
+        "type": "Floor Plan",
+        "evidence": "Building-wide plan showing multiple venue volumes and circulation systems."
+      }
+    ],
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photographs",
+        "evidence": "Building envelope, public plazas, landscape integration, and roof form."
+      },
+      {
+        "type": "Interior Auditorium Photographs",
+        "evidence": "Concert hall, lyric theatre, playhouse, and public gathering spaces."
+      }
+    ],
+    "P3_Diagrams": [
+      {
+        "type": "Concept Diagram",
+        "evidence": "Spatial and formal development diagrams."
+      },
+      {
+        "type": "Architectural Surface Diagram",
+        "evidence": "Continuous building envelope and circulation logic."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Multi-Venue Performing Arts Center",
+
+    "primary_program": "Music, Opera, Theatre, and Performing Arts",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Banyan Plaza",
+        "Public Concourse",
+        "Main Lobby",
+        "Foyer",
+        "Public Gathering Space",
+        "Internal Public Street"
+      ],
+
+      "BOH": [
+        "Backstage Areas",
+        "Dressing Rooms",
+        "Technical Support Areas",
+        "Loading Facilities",
+        "Production Spaces",
+        "Service Circulation"
+      ],
+
+      "performance_spaces": [
+        "Concert Hall",
+        "Recital Hall",
+        "Lyric Theatre",
+        "Playhouse"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Multi-Venue Cultural Landscape",
+
+      "description": "Multiple performance venues are embedded beneath a continuous architectural roof and connected through a shared public circulation system.",
+
+      "public_private_separation": "Strong",
+
+      "circulation_structure": "A continuous public interior landscape distributes audiences to independent venues."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Venue Cluster Under Unified Envelope",
+
+      "description": "Independent auditorium volumes are organized as distinct performance objects within a larger continuous architectural shell."
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Continuous Roofscape",
+      "Landscape Architecture",
+      "Cave-Like Interior",
+      "Organic Geometry",
+      "Public Interior Street",
+      "Integrated Auditorium Volumes"
+    ],
+
+    "materiality": [
+      "Metal Cladding",
+      "Concrete",
+      "Glass",
+      "Wood Acoustic Surfaces"
+    ],
+
+    "atmosphere": {
+      "public_spaces": "Fluid and civic",
+      "auditoria": "Immersive and acoustically focused",
+      "architectural_character": "Monumental yet landscape-oriented"
+    },
+
+    "contextual_relationship": {
+      "park_integration": true,
+      "cultural_landmark": true,
+      "public_accessibility": true
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 4,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "venue_name": "Concert Hall",
+        "evidence": "Explicitly labeled in venue illustration."
+      },
+      {
+        "theatre_id": "T2",
+        "venue_name": "Recital Hall",
+        "evidence": "Explicitly labeled in venue illustration."
+      },
+      {
+        "theatre_id": "T3",
+        "venue_name": "Lyric Theatre",
+        "evidence": "Explicitly labeled in venue illustration."
+      },
+      {
+        "theatre_id": "T4",
+        "venue_name": "Playhouse",
+        "evidence": "Explicitly labeled in venue illustration."
+      }
+    ],
+
+    "multi_theatre_complex": true,
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+      "theatre_name": "Concert Hall",
+      "theatre_typology": "Concert Hall",
+      "primary_function": [
+        "Symphonic Music",
+        "Orchestral Performance"
+      ],
+      "estimated_capacity": {
+        "value": "1000-2500",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+      "audience_configuration": "Vineyard",
+      "seating_geometry": "Vineyard",
+      "stage_form": "Central Concert Platform",
+      "auditorium_stage_relationship": "Surround",
+      "transformability": {
+        "classification": "Fixed"
+      },
+      "confidence_level": "Medium",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    {
+      "theatre_id": "T2",
+      "theatre_name": "Recital Hall",
+      "theatre_typology": "Concert Hall",
+      "primary_function": [
+        "Chamber Music",
+        "Recitals"
+      ],
+      "estimated_capacity": {
+        "value": "200-1000",
+        "unit": "seats",
+        "confidence": "Low"
+      },
+      "audience_configuration": "End-stage",
+      "seating_geometry": "Fan-shaped",
+      "stage_form": "Concert Platform",
+      "auditorium_stage_relationship": "Frontal",
+      "transformability": {
+        "classification": "Fixed"
+      },
+      "confidence_level": "Low",
+      "evidence_quality": "Strong Inference"
+    },
+
+    {
+      "theatre_id": "T3",
+      "theatre_name": "Lyric Theatre",
+      "theatre_typology": "Opera House",
+      "primary_function": [
+        "Opera",
+        "Dance",
+        "Large Scale Theatre Production"
+      ],
+      "estimated_capacity": {
+        "value": "1000-2500",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+      "audience_configuration": "End-stage",
+      "seating_geometry": "Horseshoe",
+      "stage_form": "Proscenium Stage",
+      "auditorium_stage_relationship": "Frontal",
+      "transformability": {
+        "classification": "Fixed"
+      },
+      "confidence_level": "Medium",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    {
+      "theatre_id": "T4",
+      "theatre_name": "Playhouse",
+      "theatre_typology": "Studio Theatre",
+      "primary_function": [
+        "Drama",
+        "Experimental Performance",
+        "Contemporary Theatre"
+      ],
+      "estimated_capacity": {
+        "value": "200-1200",
+        "unit": "seats",
+        "confidence": "Low"
+      },
+      "audience_configuration": "Hybrid",
+      "seating_geometry": "Hybrid",
+      "stage_form": "Flexible Stage",
+      "auditorium_stage_relationship": "Variable",
+      "transformability": {
+        "classification": "Variable"
+      },
+      "confidence_level": "Low",
+      "evidence_quality": "Strong Inference"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Multi-Theatre Performing Arts Center",
+
+    "hierarchy": {
+      "main_hall": "T3 Lyric Theatre",
+      "concert_hall": "T1 Concert Hall",
+      "secondary_hall": "T2 Recital Hall",
+      "studio_theatre": "T4 Playhouse"
+    },
+
+    "shared_infrastructure": [
+      "Banyan Plaza",
+      "Main Concourse",
+      "Foyers",
+      "Backstage Facilities",
+      "Technical Support",
+      "Loading Facilities",
+      "Public Circulation"
+    ],
+
+    "operational_relationships": {
+      "venue_independence": true,
+      "shared_support": true,
+      "shared_public_space": true
+    },
+
+    "spatial_relationships": {
+      "organization": "Clustered Venue System",
+      "venue_arrangement": "Independent performance volumes connected by continuous public circulation"
+    }
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "confidence_level": "Low"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_cluster_organization": "Clearly Expressed",
+
+    "volume_in_volume_strategy": true,
+
+    "theatre_as_organizational_core": false,
+
+    "visibility_of_theatre_volume": "Partially Expressed",
+
+    "description": "Distinct auditorium volumes are embedded beneath a continuous architectural landscape and unified roof structure."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "National Performing Arts Institution",
+
+    "programmatic_role": "Music, theatre, opera, education, and public cultural engagement",
+
+    "public_space_integration": {
+      "park_connection": true,
+      "public_interior_landscape": true,
+      "civic_destination": true
+    },
+
+    "architectural_expression_of_performance": {
+      "performance_integrated_with_public_space": true,
+      "continuous_cultural_landscape": true,
+      "multiple_venue_identity": true
+    },
+
+    "spectatorship": {
+      "multiple_viewing_models": true,
+      "diverse_performance_formats": true,
+      "broad_public_access": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+    "multi_theatre_classification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+    "venue_identification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+    "individual_capacity_estimates": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    },
+    "transformability": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    }
+  },
+
+  "knowledge_tags": [
+    "Weiwuying",
+    "National Kaohsiung Center for the Arts",
+    "Multi-Theatre Complex",
+    "Concert Hall",
+    "Recital Hall",
+    "Lyric Theatre",
+    "Playhouse",
+    "Opera House",
+    "Performing Arts Center",
+    "Landscape Architecture",
+    "Volume-in-Volume",
+    "Shared Public Concourse"
+  ]
+}
