@@ -1,0 +1,109 @@
+{
+  "project 15": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Royal Exchange Theatre, Manchester (曼徹斯特皇家交易所劇院)",
+        "theater_scale_hierarchy": "地方綜合型兼具激進歷史先例之適應性重生劇院",
+        "gross_floor_area": "未知"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Theatre Module (主劇院艙體 / 主廳)",
+          "seating_capacity": "700 席",
+          "stage_type": "Arena (圓形 / 環抱式 / Theatre-in-the-round)",
+          "primary_performance_type": "Drama (戲劇), Contemporary Theatre (當代劇場), Live Performance (現場表演)",
+          "key_hardware_&_acoustic_conditions": "全廳採七邊形幾何配置（seven-sided construction），舞台位於中央（Central Stage），觀眾席分為地面層（450席）及上方兩層懸挑式環廊觀眾席（各150席）。結構採用鋼桁架與張力吊索完全懸吊於歷史建物磚石柱上，外層包覆強化玻璃（toughened glass）與鋼製甲板屋頂以形成獨立的物理聲學防護本體（separate acoustic entity）。"
+        },
+        {
+          "hall_name": "Studio Space (實驗工作室 / 1998年增建)",
+          "seating_capacity": "120 席",
+          "stage_type": "Flexible Stage (可變動式舞台 / 實驗黑盒子)（推測）",
+          "primary_performance_type": "Experimental Theatre (實驗性戲劇), Developing New Ideas (概念孵化), Testing Out New Productions (新劇目測試)",
+          "key_hardware_&_acoustic_conditions": "於1996年爆炸案後的修復期工程中（1998年竣工）置入歷史大廳內，作為劇院測試新作品及與多元觀眾互動的輔助實驗空間。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "英國",
+        "city": "曼徹斯特 (Manchester)",
+        "urban_context": "坐落於曼徹斯特市中心核心區，嵌入一座宏偉的愛德華時代三穹頂皇家棉花交易所（Edwardian Cotton Exchange）的大中央大廳（Great Hall）內部紋理。"
+      },
+      "participants_&_operation": {
+        "architect": "Levitt Bernstein (萊維特·伯恩斯坦建築師事務所)",
+        "client": "Royal Exchange Theatre Company (皇家交易所劇院公司，初始由 Braham Murray, Michael Elliott, James Maxwell, Casper Wrede 及 Richard Negri 領導)",
+        "end_user": "劇院常駐演員、舞台技術後勤團隊、曼徹斯特市民、全美與國際戲劇觀眾",
+        "consultants": [
+          "Structural & Fire Engineering: Ove Arup & Partners (奧雅納工程顧問)",
+          "Services Engineer: Max Fordham and Partners",
+          "Theatre Services: Theatre Projects",
+          "Acoustics: D. K. Jones",
+          "Sound: Ian Gibson",
+          "Quantity Surveyor: Mahon & Scears / Monk and Dunstone"
+        ],
+        "operator": "Royal Exchange Theatre Company (皇家交易所劇院公司)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "面對1968年停止交易後荒廢、列為英國二級古蹟保護（Grade II listed）且結構與立面嚴禁大肆更動的棉花交易所大中央大廳，傳統戲劇所需的封閉劇場體量（如鏡框式、後台區）完全無法直接置入，且大廳既有樓板與基礎的結構承重力（bearing capacity）嚴重不足，無法承受傳統觀眾席與舞台機械之重量。",
+        "新成立的先鋒劇團極度排斥傳統「台前幕後」的剛性阻隔（如 Proscenium、Upstage/Downstage），亟需創造一種能讓演員與觀眾共處同一空間邊界、極具沉浸感（immersive theatre experience）且各機能完全外顯的全新空間範式。"
+      ],
+      "concept": [
+        "「大廳中的自主太空艙（Theatre-in-Hall / Volume-in-Volume）」。設計將劇院主體視為一座獨立、輕量化且完全與歷史建物外殼脫離的「現代科技物件」，其前衛的鋼構與玻璃語彙與愛德華時代古典宏偉的室內大廳形成強烈的「新舊美學對話」。整體外觀因其科技懸吊型態，被生動地譽為剛完成登月任務的「阿波羅登月艙（Lunar space module）」。"
+      ],
+      "strategy": [
+        "四柱鋼桁架懸吊操作（Suspended Truss Structure）：為了不對嬌貴脆弱的交易所樓板增加任何垂直荷載，建築師與 Ove Arup 合作，將整座劇院的四組核心大桁架橫跨於原本支撐大廳中央巨型穹頂（Central Dome）的四根巨型磚石柱（four monumental brick piers）上，使主劇場完全呈現「高空懸吊」之姿。",
+        "奇數七邊形消解對立幾何（Seven-sided Geometry）：採用不規則的奇數七邊形平面。此幾何操作確保了環抱式觀眾席（Theatre-in-the-round）內各個Facet的觀眾在對望時，視線不會與正對面的觀眾發生直視衝突，從而增強了對舞台表演的視覺專注度與親密感。",
+        "機能共享與技術外顯（Exposed Tectonics）：打破前後台的封閉邊界。將演員化妝室、前台咖啡廳與售票處全數打散置於大廳廣場內，促成公共市民與演員在非演出時段的日常空間共享。劇院所有的調光、燈光與控制等通常隱蔽的技術構造，皆誠實暴露於艙體外殼。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "main theatre module",
+        "historic exchange hall",
+        "arena stage",
+        "suspended structure",
+        "four monumental brick piers",
+        "central dome",
+        "steel frame trusses",
+        "seven-sided construction",
+        "cantilevered galleries",
+        "toughened glass skin",
+        "steel mesh panels",
+        "metal roof decking",
+        "glass walkway",
+        "studio space",
+        "circulation ring",
+        "audience entrances"
+      ],
+      "c2_semantic_relations": [
+        "Main Theatre Module → suspended fully inside (Spatial Relation) → Historic Exchange Hall",
+        "Steel Frame trusses → spans horizontally between (Material & Tectonic Relation) → Four Monumental Brick Piers",
+        "Four Monumental Brick Piers → vertically carry the gravity load of (Spatial Relation) → Central Dome",
+        "Main Theatre Module → placed directly aligned under (Spatial Relation) → Central Dome",
+        "Cantilevered Galleries → project inwards from the trusses of (Spatial Relation) → Seven-sided Construction",
+        "Arena Stage → sits radially at the absolute geometric center of (Spatial Relation) → Main Theatre Module",
+        "Toughened Glass Skin → encloses the perimeter facets of (Material & Tectonic Relation) → Seven-sided Construction",
+        "Metal Roof Decking → caps the upper thermal enclosure of (Material & Tectonic Relation) → Main Theatre Module",
+        "Main Theatre Module → creates a self-contained acoustic node separate from (Functional Relation) → Historic Exchange Hall",
+        "Circulation Ring → flows continuously around the outer ground base of (Circulation Relation) → Main Theatre Module",
+        "Glass Walkway → spans across the upper air level to provide access into (Circulation Relation) → Audience Entrances",
+        "Studio Space → inserted as a detached secondary performance core inside (Spatial Relation) → Historic Exchange Hall"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民與觀眾在踏入這座19世紀古典大廳時，會被其宏偉穹頂下赫然懸掛的「太空艙」結構所強烈震撼。觀眾與演員在演出前後共享大廳內的咖啡廳與公共地坪，極大模糊了日常社交與精緻藝術演繹的邊界。",
+        "在主艙體內部，由於嚴格執行「無人距離舞台中央超過 10 公尺」的視距構造操作，產生了極致親密、高殘響且感染力極強的集體沉浸式觀劇行為反應。"
+      ],
+      "discourse_&_criticism": [
+        "本案在英國建築與劇院史上被公認為古蹟活化（Adaptive Reuse）的傳奇經典，自1976年落成以來橫跨數十年，相繼斬獲 RIBA 建築大獎、市中心信託讚賞獎，甚至在 2025年 被大眾評選為「曼徹斯特大眾最愛建築第一名——人民選擇獎（The People's Choice）」。",
+        "劇院在 1996 年經歷了嚴重的都市爆炸案破壞，但萊維特·伯恩斯坦建築師事務所的重返修復與增建玻璃步道，反而使這座「未來主義艙體」對外在都市街道的視覺可見性與批判性力量大大增強。"
+      ],
+      "tectonic_results": [
+        "設計團隊透過極其大膽的結構懸吊學（Suspension Tectonics），巧妙化解了保護古蹟「不可承重、不可破壞」的法律死局，證明了極致的當代鋼構、玻璃技術不僅不會破壞古蹟，反而能為老舊工業/商業遺產注入全新的文化靈魂。",
+        "「奇數七邊形」與「內部機構完全外顯」的細部構造操作，徹底打破了傳統鏡框式劇院（Proscenium）所隱喻的階級與布爾喬亞式的虛假幻覺，完美落實了20世紀中後期前衛戲劇運動對「民主、開放、高透明度」空間原型的實體構築。"
+      ]
+    }
+  }
+}

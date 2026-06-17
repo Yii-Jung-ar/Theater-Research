@@ -1,0 +1,120 @@
+{
+  "project 11": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Helsinki Music Centre (赫爾辛基音樂廳)",
+        "theater_scale_hierarchy": "國家級與城市級古典音樂綜合機能建築",
+        "gross_floor_area": "36,000 sqm（推測，基於一般大型音樂中心之合理規模與多廳配置）"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Concert Hall (主音樂廳)",
+          "seating_capacity": "1,704 席（資料提及競圖要求 1,500 席，實際平面分析圖顯示為 1,704 席）",
+          "stage_type": "Vineyard (葡萄園式 / 環抱式 / 表演舞台居中)",
+          "primary_performance_type": "Classical Music Concerts (古典音樂會), Symphonic Performance (交響樂演奏)",
+          "key_hardware_&_acoustic_conditions": "配備固定式中央演繹舞台，全廳採用階梯梯田狀（Terraced）觀眾席圍繞中央舞台。天花板上方懸吊大型音響反射板（Acoustic Canopy），牆面鋪設特殊不規則木質聲學障板（Acoustic Baffles）以提供完美的擴散反射。"
+        },
+        {
+          "hall_name": "Camerata (卡梅拉塔廳 / 室內樂廳)",
+          "seating_capacity": "300-500 席（推測）",
+          "stage_type": "Shoebox (鞋盒式) / End-stage (端點式舞台)",
+          "primary_performance_type": "Chamber Music (室內樂), Recitals (獨奏會), Sibelius Academy Teaching",
+          "key_hardware_&_acoustic_conditions": "具備高挑的鞋盒空間比例，後台設有移動式聲學反射簾幕（Acoustic Curtains），可因應不同編制調整殘響時間。"
+        },
+        {
+          "hall_name": "Organo (管風琴廳)",
+          "seating_capacity": "100-200 席（推測）",
+          "stage_type": "Flexible / End-stage",
+          "primary_performance_type": "Organ Performance (管風琴演奏及教學), Baroque Music (巴洛克音樂)",
+          "key_hardware_&_acoustic_conditions": "專為管風琴聲學所規劃的特殊高殘響空間，端點設有教學與表演用管風琴。"
+        },
+        {
+          "hall_name": "Black Box (黑盒子劇場 / 實驗劇場)",
+          "seating_capacity": "200 席（推測）",
+          "stage_type": "Black Box (黑盒子式 / 靈活可變觀眾席)",
+          "primary_performance_type": "Experimental Music (實驗音樂), Jazz (爵士樂), Multi-media Performance (多媒體跨界表演)",
+          "key_hardware_&_acoustic_conditions": "全黑吸音表面，配備可調式舞台燈光懸吊格柵系統（Overhead Grid）與靈立可卸式階梯座椅。"
+        },
+        {
+          "hall_name": "Sonore (索諾雷廳 / 音樂劇廳)",
+          "seating_capacity": "200-300 席（推測）",
+          "stage_type": "Proscenium (鏡框式) / Flexible Stage",
+          "primary_performance_type": "Opera/Musical (音樂劇/歌劇小品), Vocal Music (聲樂藝術表演)",
+          "key_hardware_&_acoustic_conditions": "舞台口配備小型吸音與反射構造，適合人聲與小型器樂的平衡表現。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "芬蘭",
+        "city": "赫爾辛基",
+        "urban_context": "基地坐落於赫爾辛基市中心的核心地帶，前身為舊鐵道機廠舊址（old rail yards）。基地正對國會大廈（Parliament House），且鄰近著名建築地標芬蘭大廈（Finlandia Hall）與當代藝術博物館（Kiasma）。"
+      },
+      "participants_&_operation": {
+        "architect": "LPR Architects (主導建築師事務所，以競圖作品 “A Mezza Voce” 獲選)",
+        "client": "Finnish Government (芬蘭政府), City of Helsinki (赫爾辛基市政府), Finnish Broadcasting Company (芬蘭廣播公司)",
+        "end_user": "Helsinki Philharmonic Orchestra (赫爾辛基愛樂樂團), Finnish Radio Symphony Orchestra (芬蘭廣播交響樂團), Sibelius Academy (西貝流士音樂學院) 師生、市民及國際觀光客",
+        "consultants": [
+          "Acoustic Consultant: Yasuhisa Toyota / Nagata Acoustics (豐田泰久 / 永田音響工務店)（推測，基於主廳葡萄園式設計與世界級聲學表現之常識）",
+          "Theater Consultant: 未知"
+        ],
+        "operator": "由芬蘭政府、赫爾辛基市與芬蘭廣播公司聯合組成之財團法人/管理委員會（推測）"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "基地位於極其敏感且具備高度政治文化象徵的赫爾辛基市中心，周圍環繞阿爾瓦·奧托大師設計的芬蘭大廈（Finlandia Hall）、斯蒂文·霍爾設計的 Kiasma 博物館與古典主義風格的國會大廈，新建築如何謙遜嵌入紋理、不破壞既有都市景觀與公共綠帶，成為巨大的文化保存與都市設計挑戰。",
+        "如何將三大相互獨立且龐大的音樂實體（芬蘭廣播交響樂團、赫爾辛基愛樂、西貝流士音樂學院）整合於單一複合體中，並在有限體量內解決各演奏廳與教學空間高度嚴格的聲學噪音隔離（Acoustic Isolation）與複雜的人流動線交織。"
+      ],
+      "concept": [
+        "核心理念為“A Mezza Voce”（以溫和、中庸的聲音歌唱）。設計採取極度謙遜與禮貌的都市態度，降低高聳體量對環境的壓迫，使其「輕履」於景觀之中而不驚擾周邊大師地標，並將整座主音樂廳主體「下沉」至地底，轉化為向大眾敞開的「地景式公共音樂建築」。"
+      ],
+      "strategy": [
+        "垂直機能下沉與地景交融：將最龐大的主音樂廳（Main Concert Hall）深度埋入地下層，降低地面層的建築主體高度。下沉廣場與傾斜的綠色屋頂（Inclined park deck）化為公園綠帶的延伸，消解體量感。",
+        "雙皮層的紋理對話：在面對國會大廈與歷史街區的立面採用深綠色、經預先氧化處理的穿孔銅板帷幕（Pre-patinated green copper cladding），呼應鄰近公園植物與老城區屋頂；而在面對現代都市發展的另一側，則採用極高透明度的玻璃幕牆（Transparent glass facade），將內部的音樂學院教學與公共前台活動完全外顯。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "main concert hall",
+        "vineyard seating terrace",
+        "centralized stage",
+        "acoustic canopy",
+        "acoustic baffles",
+        "foyer atrium",
+        "glass curtain wall",
+        "pre-patinated copper skin",
+        "sunken public plaza",
+        "inclined park deck",
+        "secondary rehearsal halls",
+        "sibelius academy wing",
+        "backstage corridors",
+        "acoustic isolation structural joint"
+      ],
+      "c2_semantic_relations": [
+        "Main Concert Hall → buried deep beneath (Spatial Relation) → Sunken Public Plaza",
+        "Vineyard Seating Terrace → slopes down toward (Spatial Relation) → Centralized Stage",
+        "Acoustic Canopy → hovers horizontally above (Functional Relation) → Centralized Stage",
+        "Foyer Atrium → wraps symmetrically around the perimeter of (Spatial Relation) → Main Concert Hall",
+        "Glass Curtain Wall → encloses the eastern face of (Material & Tectonic Relation) → Foyer Atrium",
+        "Glass Curtain Wall → allows visual permeability from the streets into (Perceptual Relation) → Sibelius Academy Wing",
+        "Pre-patinated Copper Skin → drapes over the solid street-facing volumes of (Material & Tectonic Relation) → Secondary Rehearsal Halls",
+        "Inclined Park Deck → descends continuously toward the south to greet (Conceptual Relation) → Kiasma Museum of Contemporary Art",
+        "Foyer Atrium → segregates audience flows away from (Circulation Relation) → Backstage Corridors",
+        "Acoustic Isolation Structural Joint → separates the structural concrete foundation of (Functional Relation) → Main Concert Hall and Sibelius Academy Wing"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民與觀光客在開放性的下沉廣場與與傾斜的地景綠帶坡道上休憩、散步，與都市公園系統完美融為一體；音樂學院學生與樂團演職人員則在通透的玻璃中庭內交會，模糊了精緻藝術與日常市民生活的界線。"
+      ],
+      "discourse_&_criticism": [
+        "建築評論界（包含雙年展評審 Juhani Pallasmaa 教授）給予極高評價，盛讚該案面對赫爾辛基最嚴苛的都市、物流、技術與聲學複合挑戰，卻能以極其優雅且謙遜客氣（courteously）的方式融入都市中心。",
+        "大眾與建築媒體讚譽主音樂廳採用的葡萄園式空間形式，拉近了觀眾與交響樂團之間的視覺與情感距離，創造了芬蘭古典音樂界的全新里程碑。"
+      ],
+      "tectonic_results": [
+        "建築成功透過「隱匿與顯現」的構造操作（綠銅與玻璃幕牆的交織），既向赫爾辛基的歷史經典建築致敬，又建立了代表當代開放、民主文化的透明都市客廳。",
+        "下沉式的音樂廳量體雖隱於地下，其上方的玻璃巨盒卻在夜間化為發光的文化燈塔，為都市軸線提供了溫和而清晰的視覺錨點。"
+      ]
+    }
+  }
+}

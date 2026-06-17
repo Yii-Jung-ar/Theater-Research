@@ -1,0 +1,122 @@
+{
+  "project 06": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Schauspielhaus Düsseldorf (D'haus 杜塞道夫戲劇院)",
+        "theater_scale_hierarchy": "雙廳型市立綜合戲劇院/具歷史古蹟地位之國家級 post-war 建築文化地標 [cite: 174, 190, 218, 220]",
+        "gross_floor_area": "19,000 m² (總樓地板面積/GFA) [cite: 215]"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "主劇院大廳 (Main Auditorium / Great Hall)",
+          "seating_capacity": "未知（前次於 2010/11 年由建築師 Jörg Friedrich 進行內部整修，本次更新案予以保留 intact，但未提及具體座位數） [cite: 227]",
+          "stage_type": "Proscenium-like Stage 類鏡框式舞台 [cite: 227]",
+          "primary_performance_type": "話劇/舞台劇 (Drama)、口述劇場 (Spoken-word Theatre) [cite: 192, 251]",
+          "key_hardware_&_acoustic_conditions": "佔據主要建築體量核心，採 End-stage 配置與扇形（Fan-shaped）觀眾席幾何佈局 [cite: 227]。舞台上方設有高聳的輕微傾斜式布景吊桿塔/摺棚屋頂 (gently sloping tent roof above the fly tower) [cite: 230]。在本次整修中兩大廳功能維持未動 [cite: 196, 227]。"
+        },
+        {
+          "hall_name": "次要劇院/實驗劇場 (Secondary Auditorium / Studio Theatre)",
+          "seating_capacity": "未知（本次整修予以保留未動，未提及具體座位數） [cite: 196, 227]",
+          "stage_type": "未知（平面圖顯示為較小 footprint 的非固定多功能/次要表演舞台空間）",
+          "primary_performance_type": "實驗性劇場、當代戲劇、中小型舞台劇 [cite: 192, 251]",
+          "key_hardware_&_acoustic_conditions": "與主劇院並置（Side-by-side）於同一建築外殼內，共享前台公共大廳、入口廣場與基礎設施網絡 [cite: 196]。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "德國",
+        "city": "杜塞道夫 (Düsseldorf) [cite: 176]",
+        "urban_context": "位於 Gustaf-Gründgens-Platz 1 號廣場，地處高密度的商業與市中心文化核心區 [cite: 191, 213]。劇院緊鄰著名的戰後現代主義摩天大樓 Dreischeibenhaus 以及新型綠色幕牆地標 Kö-Bogen II，建築後側緊鄰 Hofgarten 公共歷史公園，構成都市硬質廣場與軟質綠帶景觀的關鍵交界節點 [cite: 193, 197]。"
+      },
+      "participants_&_operation": {
+        "architect": "Bernard Pfau (1965–1970 原始設計建築師) [cite: 192]；ingenhoven associates (2018–2022 永續翻新與再利用主導建築師 / Christoph Ingenhoven, Oliver Ingenhoven 等團隊) [cite: 179, 180]",
+        "client": "杜塞道夫市政府 (State Capital Düsseldorf，負責屋頂與修復外牆) 及 Neue Schauspiel GmbH (負責公共區域與室內整修) [cite: 178, 263, 264]",
+        "end_user": "D'haus 劇團、市民大眾、專業演職人員、戲劇藝術家 [cite: 187, 222]",
+        "consultants": [
+          "Werner Sobek AG (屋頂與外牆結構、建築物理與外牆設計顧問) [cite: 269, 271, 278]",
+          "VDS Statik und konstruktiver Ingenieurbau (公共區域結構工程) [cite: 270]",
+          "Tropp Lighting Design GmbH (整體室內外照明設計顧問) [cite: 274]",
+          "ISRW Dr.-Ing. Klapdor GmbH (公共區域建築物理/聲學顧問) [cite: 277]",
+          "Farb-Bau Prof. Friedrich Schmuck (原始色彩分析與古蹟修復諮詢) [cite: 281]",
+          "Petra Blaisse / Inside Outside (客製化室內牆面窗簾設計) [cite: 297]",
+          "Hahlhege & G + N Consult (專案營運營建管理團隊) [cite: 267, 268]"
+        ],
+        "operator": "Neue Schauspiel GmbH / 杜塞道夫市文化局共同管理營運 [cite: 178, 264]"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "古蹟保存與現代化機能的衝突：劇院於 1998 年列為歷史古蹟，因年代久遠其屋頂、外牆、機電消防系統及員工遊憩環境皆不符合當代現代化劇院標準，且存在潛在危險的構造損傷，需在嚴格的古蹟保護法規下完成修復 [cite: 217, 220, 221]。",
+        "1960年代都市規劃的缺陷（都市閉鎖感）：原始建築師 Pfau 因當時的交通政策被迫將主入口移至面向市區廣場側，卻未重新梳理內部基礎設施，導致前台大廳產生極強的面對 Hofgarten 公園的空間封閉感與動線混亂，無法與周邊都市紋理真正融合 [cite: 197, 198, 299]。",
+        "原始構造更新之技術挑戰：長達 16-17 米的原始無接縫鋼板外牆及 Thyssen 專用特殊卡扣基座已無法在保留原樣的狀況下升級，必須以新技術全面研發替代材質以完美再現原始設計精神 [cite: 201, 234, 235]。"
+      ],
+      "concept": [
+        "「劇場作為市民的城市雕塑 (Theatre as civic sculpture)」與「朝向城市 360 度開放的文化界膜」 [cite: 199]。透過將舊有封閉元素剝離，改採極致通透的清透玻璃（clear glass），令整棟建築在厚重的防護古蹟外殼下展現 buoyant lightness (浮動的輕盈感) [cite: 283, 301]。",
+        "「歷史色彩與當代介入的幾何辯證」：基於 Pfau 檔案庫研究進行色彩學考古，以明亮色調重現 1970 年完工之原始面貌，並將當代新置入的機能構造（如更衣室、新洗手間）統一採啞光炭灰色（gray anthracite）或霧黑色處理，創造新舊紋理之間誠實且克制的幾何對話 [cite: 204, 206, 297]。"
+      ],
+      "strategy": [
+        "入口節點重塑與 360 度公共軸線：拆除後續增建的封閉票務亭，在 Gustaf-Gründgens-Platz 廣場前置入一個全新通透的圓形玻璃票務亭（Düsseldorfer Schauspielhaus 2 Pavilion） [cite: 200, 240, 300]；同時打造一個全新的雙層玻璃前庭（double-glazed vestibule）和大型多媒體影像牆（video wall），重組主入口，讓公眾視線能從廣場面對劇院前廳一路延伸貫穿至後側的 Hofgarten 歷史公園 [cite: 199, 200, 301]。",
+        "外牆與屋頂系統的構造性置換 (Tectonic Replacement)：將 17 米長的原廠鋼板與基座全數拆除，以當代輕量化鋁合金面板系統（lightweight aluminum panels）結合最新的熱絕緣隔熱技術（thermal insulation standards）完全重新打造成無接縫的連續白色曲面雕塑外殼，並在多層次的平屋頂與 fly tower 帳篷屋頂上全面實施廣泛綠化（extensive greening） [cite: 201, 202, 231, 232]。",
+        "後勤流線界線隔離（景觀構築學）：在後台區域更新藝術家入口與卸貨區（delivery/disposal zone），藉由建造一座全新的現澆清水混凝土視覺屏障牆（visual screen in concrete），在極小基地內精準分離藝術家進出場與後勤重型物流的動線衝突，並透過全區統一的地板鋪面設計（new floor finish）將劇院與都市廣場在視覺上無縫縫合 [cite: 243, 244]。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "main auditorium",
+        "secondary auditorium",
+        "fly tower",
+        "gently sloping tent roof",
+        "flat roofs",
+        "foyer",
+        "lobby",
+        "double-glazed vestibule",
+        "clear glass facade",
+        "round glass pavilion (main ticket office)",
+        "box office / parking entry",
+        "cloakroom",
+        "cafe / restaurant",
+        "public plaza (Gustaf-Grundgens-Platz)",
+        "urban park (Hofgarten)",
+        "staircases / grand stairs",
+        "vertical circulation cores",
+        "underground parking level",
+        "artists' entrance",
+        "delivery / disposal zone",
+        "visual screen (concrete wall)",
+        "curved building envelope",
+        "lightweight aluminum panels",
+        "fair-faced concrete walls",
+        "ribbed ceiling beams / radial structural system",
+        "characterful curtains (by Petra Blaisse)",
+        "video wall"
+      ],
+      "c2_semantic_relations": [
+        "Gently Sloping Tent Roof → sits vertically above (Spatial Relation) → Fly Tower",
+        "Double-glazed Vestibule → reorganizes and extends (Circulation Relation) → Theatre Entrance & Foyer [cite: 199, 301]",
+        "Clear Glass Facade → allows visually transparent views through Foyer to (Perceptual Relation) → Urban Park (Hofgarten) [cite: 301]",
+        "Round Glass Pavilion (Main Ticket Office) → detached on and activates (Spatial Relation) → Public Plaza (Gustaf-Grundgens-Platz) [cite: 200, 300]",
+        "Ribbed Ceiling Beams & Radial Structural System → structure and ornament (Material & Tectonic Relation) → Foyer & Lobby Ceilings",
+        "Characterful Curtains (by Petra Blaisse) → hang as soft acoustic wall coverings inside (Material & Tectonic Relation) → Public Areas / Foyer [cite: 297]",
+        "Visual Screen (Concrete Wall) → structurally isolates Artists' Entrance from (Functional Relation) → Delivery / Disposal Zone [cite: 243]",
+        "New Floor Finish → visually merges Public Plaza with (Conceptual Relation) → Theatre Exterior Surroundings [cite: 244]",
+        "Underground Parking Level → connects vertically via Vertical Circulation Cores to (Circulation Relation) → Lobby & Box Office [cite: 238]",
+        "Curved Building Envelope (Lightweight Aluminum Panels) → wraps seamlessly around (Material & Tectonic Relation) → Main Auditorium & Secondary Auditorium Volumes [cite: 202]",
+        "Matt Black Contemporary Functional Additions → visually differentiate from (Conceptual Relation) → Original Bright-Colored Fair-Faced Concrete Walls [cite: 206, 228, 297]"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "得益於全新置入的 360° 雙層玻璃通透前庭與外部圓形票務亭，市民與劇院觀眾的流線變得極其自由流暢。觀眾不再感到被厚重外牆隔絕，而是在 Gustaf-Gründgens-Platz 廣場、透明大廳與後方 Hofgarten 公園的木蘭花林之間自由穿梭停留，咖啡廳與餐廳邊緣亦成為活躍的市民社交界面 [cite: 199, 200, 301]。",
+        "演職人員與後勤技術人員的日常空間品質獲得劇烈提升；新建的混凝土視覺遮蔽牆完美梳理了藝術家走道與垃圾/貨物裝卸區的日常運作冲突，使演員進出場秩序大為改善 [cite: 222, 243]。"
+      ],
+      "discourse_&_criticism": [
+        "該翻新案在國際建築界獲得極高讚譽，先後斬獲或入圍 2022 年 Architizer A+ Awards 決賽、德國 DAM-Preis 短名單以及德國國家外牆建築獎（Deutscher Fassadenpreis 2022），專業媒體盛讚其為「敏感且高度克制的歷史文化遺產活化典範」 [cite: 258, 259, 261, 294]。",
+        "大眾媒體與公眾輿論對其「徹底解決自 1960 年代以來長達半世紀的主入口朝向爭議」表示高度肯定，成功化解了過去劇院與大自然公眾公園（Hofgarten）之間的閉鎖死結，實現了高超的都市公共空間縫合 [cite: 197, 199]。"
+      ],
+      "tectonic_results": [
+        "建築團隊 ingenhoven associates 透過此案成功實踐了古蹟「恢復原貌（1970年原始版）」與「當代構造升級」的平衡。透過材料與皮層構造學的深度研究，以輕量化鋁合金卡扣系統與高性能綠化屋頂，在完全不改變 Bernard Pfau 標誌性雕塑外形比例的前提下，為戰後現代主義圖騰賦予了當代永續建築的技術壽命 [cite: 223, 231, 232, 237]。",
+        "在都市層面上，劇院翻新與周邊的 Dreischeibenhaus 及新完工的 Kö-Bogen II 形成了互補呼應的跨世紀 German post-war 建築交響樂群，將曾經交通混亂的 Gustaf-Gründgens-Platz 廣場，成功催化轉變為杜塞道夫市最核心的、全開放式的頂級市民當代藝術與文化生活中心群 [cite: 191, 193]。"
+      ]
+    }
+  }
+}

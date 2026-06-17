@@ -1,0 +1,103 @@
+{
+  "project 19": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Angus Bowmer Theatre",
+        "theater_scale_hierarchy": "區域劇團常任劇場 (Regional Repertory Theatre)",
+        "gross_floor_area": "未知"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Angus Bowmer Theatre (主演藝廳)",
+          "seating_capacity": "600 席",
+          "stage_type": "Thrust Stage (伸展式舞台)",
+          "primary_performance_type": "Drama (話劇/舞台劇)、Shakespeare Performance (莎士比亞戲劇演出)、Live Theatre (現場劇場)",
+          "key_hardware_&_acoustic_conditions": "配備可調整舞台空間的 20 英尺長旋轉側翼牆 (Splay Walls)；173 平方英尺的梯形油壓升降舞台 (Hydraulic Stage Lift) 可通往地下兩層陷坑室 (Trap Rooms)；設有 12 個約 4x8 英尺的舞台機關陷坑 (Traps)；舞台後方設有約 2,450 平方英尺的佈景儲存庫 (Scenic Storage Dock) 並配備大型捲門；飛揚系統 (Fly System) 支援多達 30 組吊桿線路組 (Line Sets)，吊桿可提升至舞台面上方 30 英尺 10 英寸；舞台上方設有 3 組電動絞車橋 (Electric Winched Bridges) 以供調整頂部燈光；聲學屬於兼顧清晰語言度之話劇劇場 (Drama Theatre)。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲（推測）",
+        "country": "美國（推測）",
+        "city": "阿什蘭 (Ashland)",
+        "urban_context": "位於共享文化園區與表演藝術校園內 (Performing Arts Campus)，鄰近市區街道與公園 (Lithia Park)，屬於演藝建築集群之核心建築。"
+      },
+      "participants_&_operation": {
+        "architect": "Kirk, Wallace and McKinley, AIA of Seattle",
+        "client": "俄勒岡莎士比亞藝術節 (Oregon Shakespeare Festival, OSF)",
+        "end_user": "目標觀眾、劇團演職人員",
+        "consultants": [
+          "Richard L. Hay (Primary Design Consultant / OSF Principal Theatre and Scenic Designer)"
+        ],
+        "operator": "俄勒岡莎士比亞藝術節 (Oregon Shakespeare Festival, OSF)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "面對 1968 年俄勒岡莎士比亞藝術節票券供不應求、大量觀眾被拒之門外的急迫擴建需求。",
+        "須在冬季惡劣氣候條件下進行高難度施工，並面臨高利率、複雜劇場設備交貨緩慢、以及西北森林木材價格暴漲 80% 的嚴重通貨膨脹與資金短缺挑戰。",
+        "如何在 600 席的中大型劇院容量中，創造出極具震撼力且極度親密的演員與觀眾互動關係。"
+      ],
+      "concept": [
+        "融合 16 世紀傳統劇場（如莎士比亞時期劇場）與現代劇場的空間意象。",
+        "強調「觀眾包覆感 (Audience-Enclosure)」與集體沉浸式的觀戲體驗。"
+      ],
+      "strategy": [
+        "採取集中式演藝廳組織 (Centralized Auditorium Organization)，以單一核心表演空間主導整棟建築的體量與空間邏輯。",
+        "採用高傾角階梯式觀眾席 (Stadium-type seating with a steep rake) 環繞前舞台 (Forestage/Thrust Stage)，使所有座位與舞台的距離保持在 55 英尺以內，最大化拉近親密感。",
+        "運用歐式連續座位排佈 (Continental Seating)，拉寬排距且不設縱向走道，並於兩側設置演員進出場通道 (Voms)，該通道可根據營運需求彈性關閉以增設座位。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "Thrust Stage",
+        "Forestage",
+        "Main Auditorium",
+        "Splay Walls",
+        "Hydraulic Stage Lift",
+        "Trap Rooms",
+        "Traps",
+        "Scenic Storage Dock",
+        "Rolling Door",
+        "Fly System",
+        "Line Sets",
+        "Electric Winched Bridges",
+        "Enveloping Audience Bowl",
+        "Balconies",
+        "Audience Galleries",
+        "Voms",
+        "FOH Lobby",
+        "Public Circulation",
+        "Backstage",
+        "Technical Spaces"
+      ],
+      "c2_semantic_relations": [
+        "Main Auditorium → organized around (Spatial Relation) → Thrust Stage",
+        "Enveloping Audience Bowl → wraps around (Spatial Relation) → Forestage",
+        "Splay Walls → pivot from downstage endpoints to alter (Functional Relation) → Main Stage Area",
+        "Hydraulic Stage Lift → travel from stage level down to (Circulation Relation) → Trap Rooms",
+        "Scenic Storage Dock → positioned directly behind (Spatial Relation) → Main Stage Area",
+        "Rolling Door → provides access between (Circulation Relation) → Scenic Storage Dock and Main Stage Area",
+        "Electric Winched Bridges → horizontal internal access above (Spatial Relation) → Main Stage Area",
+        "Voms → provide additional performance entrances to (Circulation Relation) → Thrust Stage",
+        "Balconies → multi-level vertical stack within (Spatial Relation) → Enveloping Audience Bowl",
+        "Audience Galleries → distributed entry through perimeter into (Circulation Relation) → Main Auditorium",
+        "Backstage → isolated access path from dedicated support zones to (Circulation Relation) → Main Stage Area"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "觀眾得以透過極具包覆感的馬蹄形座位幾何，體驗到即便在 600 席的容量下仍極具凝聚力、親密且雙向沉浸的觀戲行為。",
+        "演職人員能利用兩側 Vom 噴泉式通道、舞台機關陷坑及可變側翼牆，進行更多元且流暢的舞台調度與進出場互動。"
+      ],
+      "discourse_&_criticism": [
+        "劇場界專業人士與主導者盛讚其空間設計在演員與觀眾之間建立的緊密關係，預言其將因卓越的設計成為全國頂尖的四大或五大劇場之一。",
+        "建造期間因預算超支與極度通膨，被迫在早期砍掉磚面鋪裝、景觀美化、裝飾元素與部分家具，甚至需發起公眾募捐（如「買磚」活動）才得以勉強趕在 1970 年營運。",
+        "2011 年夏季營運高峰期曾發生主要支撐主樑從頭到尾裂開的嚴重結構安全事件，導致劇場被迫關閉六週，必須移師至公園帳篷等臨時場所維持演出。"
+      ],
+      "tectonic_results": [
+        "劇場落成後使全季演出場次增加一倍以上（達到 144 場），單季觀眾容量從 65,000 人次大幅躍升至 90,000 人次以上，成功舒緩票房壓力並促成藝術節往後十年的關鍵成長。",
+        "室內成功運用木材質感表現 (Timber Expression) 與多層畫廊觀戲台，在現代劇場構造中實踐了 16 世紀文藝復興時期的戲劇場所精神。"
+      ]
+    }
+  }
+}

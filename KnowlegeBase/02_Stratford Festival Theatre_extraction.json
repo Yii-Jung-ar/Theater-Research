@@ -1,0 +1,98 @@
+{
+  "project 20": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Stratford Festival Theatre (別稱：Festival Theatre)",
+        "theater_scale_hierarchy": "主要劇團定目劇劇場（大劇院層級）",
+        "gross_floor_area": "71,100 sf"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Festival Theatre",
+          "seating_capacity": "1500-2500 席（推測）",
+          "stage_type": "Thrust Stage 伸展式舞台（觀眾席呈 Horseshoe 馬蹄形與 Surround 環抱式圍繞）",
+          "primary_performance_type": "Shakespeare Performance 莎士比亞戲劇、Drama 話劇/舞台劇、Live Theatre 現場劇場演出",
+          "key_hardware_&_acoustic_conditions": "配置歷史性的伸展式舞台、重新校準的觀眾席與兩側牆體、全新連接的 vomitories（觀眾席進出場通道）、新型聲音與燈光閘門（sound and light locks），以及懸吊於上方的 acoustical canopy（聲學反射天篷）。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲（推測）",
+        "country": "加拿大",
+        "city": "安大略省史特拉福 (Stratford, Ontario)",
+        "urban_context": "位於地景環境（landscape setting）中的文化園區（cultural campus），具備開放的市民開放前庭與景觀庭園。"
+      },
+      "participants_&_operation": {
+        "architect": "Thomas Payne (Thomas Payne Architects)（推測）",
+        "client": "Stratford Shakespearean Festival Foundation of Canada（加拿大史特拉福莎士比亞藝術節基金會）",
+        "end_user": "主要定目劇團、專業演職人員、目標觀眾與市民",
+        "consultants": [
+          "Tyrone Guthrie & Tanya Moisevitch (1953年原始舞台劇場設計顧問)；當代改造案之專業聲學與劇場顧問團隊（未知）"
+        ],
+        "operator": "Stratford Shakespearean Festival Foundation of Canada"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "如何在既有歷史劇場結構內，重新想像並透過現代工程重塑（re-imagined and re-engineered）Tyrone Guthrie 與 Tanya Moisevitch 於1953年大膽發明的歷史性伸展式舞台。",
+        "優化既有觀眾廳的物理聲學表現與照度/噪音隔離，並在不破壞核心劇場「神聖舞台」的前提下，整合現代劇場技術與流線連接。"
+      ],
+      "concept": [
+        "同心圓圈層層遞進（Concentric Layers）：將整個轉型改造項目視為由內向外延伸的圈層，以著名的歷史伸展式舞台為幾何與精神核心。",
+        "前台大廳層作為核心樂器的保護殼（Lobby layer as a case to the central instrument）。"
+      ],
+      "strategy": [
+        "空間機能垂直與水平同心圓堆疊：以 Thrust Stage 為正中心，向外包裹觀眾席、再向外包裹大廳皮層（lobby layer）。",
+        "建築塊體與造型操作：外部採用低落的水平量體（Low Horizontal Massing）結合金屬金字塔屋頂（Pyramidal Roof Form）與中央採光罩（Central Lantern Element），清晰形塑劇場主體幾何。",
+        "儀式性到達流線組織：將到達序列重組為馬蹄形的儀式化車道與步道空間（Meighen Gardens），由畫意般的畫布包裹發光柱列（canvas-covered columns）界定邊界，內部置入階梯平台、宿根花卉花床與噴泉。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "thrust stage",
+        "auditorium",
+        "FOH lobby",
+        "vomitories",
+        "sound locks",
+        "light locks",
+        "acoustical canopy",
+        "side walls",
+        "balcony levels",
+        "BOH backstage",
+        "stage support areas",
+        "Meighen Gardens",
+        "horseshoe-shaped drive",
+        "luminous columns",
+        "fountain",
+        "pyramidal roof",
+        "central lantern element",
+        "timber interior",
+        "curtain wall"
+      ],
+      "c2_semantic_relations": [
+        "Thrust Stage → vertical stack below (Spatial Relation) → Central Lantern Element",
+        "FOH lobby → wraps around (Spatial Relation) → Auditorium",
+        "Auditorium → structures the core of (Conceptual Relation) → Single-Core Organization",
+        "Acoustical Canopy → suspended overhead (Functional Relation) → Thrust Stage",
+        "Vomitories → interconnect within (Circulation Relation) → Audience Seating",
+        "Sound and Light Locks → encloses for protection (Functional Relation) → Auditorium Chamber",
+        "Meighen Gardens → guides arrival sequence into (Circulation Relation) → Open Civic Entrance",
+        "Canvas-covered Columns → defines the boundary of (Material & Tectonic Relation) → Horseshoe-shaped Drive",
+        "Timber Interior → covers the surface of (Material & Tectonic Relation) → Multi-Level Audience Galleries",
+        "Pyramidal Roof Form → caps the top of (Spatial Relation) → Primary Building Volume"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "觀眾與市民在演出前、演出後以及中場休息（intervals）期間，會聚集並停留於 Meighen Gardens 的景觀階梯平台、花床與噴泉旁放鬆休息，放大了整體的劇場體驗（theatrical experience）。",
+        "觀眾透過清晰的前台大廳、劇場周邊及包廂樓層進行分散式的高效流動（distributed access）。"
+      ],
+      "discourse_&_criticism": [
+        "建築與劇場界廣泛公認為卓越的「以觀眾為中心（Audience-Centered）」歷史劇場典範改造案，成功縮短視距、大幅強化演員與觀眾間的高親密感與視覺高度參與（high visual engagement）。"
+      ],
+      "tectonic_results": [
+        "設計成功整合了室內溫暖的木質調（Timber Interior）與通透的玻璃、金屬屋面，在外觀上呈現具有強烈市民感（civic presence）的開放性文化地標。",
+        "通過對觀眾廳側牆、座席幾何、反射天篷與聲光閘門的整體精準校準，實現了專為戲劇與莎劇旁白設計的、極具沉浸感的劇院物理聲學環境。"
+      ]
+    }
+  }
+}

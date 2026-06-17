@@ -1,0 +1,110 @@
+{
+  "project 14": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Arena Stage at the Mead Center for American Theater (米德美國戲劇中心阿利納劇場)",
+        "theater_scale_hierarchy": "區域級/國家級開創性多廳戲劇表演藝術中心 [cite: 621, 655]",
+        "gross_floor_area": "200,000 m² (資料載明面積，涵蓋擴建與既有量體複合體) [cite: 629, 634]"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Fichandler Stage (費漢德勒劇場)",
+          "seating_capacity": "500-900 席 [cite: 657]",
+          "stage_type": "Thrust (伸展式舞台 / 馬蹄形觀眾席) [cite: 657]",
+          "primary_performance_type": "Drama (戲劇), Large Scale Theatre Productions (大型舞台劇製作) [cite: 657]",
+          "key_hardware_&_acoustic_conditions": "屬歷史劇院結構修復保留厅 [cite: 635]，採用大型固定式觀眾席包覆結構（audience wrapping performance area）[cite: 657]，設有特製聲學防護防噪及劇場懸吊系統 [cite: 642]。"
+        },
+        {
+          "hall_name": "Kreeger Theater (克里格劇場)",
+          "seating_capacity": "400-800 席 [cite: 657]",
+          "stage_type": "Proscenium (鏡框式舞台 / 扇形觀眾席) [cite: 657]",
+          "primary_performance_type": "Drama (戲劇), Musical Theatre (音樂劇), Large Scale Performance (大型表演製作) [cite: 657]",
+          "key_hardware_&_acoustic_conditions": "屬歷史劇院結構修復保留廳 [cite: 635]，採用傳統正面對向式觀眾席-舞台配置形式（frontal audience-stage arrangement）[cite: 657]，配置常規固定式劇場機械與物理聲學牆面 [cite: 642, 657]。"
+        },
+        {
+          "hall_name": "Arlene and Robert Kogod Cradle (科戈德搖籃實驗劇場)",
+          "seating_capacity": "100-300 席 [cite: 635, 657]",
+          "stage_type": "Studio Theatre (實驗黑盒子 / 靈活可變式舞台) [cite: 635, 657]",
+          "primary_performance_type": "Experimental Theatre (實驗性戲劇), Flexible Performance (當代多功能靈活表演), Small Scale Productions (小型實驗作品) [cite: 635, 657]",
+          "key_hardware_&_acoustic_conditions": "本案全新增建之小劇場空間 [cite: 635]，觀眾席呈矩形非固定幾何配置（rectilinear configuration）[cite: 657]，具備高度可變性（variable transformability）與聲學調控構造 [cite: 642, 657]。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲",
+        "country": "美國",
+        "city": "華盛頓哥倫比亞特區 (Washington, D.C.) [cite: 626, 646]",
+        "urban_context": "坐落於華盛頓西南區 (SW Washington) 社群紋理核心 [cite: 637, 657]，鄰近緬因大道軸線 (Maine Avenue axis) [cite: 658]，屬於都市更新與舊城重劃之關鍵催化劑節點 [cite: 637]。"
+      },
+      "participants_&_operation": {
+        "architect": "Bing Thom Architects (加拿大譚秉榮建築師事務所) [cite: 623, 627]",
+        "client": "Arena Stage (阿利納劇場董事會 / 藝術總監 Molly Smith 主導) [cite: 639, 649, 650]",
+        "end_user": "美國本土當代劇作家、地方劇團演職人員、西南華盛頓社區居民及外來文化觀光客 [cite: 637, 655, 657]",
+        "consultants": [
+          "Building Envelope & Curtain Wall Consultant: Heintges & Associates [cite: 661, 665]",
+          "專業顧問團隊（包含複雜的聲學、劇場、暖通物理環境設備顧問系統）: 未知 [cite: 642]"
+        ],
+        "operator": "Arena Stage 劇院專責營運管理單位 [cite: 650]"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "如何在尊重並原址修復兩座已被列為歷史地標的舊劇院體量（Fichandler、Kreeger）的前提下，大幅翻倍擴建其既有機能，並塞入第三座全新的實驗劇場、排練室與地下行政辦公、停車設施 [cite: 634, 635, 640]。",
+        "如何在高度敏感的首都都市紋理中，將三座在結構、幾何形體與建造年代皆截然不同的劇場本體，進行合理的動線串聯，並透過統一的建築外殼阻絕外部環境噪音與各廳內部的聲學干擾 [cite: 635, 636, 642]。"
+      ],
+      "concept": [
+        "「共享外殼下的戲劇聚落 (Theatre Cluster Under Shared Enclosure)」與「立體盒中盒 (Volume-in-Volume)」。譚秉榮建築師捨棄了傳統將舊建築拆除或零散加蓋的做法，而是以一座極具雕塑感的巨型自由曲面懸挑屋頂，搭配全透明、拉索支撐的木結構玻璃帷幕，將三座獨立的劇場本體如同藝術品般完整包裹於單一連續性皮層中，將廳際交會空間轉化為市民日常演出的公共舞台 [cite: 635, 636, 640, 657]。"
+      ],
+      "strategy": [
+        "巨型木構電纜玻璃帷幕 (Timber- & Cable-Supported Facade)：全美首創的 Parallam 複合集成材結構搭配絕緣玻璃與不銹鋼拉索系統，形成高大、傾斜的七層樓高透明帷幕 [cite: 657, 659, 660, 664]。每根木柱平均承受高達 400,000 磅的垂直荷載，並透過 primary timber 樹狀分支結構抵禦猛烈的側向風力 [cite: 659, 660]。",
+        "自由曲面巨型懸挑屋頂 (Sculptural Free-Form Roof)：設計跨度極大、帶有 140 英尺巨型懸挑的雕塑感屋頂，其末端逐漸收窄錐化成一個銳利點，在都市景觀中精準對齊 Maine Avenue 軸線與遠方的華盛頓紀念碑 (Washington Monument) [cite: 636, 641, 658]。",
+        "地下化複合後勤網絡 (Subsurface Integration)：採取「上虛下實」手法，將所有大體量的行政辦公室、演員後勤設施、裝卸貨運台及停車場全面地下化，釋放地面層中庭，以澆灌超過 15,000 立方碼的高規格清水混凝土構築公共大堂牆體與結構基礎 [cite: 640, 642]。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "fichandler stage",
+        "kreeger theater",
+        "kogod cradle",
+        "shared enclosure",
+        "sculptural cantilevered roof",
+        "parallam wood column",
+        "cable-supported curtain-wall",
+        "inclined glass facade",
+        "central lobby",
+        "public foyer",
+        "circulation spine",
+        "subsurface administration",
+        "rehearsal halls",
+        "architectural concrete base",
+        "volume-in-volume structure"
+      ],
+      "c2_semantic_relations": [
+        "Shared Enclosure → fully encases and insulates (Spatial Relation) → Fichandler Stage and Kreeger Theater [cite: 635, 636]",
+        "Sculptural Cantilevered Roof → caps and unifies (Spatial Relation) → Shared Enclosure [cite: 636, 660]",
+        "Inclined Glass Facade → hangs sequentially via cables from (Material & Tectonic Relation) → Sculptural Cantilevered Roof [cite: 657, 660]",
+        "Parallam Wood Column → vertically bears the static load of (Material & Tectonic Relation) → Sculptural Cantilevered Roof [cite: 659]",
+        "Primary Timber Structure Branches → brace against wind forces for (Functional Relation) → Inclined Glass Facade [cite: 660]",
+        "Central Lobby → transforms the leftover intermediate slots between venues into (Conceptual Relation) → Dramatic Public Gathering Spaces [cite: 657]",
+        "Public Foyer → wraps peripherally around and services (Circulation Relation) → Fichandler Stage, Kreeger Theater, and Kogod Cradle [cite: 635, 657]",
+        "Kogod Cradle → inserted as a standalone sculptural object inside (Spatial Relation) → Volume-in-Volume Structure [cite: 635, 657]",
+        "Subsurface Administration → located vertically and hidden directly below (Spatial Relation) → Central Lobby Floors [cite: 640]",
+        "Rehearsal Halls → integrated laterally to isolate acoustics from (Functional Relation) → Kogod Cradle Performance Zone [cite: 640, 657]",
+        "Architectural Concrete Base → grounds the primary anchorage point for (Material & Tectonic Relation) → Cable-supported Curtain-wall [cite: 640, 642]"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民、社區觀眾與日間遊客在通透、宏偉的 inclined glass 中庭內停留、聚集、使用附設的酒吧與咖啡廳，將原先單純的「劇場通道」轉化為極具生命力的社區公共交際客廳 [cite: 640, 657]。",
+        "演出間歇期間，觀眾可在全玻璃幕牆邊遠眺華盛頓紀念碑，建築的移動流線本身成為一種將都市地景與觀劇儀式完美融合的身體經驗 [cite: 657, 658]。"
+      ],
+      "discourse_&_criticism": [
+        "建築與結構界給予極高技術讚譽，特別是針對其木構拉索玻璃帷幕系統，透過Heintges與結構團隊的有限元素分析 (finite element analysis) 與七層樓高的全比例實體模型測試 (full-height mockup testing)，成功解決了風載荷變位與木構造活載移動的極限技術挑戰 [cite: 661, 662, 663, 664]。",
+        "都市評論家盛讚該案落成後成為華盛頓西南區的「都市催化劑 (catalyst)」，其強大的公共開放性與高度透明的城市介面，成功帶動並刺激了原本沒落的周邊舊城區的連鎖再開發與經濟復甦 [cite: 637]。"
+      ],
+      "tectonic_results": [
+        "設計團隊成功透過這座高達 140 英尺巨型懸挑屋頂與木結構晶體的複合操作，完美落實了 Molly Smith 藝術總監所期許的「激昂、澎湃、危險且深邃的美國精神」空間隱喻 [cite: 639, 641]。",
+        "通過精準的「大跨度結構/歷史磚石護殼」的共生操作，舊劇院的歷史價值得以在不被破壞的前提下全面復活，並在古蹟、玻璃、巨木與清水混凝土之間，建構出代表當代開放民主特質的表演藝術殿堂 [cite: 635, 636, 642, 657]。"
+      ]
+    }
+  }
+}

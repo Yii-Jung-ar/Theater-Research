@@ -1,0 +1,121 @@
+{
+  "project 18": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "The Royal National Theatre (皇家國家劇院)",
+        "theater_scale_hierarchy": "國家級多廳表演藝術中心 (National Performing Arts Institution) [cite: 48, 81]",
+        "gross_floor_area": "未知"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Olivier Theatre (奧立佛劇院)",
+          "seating_capacity": "800-1500 席",
+          "stage_type": "Thrust Stage (伸展式舞台) / 五邊形半伸展式舞台 (Five-sided Semi-thrust Stage) [cite: 67, 117]",
+          "primary_performance_type": "Drama (戲劇)、Large Scale Theatre Production (大型劇作演出)",
+          "key_hardware_&_acoustic_conditions": "不對稱非正交 45 度配置之巨型布景吊桿塔 (Asymmetric Fly Tower) [cite: 59, 107]、室內延續粗糙木模混凝土牆面以發揮聲音漫射與音響反射板之效能 (Board-form concrete interior textures to baffle sound) [cite: 113]、三面圍繞之梯田馬蹄形觀眾席 (Terraced Horseshoe Seating) [cite: 117]。"
+        },
+        {
+          "hall_name": "Lyttelton Theatre (利特爾頓劇院)",
+          "seating_capacity": "500-1200 席",
+          "stage_type": "Proscenium Stage (鏡框式舞台) / 扇形觀眾席 (Fan-shaped Seating)",
+          "primary_performance_type": "Drama (戲劇)、Traditional Theatre (傳統劇場演出) [cite: 91]",
+          "key_hardware_&_acoustic_conditions": "具備獨立且外顯之垂直布景吊桿塔 (Exposed Fly Tower) [cite: 59, 103]、固定式正面框幅劇場結構（Frontal Relationship）與多功能後台支援系統。"
+        },
+        {
+          "hall_name": "Dorfman Theatre (多夫曼劇院 / 原實驗錄音室劇場 Cottesloe)",
+          "seating_capacity": "100-500 席",
+          "stage_type": "Studio Theatre (黑盒子/實驗劇場) / 靈活可變舞台 (Flexible Stage)",
+          "primary_performance_type": "Experimental Theatre (實驗性劇場)、Flexible Productions (彈性製作)、Contemporary Performance (當代表演) [cite: 91]",
+          "key_hardware_&_acoustic_conditions": "長方形平面配置 (Rectilinear Seating)、具備高度可變動與多向調適之觀眾席與舞台轉換系統 (Variable Transformability)。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲（推測）",
+        "country": "英國 (United Kingdom) [cite: 47, 83]",
+        "city": "倫敦 (London) [cite: 46, 83]",
+        "urban_context": "位於泰晤士河南岸 (South Bank of the Thames) 的核心文化特區 [cite: 49, 55]，緊鄰滑鐵盧橋 (Waterloo Bridge) 彎道處 [cite: 49, 55]，具有極強的濱水景觀優勢與發達的都市人流紋理。"
+      },
+      "participants_&_operation": {
+        "architect": "Denys Lasdun (主導建築師，1976) [cite: 42, 48]；Haworth Tompkins (負責 2015 年敏感性歷史修復與空間活化) [cite: 53, 79]",
+        "client": "英國國家劇院籌建委員會 (Building Committee，包含勞倫斯·奧立佛 Laurence Olivier) [cite: 67, 115]、英國政府機關（推測）",
+        "end_user": "英國國家劇院劇團、市民大眾、滑板運動者、劇迷及國際遊客 [cite: 75, 77]",
+        "consultants": [
+          "由勞倫斯·奧立佛主導之劇院顧問委員會 (Building Committee) [cite: 67, 115]、專業聲學與照明技術顧問團隊（如 2007 年飛利浦照明 Philips Lighting 合作案）[cite: 78, 132]"
+        ],
+        "operator": "皇家國家劇院管理單位 (The Royal National Theatre Board)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "拒絕傳統剧院封閉內聚的「紀念碑式」單一立面，挑戰如何在巨大的都市濱水基地中置入三座機能截然不同的剧院體量 [cite: 50, 56]。",
+        "如何在不破壞倫敦歷史天際線（如聖保羅大教堂、薩默塞特府）的前提下，與鄰近的滑鐵盧橋巨型基礎設施達成構造與材質上的和諧 [cite: 60, 65]。",
+        "在大型國家級體量中避免傳統劇院的狹窄壓迫感，維持人性化的都市尺度與公共開放性 [cite: 74, 124]。"
+      ],
+      "concept": [
+        "建築即都市地景 (Architecture as Urban Landscape)：將建築視為都市地貌的延伸，而非單一隔絕的建築物 [cite: 50, 54]。",
+        "第四劇場 (The Fourth Theatre)：將公共前台大廳與錯落的室外露臺視為城市公共生活的舞台，市民的匯聚與日常生活本身即是戲劇演出 [cite: 70, 98]。",
+        "威尼斯聖馬可廣場 (Piazza San Marco) 的幾何隱喻：「原初建築 (Architecture before architecture)」，藉由人群自發性圍繞表演的行為來構築空間內聚力 [cite: 69, 100]。"
+      ],
+      "strategy": [
+        "地層疊落與塊體操作 (Stratified Terraces / \"Strata\")：利用大面積橫向水平延伸的混凝土水平露臺與凹入的深邃陰影玻璃幕牆，將龐大的劇場體量消解碎化 [cite: 59, 104, 105]。",
+        "雙軸轉向與對話：將最大的 Olivier Theatre 布景吊桿塔不對稱地旋轉 45 度，精準呼應泰晤士河的彎曲弧度，並與滑鐵盧橋和對岸歷史建築建立視覺軸線 [cite: 55, 107]。
+",
+        "材質誠實性與粗獷表現 (Béton Brut & Structural Rationalism)：採用未經表面處理的淺灰色木紋清水混凝土（Cast in timber board formwork），使施工的木質紋理轉化為室內外通用的裝飾與聲學擴散構造 [cite: 61, 62, 113]。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "Large Theatre (Olivier Theatre)",
+        "Medium Theatre (Lyttelton Theatre)",
+        "Studio Theatre (Dorfman Theatre)",
+        "Thrust Stage",
+        "Proscenium Stage",
+        "Flexible Stage",
+        "Fly Towers",
+        "Main Foyers",
+        "Tiered Balconies",
+        "Public Terraces",
+        "Entrance Pavilion",
+        "Twin Towers Axis",
+        "Recessed Glass Facades",
+        "Concrete Parapet Walls",
+        "Learning Centre",
+        "Workshops",
+        "Production Building",
+        "Backstage Areas",
+        "Technical Support Spaces",
+        "Service Circulation",
+        "Undercrofts",
+        "Civic Plazas"
+      ],
+      "c2_semantic_relations": [
+        "Olivier Theatre Fly Tower → oriented 45 degrees to dialogue with (Conceptual Relation) → Waterloo Bridge [cite: 107]",
+        "Asymmetric Fly Towers → rise vertically from (Spatial Relation) → Stratified Terraces (Strata) [cite: 59]",
+        "Recessed Glass Facades → create deep horizontal shadows across (Material & Tectonic Relation) → Horizontal Concrete Strata [cite: 104, 105]",
+        "Twin Towers → indicate entry axis toward (Circulation Relation) → Main Entrance [cite: 106, 109]",
+        "Exterior Terraces (Strata) → continuously flow and transform into (Conceptual Relation) → Interior Foyer Levels & Balconies [cite: 66, 112]",
+        "Five-sided Semi-thrust Stage → minimizes performance distance to (Functional Relation) → Surround Seating [cite: 67, 116, 117]",
+        "Board-form Concrete Textures → structurally wrap inside to baffle sound within (Material & Tectonic Relation) → Olivier & Lyttelton Auditoria [cite: 113]",
+        "Concrete Parapet Walls → kept low to preserve river views from (Perceptual Relation) → Main Foyers [cite: 119]",
+        "Public Foyers and Terraces → function as an open stage for (Social Relation) → Civic Gathering [cite: 70, 98]\n* 註：Social Relation 為自命名語意關係，用以描述公共空間與市民社會行為之間的強烈互動。",
+        "Extensive Foyer Network → provides shared public entry to (Circulation Relation) → Multiple Independent Theatre Venues",
+        "Undercrofts and Voids → provide informal sheltered space for (Circulation Relation) → Skateboarders [cite: 77, 131]"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "寬敞的大廳與交織的露臺吸引了大量非看戲的市民前來飲酒、休憩與流連，成功實踐了非正式的市民「人流觀賞」與高度社交行為 [cite: 75, 124, 125]。",
+        "建築下方的陰暗架空底層（Undercrofts）在落成後出乎意料地被滑板族群進駐，演變為倫敦最具代表性的非正式滑板極限運動公共空間 [cite: 77, 131]。"
+      ],
+      "discourse_&_criticism": [
+        "落成初期引發兩極化評論，查爾斯王子曾謔稱其為「在倫敦市中心建造核電廠而無人反對的聰明方法」，批判其粗獷厚重的巨型混凝土體量 [cite: 57, 89]。",
+        "隨時間推移，該建築被公認為英國最受喜愛的粗獷主義（Brutalism）傑作。歷史學家 William Curtis 讚譽其「大而不失人體尺度，宏偉而不壓迫」 [cite: 74, 90, 124]。",
+        "1994 年迅速獲得英國二級古蹟登錄（Grade II listed），肯定其卓越的現代建築遺產價值 [cite: 53, 129]。"
+      ],
+      "tectonic_results": [
+        "Denys Lasdun 憑藉此案的成功營造，於 1977 年榮獲英國皇家建築師協會金獎（RIBA Gold Medal） [cite: 134]。",
+        "透過 2015 年 Haworth Tompkins 的細緻整修，巧妙平衡了原始建築的粗獷結構 honesty，同時引入現代 LED 科技活化夜間介面，使其完美融入並持續引導南岸（South Bank）都市大眾生活的復興 [cite: 53, 79, 133, 135]。"
+      ]
+    }
+  }
+}

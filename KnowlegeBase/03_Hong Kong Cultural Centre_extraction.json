@@ -1,0 +1,110 @@
+{
+  "project 08": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "香港文化中心 (Hong Kong Cultural Centre)",
+        "theater_scale_hierarchy": "國家/城市級綜合型文化地標",
+        "gross_floor_area": "未知"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "音樂廳 (Concert Hall)",
+          "seating_capacity": "2019 席（推測）",
+          "stage_type": "Arena 圓形/環抱式（360度觀眾席圍繞）",
+          "primary_performance_type": "Concerts 交響樂演奏、Recitals 獨奏會",
+          "key_hardware_&_acoustic_conditions": "配備固定式管风琴（由奧地利萊格公司製造）、可調校的迴音幕（Acoustic Canopy）、木質聲音反射板。"
+        },
+        {
+          "hall_name": "大劇院 (Grand Theatre)",
+          "seating_capacity": "1734 席（推測）",
+          "stage_type": "Proscenium 鏡框式舞台",
+          "primary_performance_type": "Opera 歌劇、Ballet/Dance 芭蕾/舞蹈、Musicals 音樂劇、Drama 話劇、Chinese Opera 中國戲曲",
+          "key_hardware_&_acoustic_conditions": "配備配有主舞台、後舞台及左右兩側舞台的綜合舞台系統、大口徑布景吊桿塔 (Fly Tower)、可調校高度的下沉式樂池 (Orchestra Pit)。"
+        },
+        {
+          "hall_name": "劇場 (Studio Theatre)",
+          "seating_capacity": "300 至 496 席（視乎座位排列）（推測）",
+          "stage_type": "Black Box 黑盒子（可變動式劇場，提供 End Stage、Thrust、Transverse、Island 等四種基本配置）",
+          "primary_performance_type": "Experimental Art 實驗性跨領域劇場、小規模話劇與舞蹈、多功能藝術展演",
+          "key_hardware_&_acoustic_conditions": "採用基礎的「光牆巡演政策」（Bare-walls touring policy），配備靈活可調整的活動座椅系統（Flexible seating system）及懸吊式燈架格柵（Lighting Grid）。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲",
+        "country": "中國",
+        "city": "香港",
+        "urban_context": "尖沙咀濱水重劃/高密度都市中心，鄰近天星碼頭及巴士總站，面向維多利亞港（Victoria Harbour）。"
+      },
+      "participants_&_operation": {
+        "architect": "香港政府建築署 Government Architect / 建築署高級官方建築師（ASD, Architectural Services Department）",
+        "client": "香港政府 (Hong Kong Government)",
+        "end_user": "目標公眾、市民、海內外演職團隊、特約駐團",
+        "consultants": [
+          "劇場顧問 (Theater Consultant)：未知",
+          "聲學顧問 (Acoustician)：未知"
+        ],
+        "operator": "香港康樂及文化事務署 (LCSD, Leisure and Cultural Services Department)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "在尖沙咀核心濱水精華基地中，需垂直與水平整合三個機能相異、聲學物理要求極高的劇場體量（音樂廳、大劇院、劇場）。",
+        "在1980年代香港經濟騰飛背景下，如何透過大型文化基礎設施建設來匹配其經濟地位，並在缺乏國際設計競賽機制下，由官方建築師完成高複雜度的公共地標塑造。",
+        "面對維多利亞港的絕佳景觀，如何在高度封閉的內部劇場需求與外部都市景觀脈絡之間取得空間平衡。"
+      ],
+      "concept": [
+        "去中心化的文化民主化（Democratisation of culture）載體，將文化設施塑造成全齡大眾共享的社區公共場所與多元市民生活中心。",
+        "透過巨大的巨型無窗雕塑感體量與幾何線條，展現後現代主義（Postmodernist）的都市紀念碑性（Monumental form）。"
+      ],
+      "strategy": [
+        "採取不對稱、連續的水平斜向大跨度實體牆皮層（Solid envelope），將三大核心劇院體量（Venue volumes）包覆於單一內斂而龐大的構造體系中。",
+        "外部完全捨棄面向維多利亞港的開窗，將所有視覺與物理流線導向地面的都市公共廣場（Public Plaza）及濱水步道，以此維持劇場內部的絕對光學與聲學防護。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "Concert Hall Stage",
+        "Acoustic Canopy",
+        "Pipe Organ",
+        "Proscenium Stage",
+        "Fly Tower",
+        "Orchestra Pit",
+        "Side Stages",
+        "Rear Stage",
+        "Flexible Seating System",
+        "Lighting Grid",
+        "FOH Lobby",
+        "BOH Backstage",
+        "Solid Wall",
+        "Public Plaza",
+        "Waterfront Esplanade"
+      ],
+      "c2_semantic_relations": [
+        "Acoustic Canopy → vertical suspension above (Spatial Relation) → Concert Hall Stage",
+        "Pipe Organ → fixed structural integration at rear of (Spatial Relation) → Concert Hall Stage",
+        "Fly Tower → vertical stack above (Spatial Relation) → Proscenium Stage",
+        "Orchestra Pit → historical adjustable depression below front of (Functional Relation) → Proscenium Stage",
+        "Side Stages & Rear Stage → horizontally adjacent to (Spatial Relation) → Proscenium Stage",
+        "Flexible Seating System → configures geometries around (Conceptual Relation) → Studio Theatre Stage",
+        "Solid Wall → fully encloses (Material & Tectonic Relation) → FOH Lobby",
+        "FOH Lobby → segregates public noise from (Functional Relation) → BOH Backstage",
+        "Solid Wall → blocks panoramic views toward (Perceptual Relation) → Waterfront Esplanade",
+        "Public Plaza → channels civic circulation into (Circulation Relation) → FOH Lobby"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民、遊客與觀眾在建築外圍的都市公共廣場、天星碼頭與濱水步道高度聚集，在周中及週末形成極為多元且活躍的市民生活景觀。",
+        "演職人員與技術團隊在內部劇院（如劇場的 Bare-walls 政策下）需進行高度自主的硬體吊掛與燈光音響架設。"
+      ],
+      "discourse_&_criticism": [
+        "自1989年落成以來，因其完全封閉、無窗的實體外牆設計，未利用維多利亞港的絕佳海景與海風，遭到建築系學生、專業建築師及公民團體的強烈批判與質疑，被指責為缺乏美感與都市回應的設計。",
+        "因缺乏當代設計競賽機制，被部分評論界謔稱為由即將退休的「業餘官方建築師」主導的產物。"
+      ],
+      "tectonic_results": [
+        "近年來，政府與公眾透過在巨大的實體固態外牆上進行繽紛的雷射光雕投影（Laser beams projection）等慶祝活動，重新挖掘了該建築立面作為「都市巨型畫布」的新價值，使得過去專業精英階層的批判聲浪逐漸消退。",
+        "雖然建築構造表現上與自然景觀產生視覺隔絕，但實質上成功扮演了香港多元文化平民化與普及化的重要推手，與週邊藝術館、博物館共同形塑了尖沙咀的文化拼圖。"
+      ]
+    }
+  }
+}

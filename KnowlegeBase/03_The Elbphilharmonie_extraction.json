@@ -1,0 +1,118 @@
+{
+  "project 10": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Elbphilharmonie Hamburg (漢堡易北愛樂廳)",
+        "theater_scale_hierarchy": "國際級多機能複合型音樂建築地標",
+        "gross_floor_area": "125,512 sqm (或 1,350,998 sqft)"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Grand Hall (大音樂廳)",
+          "seating_capacity": "2,100 席",
+          "stage_type": "Vineyard (葡萄園式 / 環抱式)",
+          "primary_performance_type": "Symphonic Music (交響樂), Orchestral Performance (管弦樂演奏), Large Scale Concert Events (大型音樂盛事)",
+          "key_hardware_&_acoustic_conditions": "採用與星級聲學家豐田泰久合作研發之「White Skin (白色巨皮)」——由 10,000 片精準銑削的石膏纖維板構成之特殊牆體與天花板結構，配備中央懸吊式音響反射板 (Acoustic Reflector兼具大吊燈功能)，以及與 Klais 公司量身訂製的 4,765 根管風琴。"
+        },
+        {
+          "hall_name": "Recital Hall (室內樂廳 / 中廳)",
+          "seating_capacity": "550 席",
+          "stage_type": "End-stage (端點式舞台 / 扇形觀眾席)",
+          "primary_performance_type": "Chamber Music (室內樂), Recitals (獨奏會), Small Ensemble Performance (小型合奏)",
+          "key_hardware_&_acoustic_conditions": "配置波浪狀木質牆面護板 (Wave-shaped wooden panelling) 以確保完美的室內樂聲學反射效果。"
+        },
+        {
+          "hall_name": "Kaistudio 1 (易北工作室一號)",
+          "seating_capacity": "150 席",
+          "stage_type": "Flexible Stage (可變動式 / 混合幾何形式)",
+          "primary_performance_type": "Experimental Performance (實驗性表演), Music Education (音樂教育), Small Scale Events (小型活動)",
+          "key_hardware_&_acoustic_conditions": "屬於音樂教育區 (Music education area) 七間專用房之一，具備高度可變性與適應不同活動形式的綜合機能。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "德國",
+        "city": "漢堡",
+        "urban_context": "位於新開發之濱水重劃區 (HafenCity) 的西端點，鄰近世界文化遺產倉庫城 (Speicherstadt)，基地三面環水，處於歷史港口紋理與當代都市擴張的交界介面。"
+      },
+      "participants_&_operation": {
+        "architect": "Herzog & de Meuron (瑞士赫佐格與德默隆建築事務所)",
+        "client": "Freie und Hansestadt Hamburg (自由漢薩城漢堡市政府)",
+        "end_user": "國際與在地音樂愛好者、市民、觀光客、酒店住客與高級住宅居民",
+        "consultants": [
+          "Acoustic Consulting: Nagata Acoustics Inc. (日本永田音響工務店 / 豐田泰久)",
+          "Structural Engineering: Schnetzer Puskas International AG, Heinrich Schnetzer",
+          "Facade Engineering: R & R Fuchs",
+          "Scenography Consulting: Ducks Sceno, ARGE Planung Elbphilharmonie",
+          "General Designer Joint Venture: Herzog & de Meuron GmbH, H+P Planungsgesellschaft mbH & Co. KG, Hochtief Solutions AG"
+        ],
+        "operator": "SPIE GmbH (負責 Facility Management設施管理)；實際綜合營運單位管理（推測）"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "如何在港口舊建築遺址的基地限制下，克服 200,000 噸新建築的巨型結構承重，並在高密度的立體混合機能（音樂廳、五星級酒店、高檔住宅、公共停車場）中，進行極其複雜的垂直機能堆疊與動線隔離。",
+        "業主明令主音響廳必須打破傳統「鞋盒式 (Shoebox)」音樂廳的封閉框架（漢堡已有 Laeiszhalle 作為鞋盒代表），亟需創造一種能拉近藝術家與觀眾距離、同時具備世界級物理聲學防護的全新劇院原型。"
+      ],
+      "concept": [
+        "採取「疊加與矛盾的雙重複合建築 (Superimposed Architectures)」及「立體盒中盒 (Stacked Volume-in-Volume)」策略。將古老、粗獷且封閉的港口倉庫磚石基座，與上方輕盈、璀璨、如晶體流線般的波浪玻璃形體相結合，在兩者交界處置入全面開放的都市公共廣場，象徵著將精緻的藝術殿堂向普羅大眾全面敞開。"
+      ],
+      "strategy": [
+        "結構強化與掏空重組：掏空並加固 Kallmorgen 舊紅磚倉庫內部結構，作為承載新量體的厚重基座 (Brick Plinth)。",
+        "三維曲面連續玻璃皮層：新量體外牆採用約 1,100 片單獨標記、帶有精密圓點印刷且局部內凹或雙曲面彎曲的玻璃單元，形成動態波浪漣漪 (Undulating Glass Skin)。",
+        "第五立面（帳篷狀屋頂）：設計如帳篷懸挑、高低起伏的波浪屋頂，表面覆蓋雙尺寸“亮片 (Sequins)”、絕緣層與防水膜，完美包覆空調、通訊等核心設備。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "brick plinth",
+        "glass body",
+        "undulating glass skin",
+        "public plaza",
+        "the tube (curved escalator system)",
+        "panorama window",
+        "foyer atrium",
+        "grand hall",
+        "vineyard seating",
+        "central concert platform",
+        "white skin (acoustic interior shell)",
+        "acoustic reflector",
+        "bespoke pipe organ",
+        "recital hall",
+        "kaistudios",
+        "biomorphic loggias",
+        "backstage",
+        "volume-in-volume structure"
+      ],
+      "c2_semantic_relations": [
+        "Brick Plinth → supports the 200,000-ton mass of (Spatial Relation) → Glass Body",
+        "Public Plaza → sits exactly in-between (Spatial Relation) → Brick Plinth and Glass Body",
+        "The Tube (Curved Escalator) → cuts straight through the interior of (Circulation Relation) → Brick Plinth",
+        "The Tube (Curved Escalator) → guides visitors sequentially from Main Entrance to (Circulation Relation) → Public Plaza",
+        "Public Plaza → acts as a panoramic architectural hinge connecting to (Conceptual Relation) → Hamburg City and Port",
+        "Foyer Atrium → vertically stacks and unfolds around (Spatial Relation) → Grand Hall",
+        "Grand Hall → implements a nested architecture inside (Conceptual Relation) → Volume-in-Volume Structure",
+        "Vineyard Seating → steeply encirclements and surrounds (Spatial Relation) → Central Concert Platform",
+        "White Skin (Acoustic Interior Shell) → lined as an acoustic crust over (Material & Tectonic Relation) → Grand Hall Tier Walls",
+        "Acoustic Reflector → suspends vertically above (Functional Relation) → Central Concert Platform",
+        "Bespoke Pipe Organ → integrates and embeds within (Material & Tectonic Relation) → Grand Hall Audience Seats",
+        "Undulating Glass Skin → reflects the shifting states of (Perceptual Relation) → River Elbe and Sky",
+        "Biomorphic Loggias → puncture ventilation and movement into (Material & Tectonic Relation) → Coated Glass Facade Grid"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "觀眾、市民、遊客與酒店住客在名為 Plaza 的高空公共廣場大量聚集、停留並交織流動，將其作為全新的市民公共客廳與港口觀景台。",
+        "通過長達 80 公尺、兩端無法直視的「微弧形長梯 (The Tube)」之空間體驗，成功將觀眾進場的步行行為轉化為一種儀式性的「空間前奏曲 (Prelude)」。"
+      ],
+      "discourse_&_criticism": [
+        "建築界讚譽其徹底顛覆了當代愛好文化者與大眾市民的藩籬，完美展現了公共空間與頂級藝術機能的激進融合。",
+        "大眾媒體與公眾輿論聚焦於其歷經漫長的建造週期、極為高昂的預算超支以及精密的建築物理聲學防護工程，落成後躍升為漢堡無可爭議的城市地標與國際名片。"
+      ],
+      "tectonic_results": [
+        "設計團隊成功透過這座高達 110 公尺的波浪形帳篷式建築，為原以水平線條為主的漢堡都市天際線，注入了極具視覺衝擊力的垂直軸向焦點。",
+        "通過精準的「晶體/紅磚」雙重主體構造操作，舊倉庫的粗獷潛能被完全激發，使音樂廳的結構與城市港口的工業地景產生歷史與當代、封閉與通透的深刻對話。"
+      ]
+    }
+  }
+}

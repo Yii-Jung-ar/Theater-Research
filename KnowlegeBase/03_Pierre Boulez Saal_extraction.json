@@ -1,0 +1,95 @@
+{
+  "project 16": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Pierre Boulez Saal (皮耶·布萊茲音樂廳)",
+        "theater_scale_hierarchy": "教育型與國際人才培育型頂尖室內樂廳",
+        "gross_floor_area": "接近 1,022 m² (或 11,000 平方英尺)"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Pierre Boulez Hall (皮耶·布萊茲廳)",
+          "seating_capacity": "683 席（文字提及設計 683 席，概算約 700 席）",
+          "stage_type": "Surround (環抱式 / 卵形 / 階梯橢圓混合幾何型)",
+          "primary_performance_type": "Chamber Music (室內樂), Recitals (獨奏會), Small Ensemble Performance (小型合奏), Music Education Events (音樂教育活動)",
+          "key_hardware_&_acoustic_conditions": "採用 360 度環抱觀眾席與中央演奏台（Central Performance Platform）配置，最遠觀眾席距離舞台中央僅約 14 米。全廳配置懸空的連續雙卵形二層觀眾環廊（Continuous Balcony Ring）與高度靈活的可變舞台設計（flexible stage design），全廳包覆特製木質聲學內襯，提供極致親密的室內樂物理聲學環境。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "德國",
+        "city": "柏林",
+        "urban_context": "坐落於柏林市中心歷史悠久且最具文化活力的米特區（Mitte district），位於 Französische Straße，介於菩提樹下國家歌劇院（Staatsoper Unter den Linden）與聯邦外交部大樓之間，緊鄰洪堡大學及博物館島（Museumsinsel）。"
+      },
+      "participants_&_operation": {
+        "architect": "Frank Gehry (美國建築師法蘭克·蓋里)",
+        "client": "Barenboim-Said Akademie (巴倫波因-薩伊德音樂學院 / 創辦人 Daniel Barenboim 主導)",
+        "end_user": "來自中東地區的年輕音樂人才、學院師生、 Boulez Ensemble 樂團演職人員、柏林市民及國際古典音樂愛好者",
+        "consultants": [
+          "Acoustician: Yasuhisa Toyota / Nagata Acoustics (日本聲學家豐田泰久 / 永田音響工務店)",
+          "劇場與其他工程專業顧問團隊: 未知"
+        ],
+        "operator": "Barenboim-Said Akademie (巴倫波因-薩伊德音樂學院)"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "如何在有限的 1,022 平方米既有歷史遺產外殼內，塞入一座同時兼具世界級物理聲學防護、極致空間親密感，且能供學院日常排練、跨學科教學、頂級室內樂演繹、學術講座等多機能靈活轉換的音樂廳量體。",
+        "此案不僅是一個音樂表演場所，其底層背負著深刻的政治文化和人道主義使命：作為巴倫波因-薩伊德學院的核心，新空間必須在空間隱喻上，完美體現 Edward W. Said 與 Barenboim 所倡導的「中東不同文化、背景青年在平等基礎上和諧共存、共同思考」的精神。"
+      ],
+      "concept": [
+        "「思考之耳的跨界音樂方舟 (Music for the Thinking Ear) 」與「立體盒中盒 (Volume-in-Volume)」。法蘭克·蓋里打破了傳統剛性對稱的劇院範式，在 Richard Paulick 設計的矩形歷史舊倉庫外殼內，置入一個自由、輕盈且完全脫離外牆邊界的「 freestanding 卵形/橢圓形音樂廳艙體」，創造出溫暖連續、無起點也無終點的包裹感，象徵不同族群間包容、平等的對話精神。"
+      ],
+      "strategy": [
+        "歷史外殼重組與核心置入 (Volume-in-Volume Strategy)：完整保留 1950 年代東德時期 Richard Paulick 設計的國家歌劇院前存放倉庫（Magazin）之直角磚石外殼。將龐大的橢圓形主音樂廳置於平面幾何中心，利用主廳與外牆間的剩餘夾角空間布置前台 FOH 環狀動線與酒吧，而將上層周邊轉化為 BOH 音樂學院的琴房、教室與錄音室。",
+        "懸空雙卵形二層觀眾環廊 (Continuous Balcony Ring)：在上層空間大膽設計了一座完全與地面舞台和外牆脫離、僅由隱蔽構造懸吊的「扭轉雙卵形（Two floating ovals）二層環廊觀眾席」。此構造不僅消解了結構的沉重感，更創造出多維度的不規則觀演視點，打破傳統舞台與席位的階級感。",
+        "多向度可變地坪與聲學奉獻 (Flexible Stage Design)：與大師豐田泰久緊密協作，地面層演奏台與觀眾座椅採可拆裝拆卸的模組化設定。雖然不依賴重型自動化機械，但可因應鋼琴獨奏、大型室內樂編制、學術研討等需求自由重組舞台幾何。兩位大師皆放棄設計費，將構造細部極簡化，完全以木質護壁與粉刷面轉化為純粹的殘響擴散體。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "pierre boulez hall",
+        "historic building shell",
+        "oval auditorium",
+        "central performance platform",
+        "continuous balcony ring",
+        "timber acoustic interior",
+        "entrance plaza",
+        "lobby foyer",
+        "audience circulation ring",
+        "practice rooms",
+        "seminar rooms",
+        "recording studio",
+        "rectilinear historic window",
+        "volume-in-volume strategy"
+      ],
+      "c2_semantic_relations": [
+        "Pierre Boulez Hall → inserted as an independent floating core within (Spatial Relation) → Historic Building Shell",
+        "Lobby Foyer → occupies the perimeter leftover zone between (Spatial Relation) → Oval Auditorium and Historic Building Shell",
+        "Continuous Balcony Ring → hovers structural-free and weightlessly above (Material & Tectonic Relation) → Central Performance Platform",
+        "Audience Circulation Ring → flows continuous-loops behind (Circulation Relation) → Continuous Balcony Ring",
+        "Central Performance Platform → organized at the absolute geometric focal point of (Spatial Relation) → Oval Auditorium",
+        "Timber Acoustic Interior → lines the entire inside enclosure of (Material & Tectonic Relation) → Pierre Boulez Hall",
+        "Practice Rooms → vertically stacked and distributed at the upper levels above (Spatial Relation) → Pierre Boulez Hall",
+        "Seminar Rooms → connected laterally to optimize access into (Functional Relation) → Recording Studio",
+        "Rectilinear Historic Window → punctures the original facade to allow ambient light into (Perceptual Relation) → Lobby Foyer",
+        "Oval Auditorium → visually and physically detaches its structural framework from (Conceptual Relation) → Rectilinear Historic Building Shell",
+        "Central Performance Platform → allows multi-directional stage reconfigurations supporting (Functional Relation) → Chamber Music and Lectures"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "來自中東各國（如阿拉伯與以色列）的年輕音樂學子、教授與國際大師在同一個橢圓形空間中緊密並肩排練、演奏。觀眾在僅有 14 米的最大視距內，與演奏者產生極其強烈的眼神與呼吸共振，觀演行為呈現高度親密與高度沉浸感。",
+        "非演出時段，上層的教學琴房、講座室與底層的音樂廳、酒吧中庭串聯，學生與觀光客在歷史外殼內自由交織，將整座建築轉化為一座充滿活力的「立體音樂學術公社」。"
+      ],
+      "discourse_&_criticism": [
+        "柏林文化界與大眾媒體對該音樂廳的落成給予極高的情感與政治讚譽，盛讚其在當代分裂的國際局勢下，為柏林注入了一座象徵多元文化包容與深刻思辨的「精神燈塔（musical visionary）」。",
+        "專業評論家高度肯定蓋里與豐田泰久的精湛構造操作，成功證明了不需要昂貴巨大的地標外殼（如迪士尼音樂廳或易北愛樂），僅在一個有限的東德老舊倉庫內，透過純粹的「體量幾何扭轉」與「材料去繁為簡」，亦能構築出具備頂級聲學張力的劃時代室內樂殿堂。"
+      ],
+      "tectonic_results": [
+        "設計團隊透過「直角歷史外殼/雙重扭轉橢圓」的幾何構造對話，打破了蓋里過往廣為人知的解構主義碎裂外觀語彙，轉而在一種近乎古典的限制中，實踐了極具內斂張力的內部空間雕塑學。",
+        "主廳內部的全木質聲學內殼與懸空卵形環廊，在物理上化為完美的聲學反射 crust，在視覺上則創造出無起迄的連續流動，成功將布萊茲（Pierre Boulez）音樂中那種「不懈探求與顛覆剛性邊界」的先鋒靈魂，徹底固化為永久的建築空間DNA。"
+      ]
+    }
+  }
+}

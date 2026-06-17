@@ -1,0 +1,103 @@
+{
+  "project 13": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Chichester Festival Theatre (奇切斯特節日劇院)",
+        "theater_scale_hierarchy": "國家級/區域級具重要歷史地位的節日與劇團劇院",
+        "gross_floor_area": "4,600 m² (翻修擴建後)"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (主觀眾廳 / 劇場)",
+          "seating_capacity": "1,300 席以上",
+          "stage_type": "Thrust (伸展式舞台 / 馬蹄形觀眾席)",
+          "primary_performance_type": "Drama (戲劇), Repertory Theatre (劇團常備劇目輪演), Live Performance (現場表演)",
+          "key_hardware_&_acoustic_conditions": "作為英國首座現代開放伸展式舞台，觀眾席分多層（multiple seating tiers）呈三面環抱（audience on three sides）。設有地底 Trap Room (樂池/機關室)；為避免損及既有輕量懸索屋頂，配備獨立於天花、穿越既有屋架之獨立懸吊燈光橋與舞台工程系統 (lighting bridges system)。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "英國",
+        "city": "奇切斯特 (Chichester)",
+        "urban_context": "落腳於都市綠帶公園腹地，依循「公園中的亭台 (pavilion in the park)」設計設定，被大片 pedestrian-focused 的公共綠地、行道與景觀植栽所環繞。"
+      },
+      "participants_&_operation": {
+        "architect": "Powell and Moya (1962年原始設計建築師)；Haworth Tompkins (2014年主要修復與翻新建築師)",
+        "client": "由當地人 Leslie Evershed Martin 發起並透過公眾認籌 (public subscription) 出資之劇院信託/地方委員會",
+        "end_user": "National Theatre Company (英國國家劇院公司創立初期核心樂隊/演員團)、奇切斯特在地社群、夏季藝術節觀眾與演職人員",
+        "consultants": [
+          "Theatre Consultant: Charcoalblue",
+          "Acoustic Engineer: Gillieron Scott Acoustic Design",
+          "Structural Engineer: Price & Myers",
+          "Service Engineer: Skelly & Couch",
+          "Landscape Architect: Camlin Lonsdale Landscape Architects",
+          "Collaborating Artist: Antoni Malinowski"
+        ],
+        "operator": "Chichester Festival Theatre 營運管理團隊"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "這棟落成於 1962 年的二星級保護建築 (Grade 2* listed building) 歷經數十年來零散、未經整體規劃的加蓋擴建，導致 Powell and Moya 原始前衛而清晰的空間概念與結構紋理被嚴重蠶食並逐漸模糊。",
+        "在既有極度緊湊且古老的輕量化鉸接懸索屋頂結構限制下，如何在不增加既有屋架結構負擔的前提下，大幅提升現代劇場在視線、舞台機械工程、燈光懸吊上的技術複雜度，同時全面導入當代高規格的綠能暖通物理環境系統。"
+      ],
+      "concept": [
+        "「回歸純粹、新舊構造重組對話」。修復策略旨在進行一場「空間的去蕪存菁」，拆除所有非原創的雜亂構造，回復前台公共空間 1960 年代原初的晶體透明度與流暢性。對於後台則採取「獨立增建」策略，以現代構造工藝和耐候鋼材料與原始的粗野主義混凝土 (Brutalist concrete) 產生和諧且帶有戲劇張力的時代對話。"
+      ],
+      "strategy": [
+        "去蕪存菁與後台耐候鋼增建：清理 1970 年代以來的非原創構造，將後勤機能全數整合至一座新擴建的 BOH 體量中，立面採用 Cor-Ten 耐候鋼帷幕（Cor-Ten weathering steel facade），使其自然氧化成隱蔽的暗青銅色，與歷史混凝土及自然地景相稱。",
+        "前台微晶擴展與視覺藝術介入：新增輕薄的玻璃咖啡廳體量以擴展前台大廳，並將原有的樓梯圍護結構打開以引入充足自然光。天花與部分牆面由藝術家手繪創作，利用幾何線條放大周圍公園地景的渲染力。",
+        "獨立結構與綠能置換：在主演奏廳上方設計一套完全獨立於屋頂 Truss 系統之外的結構，用以承載舞台機械，避免老舊屋頂受力。地底則配置地源熱泵系統（ground source heat pump）及多個鑽孔，抽取地下水為大廳與劇場進行季節性冷熱逆向分配，解決 10% 的再生能源需求並進行熱性能升級（全面換裝雙層高防護玻璃）。"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "thrust stage",
+        "main auditorium",
+        "horseshoe seating bowl",
+        "brutalist concrete frame",
+        "cable-tied roof truss",
+        "independent stage engineering structure",
+        "lighting bridges",
+        "main foyer",
+        "cor-ten weathering steel facade",
+        "glass curtain wall extension",
+        "trapezoidal concrete flagstones",
+        "trap room",
+        "scene dock",
+        "actors garden",
+        "green room garden",
+        "ground source heat pump system"
+      ],
+      "c2_semantic_relations": [
+        "Main Auditorium → forms the geometric and functional center of (Spatial Relation) → Centralized Hexagonal Building Envelope",
+        "Thrust Stage → projects dynamically and un-retractably into (Spatial Relation) → Horseshoe Seating Bowl",
+        "Brutalist Concrete Frame → cantilevers radically outward to carry (Material & Tectonic Relation) → Upper Seating Tiers",
+        "Cable-tied Roof Truss → spans suspendedly above (Material & Tectonic Relation) → Main Auditorium Volume",
+        "Independent Stage Engineering Structure → threads through without stressing (Functional Relation) → Cable-tied Roof Truss",
+        "Main Foyer → wraps peripherally and symmetrically around (Spatial Relation) → Centralized Auditorium Core",
+        "Cor-Ten Weathering Steel Facade → wraps the independent, new-build volume of (Material & Tectonic Relation) → BOH Backstage Extension",
+        "Glass Curtain Wall Extension → allows natural daylight to flood into (Perceptual Relation) → Main Foyer",
+        "Trapezoidal Concrete Flagstones → structurally differentiates extended public terraces from (Material & Tectonic Relation) → Carpeted Original Footprint",
+        "Main Foyer → provides perimeter circulation leading to multiple audience entry points of (Circulation Relation) → Main Auditorium",
+        "Dedicated Backstage Circulation → bypasses public areas to directly connect Dressing Rooms with (Circulation Relation) → Stage Zone",
+        "Trap Room → located vertically and isolatedly directly beneath (Spatial Relation) → Thrust Stage Area",
+        "Ground Source Heat Pump System → extracts geo-energy via a borehole array from (Functional Relation) → Groundwater below Site"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "觀眾與市民在非演出時段亦受到通透前台大廳、手繪藝術咖啡廳及外部露天平台的吸引，在劇院與綠地綠帶公園交界處停留、聚會並進行高社交性的自發活動。",
+        "演出期間，由於觀眾席坡度重新陡峭化（steepened）與側邊畫廊的恢復，演職人員與觀眾在 1,300 席的空間內感受到極高強度的「演員-觀眾凝聚力 (theatrical intensity)」，實現了極短視距的親密互動。"
+      ],
+      "discourse_&_criticism": [
+        "該翻修案獲得英國建築與文化界極高的讚譽，一舉斬獲五項 RIBA 南東部大獎（RIBA South East Awards）及市民信託讚賞獎（Civic Trust Commendation），並入圍國際建築獎決賽，被視為保護歷史建築、同時升級現代劇場機能的傑出範例。",
+        "評論家高度肯定 Haworth Tompkins 對於新舊構造的分寸拿捏，成功清除過去積重難返的加蓋贅肉，讓 1962 年 Powell and Moya 著名的激進大膽結構重新在公園地景中煥發原有的清晰度與尊嚴。"
+      ],
+      "tectonic_results": [
+        "透過耐候鋼與粗野混凝土的構造堆疊，設計團隊證明了當代工業構造材料能夠以「不退化、不模仿」的姿態完美契合芬蘭、英國等二戰後老建築的混凝土粗獷潛能。",
+        "巧妙整合的地下熱泵與高防護雙層玻璃等不可見的構造升級，使得這座原先對能源效率毫無概念的1960年代建築，在不破壞任何既有保護外殼與歷史風貌的前提下，成功減少了大量二氧化碳排放，達成古蹟活化與當代節能指標的雙重空間成就。"
+      ]
+    }
+  }
+}
