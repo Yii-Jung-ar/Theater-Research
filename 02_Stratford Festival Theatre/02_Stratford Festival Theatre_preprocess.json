@@ -1,0 +1,315 @@
+{
+  "project_name": "Stratford Festival Theatre",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based exclusively on visible seating diagrams, auditorium photographs, exterior photographs, and architectural representations contained in the provided image set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Audience Seating Diagram",
+        "evidence": "Full auditorium seating layout showing stage position and audience distribution."
+      },
+      {
+        "type": "Balcony Seating Diagram",
+        "evidence": "Upper-level seating configuration and audience geometry."
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photographs",
+        "evidence": "Building form, entrance sequence, and public forecourt."
+      },
+      {
+        "type": "Interior Auditorium Photographs",
+        "evidence": "Stage configuration, audience chamber, balcony relationship, and material character."
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Audience Configuration Diagram",
+        "evidence": "Seating geometry and audience-stage relationship."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Theatre",
+
+    "primary_program": "Drama Performance Venue",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Main Lobby",
+        "Entrance Hall",
+        "Audience Circulation",
+        "Balcony Access",
+        "Public Gathering Space"
+      ],
+
+      "BOH": [
+        "Backstage",
+        "Stage Support Areas",
+        "Technical Spaces",
+        "Performer Areas"
+      ],
+
+      "performance_spaces": [
+        "Main Auditorium",
+        "Thrust Stage"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Single Auditorium Organization",
+
+      "description": "The building is organized around a central theatre space with audience seating wrapping around a projecting stage.",
+
+      "public_private_separation": "Clear separation between audience and performer zones."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Audience-Centered Theatre",
+
+      "description": "The stage projects into the audience chamber, reducing viewing distance and increasing performer-audience proximity."
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Low Horizontal Massing",
+      "Pyramidal Roof Form",
+      "Central Lantern Element",
+      "Timber Interior",
+      "Multi-Level Audience Galleries",
+      "Open Civic Entrance"
+    ],
+
+    "materiality": [
+      "Wood",
+      "Glass",
+      "Metal Roofing"
+    ],
+
+    "atmosphere": {
+      "auditorium": "Intimate and immersive",
+      "public_spaces": "Warm and civic",
+      "audience_experience": "High visual engagement with performance"
+    },
+
+    "contextual_relationship": {
+      "landscape_setting": true,
+      "cultural_campus": true,
+      "civic_presence": true
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 1,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "location": "Primary building volume",
+        "evidence": "Single auditorium visible in seating diagrams and interior photographs."
+      }
+    ],
+
+    "multi_theatre_complex": false,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Festival Theatre",
+
+      "theatre_typology": "Thrust Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Shakespeare Performance",
+        "Live Theatre"
+      ],
+
+      "estimated_capacity": {
+        "value": "1500-2500",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "Surround",
+
+      "seating_geometry": "Horseshoe",
+
+      "stage_form": "Thrust Stage",
+
+      "auditorium_stage_relationship": "Thrust",
+
+      "spatial_characteristics": {
+        "stage_projects_into_audience": true,
+        "audience_on_three_sides": true,
+        "balcony_levels_present": true,
+        "short_viewing_distance": true
+      },
+
+      "FOH_components": [
+        "Lobby",
+        "Audience Circulation",
+        "Balcony Access",
+        "Public Gathering Areas"
+      ],
+
+      "BOH_components": [
+        "Backstage",
+        "Stage Support",
+        "Technical Areas"
+      ],
+
+      "circulation_strategy": {
+        "audience": "Distributed access through auditorium perimeter and balcony levels.",
+        "performers": "Dedicated backstage circulation separated from public routes."
+      },
+
+      "acoustic_typology": {
+        "classification": "Drama Theatre",
+        "evidence": "Audience enclosure and speech-oriented theatre arrangement."
+      },
+
+      "transformability": {
+        "classification": "Fixed",
+        "evidence": "No retractable seating, movable stage, or operable partitions visible."
+      },
+
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Single-Venue Theatre",
+
+    "hierarchy": {
+      "main_hall": "T1",
+      "secondary_hall": null,
+      "studio_theatre": null,
+      "experimental_theatre": null
+    },
+
+    "shared_infrastructure": [],
+
+    "operational_relationships": "N/A"
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "affected_venues": [],
+
+    "connection_mechanism": null,
+
+    "confidence_level": "High"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_as_organizational_core": true,
+
+    "volume_in_volume_strategy": false,
+
+    "visibility_of_theatre_volume": "Clearly Expressed",
+
+    "theatre_cluster_organization": "Single-Core",
+
+    "description": "The auditorium and stage configuration define the building's architectural identity and spatial organization."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Major Repertory Theatre",
+
+    "programmatic_role": "Large-scale drama and Shakespeare performance venue",
+
+    "public_space_integration": {
+      "cultural_destination": true,
+      "public_gathering_function": true,
+      "landscape_relationship": true
+    },
+
+    "architectural_expression_of_performance": {
+      "audience_proximity_emphasized": true,
+      "thrust_stage_identity_visible": true,
+      "collective_viewing_experience": true
+    },
+
+    "spectatorship": {
+      "immersive": true,
+      "three_sided_viewing": true,
+      "high_actor_audience_engagement": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_typology": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "audience_configuration": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "stage_form": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "seating_geometry": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "capacity_estimation": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "transformability": {
+      "confidence": "Medium",
+      "evidence_quality": "Direct Evidence"
+    }
+  },
+
+  "knowledge_tags": [
+    "Stratford Festival Theatre",
+    "Thrust Theatre",
+    "Thrust Stage",
+    "Horseshoe Seating",
+    "Surround Audience",
+    "Drama Theatre",
+    "Shakespeare Theatre",
+    "Single Venue",
+    "Audience Proximity",
+    "Fixed Configuration",
+    "Repertory Theatre",
+    "Three-Sided Audience"
+  ]
+}

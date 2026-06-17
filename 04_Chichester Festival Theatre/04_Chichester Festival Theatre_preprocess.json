@@ -1,0 +1,360 @@
+{
+  "project_name": "Chichester Festival Theatre",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based exclusively on visible site plan, floor plans, sections, exploded axonometric, exterior photographs, and auditorium representations contained in the provided image set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Site Plan",
+        "evidence": "Building relationship to landscape, access routes, and surrounding open space."
+      },
+      {
+        "type": "Floor Plans",
+        "evidence": "Basement, ground, auditorium, and upper-level plans showing theatre organization and support spaces."
+      },
+      {
+        "type": "Sections",
+        "evidence": "Cross-sections through auditorium, foyer, stage, and roof structure."
+      },
+      {
+        "type": "Exploded Axonometric",
+        "evidence": "Relationship between auditorium, roof, foyer, and building envelope."
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photographs",
+        "evidence": "Building massing, entrance sequence, landscape relationship, and architectural expression."
+      },
+      {
+        "type": "Interior Auditorium Images",
+        "evidence": "Audience bowl, stage geometry, and audience-stage relationship."
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Exploded Organizational Diagram",
+        "evidence": "Spatial hierarchy between theatre volume, roof structure, foyer, and support facilities."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Theatre",
+
+    "primary_program": "Drama Performance Venue",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Main Foyer",
+        "Cafe",
+        "Terrace Bar",
+        "Main Bar",
+        "Ticketing",
+        "Audience Circulation",
+        "Public Gathering Space",
+        "Green Room Garden"
+      ],
+
+      "BOH": [
+        "Stage",
+        "Trap Room",
+        "Wardrobe",
+        "Dressing Rooms",
+        "Scenery Lift",
+        "Scene Dock",
+        "Production Offices",
+        "Technical Spaces"
+      ],
+
+      "performance_spaces": [
+        "Main Auditorium",
+        "Thrust Stage"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Central Auditorium with Peripheral Support Ring",
+
+      "description": "The auditorium occupies the geometric center of the building while foyer, circulation, administration, and backstage functions are arranged around it.",
+
+      "public_private_separation": "Strong",
+
+      "circulation_structure": "Audience circulation wraps around the auditorium perimeter while performers access the stage through dedicated backstage zones."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Theatre-Centered Organization",
+
+      "description": "The theatre acts as the organizational core, with all public and support functions radiating outward from the central performance space."
+    },
+
+    "vertical_organization": {
+      "lower_levels": [
+        "Technical Support",
+        "Trap Room",
+        "Stage Infrastructure",
+        "Storage"
+      ],
+
+      "middle_levels": [
+        "Auditorium",
+        "Stage",
+        "Main Foyer"
+      ],
+
+      "upper_levels": [
+        "Wardrobe",
+        "Dressing Rooms",
+        "Production Offices",
+        "Technical Facilities"
+      ]
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Hexagonal Geometry",
+      "Expressed Roof Structure",
+      "Brutalist Concrete Frame",
+      "Transparent Public Edge",
+      "Centralized Auditorium",
+      "Landscape Integration"
+    ],
+
+    "materiality": [
+      "Concrete",
+      "Glass",
+      "Metal Cladding",
+      "Timber Interior Finishes"
+    ],
+
+    "atmosphere": {
+      "auditorium": "Intimate and collective",
+      "public_spaces": "Open and social",
+      "architectural_character": "Civic and performance-oriented"
+    },
+
+    "contextual_relationship": {
+      "landscape_setting": true,
+      "park_relationship": true,
+      "cultural_destination": true
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 1,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "location": "Central auditorium volume",
+        "evidence": "Visible in plans, sections, exploded axonometric, and auditorium images."
+      }
+    ],
+
+    "multi_theatre_complex": false,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Chichester Festival Theatre Main Auditorium",
+
+      "theatre_typology": "Thrust Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Repertory Theatre",
+        "Live Performance"
+      ],
+
+      "estimated_capacity": {
+        "value": "1000-1500",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "Surround",
+
+      "seating_geometry": "Horseshoe",
+
+      "stage_form": "Thrust Stage",
+
+      "auditorium_stage_relationship": "Thrust",
+
+      "spatial_characteristics": {
+        "audience_on_three_sides": true,
+        "centralized_auditorium": true,
+        "multiple_seating_tiers": true,
+        "short_viewing_distances": true,
+        "stage_projects_into_audience": true
+      },
+
+      "FOH_components": [
+        "Foyer",
+        "Cafe",
+        "Terrace Bar",
+        "Main Bar",
+        "Public Gathering Areas"
+      ],
+
+      "BOH_components": [
+        "Dressing Rooms",
+        "Wardrobe",
+        "Scenery Lift",
+        "Scene Dock",
+        "Trap Room",
+        "Production Offices"
+      ],
+
+      "circulation_strategy": {
+        "audience": "Perimeter circulation around the auditorium feeding multiple audience entry points.",
+        "performers": "Dedicated backstage circulation linked directly to stage and support spaces."
+      },
+
+      "acoustic_typology": {
+        "classification": "Drama Theatre",
+        "evidence": "Compact audience enclosure and thrust-stage arrangement optimized for spoken performance."
+      },
+
+      "transformability": {
+        "classification": "Fixed",
+        "evidence": "No retractable seating, operable partitions, or variable stage systems visible in plans or sections."
+      },
+
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Single-Venue Theatre",
+
+    "hierarchy": {
+      "main_hall": "T1",
+      "secondary_hall": null,
+      "studio_theatre": null,
+      "experimental_theatre": null
+    },
+
+    "shared_infrastructure": [],
+
+    "operational_relationships": "N/A"
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "affected_venues": [],
+
+    "connection_mechanism": null,
+
+    "confidence_level": "High"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_as_organizational_core": true,
+
+    "volume_in_volume_strategy": false,
+
+    "visibility_of_theatre_volume": "Clearly Expressed",
+
+    "theatre_cluster_organization": "Single-Core",
+
+    "description": "The auditorium forms the geometric and organizational center of the building, with all supporting functions arranged around it."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Regional Festival and Repertory Theatre",
+
+    "programmatic_role": "Large-scale dramatic performance venue",
+
+    "public_space_integration": {
+      "landscape_connection": true,
+      "public_foyer": true,
+      "community_gathering": true
+    },
+
+    "architectural_expression_of_performance": {
+      "thrust_stage_identity": true,
+      "audience_proximity_emphasized": true,
+      "centralized_performance_volume": true
+    },
+
+    "spectatorship": {
+      "immersive": true,
+      "three_sided_viewing": true,
+      "high_actor_audience_proximity": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_typology": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "audience_configuration": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "stage_form": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "seating_geometry": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "capacity_estimation": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "transformability": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    }
+  },
+
+  "knowledge_tags": [
+    "Chichester Festival Theatre",
+    "Thrust Theatre",
+    "Thrust Stage",
+    "Horseshoe Seating",
+    "Surround Audience",
+    "Drama Theatre",
+    "Festival Theatre",
+    "Single Venue",
+    "Centralized Auditorium",
+    "Audience Proximity",
+    "Fixed Configuration",
+    "Theatre-Centered Organization"
+  ]
+}

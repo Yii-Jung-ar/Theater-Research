@@ -1,0 +1,328 @@
+{
+  "project_name": "Royal Exchange Theatre, Manchester",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Visible floor plan, conceptual diagrams, section sketch, axonometric drawing, interior photographs, and exterior photographs only",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Floor Plan",
+        "evidence": "Plan showing historic exchange hall and inserted theatre module."
+      },
+      {
+        "type": "Axonometric Drawing",
+        "evidence": "Exploded axonometric of suspended theatre structure."
+      },
+      {
+        "type": "Section Sketch",
+        "evidence": "Section through existing hall and theatre module."
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Interior Photographs",
+        "evidence": "Audience chamber, stage configuration, suspended structure, surrounding balconies."
+      },
+      {
+        "type": "Exterior/Interior Hall Photograph",
+        "evidence": "Theatre module located within historic exchange hall."
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Concept Diagram",
+        "evidence": "Geometric study of theatre insertion inside existing building envelope."
+      },
+      {
+        "type": "Spatial Organization Diagram",
+        "evidence": "Relationship between theatre module and surrounding historic volume."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Adaptive Reuse Performance Venue",
+
+    "primary_program": "Theatre",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Historic Exchange Hall",
+        "Public Gathering Space",
+        "Lobby",
+        "Circulation Ring",
+        "Access Bridges",
+        "Audience Entrances"
+      ],
+
+      "BOH": [
+        "Backstage Support Areas",
+        "Technical Platforms",
+        "Catwalk System",
+        "Service Access"
+      ],
+
+      "performance_spaces": [
+        "Main Theatre Module",
+        "Central Stage"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Theatre-in-Hall Strategy",
+
+      "description": "A self-supporting theatre volume is inserted into the center of an existing historic exchange hall.",
+
+      "public_private_separation": "Moderate",
+
+      "circulation_structure": "Audience circulation occurs through the surrounding hall and elevated access points into the theatre module."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Volume-in-Volume",
+
+      "description": "The theatre functions as an independent object suspended within a much larger pre-existing civic interior."
+    },
+
+    "spatial_relationships": {
+      "historic_hall": "Outer enclosure",
+      "theatre_module": "Inner performance object",
+      "relationship": "Inserted and visually detached from original envelope"
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Suspended Structure",
+      "Steel Frame",
+      "Circular Theatre",
+      "Layered Audience Galleries",
+      "Industrial Expression",
+      "Historic Envelope"
+    ],
+
+    "materiality": [
+      "Steel",
+      "Timber Seating",
+      "Glass",
+      "Historic Masonry"
+    ],
+
+    "atmosphere": {
+      "auditorium": "Intimate and immersive",
+      "public_hall": "Monumental and civic",
+      "spatial_character": "Contrast between historic grandeur and inserted performance object"
+    },
+
+    "contextual_relationship": {
+      "adaptive_reuse": true,
+      "historic_integration": true,
+      "civic_presence": true
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 1,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "location": "Center of historic exchange hall",
+        "evidence": "Visible in plan, section, diagrams, axonometric drawing, and photographs."
+      }
+    ],
+
+    "multi_theatre_complex": false,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Royal Exchange Theatre",
+
+      "theatre_typology": "Arena Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Contemporary Theatre",
+        "Live Performance"
+      ],
+
+      "estimated_capacity": {
+        "value": "500-900",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "Surround",
+
+      "seating_geometry": "Terraced Circular Hybrid",
+
+      "stage_form": "Arena Stage",
+
+      "auditorium_stage_relationship": "Surround",
+
+      "spatial_characteristics": {
+        "audience_surrounds_stage": true,
+        "multi_level_galleries": true,
+        "central_stage": true,
+        "intimate_actor_audience_proximity": true
+      },
+
+      "FOH_components": [
+        "Historic Hall",
+        "Lobby Space",
+        "Audience Bridges",
+        "Circulation Ring"
+      ],
+
+      "BOH_components": [
+        "Technical Platforms",
+        "Catwalks",
+        "Support Areas"
+      ],
+
+      "circulation_strategy": {
+        "audience": "Distributed access from surrounding historic hall into elevated audience levels.",
+        "performers": "Access through dedicated support routes integrated into theatre module."
+      },
+
+      "acoustic_typology": {
+        "classification": "Drama Theatre",
+        "evidence": "Compact surround seating and enclosed performance chamber."
+      },
+
+      "transformability": {
+        "classification": "Fixed",
+        "evidence": "No visible retractable seating, movable walls, or variable stage systems."
+      },
+
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Single-Venue Theatre",
+
+    "hierarchy": {
+      "main_hall": "T1",
+      "secondary_hall": null,
+      "studio_theatre": null,
+      "experimental_theatre": null
+    },
+
+    "shared_infrastructure": [],
+
+    "operational_relationships": "N/A"
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "affected_venues": [],
+
+    "connection_mechanism": null,
+
+    "confidence_level": "High"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_as_organizational_core": true,
+
+    "volume_in_volume_strategy": true,
+
+    "visibility_of_theatre_volume": "Clearly Expressed",
+
+    "theatre_cluster_organization": "Single-Core",
+
+    "description": "The theatre is a visibly autonomous structure suspended inside the historic exchange building and becomes the dominant spatial object."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Adaptive Reuse Civic Theatre",
+
+    "programmatic_role": "Contemporary theatre inserted into historic commercial architecture",
+
+    "public_space_integration": {
+      "historic_hall_retained": true,
+      "public_gathering_space": true,
+      "civic_identity": true
+    },
+
+    "architectural_expression_of_performance": {
+      "theatre_as_object": true,
+      "performance_structure_exposed": true,
+      "contrast_between_old_and_new": true
+    },
+
+    "spectatorship": {
+      "collective_experience": true,
+      "high_proximity": true,
+      "immersive_surround_relationship": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_typology": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "audience_configuration": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "stage_form": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "capacity_estimation": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "transformability": {
+      "confidence": "Medium",
+      "evidence_quality": "Direct Evidence"
+    }
+  },
+
+  "knowledge_tags": [
+    "Royal Exchange Theatre",
+    "Arena Theatre",
+    "Surround Audience",
+    "Arena Stage",
+    "Adaptive Reuse",
+    "Volume-in-Volume",
+    "Theatre Module",
+    "Historic Building Insertion",
+    "Suspended Structure",
+    "Immersive Theatre",
+    "Single Venue",
+    "Fixed Configuration"
+  ]
+}

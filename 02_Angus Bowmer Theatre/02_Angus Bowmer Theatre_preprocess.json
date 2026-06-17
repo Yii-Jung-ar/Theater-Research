@@ -1,0 +1,332 @@
+{
+  "project_name": "Angus Bowmer Theatre",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based exclusively on visible seating diagrams, building section, campus axonometric, auditorium photograph, and architectural drawings contained in the provided image set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Building Section",
+        "evidence": "Longitudinal section showing auditorium, stage house, audience galleries, fly volume, and support spaces."
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Interior Auditorium Photograph",
+        "evidence": "Audience chamber, stage, balconies, and performance configuration visible."
+      },
+      {
+        "type": "Campus Axonometric",
+        "evidence": "Relationship of theatre building to broader performing arts campus."
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Seating Diagram",
+        "evidence": "Audience seating layout showing stage location and seating geometry."
+      },
+      {
+        "type": "Ticketing/Zoning Diagram",
+        "evidence": "Color-coded audience bowl configuration."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Theatre",
+
+    "primary_program": "Drama Performance Venue",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Lobby",
+        "Audience Galleries",
+        "Balconies",
+        "Public Circulation"
+      ],
+
+      "BOH": [
+        "Stage Support Areas",
+        "Backstage",
+        "Fly Tower",
+        "Technical Spaces"
+      ],
+
+      "performance_spaces": [
+        "Main Auditorium",
+        "Stage"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Centralized Auditorium Organization",
+
+      "description": "The theatre is organized around a single primary performance space with audience seating wrapped around the stage."
+
+    },
+
+    "overall_spatial_logic": {
+      "type": "Audience-Enclosure Organization",
+
+      "description": "The auditorium volume dominates the building, with seating arranged around a projecting stage and support spaces concentrated behind the performance zone."
+    },
+
+    "vertical_organization": {
+      "lower_levels": [
+        "Stage Support",
+        "Technical Areas"
+      ],
+
+      "middle_levels": [
+        "Stage",
+        "Main Audience Seating"
+      ],
+
+      "upper_levels": [
+        "Balconies",
+        "Catwalks",
+        "Fly Systems"
+      ]
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Timber Expression",
+      "Multi-Level Galleries",
+      "Projecting Stage",
+      "Enveloping Audience Bowl",
+      "Theatrical Framing",
+      "Large Fly Volume"
+    ],
+
+    "materiality": [
+      "Wood",
+      "Steel",
+      "Acoustic Finishes"
+    ],
+
+    "atmosphere": {
+      "auditorium": "Intimate despite large capacity",
+      "audience_relationship": "Close visual connection to performance",
+      "character": "Collective and immersive"
+    },
+
+    "contextual_relationship": {
+      "campus_integration": true,
+      "cultural_complex": true,
+      "building_visibility": "Prominent venue within performing arts campus"
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 1,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "location": "Primary theatre building within campus",
+        "evidence": "Single auditorium visible in section, seating diagrams, and interior photograph."
+      }
+    ],
+
+    "multi_theatre_complex": false,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+
+      "theatre_name": "Angus Bowmer Theatre",
+
+      "theatre_typology": "Thrust Theatre",
+
+      "primary_function": [
+        "Drama",
+        "Shakespeare Performance",
+        "Live Theatre"
+      ],
+
+      "estimated_capacity": {
+        "value": "500-800",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+
+      "audience_configuration": "Surround",
+
+      "seating_geometry": "Horseshoe",
+
+      "stage_form": "Thrust Stage",
+
+      "auditorium_stage_relationship": "Thrust",
+
+      "spatial_characteristics": {
+        "stage_projects_into_audience": true,
+        "audience_on_three_sides": true,
+        "multiple_balcony_levels": true,
+        "strong_actor_audience_proximity": true
+      },
+
+      "FOH_components": [
+        "Lobby",
+        "Audience Galleries",
+        "Balconies",
+        "Circulation Areas"
+      ],
+
+      "BOH_components": [
+        "Fly Tower",
+        "Backstage",
+        "Technical Support Areas",
+        "Stage Support"
+      ],
+
+      "circulation_strategy": {
+        "audience": "Distributed entry through auditorium perimeter and balcony levels.",
+        "performers": "Backstage access through dedicated support zones behind stage."
+      },
+
+      "acoustic_typology": {
+        "classification": "Drama Theatre",
+        "evidence": "Speech-oriented theatre volume with close audience enclosure."
+      },
+
+      "transformability": {
+        "classification": "Fixed",
+        "evidence": "No retractable seating, operable walls, or variable audience systems visible."
+      },
+
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Single-Venue Theatre",
+
+    "hierarchy": {
+      "main_hall": "T1",
+      "secondary_hall": null,
+      "studio_theatre": null,
+      "experimental_theatre": null
+    },
+
+    "shared_infrastructure": [],
+
+    "operational_relationships": "N/A"
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "affected_venues": [],
+
+    "connection_mechanism": null,
+
+    "confidence_level": "High"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_as_organizational_core": true,
+
+    "volume_in_volume_strategy": false,
+
+    "visibility_of_theatre_volume": "Clearly Expressed",
+
+    "theatre_cluster_organization": "Single-Core",
+
+    "description": "The theatre auditorium and stage house define the primary architectural form and spatial organization of the building."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "Regional Repertory Theatre",
+
+    "programmatic_role": "Drama and Shakespeare Performance Venue",
+
+    "public_space_integration": {
+      "campus_setting": true,
+      "shared_cultural_precinct": true,
+      "public_gathering_function": true
+    },
+
+    "architectural_expression_of_performance": {
+      "audience_enclosure_emphasized": true,
+      "performer_audience_proximity": true,
+      "thrust_stage_identity_visible": true
+    },
+
+    "spectatorship": {
+      "collective_experience": true,
+      "high_intimacy": true,
+      "three_sided_viewing": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_typology": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "audience_configuration": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "stage_form": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "seating_geometry": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "capacity_estimation": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "transformability": {
+      "confidence": "Medium",
+      "evidence_quality": "Direct Evidence"
+    }
+  },
+
+  "knowledge_tags": [
+    "Angus Bowmer Theatre",
+    "Thrust Theatre",
+    "Thrust Stage",
+    "Surround Audience",
+    "Horseshoe Seating",
+    "Drama Theatre",
+    "Shakespeare Theatre",
+    "Three-Sided Audience",
+    "Single Venue",
+    "Fixed Configuration",
+    "Audience Enclosure",
+    "Performer Audience Proximity"
+  ]
+}
