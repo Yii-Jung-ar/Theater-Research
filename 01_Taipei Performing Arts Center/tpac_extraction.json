@@ -1,0 +1,115 @@
+{
+  "project 01": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Taipei Performing Arts Center 台北表演藝術中心",
+        "theater_scale_hierarchy": "國際級/都會型公共文化建築與多功能劇場群",
+        "gross_floor_area": "58,658 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "大劇院 (Grand Theater)（推測）",
+          "seating_capacity": "1500 席（推測）",
+          "stage_type": "Proscenium 鏡框式",
+          "primary_performance_type": "當代歌劇、大型跨領域劇場、當代戲劇（推測）",
+          "key_hardware_&_acoustic_conditions": "與多功能大剧院相連，可與藍盒子（黑盒子）結合成超級大劇場 (Super Theater)，提供不對稱且極具實驗性的超長舞台空間。"
+        },
+        {
+          "hall_name": "球劇場 (Proscenium Playhouse)（推測）",
+          "seating_capacity": "800 席（推測）",
+          "stage_type": "Sphere-in-Box 懸浮圓球式鏡框劇場（推測）",
+          "primary_performance_type": "話劇/舞台劇、現代舞、當代實驗劇場（推測）",
+          "key_hardware_&_acoustic_conditions": "球形懸挑體量嵌入中央核心塊體，觀眾席與鏡框式舞台交界處形成特殊折射聲學與視覺懸浮感，具備多向性劇場視野。"
+        },
+        {
+          "hall_name": "藍盒子 (Blue Box)（推測）",
+          "seating_capacity": "500-800 席（推測）",
+          "stage_type": "Black Box 黑盒子 / 可變式劇場（推測）",
+          "primary_performance_type": "前衛實驗劇場、中小型跨領域藝術、現代舞",
+          "key_hardware_&_acoustic_conditions": "具備高度彈性的可變舞台與觀眾席配置，並能與大劇院完全連通，共享舞台後方與後台服務系統。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲",
+        "country": "台灣",
+        "city": "台北市士林區",
+        "urban_context": "緊鄰士林夜市，兼具高密度都市中心、活躍街頭文化與捷運大眾運輸導向發展 (TOD) 節點的非典型都市紋理。"
+      },
+      "participants_&_operation": {
+        "architect": "OMA (Rem Koolhaas, David Gianotten) ； 在地合作 LDI：姚仁喜 | 大元建築工場",
+        "client": "台北市政府（推測）",
+        "end_user": "藝術表演團體、國內外觀眾、市民與夜市遊客",
+        "consultants": [
+          "劇場及聲學顧問：Inside Outside, Arup（推測）"
+        ],
+        "operator": "台北市文化基金會台北表演藝術中心（推測）"
+      }
+    },
+    "gene_b_design_intentions": {
+      "issue": [
+        "傳統劇場空間標準化（兩廳加一黑盒子）導致的機能封閉性與日常公共生活脫節",
+        "如何在極密集都市基地中整合三個不同規模、機能相異且需維持聲學防護的劇場體量",
+        "如何將日常街頭活力（夜市文化）與精緻表演藝術（劇場空間）進行無縫且具包容性的都市整合"
+      ],
+      "concept": [
+        "將劇場去神聖化，視為「都市常民生活的延伸」與「大眾參與的文化實驗室」",
+        "以「Sphere-in-Box」及三個劇場即插即用（Plugged into a central cube）的幾何拓撲邏輯打破標準劇場形式"
+      ],
+      "strategy": [
+        "中心方塊體量垂直堆疊（Central Cube），將前後台、核心筒及服務性機能集中，使各劇場體量外放凸顯",
+        "將劇場體量抬升，地面層釋放為公共廣場（Site Plaza）與都市前廳，並置入一條貫穿全棟的「參觀回路 (Public Loop)」"
+      ]
+    },
+    "gene_c_form_composition": {
+      "c1_vocabulary": [
+        "Site Plaza",
+        "Main Entrance",
+        "Lobby",
+        "Foyer",
+        "Auditorium",
+        "Stage",
+        "Backstage",
+        "Seating Bowl",
+        "Circular Volume",
+        "Sphere Hall",
+        "Exhibition Space",
+        "Vertical Circulation Core",
+        "Staircase",
+        "Elevator",
+        "Bridge",
+        "Terrace",
+        "Service Space",
+        "Roof Deck",
+        "Structural Frame",
+        "Public Circulation Corridor",
+        "Public Loop",
+        "Central Cube",
+        "Proscenium Stage",
+        "Fly Tower"
+      ],
+      "c2_semantic_relations": [
+        "Central Cube → vertical stack above (Spatial Relation) → Site Plaza",
+        "Circular Volume → embedded within (Conceptual Relation) → Central Cube",
+        "Public Loop → spirals through (Circulation Relation) → Central Cube",
+        "Grand Theater Stage → connects back-to-back with (Functional Relation) → Blue Box Stage",
+        "Public Circulation Corridor → allows visual interaction into (Perceptual Relation) → Backstage",
+        "Structural Frame → supports the cantilevered (Material & Tectonic Relation) → Sphere Hall",
+        "Roof Deck → sits on top of (Spatial Relation) → Central Cube"
+      ]
+    },
+    "gene_d_outcomes_&_reflection": {
+      "user_behavior": [
+        "市民與遊客即使不買票進場，也能透過 Public Loop 穿梭於建築物內部，觀看後台與劇場運作，打破劇場階級感",
+        "三個劇場共享中央前廳系統與後台基礎設施，在多廳同時演出時，產生高密度、活潑的人流交織與都市共感"
+      ],
+      "discourse_&_criticism": [
+        "建築界讚譽其為打破當代標準化劇場桎梏的典範，將「劇場作為都市奇觀」轉化為「建築作為公共景觀」",
+        "因其懸浮球形體量與非傳統的幾何形態，在當地引發顯著的都市地標地緣討論與大眾視覺熱議"
+      ],
+      "tectonic_results": [
+        "成功將劇院機能內部運作「外部化」與「視覺化」，創造出一個專屬台北士林夜市紋理的非典型文化巨構",
+        "透過「超級劇場 (Super Theater)」的實踐，為當代劇場導演與空間策劃者提供了全新尺度的非傳統敘事可能性"
+      ]
+    }
+  }
+}
