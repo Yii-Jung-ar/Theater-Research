@@ -1,0 +1,505 @@
+```json
+{
+  "project_overview": {
+    "project_name": "Rose Theater / Jazz at Lincoln Center",
+    "building_type": "Performance Venue Embedded Within Mixed-Use Urban Building",
+    "primary_spatial_strategy": "Theatre-in-Building",
+    "description": "A major performance venue inserted within a larger tower-podium structure, where theatre volumes, public circulation, and cultural functions are vertically integrated into an urban mixed-use framework."
+  },
+
+  "image_classification": {
+    "P1_architectural_drawings": [
+      "Theatre floor plan",
+      "Performance venue plan",
+      "Building section",
+      "Seating plan",
+      "Sectional elevation",
+      "Theatre complex planning drawings"
+    ],
+    "P2_photographs_renderings": [
+      "Auditorium photographs",
+      "Interior theatre photographs",
+      "Exterior photographs",
+      "Urban context photographs",
+      "Architectural renderings",
+      "Sectional perspective renderings"
+    ],
+    "P3_details_construction_diagrams": [
+      "Seating diagrams",
+      "Auditorium layout diagrams",
+      "Sectional organizational diagrams",
+      "Theatre planning diagrams"
+    ]
+  },
+
+  "P1_architectural_drawings": {
+    "vocabulary_extraction": [
+      "Main auditorium",
+      "Performance stage",
+      "Audience seating bowl",
+      "Balcony seating",
+      "Multiple balcony tiers",
+      "Lobby",
+      "Foyer",
+      "Public circulation corridors",
+      "Vertical circulation cores",
+      "Elevators",
+      "Staircases",
+      "Backstage support spaces",
+      "Technical rooms",
+      "Service circulation",
+      "Loading/service areas",
+      "Building podium",
+      "Tower structure",
+      "Glass facade enclosure",
+      "Structural frame",
+      "Urban entrance plaza",
+      "Performance venue",
+      "Support spaces"
+    ],
+
+    "quantity_estimation": {
+      "theatre_components": {
+        "main_auditorium": 1,
+        "main_stage": 1,
+        "seating_bowl": 1,
+        "balcony_levels": "approximately 4-5",
+        "main_foyer": 1
+      },
+      "building_components": {
+        "major_vertical_circulation_cores": "approximately 2-4",
+        "public_lobby_zones": "approximately 1-2",
+        "technical_service_clusters": "multiple"
+      },
+      "theatre_complex": {
+        "major_performance_venues": "approximately 2"
+      }
+    },
+
+    "spatial_relationship_description": [
+      "Multiple performance venues are embedded within a larger mixed-use building structure.",
+      "The primary theatre occupies a central position and is surrounded by circulation, foyer, and support spaces.",
+      "Public circulation wraps around the theatre volume and connects vertically through multiple levels.",
+      "Theatre spaces appear suspended within a larger tower-podium framework.",
+      "Front-of-house functions are located around the perimeter of the auditorium.",
+      "Back-of-house functions occupy deeper interior zones adjacent to performance spaces.",
+      "Multiple venues are organized around shared circulation infrastructure."
+    ],
+
+    "overall_spatial_logic": "The project employs a theatre-within-building strategy, inserting major performance venues into a mixed-use urban structure. The auditorium acts as the primary organizational volume while circulation, support functions, and surrounding programmatic spaces are layered around it vertically and horizontally."
+  },
+
+  "P2_photographs_renderings": {
+    "design_vocabulary": [
+      "Multi-tier auditorium",
+      "Horseshoe seating arrangement",
+      "Balcony rings",
+      "Acoustic timber lining",
+      "Transparent curtain wall",
+      "Glass-enclosed theatre volume",
+      "Suspended theatre box",
+      "Large-span performance space",
+      "Urban lobby",
+      "Double-height foyer",
+      "Exposed structural trusses",
+      "Cantilevered viewing spaces",
+      "Integrated tower-and-podium composition",
+      "City-facing performance hall",
+      "Illuminated facade"
+    ],
+
+    "atmospheric_description": {
+      "lighting": [
+        "Warm theatrical lighting",
+        "Controlled stage illumination",
+        "Extensive daylight penetration",
+        "Nighttime transparency"
+      ],
+      "materiality": [
+        "Timber auditorium finishes",
+        "Glass curtain walls",
+        "Metal structural components",
+        "Composite interior finishes"
+      ],
+      "texture": [
+        "Warm wood surfaces",
+        "Smooth glazing systems",
+        "Refined acoustic paneling",
+        "Fine-grained theatre detailing"
+      ],
+      "proportion_scale": [
+        "Monumental auditorium volume",
+        "Human-scaled seating tiers",
+        "Large civic interior spaces",
+        "Vertical urban presence"
+      ],
+      "spatial_mood": [
+        "Formal yet intimate",
+        "Acoustically focused",
+        "Urban and transparent",
+        "Sophisticated performance environment"
+      ]
+    },
+
+    "spatial_composition": [
+      "Strong focus on the central stage.",
+      "Concentric balcony organization establishes hierarchy around performance.",
+      "Visual emphasis is directed toward the performance platform.",
+      "Transparency creates visual connections between theatre and city.",
+      "Layering occurs between urban facade, lobby spaces, and auditorium volume.",
+      "The theatre functions as an illuminated object embedded within the building."
+    ],
+
+    "design_intent_reading": {
+      "description": "The project appears to expose cultural activity to the surrounding city through large glazed facades while maintaining an acoustically controlled performance environment.",
+      "key_concepts": [
+        "Theatre as urban spectacle",
+        "Performance visible to the city",
+        "Transparency between culture and public realm",
+        "Vertical cultural infrastructure",
+        "Theatre suspended within architecture",
+        "Civic accessibility",
+        "Acoustic intimacy"
+      ]
+    },
+
+    "contextual_relationship": {
+      "urban_context": [
+        "Embedded within a dense urban district",
+        "Integrated into a larger mixed-use tower complex",
+        "Functions as a cultural anchor"
+      ],
+      "landscape": [
+        "Limited direct landscape integration visible"
+      ],
+      "surrounding_buildings": [
+        "Inserted within a high-rise environment",
+        "Contrasts with surrounding towers through transparency"
+      ],
+      "public_realm": [
+        "Public foyers engage pedestrians",
+        "Transparent facades reveal cultural activity",
+        "Theatre contributes to street-level urban life"
+      ]
+    }
+  },
+
+  "P3_details_construction_diagrams": {
+    "diagram_interpretation": {
+      "seating_diagram": [
+        "Audience seating organization",
+        "End-stage configuration",
+        "Balcony hierarchy and distribution"
+      ],
+      "floor_plan": [
+        "Multiple performance venues",
+        "Adjacency of theatres and support spaces",
+        "Shared circulation systems"
+      ],
+      "section": [
+        "Vertical stacking of theatre functions",
+        "Relationship between auditorium and lobby",
+        "Theatre inserted within larger structure"
+      ],
+      "sectional_rendering": [
+        "Theatre-in-building concept",
+        "Integration of public circulation and performance spaces"
+      ]
+    },
+
+    "text_based_analysis": [
+      "Rose Theater identified as primary venue.",
+      "Seating diagrams confirm frontal audience orientation.",
+      "Sections reveal multiple venue organization.",
+      "Drawings indicate vertical integration with larger building systems."
+    ],
+
+    "system_identification": {
+      "structure": [
+        "Long-span auditorium structure",
+        "Transfer structure",
+        "Tower-and-podium framework",
+        "Large truss systems"
+      ],
+      "acoustics": [
+        "Timber acoustic wall linings",
+        "Reflective balcony surfaces",
+        "Dedicated auditorium acoustic enclosure"
+      ],
+      "circulation": [
+        "Public foyer circulation",
+        "Audience circulation",
+        "Vertical circulation cores",
+        "Service circulation",
+        "Backstage circulation"
+      ],
+      "environmental_systems": [
+        "Large glazed facade system",
+        "Daylighting strategy",
+        "Controlled environmental enclosure"
+      ],
+      "theatre_mechanics": [
+        "End-stage performance configuration",
+        "Technical lighting infrastructure",
+        "Fly-space support systems (partially evident)",
+        "Rigging systems (partially visible)"
+      ],
+      "stage_engineering": [
+        "Permanent stage platform",
+        "Performance support infrastructure",
+        "Technical production systems"
+      ]
+    },
+
+    "design_logic": "The project communicates a design strategy in which a highly specialized performance environment is suspended within a larger urban building. The theatre is acoustically isolated while remaining visually connected to the city through transparency and sectional organization."
+  },
+
+  "theatre_analysis": {
+    "theatre_inventory": [
+      {
+        "theatre_name": "Rose Theater",
+        "location": "Central theatre volume within building complex",
+        "theatre_typology": "Concert Hall / Performance Auditorium",
+        "estimated_capacity": "N/A",
+        "stage_type": "Frontal Performance Stage",
+        "audience_configuration": "End-stage",
+        "seating_geometry": "Horseshoe / Fan-shaped Hybrid",
+        "primary_function": "Music and performance venue",
+        "evidence_source": [
+          "Plan",
+          "Section",
+          "Seating Diagram",
+          "Photograph",
+          "Text Label"
+        ],
+        "confidence_level": "High",
+        "evidence_quality": "Direct Evidence"
+      },
+      {
+        "theatre_name": "Secondary Performance Venue",
+        "location": "Adjacent venue visible in plan",
+        "theatre_typology": "Performance Venue",
+        "estimated_capacity": "N/A",
+        "stage_type": "N/A",
+        "audience_configuration": "N/A",
+        "seating_geometry": "N/A",
+        "primary_function": "Performance Venue",
+        "evidence_source": [
+          "Plan",
+          "Section"
+        ],
+        "confidence_level": "Medium",
+        "evidence_quality": "Strong Inference"
+      }
+    ],
+
+    "total_number_of_theatres": {
+      "classification": "Dual Theatre Complex",
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "theatre_hierarchy": {
+      "rose_theater": "Main Hall",
+      "secondary_venue": "Secondary Hall"
+    },
+
+    "shared_infrastructure": {
+      "shared_foyer": "Likely",
+      "shared_lobby": "Likely",
+      "shared_backstage": "Possible",
+      "shared_loading_dock": "N/A",
+      "shared_dressing_rooms": "N/A",
+      "shared_rehearsal_facilities": "N/A",
+      "shared_technical_facilities": "Possible",
+      "shared_public_circulation": "Likely"
+    },
+
+    "theatre_relationships": {
+      "connected": true,
+      "side_by_side": true,
+      "clustered_around_common_foyer": true,
+      "clustered_around_common_public_space": true,
+      "stacked": false,
+      "mergeable": false,
+      "transformable": false,
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "core_characteristics": {
+      "audience_configuration": {
+        "classification": "End-stage",
+        "evidence": "Audience faces a single performance platform.",
+        "confidence_level": "High",
+        "evidence_quality": "Direct Evidence"
+      },
+
+      "seating_geometry": {
+        "classification": "Horseshoe / Fan-shaped Hybrid",
+        "evidence": "Curved balcony tiers partially wrap around the stage.",
+        "confidence_level": "High",
+        "evidence_quality": "Direct Evidence"
+      },
+
+      "stage_type": {
+        "classification": "Frontal Performance Stage",
+        "closest_category": "Proscenium-like Stage",
+        "confidence_level": "Medium",
+        "evidence_quality": "Strong Inference"
+      },
+
+      "acoustic_typology": {
+        "classification": "Concert Hall Acoustic Environment",
+        "confidence_level": "Medium",
+        "evidence_quality": "Strong Inference"
+      },
+
+      "auditorium_stage_relationship": {
+        "classification": "Frontal",
+        "confidence_level": "High",
+        "evidence_quality": "Direct Evidence"
+      }
+    },
+
+    "FOH": {
+      "identified_spaces": [
+        "Lobby",
+        "Foyer",
+        "Public circulation hall",
+        "Gathering areas"
+      ],
+      "organization": "Public spaces surround the theatre volume and connect directly to city-facing glazed facades.",
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "BOH": {
+      "identified_spaces": [
+        "Technical support spaces",
+        "Service areas",
+        "Backstage support zones"
+      ],
+      "not_confirmed": [
+        "Dressing rooms",
+        "Green rooms",
+        "Workshops",
+        "Rehearsal rooms",
+        "Orchestra facilities"
+      ],
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "circulation_systems": {
+      "audience_circulation": "Clearly visible",
+      "performer_circulation": "N/A",
+      "service_circulation": "Partially visible",
+      "vip_circulation": "N/A",
+      "public_private_hierarchy": "Strong separation between public and support zones",
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "convertible_theatre_systems": {
+      "movable_seating": "N/A",
+      "retractable_seating": "N/A",
+      "adjustable_stage": "N/A",
+      "transformable_auditorium": "N/A",
+      "mergeable_theatres": "N/A",
+      "variable_acoustics": "N/A",
+      "movable_partitions": "N/A",
+      "configurable_audience_layouts": "N/A",
+      "adjustable_performance_environments": "N/A",
+      "confidence_level": "Low",
+      "evidence_quality": "N/A"
+    },
+
+    "theatre_building_relationship": {
+      "classification": "Embedded Theatre Within Larger Building",
+      "description": "The theatre functions as a major programmatic element inserted into a larger tower-podium structure.",
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_volume_architectural_form": {
+      "classification": [
+        "Volume-in-volume strategy",
+        "Inserted theatre",
+        "Expressed interior volume"
+      ],
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "visibility_of_theatre_volume": {
+      "classification": "Partially Expressed",
+      "description": "Visible through glazed facades but not fully exposed in the building massing.",
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "theatre_cluster_organization": {
+      "classification": "Dual Theatre Complex",
+      "hierarchy": {
+        "main_hall": "Rose Theater",
+        "secondary_hall": "Secondary Venue"
+      },
+      "shared_infrastructure": [
+        "Shared foyer",
+        "Shared lobby",
+        "Shared circulation"
+      ],
+      "organization_strategy": "Vertically integrated cultural cluster within a larger urban building.",
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "cultural_programmatic_role": {
+      "classification": [
+        "Urban cultural institution",
+        "Civic performance venue",
+        "Public cultural destination"
+      ],
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "key_architectural_concepts": {
+      "identified_concepts": [
+        "Transparency",
+        "Urban engagement",
+        "Acoustic optimization",
+        "Cultural visibility",
+        "Theatre within architecture"
+      ],
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "public_space_integration": {
+      "identified_elements": [
+        "Urban foyer",
+        "Public lobby",
+        "Civic gathering space"
+      ],
+      "relationship_to_city": "Transparent facades visually connect cultural activity to the urban realm.",
+      "relationship_to_civic_space": "Public gathering spaces are integral to theatre access.",
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "architectural_expression_of_performance": {
+      "identified_themes": [
+        "Performance as urban event",
+        "Visibility of spectatorship",
+        "Theatre as civic spectacle",
+        "Audience-focused organization"
+      ],
+      "description": "Performance is expressed through transparent public interfaces that reveal cultural activity to the city.",
+      "confidence_level": "High",
+      "evidence_quality": "Strong Inference"
+    }
+  }
+}
+```
