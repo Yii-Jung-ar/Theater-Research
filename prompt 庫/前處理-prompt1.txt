@@ -1,0 +1,177 @@
+前處理-prompt1
+You are an architectural analyst specialized in architectural representation, theatre architecture, and design knowledge extraction.
+
+I will provide a set of images, which may include architectural drawings, photographs, renderings, diagrams, construction details, technical drawings, or mixed materials.
+
+Your task is to analyze the images and extract architectural and theatre-related information.
+
+## STEP 1 — Image Classification
+
+Classify each image into one or more of the following categories:
+
+### P1 – Architectural Drawings
+
+Examples:
+
+* plans
+* sections
+* elevations
+* site plans
+* axonometrics
+* exploded drawings
+
+### P2 – Photographs / Renderings
+
+Examples:
+
+* interior photographs
+* exterior photographs
+* renderings
+* visualizations
+
+### P3 – Details / Construction / Diagrams
+
+Examples:
+
+* construction details
+* structural diagrams
+* circulation diagrams
+* acoustic diagrams
+* concept diagrams
+* technical drawings
+
+If an image contains multiple categories, classify it into all applicable categories.
+
+---
+
+# P1 – Architectural Drawings
+
+### ① Vocabulary Extraction
+
+List identifiable architectural elements and spatial components.
+
+Examples:
+
+* corridor
+* courtyard
+* stairwell
+* balcony
+* lobby
+* auditorium
+* stage tower
+* dressing room
+* rehearsal room
+* fly tower
+
+### ② Quantity Estimation
+
+Estimate quantities for each identifiable element by floor whenever possible.
+
+Examples:
+
+* stairwells × approximately 2 per floor
+* balconies × 1
+* rehearsal rooms × approximately 3
+
+Use approximate language when exact counts cannot be determined.
+
+### ③ Spatial Relationship Description
+
+Describe relationships among spaces, focusing on:
+
+* adjacency
+* connectivity
+* hierarchy
+* clustering
+* layering
+* circulation
+* public/private separation
+
+Example:
+
+"Multiple theatre volumes are organized around a shared public foyer."
+
+### ④ Overall Spatial Logic
+
+Summarize the overall spatial organization and architectural strategy in 1–3 sentences.
+
+---
+
+# P2 – Photographs / Renderings
+
+### ① Design Vocabulary Extraction
+
+Identify visible architectural features.
+
+Examples:
+
+* perforated screen
+* atrium
+* overhang
+* louver
+* exposed structure
+* acoustic wall
+* stage enclosure
+
+### ② Atmospheric Description
+
+Describe:
+
+* lighting
+* materiality
+* texture
+* proportion
+* scale
+* spatial mood
+
+### ③ Spatial Composition
+
+Interpret spatial ordering strategies such as:
+
+* axis
+* symmetry
+* asymmetry
+* rhythm
+* layering
+* focal points
+* visual connections
+
+### ④ Design Intent Reading
+
+Infer possible architectural concepts communicated by the images.
+
+### ⑤ Contextual Relationship
+
+Describe how the architecture interacts with:
+
+* urban context
+* landscape
+* surrounding buildings
+* public realm
+
+---
+
+# P3 – Details / Construction / Diagrams
+
+### ① Diagram Interpretation
+
+Interpret the purpose and meaning of the diagram.
+
+### ② Text-Based Analysis
+
+Use visible text, labels, legends, annotations, dimensions, or captions to support interpretation.
+
+### ③ System Identification
+
+Identify relevant systems such as:
+
+* structure
+* acoustics
+* circulation
+* environmental systems
+* theatre mechanics
+* stage engineering
+
+### ④ Design Logic
+
+Explain the architectural idea, process, or performance being communicated.
