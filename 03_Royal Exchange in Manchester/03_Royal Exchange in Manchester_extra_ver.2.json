@@ -1,0 +1,221 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Royal Exchange Theatre, Manchester",
+        "theater_scale_hierarchy": "地方綜合型（推測）",
+        "gross_floor_area": "未知"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Theatre Module (Royal Exchange Theatre)",
+          "seating_capacity": "700 席",
+          "stage_type": "Arena 圓形/環抱式",
+          "primary_performance_type": "話劇/舞台劇 Drama, 當代劇場 Contemporary Theatre, 現場表演 Live Performance",
+          "key_hardware_&_acoustic_conditions": "七聲道開放式舞台（無傳統 Proscenium 與上下台區）、上空設有懸吊布景空間、採用鋼浪板屋頂與強化玻璃包裹以提供獨立的物理聲學防護實體。"
+        },
+        {
+          "hall_name": "Studio Space",
+          "seating_capacity": "120 席",
+          "stage_type": "Black Box 黑盒子（推測）",
+          "primary_performance_type": "實驗性跨領域劇場 Experimental Art、新劇作測試",
+          "key_hardware_&_acoustic_conditions": "設置於老建築大廳內，提供彈性靈活的演出與實驗邊界，具備獨立的基礎聲學遮蔽。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲（推測）",
+        "country": "英國（推測）",
+        "city": "曼徹斯特 (Manchester)",
+        "urban_context": "高密度都市中心"
+      },
+      "participants_&_operation": {
+        "architect": "Levitt Bernstein (與概念設計師 Richard Negri)",
+        "client": "Royal Exchange Theatre Company",
+        "end_user": "目標觀眾、劇團演職人員與一般市民",
+        "consultants": [
+          "Ove Arup & Partners (結構與消防安全工程)",
+          "Mahon & Scears (工程造價)",
+          "Monk and Dunstone (工程造價)",
+          "Max Fordham and Partners (機電設備)",
+          "Theatre Projects (劇場顧問)",
+          "D. K. Jones (聲學顧問)",
+          "Ian Gibson (音響顧問)"
+        ],
+        "operator": "Royal Exchange Theatre Company"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "在古蹟棉花交易所大廳脆弱的結構樓板上置入新型永久劇院",
+          "architectural_metaphor_concept": "太空登月艙",
+          "tectonic_strategy": "採用輕量化七面體鋼骨桁架結構，跨接懸吊於大廳既有四根磚製巨柱"
+        },
+        {
+          "target_issue": "打破傳統劇場鏡框式框架，建立高親密性的觀演關係與公共經驗",
+          "architectural_metaphor_concept": "向心 concentric",
+          "tectonic_strategy": "設計中心舞台與環抱式階梯座席，使任一觀眾與舞台中心距離皆小於10米"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "central stage",
+          "seating bowl",
+          "layered audience galleries",
+          "technical platforms",
+          "catwalk system",
+          "steel decking",
+          "toughened glass"
+        ],
+        "front_of_house_foh": [
+          "Historic Exchange Hall",
+          "grand foyer",
+          "lobby",
+          "circulation ring",
+          "access bridges",
+          "audience entrances",
+          "cafe",
+          "restaurant",
+          "ticket offices",
+          "glass walkway",
+          "public plaza (推測)"
+        ],
+        "back_of_house_boh": [
+          "backstage support areas",
+          "dressing rooms",
+          "rehearsal rooms",
+          "offices",
+          "service areas",
+          "loading dock (推測)"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Main Theatre Module → encased by (Spatial_Massing_&_Conceptual_Relation) → Historic Exchange Hall",
+          "Main Theatre Module → suspended from (Spatial_Massing_&_Conceptual_Relation) → Four Brick Piers"
+        ],
+        "meso_level": [
+          "Dressing Rooms → incorporated within (Circulation_BOH) → Historic Exchange Hall",
+          "Audience Entrances → distributed access from (Circulation_FOH) → Access Bridges",
+          "Main Theatre Module → visually detached from (Spatial_Massing_&_Conceptual_Relation) → Historic Exchange Hall",
+          "Main Theatre Module → provides a separate acoustic entity from (Acoustic_Buffer) → Historic Exchange Hall",
+          "Cafe → shared space with (Circulation_FOH) → Public Gathering Space"
+        ],
+        "micro_level": [
+          "Steel mesh panels → enclose the structure of (Interface_Tectonic) → Main Theatre Module",
+          "Toughened glass → clad the exterior of (Interface_Tectonic) → Main Theatre Module",
+          "Steel decking → roof the top of (Interface_Tectonic) → Main Theatre Module",
+          "Timber Seating → line the interior of (Interface_Tectonic) → Layered Audience Galleries",
+          "Four trusses → form the principal walls of (Interface_Tectonic) → Main Theatre Module"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Volume_in_volume",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Adaptive_Reuse",
+          "Suspended_Volume",
+          "Theatre_in_the_Round"
+        ],
+        "typology_diagram_note": "劇院核心自主懸吊於大廳中央圓頂下，前台大廳與後勤輔助功能完全散布於既有古蹟外殼邊緣"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Transparent_Monolithic_Shell",
+          "Industrial_Exposed_Framework"
+        ],
+        "material_taxonomy": [
+          "Toughened_Glass",
+          "Steel_Mesh_Panels",
+          "Steel_Decking"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "由四根既有磚柱支撐之30x21米主鋼桁架為結構核心，副結構採輕量鋼構，表皮以玻璃與金屬網掛接脫開"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Multi_Level_Sculptural_Foyer",
+            "Fluid_Horizontal_Concourse"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Historic_Masonry",
+            "Exposed_Infrastructure",
+            "Industrial_Expression"
+          ],
+          "experience_note": "置身於宏偉的愛德華時期三圓頂老交易大廳內，感受歷史石材與現代鋼骨登月艙體之間的強烈新舊對比"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Access_Bridges",
+            "Circulation_Ring"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Toughened_Glass"
+          ],
+          "experience_note": "穿過架空的玻璃與金屬空橋，完成從宏偉開放的公共大廳到高密封度、受控微氣候劇場體量的心理尺度壓縮"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Main Theatre Module",
+            "seating_bowl_geometry_language": [
+              "Terraced_Circular_Hybrid",
+              "Symmetrical_Horseshoe_Tiering"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Industrial_Expression"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Traditional_Orthogonal_Reflector"
+            ],
+            "acoustic_material_integration": "奇數七面體幾何打散對面觀眾視線，懸吊式環狀木質座席兼具結構與反射，與外部鋼甲形成一體化聲學腔"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Maximal_Urban_Void",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "利用巨型古蹟外殼與新內部盒子之間的超大空腔作為市民集會、咖啡與演職人員共享的室內城市廣場"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在巨大的舊交易大廳、咖啡廳及餐廳等公共空間內集會、漫步並與劇場發生日常交織"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "經由懸空橋樑進入七面體座席，在無傳統主次之分的環抱舞台周邊體驗小於10米的極高親密感"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在與大廳共享的化妝間與公共空間活動，在演出時透過專屬動線進入可變環形舞台中心演出"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "其大膽的現代太空艙科技美學與古典愛德華交易所產生極具戲劇性的強烈歷史對比，獲得大眾高度喜愛與多項建築獎"
+        },
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "成功在四面漏風且空曠的古蹟大廳中，藉由雙層玻璃與獨立屋頂構造創造出完全隔離、不受干擾的精準話劇聲學環境"
+        }
+      ]
+    }
+  }
+}

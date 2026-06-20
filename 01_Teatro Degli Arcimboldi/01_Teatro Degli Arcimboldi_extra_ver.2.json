@@ -1,0 +1,225 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Teatro Degli Arcimboldi (TAM)",
+        "theater_scale_hierarchy": "國家/地方綜合型劇院（最初作為米蘭斯卡拉歌劇院修復期間的臨時替代場地，後轉型為具備自主營運能力的綜合性文化地標）",
+        "gross_floor_area": "18,400 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (主廳)",
+          "seating_capacity": "2,346 席（另有記載 2,375 席）",
+          "stage_type": "Proscenium 鏡框式",
+          "primary_performance_type": "歌劇 Opera、交響樂 Symphony、芭蕾舞 Ballet、爵士樂 Jazz、流行音樂 Pop",
+          "key_hardware_&_acoustic_conditions": "全義大利最大的主舞台（50 x 40 米），配備高度達 30 米的舞台塔與 16 x 12 米的台口，設有大型下沉式樂池；觀眾席內部採用雙層板位與兩層懸挑歌座。天花板採用石膏開模與特殊擴散几何設計，牆面裝配可調式凹面聲學反射板（deflettori acustici），整體空間被塑造為適應各類音樂形式的巨大「話筒/鳴響箱（cassa armonica）」。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "義大利",
+        "city": "米蘭",
+        "urban_context": "位於米蘭北部邊緣的 Bicocca（比可卡）前工業重劃區，緊鄰前倍耐力（Pirelli）輪胎工廠，屬於高密度城市邊緣的大型文化與大學園區節點。"
+      },
+      "participants_&_operation": {
+        "architect": "Vittorio Gregotti (Gregotti Associati International) 主導，協同 Mario Botta 與 Elisabetta Fabbri；都市規劃階段包含 Augusto Cagnardi, Pier Luigi Cerri, Carlo Magnani, Michele Reginaldi",
+        "client": "米蘭市政府（Comune di Milano）與倍耐力地產（Pirelli Real Estate）聯合開發",
+        "end_user": "米蘭斯卡拉歌劇院駐團（2002-2004暫駐）、一般市民、演職人員及各類國際表演藝術團隊",
+        "consultants": [
+          "BCV Progetti (結構顧問)",
+          "Castiglioni (照明設計顧問)",
+          "未知 (劇場顧問)（推測）",
+          "未知 (聲學顧問)（推測）"
+        ],
+        "operator": "米蘭市政府（公共地方當局）與 TAM 營運團隊"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "斯卡拉劇院修復期之超大歌劇機能平移與工業棕地催化",
+          "architectural_metaphor_concept": "城市巨型擴音器",
+          "tectonic_strategy": "依據經典歌劇尺度將前台、觀眾席與舞台塔拆解為三大純粹體量。"
+        },
+        {
+          "target_issue": "偏遠非都市中心基地的市民認同感建立與大容量人流疏導",
+          "architectural_metaphor_concept": "幾何對話之窗",
+          "tectonic_strategy": "在正方廣場中置入大尺度傾斜玻璃帷幕與懸挑雨庇，模糊室內外邊界。"
+        },
+        {
+          "target_issue": "當代大型空間骨架下全頻率聲學反射與可變樂音適應性",
+          "architectural_metaphor_concept": "立體木製琴箱",
+          "tectonic_strategy": "以高溫紅木質面板包裹曲面看台，於挑空側壁裝配參數化凹面反射板。"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "proscenium stage",
+          "fly tower",
+          "orchestra pit",
+          "acoustic panels",
+          "seating bowl",
+          "stalls seating level",
+          "balcony tiers",
+          "deflettori acustici",
+          "plaster molded ceiling",
+          "side stage zones"
+        ],
+        "front_of_house_foh": [
+          "grand foyer",
+          "ticketing box",
+          "entrance hall",
+          "main entrance plaza",
+          "exterior forecourt",
+          "bookshop",
+          "cloakroom",
+          "cafe",
+          "helical staircase",
+          "sunken garden"
+        ],
+        "back_of_house_boh": [
+          "backstage circulation",
+          "stage support spaces",
+          "technical support spaces",
+          "scenery workshop",
+          "dance rehearsal hall",
+          "choir rehearsal room",
+          "loading dock"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Main Auditorium Box → centrally embedded within (Spatial_Massing_&_Conceptual_Relation) → Scaffolding Compact Envelope",
+          "Stage Tower Volume → vertically protrudes from (Spatial_Massing_&_Conceptual_Relation) → Main Theater Massing",
+          "Sloped Glass Curtain Wall → intercepts front boundary of (Spatial_Massing_&_Conceptual_Relation) → Urban Forecourt Plaza"
+        ],
+        "meso_level": [
+          "Public Foyer Hall → physically buffers entrance from (Acoustic_Buffer) → Main Auditorium Seating Bowl",
+          "BOH Stage Support Zones → directly layout behind (Circulation_BOH) → Proscenium Stage House",
+          "Tiered Balconies → horizontally cantilever above and overlook (Circulation_FOH) → Entrance Grand Foyer",
+          "Helical Staircase → vertically conducts general public down to (Circulation_FOH) → Sunken Garden Restaurant",
+          "Dedicated Backstage Corridors → strictly segregated from (Acoustic_Buffer) → FOH Public Circulation"
+        ],
+        "micro_level": [
+          "Concave Acoustic Panels → adjustably wall-mount onto (Interface_Tectonic) → Curved Wooden Balconies",
+          "Crown of Dichroic Lamps → circumferentially integrate around (Interface_Tectonic) → Structural Steel Columns",
+          "Molded Plaster System → forms finishing ceiling of (Interface_Tectonic) → Auditorium Enclosure",
+          "Monumental Entrance Canopy → cantilevers from the central beam of (Interface_Tectonic) → Sloped Glass Wall"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Brownfield_Regeneration",
+          "Traditional_Opera_Layout_Informed",
+          "Civic_Forecourt_Anchor"
+        ],
+        "typology_diagram_note": "三大體量沿軸線水平演進，前台以玻璃斜牆對外開放，主廳居中，巨型舞台與後勤居後，形成理性的機能帶狀分割。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Sloped_Glass_Curtain_Wall",
+          "Opaque_Monolithic_Plaster_Shell"
+        ],
+        "material_taxonomy": [
+          "Curtain-wall_Glass",
+          "Structural_Steel",
+          "White_Plaster",
+          "Black_Granite_Base"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "主體採鋼筋混凝土與鋼結構梁柱系統，前台大廳以獨立鋼柱支撐超大傾斜玻璃帷幕與鋼構懸挑雨庇。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Vertically_Chambered_Atrium",
+            "Multi_Level_Sculptural_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Exposed_Steel_Pillars",
+            "Dichroic_Mirror_Reflections",
+            "High_Transparency_Glazing"
+          ],
+          "experience_note": "通高玻璃牆傾斜而下，12盞雙色鹵素燈環繞鋼柱，將外部廣場面層光影與大廳垂直看台轉化為立體流線景觀。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Acoustic_Isolation_Buffer"
+          ],
+          "experience_note": "大廳經由厚重的雙層懸挑看台下方通道進入觀眾席，藉由尺度強烈壓縮完成光線屏蔽與心理聲學轉折。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Main Auditorium (主廳)",
+            "seating_bowl_geometry_language": [
+              "Continuous_Asymmetric_Folded_Plane",
+              "Symmetrical_Horseshoe_Tiering"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Crimson_Wooden_Panels",
+              "Warm_Halogen_Glow",
+              "Molded_White_Plaster"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "紅木壁面整合可調式凹面聲學反彈板，吊掛中央的半圓形分段夾層玻璃吊燈兼具漫射光源與聲學障板效能。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Honesty_表裡如一",
+        "interstitial_volume_ratio_tag": "Moderate_Cavity",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "外部簡潔形體直接體現前台大廳、池座/看台與後台舞台塔三大功能區段，皮肉之間僅保留必要的流線空腔。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在寬闊的雙層板位與懸挑看台間回遊，並透過全高玻璃幕牆對外進行視覺展演。"
+        },
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在硬質鋪面廣場與下沉花園餐廳聚集，使該劇院成為棕地轉型後的當代藝術核心節點。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在全義最大的舞台、7樓等大舞廳及地下超大隔音排練室內進行多劇目同步排練。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Urban_Context",
+          "public_polarity": "Positive_正評",
+          "summary_note": "精準回應工業遺址語境，將邊緣棕地成功活化為米蘭北部跨越300萬人口輻射圈的當代都市藝術新核心。"
+        },
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "其聲學環境與空間幾何完美對位斯卡拉標準，被讚譽為可適應全類型音樂的高品質通用聲音載體。"
+        },
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "極簡與理性的幾何塊體疊合，在當時後現代主義盛行的背景下引發了關於過度冷峻、缺乏裝飾的學術爭論。"
+        }
+      ]
+    }
+  }
+}

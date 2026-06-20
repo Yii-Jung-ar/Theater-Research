@@ -1,0 +1,236 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Elbphilharmonie Hamburg",
+        "theater_scale_hierarchy": "國家級/國際音樂地標複合體 (International Music Landmark)",
+        "gross_floor_area": "125,512 sqm"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Concert Hall (Grand Hall)",
+          "seating_capacity": "2,100 席",
+          "stage_type": "Vineyard 葡萄園式",
+          "primary_performance_type": "Symphonic Music 交響樂、Orchestral Performance 管弦樂、Large Scale Concert Events 大型音樂會",
+          "key_hardware_&_acoustic_conditions": "採用與 Yasuhisa Toyota 合作研發之「White Skin」由 10,000 片石膏纖維板精準銑製的特殊吸音與擴散皮層，配備中央懸吊兼具照明與音響控制功能之大型聲音反射板 (Acoustic Reflector/Chandelier)，並客製化置入 Klais 4,765 根管風琴。"
+        },
+        {
+          "hall_name": "Chamber Music Hall (Recital Hall)",
+          "seating_capacity": "550 席",
+          "stage_type": "End-stage 伸展式 (Frontal 前端舞台)",
+          "primary_performance_type": "Chamber Music 室內樂、Recitals 獨奏、Small Ensemble Performance 小型合奏",
+          "key_hardware_&_acoustic_conditions": "配備固定式音樂演奏台 (Concert Platform)，室內界面全面鋪設波浪形木質面料面板 (Wave-shaped wooden panelling) 以確保最佳室內樂物理聲學反射特性。"
+        },
+        {
+          "hall_name": "Kaistudios (Kaistudio 1)",
+          "seating_capacity": "150 席",
+          "stage_type": "Flexible 彈性黑盒子/多功能工作室",
+          "primary_performance_type": "Experimental Performance 實驗性表演、Education 音樂教育、Small Scale Events 小型活動",
+          "key_hardware_&_acoustic_conditions": "具備高度可變性 (Variable) 與彈性配置之舞台及座席幾何，作為音樂教育區域核心（包含7間不同形式房間）。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲 (Europe)",
+        "country": "德國 (Germany)",
+        "city": "漢堡 (Hamburg)",
+        "urban_context": "濱水重劃區 (漢堡新興港口城 HafenCity 西端，鄰近世界遺產倉庫城)"
+      },
+      "participants_&_operation": {
+        "architect": "Herzog & de Meuron (主導瑞士建築師事務所) 及 ARGE Generalplaner Elbphilharmonie 在地合作團隊",
+        "client": "Freie und Hansestadt Hamburg (漢堡自由漢薩市政府)",
+        "end_user": "漢堡市民、國際音樂愛好者、目標觀眾、特定駐團與觀光客",
+        "consultants": [
+          "Acoustic Consulting: Nagata Acoustics Inc. (永田音響設計 / 豐田泰久)",
+          "Scenography Consulting: Ducks Sceno, ARGE Planung Elbphilharmonie",
+          "Structural Engineering: Schnetzer Puskas International AG, Jäger Ingenieure, Hochtief Solutions AG",
+          "Facade Engineering: R & R Fuchs"
+        ],
+        "operator": "SPIE GmbH (實際設施維護管理單位) / 漢堡官方文化營運單位（推測）"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "如何將新型音樂中心轉化為市民、遊客皆能共享的真正公共場所",
+          "architectural_metaphor_concept": "城市微縮地形疊加",
+          "tectonic_strategy": "在歷史倉庫與新音樂廳間置入高達37米、環繞全景的公共開放廣場疊加層"
+        },
+        {
+          "target_issue": "承接港口碼頭歷史紋理並注入高能動性的當代文化垂直地標",
+          "architectural_metaphor_concept": "結晶浪潮發光體",
+          "tectonic_strategy": "於紅磚基地上依原基礎平面向上外擴加蓋波浪屋頂、全面包覆3D曲線玻璃皮層"
+        },
+        {
+          "target_issue": "顛覆漢堡既有傳統鞋盒式廳堂，拉近極致的樂迷與演奏家距離",
+          "architectural_metaphor_concept": "垂直體育場環抱",
+          "tectonic_strategy": "採用葡萄園幾何使觀眾席呈陡峭階梯狀垂直包裹舞台，最大觀演距離控制在30米內"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "central concert platform",
+          "white skin acoustic panels",
+          "acoustic reflector chandelier",
+          "klais pipe organ",
+          "terraced seating bowl",
+          "control room"
+        ],
+        "front_of_house_foh": [
+          "main entrance",
+          "public plaza",
+          "foyer",
+          "promenade ramp",
+          "long curved escalator system (the tube)",
+          "panorama terrace lookouts",
+          "restaurant",
+          "bars",
+          "ticketing box"
+        ],
+        "backstage_of_house_boh": [
+          "backstage support",
+          "conductor room",
+          "soloist rooms",
+          "tuning room",
+          "artistic director office",
+          "loading and service facilities",
+          "technical rooms"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Glass Crown → encased by (Spatial_Massing_&_Conceptual_Relation) → Undulating Glass Skin",
+          "Major Auditorium Volumes → inserted within (Spatial_Massing_&_Conceptual_Relation) → Mixed-Use Building Envelope",
+          "Glass Superstructure → stacked vertically on top of (Spatial_Massing_&_Conceptual_Relation) → Brick Kaispeicher Base"
+        ],
+        "meso_level": [
+          "Public Plaza → acts as a transitional hinge separating (Acoustic_Buffer) → Glass Concert Hall Volume and Brick Warehouse Base",
+          "Elevated Plaza and Foyer System → provides direct circulation access to (Circulation_FOH) → Main Concert Hall",
+          "Backstage Support Zone → strictly segregated and insulated from (Acoustic_Buffer) → FOH Public Foyers",
+          "Long Curved Escalator System (The Tube) → penetrates straight through (Circulation_FOH) → Brick Kaispeicher Infrastructure",
+          "Loading and Service Facilities → coordinates internal heavy deliveries directly with (Circulation_BOH) → Backstage Support"
+        ],
+        "micro_level": [
+          "10,000 Individually Shaped Gypsum Fibre Panels → line the interior of (Interface_Tectonic) → Seating Bowl",
+          "Acoustic Reflector Chandelier → suspended from the ceiling dome above (Interface_Tectonic) → Central Concert Platform",
+          "4,765 Organ Pipes → integrated dynamically into and behind (Interface_Tectonic) → Audience Seats",
+          "Wave-shaped Wooden Panelling → clad along the walls of (Interface_Tectonic) → Chamber Music Hall"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Vertical_Stacking",
+        "boh_foh_segregation_topology_primary_type": "Vertical_Zoning_Separation",
+        "typological_supplementary_tags": [
+          "Volume_in_volume",
+          "Waterfront_Landmark",
+          "Mixed_Use_Cultural_Complex",
+          "Elevated_Public_Plaza"
+        ],
+        "typology_diagram_note": "歷史基座、公共廣場、核心劇院與複合機能呈垂直體量堆疊，劇院作核心盒子置入巨大玻璃殼體內。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Undulating_Glass_Curtain_Wall",
+          "Opaque_Monolithic_Brick_Base",
+          "Tent_Like_Fifth_Facade"
+        ],
+        "material_taxonomy": [
+          "Curved_Cambered_Glass_Panels",
+          "Red_Brick",
+          "Roof_Insulation_Membrane_With_Sequins",
+          "Milled_Gypsum_Fibre_Panels"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "上部巨大音樂廳鋼結構與外層獨立鋼構架玻璃殼體脫開掛接，下部則強化舊有紅磚倉庫地基以承載兩萬噸新載重。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Multi_Level_Sculptural_Foyer",
+            "Vertically_Chambered_Atrium"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Exposed_Infrastructure",
+            "Raw_Concrete",
+            "Glittering_Glass_Chips"
+          ],
+          "experience_note": "透過長達80米漫長、微彎且兩側嵌滿閃爍玻璃碎片的管狀電扶梯，進行緩慢光影導引、尺度壓縮與漫步前奏。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Deep_Vertical_Openings"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Acoustic_Detachment_Zone"
+          ],
+          "experience_note": "由大廳穿越拱形或深邃的垂直剖切過渡孔洞與聲學閘門，歷經空間急遽壓縮與心理沉澱才進入神聖觀演界域。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Main Concert Hall",
+            "seating_bowl_geometry_language": [
+              "Terraced_Vineyard_Podiums",
+              "Continuous_Asymmetric_Folded_Plane"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "White_Skin_Textured_Surfaces"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "一萬片參數化精密銑製的特殊紋理面板，完美包裹觀眾席並精準散射物理聲學波動。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Maximal_Urban_Void",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "玻璃外殼與內部核心劇場完全脫開，最大化釋放雙層皮層間夾縫，置入錯落有致的公共漫步與視線孔洞。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民 / Tourist_觀光客",
+          "spatial_behavior_action": "在高度37米的開放式公共廣場與全景觀景台聚集，進行日常漫步、社交與眺望港口城市風光。"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "經長型電扶梯「前奏」儀式緩步上升至大廳，在完全被樂迷包裹的葡萄園劇場內體驗沉浸式音樂會。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在中央核心舞台演奏，與極近距離（30米內）的環繞式陡峭觀眾席進行高密度的感官互動。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Budget_Overrun / Construction_Delay (推測)",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "雖然落成後成為享譽國際的漢堡新地標，但極高的建造難度與漫長的工期在過程中引發極大社會輿論（推測）。"
+        },
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "永田音響與建築師客製打造的白襯皮與反射板，獲得國際樂界對精準且優異聲學品質的一致好評。"
+        },
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "巨大的結晶體巨浪外觀完美回應天光與水色，被公認為當代最成功且具代表性的文化地標建築之一。"
+        }
+      ]
+    }
+  }
+}

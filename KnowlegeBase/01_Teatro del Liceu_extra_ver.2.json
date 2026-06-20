@@ -1,0 +1,219 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Gran Teatre del Liceu (Teatro del Liceu)",
+        "theater_scale_hierarchy": "國家級 / 國際著名歌劇院 (Major civic cultural venue / One of the most famous opera houses in Europe)",
+        "gross_floor_area": "36,341 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "大劇院 (Main Auditorium)",
+          "seating_capacity": "2,320 席",
+          "stage_type": "Proscenium 鏡框式",
+          "primary_performance_type": "歌劇 Opera、芭蕾舞/舞蹈 Ballet/Dance、音樂會 Concert",
+          "key_hardware_&_acoustic_conditions": "具備現代化十字形歌劇舞台、飛塔 (Fly Tower)、可變式下沉樂池 (Orchestra Pit)、地下23米至40米深度之自動化機械舞台與精密電腦控制平台系統、主動式水幕防火隔離技術、4層至5層馬蹄形包廂看台，具備傳統義大利式歌劇院高度壓縮且高反響的優異物理聲學條件"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "西班牙",
+        "city": "巴塞隆納 (Barcelona)",
+        "urban_context": "高密度都市中心 (蘭布拉大道 La Rambla 歷史街區夾地，緊鄰都市歷史正面紋理)"
+      },
+      "participants_&_operation": {
+        "architect": "Lluís Dilmé, Xavier Fabré, Ignasi de Solà-Morales (1990-1998 重建與擴建主導); Miquel Garriga i Roca, Josep Oriol Mestres (1847 歷史原創與 1862 重建)",
+        "client": "Consorci del Gran Teatre del Liceu (格蘭劇院財團法人 / 公共行政聯合會)",
+        "end_user": "目標觀眾、歌劇與芭蕾舞駐團、全體市民",
+        "consultants": [
+          "TEST JG Consultoría (設備工程與維護顧問)",
+          "Pirelli Cables y Sistemas (電力傳導與電纜技術顧問)",
+          "UNITEK (自動化控制系統顧問)",
+          "AGECONTROL (綜合布線系統顧問)"
+        ],
+        "operator": "Fundació del Gran Teatre del Liceu (格蘭特 Liceu 基金會)"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "火災後高密度歷史街區夾地內，劇院技術升級與基地規模極大限制",
+          "architectural_metaphor_concept": "創新與記憶的張力辯證",
+          "tectonic_strategy": "保留殘存歷史前台，以十字形現代化舞台體量整合並向後方及地下大幅擴充"
+        },
+        {
+          "target_issue": "歷史歌劇院原樣原址修復，與當代物理聲學、重型機電設備的整合",
+          "architectural_metaphor_concept": "歷史表皮的科技義肢",
+          "tectonic_strategy": "精準複製歷史馬蹄形觀眾席，並在夾縫及地下置入防火主動水幕與智慧機電微調網絡"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "main auditorium",
+          "proscenium stage",
+          "orchestra pit",
+          "fly tower",
+          "stage house",
+          "backstage area",
+          "side stage zones",
+          "under-stage machinery zone",
+          "rigging loft",
+          "technical galleries",
+          "catwalks",
+          "active fire curtain"
+        ],
+        "front_of_house_foh": [
+          "grand foyer",
+          "entrance hall",
+          "public foyer",
+          "circulation corridors",
+          "staircases",
+          "vertical circulation cores",
+          "historical lobby",
+          "saló de fumar",
+          "ticketing box"
+        ],
+        "back_of_house_boh": [
+          "backstage dressing room",
+          "loading dock",
+          "rehearsal hall",
+          "scenery workshop",
+          "green room",
+          "administrative rooms",
+          "mechanical spaces",
+          "electrical plant rooms"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Stage House Box → encased by (Spatial_Massing_&_Conceptual_Relation) → Unified Roof Volume",
+          "Historical Neo-Classical Façade → screens (Spatial_Massing_&_Conceptual_Relation) → High-Density Urban Block Core",
+          "New Stage Cross Volume → projects into (Spatial_Massing_&_Conceptual_Relation) → Expanded Backstage Footprint"
+        ],
+        "meso_level": [
+          "FOH Public Lobby → distributed vertically via (Circulation_FOH) → Multiple Balcony Levels",
+          "Entrance Hall Greek Vestibule → guides audience into (Circulation_FOH) → Monumental Marble Staircase",
+          "BOH Backstage Dressing Rooms → strictly segregated from (Acoustic_Buffer) → FOH Public Lobby",
+          "Under-Stage Service Levels → interconnected with (Circulation_BOH) → Technical Stage Machinery Zone",
+          "New Underground Foyer → acts as microclimate transition to (Circulation_FOH) → Stalls Seating"
+        ],
+        "micro_level": [
+          "Active Fire Curtain → isolates stage from (Interface_Tectonic) → Auditorium Seating Bowl",
+          "Stacked Balcony Tiers → articulate the boundary of (Interface_Tectonic) → Horseshoe Seating Bowl",
+          "Acoustic Timber and Plaster Panels → line the interior of (Interface_Tectonic) → Main Auditorium",
+          "Automated Rigging Systems → suspended within (Interface_Tectonic) → Stage House Fly Tower",
+          "Afumex Safety Cables → routed along metal trays behind (Interface_Tectonic) → Mechanical Support Void"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Historical_Reconstruction",
+          "Urban_Infill_Inbetween",
+          "Subterranean_Expansion",
+          "Theatre_Driven_Form"
+        ],
+        "typology_diagram_note": "將傳統馬蹄形觀眾席置於都市正面，十字形現代大舞台緊扣於後方，並向下深挖空腔以容納巨大基建。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Historic_Classical_Ornamentation_Façade",
+          "Opaque_Monolithic_Shell"
+        ],
+        "material_taxonomy": [
+          "Stone_Masonry",
+          "Stucco",
+          "Glass",
+          "Metal_Framing"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "新設計以巨大的單一屋頂容納並籠罩舞台塔與大廳，新結構與保留的古典街道表皮採局部脫開掛接。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Multi_Level_Sculptural_Foyer",
+            "Fluid_Horizontal_Concourse"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Raw_Marble",
+            "Classical_Ornamentation",
+            "High_Contrast_Historic_Aura"
+          ],
+          "experience_note": "透過三柱 greek 門廊引導至宏偉的純白大理石階梯，展現出十九世紀極具儀式感與資產階級榮譽感的空間漫步。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Crimson_Velvet",
+            "Low_Lux_Shadows"
+          ],
+          "experience_note": "經由窄小的圓弧迴廊與厚重的雙層聲學隔音閘門，在黑暗、深色天鵝絨與極致尺度壓縮中完成心理與聽覺洗滌。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "大劇院 (Main Auditorium)",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Crimson_Velvet_Cladding",
+              "Gold_Leaf_Plaster",
+              "Polychrome_Fresco"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Traditional_Orthogonal_Reflector"
+            ],
+            "acoustic_material_integration": "運用多層懸挑包廂低矮護欄及表面細緻的金箔灰泥雕刻，達成散射與最適義大利歌劇迴響的反射整合。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Moderate_Cavity",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone",
+          "Other_Mechanical_Truss_Void"
+        ],
+        "strategy_diagram_note": "外部古典皮層維持歷史街區的和諧，內部高聳飛塔與劇場核心完全獨立，夾縫則充作複雜機電與聲學防護帶。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在重建的馬蹄形看台內維持傳統歌劇觀演社交，於地下擴建的大廳進行中場休息與 polivalent 聚會。"
+        },
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "視該劇院為催生巴塞隆納集體文化記憶與催生本土歷史認同的都市核心紀念碑，重啟對蘭布拉大道的公共使用。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "利用全新十字舞台的多功能轉運平台進行多劇目快速換景，並在完備的地下排練室與現代化休息室備演。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "傳統古典街景表皮與後方因高度現代化劇場機能而隆起的新單一屋頂體量，在歷史都市紋理中產生視覺衝突。"
+        },
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "極力還原火災前的馬蹄形空間特徵與裝飾紋理，使享譽歐洲的傳統歌劇院高規格聲學品質與 Amplitude Visual 完美再現。"
+        }
+      ]
+    }
+  }
+}

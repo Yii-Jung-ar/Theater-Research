@@ -1,0 +1,213 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "David Geffen Hall (原名 Philharmonic Hall)",
+        "theater_scale_hierarchy": "國家級/國際頂級交響樂廳",
+        "gross_floor_area": "247,300 SF"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Hall (主音樂廳)",
+          "seating_capacity": "2000-3000 席",
+          "stage_type": "Vineyard-Hybrid (葡萄園混合式)",
+          "primary_performance_type": "Symphonic Music (交響樂)、Orchestral Performance (管弦樂)、Large Scale Musical Events (大型音樂活動)",
+          "key_hardware_&_acoustic_conditions": "消除原鏡框式舞台並將舞台向前推進 25 英尺，配置圍繞式觀眾席、曲面木質聲學包覆（Wood-lined acoustic enclosure）與固定式音樂演奏台（Concert Platform End Stage）。"
+        },
+        {
+          "hall_name": "Sidewalk Studio",
+          "seating_capacity": "未知",
+          "stage_type": "Black Box (黑盒子（推測）)",
+          "primary_performance_type": "實驗性跨領域表演、社區多元節目展示（Diverse Programming）",
+          "key_hardware_&_acoustic_conditions": "位於東北角的彈性表演與活動空間，具備高度可變性與街道視覺互動性。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲（推測）",
+        "country": "美國（推測）",
+        "city": "紐約市 (New York, NY)",
+        "urban_context": "林肯表演藝術中心校園內（Lincoln Center for the Performing Arts’ campus），緊鄰公共文化廣場，屬高密度都市文化核心區。"
+      },
+      "participants_&_operation": {
+        "architect": "Diamond Schmitt Architects (負責音樂廳核心) & Tod Williams Billie Tsien Architects (TWBT, 負責公共空間)；原始設計：Max Abramovitz (1962)",
+        "client": "Lincoln Center & New York Philharmonic (紐約愛樂樂團)",
+        "end_user": "紐約愛樂樂團 (New York Philharmonic)、目標觀眾、市民與國際訪客",
+        "consultants": [
+          "劇場顧問 (Theater Consultant)（未知）",
+          "聲學顧問 (Acoustician)（未知）"
+        ],
+        "operator": "林肯表演藝術中心與紐約愛樂共同營運管理（推測）"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "解決原鞋盒廳音質不佳與巨大疏離感",
+          "architectural_metaphor_concept": "都市會客室與音響容器",
+          "tectonic_strategy": "將舞台前移並以曲面木質界面重塑觀眾席，形成無鏡框的環抱式空間"
+        },
+        {
+          "target_issue": "既有歷史外殼限制下公共活力的活化",
+          "architectural_metaphor_concept": "透明洞石內的生動編排",
+          "tectonic_strategy": "在歷史外殼內重組前台大廳，置入多層瞭望台與巨幅媒體牆連結都市"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "seating bowl",
+          "stage platform",
+          "curved acoustic surfaces",
+          "wood acoustic cladding"
+        ],
+        "front_of_house_foh": [
+          "entrance lobby",
+          "atrium lobby",
+          "tier lobby",
+          "grand promenade",
+          "welcome center",
+          "restaurant",
+          "lounge",
+          "donor lounges",
+          "sidewalk studio",
+          "terrace",
+          "media wall",
+          "public plaza"
+        ],
+        "back_of_house_boh": [
+          "backstage support",
+          "technical support spaces",
+          "mechanical spaces",
+          "production teams facilities"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Main Auditorium → encased by (Spatial_Massing_&_Conceptual_Relation) → Existing Historic Shell",
+          "Glass Façade → opens up (Spatial_Massing_&_Conceptual_Relation) → Urban Plaza"
+        ],
+        "meso_level": [
+          "Entrance Lobby → guides visitor flow vertically into (Circulation_FOH) → Atrium Lobby",
+          "Tier Lobby → provides direct spatial access to (Circulation_FOH) → Tier Seating",
+          "Back-of-House → strictly segregated from (Acoustic_Buffer) → Entrance Lobby",
+          "Technical Support Spaces → envelope upper perimeter of (Other_Meso_Operational_Interface) → Main Auditorium"
+        ],
+        "micro_level": [
+          "Wood Acoustic Cladding → lines the interior of (Interface_Tectonic) → Seating Bowl",
+          "Curved Acoustic Surfaces → shape the acoustic response of (Interface_Tectonic) → Stage Platform",
+          "Media Wall → integrated into the street-facing boundary of (Other_Micro_Visual_Interface) → Entrance Lobby",
+          "Terraced Seating → steps down toward (Interface_Tectonic) → Stage Platform"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Volume-in-Volume",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_&_Vertical_Division",
+        "typological_supplementary_tags": [
+          "Historic_Shell_Insertion",
+          "Campus_Integrated",
+          "Civic_Landmark",
+          "Vineyard_Hybrid"
+        ],
+        "typology_diagram_note": "主音樂廳作為核心量體懸浮於既有歷史外殼中央，由多層前台大廳環繞包裹，形成典型的盒中盒空間拓撲。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Glass_Façade",
+          "Transparent_Base",
+          "Travertine_Frame"
+        ],
+        "material_taxonomy": [
+          "Glass",
+          "Metal",
+          "Travertine"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "改造保留了 1962 年 Max Abramovitz 設計的經典洞石與玻璃外殼，內部全新的鋼構造廳體與既有外牆完全脫開獨立承重。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Atrium_Lobby",
+            "Multi_Level_Sculptural_Foyer",
+            "Layered_Public_Interface"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Vivid_Colors",
+            "Rich_Textures",
+            "Warm_Lighting"
+          ],
+          "experience_note": "大廳以鮮豔色彩、圖案與質感映射表演活力，透過多層挑空與延伸平台的「都市客廳」感編排，創造高互動的流暢經驗。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Tier_Lobby_Threshold",
+            "Sound_Lock"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Controlled_Lighting",
+            "Acoustic_Detachment_Zone"
+          ],
+          "experience_note": "自宏大、高彩度的大廳跨越聲學閘門與尺度壓縮的過渡帶，視覺與聽覺光譜迅速收攏，為進入專注的演奏場域進行心理沉澱。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Main Hall",
+            "seating_bowl_geometry_language": [
+              "Vineyard_Hybrid",
+              "Curvilinear_Unified_Room",
+              "Terraced_Seating"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Timber_Interior_Finish",
+              "Warm_Wood_Acoustic_Cladding"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "溫潤的木質聲學曲面面板全面包覆一體化的流線型觀眾席，完美回應物理反射並提供強烈的包裹體感。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Moderate_Cavity",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "利用既有外殼與新曲面廳體間的夾縫置入立體交織的前台大廳，透過全玻璃幕牆將內部的觀演行為轉譯為都市的 civic spectacle。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在重構的大廳、餐廳與新增的觀景眺望台上聚集、交際，並在圍繞式座椅中獲得極佳的親密觀演體驗。"
+        },
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "透過公共廣場與東北角的 Sidewalk Studio 參與多元文化節目，將大廳視為紐約的客廳。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "受益於前移 25 英尺的新型舞台與升級後的後台後勤設施，獲得更高品質的演出支持與緊密觀眾互動。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "成功解決了數十年來無法根治的音響難題，將原本冷漠的鞋盒廳改造成無瑕瑕疵的溫潤交響空間。"
+        },
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "在保留 1962 年具歷史歷史價值的標誌性洞石與玻璃外殼前提下，完成了高難度的內部系統性重塑。"
+        }
+      ]
+    }
+  }
+}

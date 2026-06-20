@@ -1,0 +1,197 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Stratford Festival Theatre",
+        "theater_scale_hierarchy": "國家級/大型劇目常備劇院 (Major Repertory Theatre)",
+        "gross_floor_area": "71,100 sf"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Festival Theatre",
+          "seating_capacity": "1500-2500 席（推測）",
+          "stage_type": "Thrust 伸展式",
+          "primary_performance_type": "話劇/舞台劇 Drama、莎士比亞劇作 Shakespeare Performance、現場戲劇 Live Theatre",
+          "key_hardware_&_acoustic_conditions": "配備頂部聲學反射天棚 (Acoustical Canopy Overhead)、新型聲音與光線鎖 (Sound and Light Locks)，並設有固定式多層觀眾席樓座 (Multi-Level Audience Galleries)"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲（推測）",
+        "country": "加拿大 (Canada)",
+        "city": "安大略省斯特拉特福 (Stratford, Ontario)",
+        "urban_context": "景觀園林與文化校園紋理 (Landscape Setting / Cultural Campus)"
+      },
+      "participants_&_operation": {
+        "architect": "Thomas Payne (Thomas Payne Architect) / 原始劇場設計為 Tyrone Guthrie & Tanya Moisevitch（推測）",
+        "client": "Stratford Shakespearean Festival Foundation of Canada",
+        "end_user": "目標觀眾、莎劇表演劇團與演職人員",
+        "consultants": [
+          "劇場顧問 (Theater Consultant)：未知；聲學顧問 (Acoustician)：未知"
+        ],
+        "operator": "Stratford Shakespearean Festival Foundation of Canada（推測）"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "在既有歷史核心中重新構想並優化經典的伸展式舞台劇場",
+          "architectural_metaphor_concept": "由內向外的同心圓層",
+          "tectonic_strategy": "將前台大廳層作為外殼包裹歷史性伸展舞台核心，校正觀眾席與側牆"
+        },
+        {
+          "target_issue": "重塑與引導觀眾抵達劇院時的儀式感及停留體驗",
+          "architectural_metaphor_concept": "魔幻發光馬蹄形迴車道",
+          "tectonic_strategy": "以帆布覆蓋的發光柱列、階梯露台與噴泉界定出 Meighen 花園步道"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "thrust stage",
+          "seating bowl",
+          "sound and light locks",
+          "acoustical canopy",
+          "vomitories",
+          "recalibrated side walls"
+        ],
+        "front_of_house_foh": [
+          "Main Lobby",
+          "Entrance Hall",
+          "Audience Circulation",
+          "Balcony Access",
+          "Public Gathering Space",
+          "Meighen Gardens",
+          "horseshoe-shaped drive",
+          "terraces",
+          "fountain"
+        ],
+        "back_of_house_boh": [
+          "Backstage",
+          "Stage Support Areas",
+          "Technical Spaces",
+          "Performer Areas"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Thrust Stage Auditorium → encased by (Spatial_Massing_&_Conceptual_Relation) → Lobby Layer",
+          "Festival Theatre Volume → defined by (Spatial_Massing_&_Conceptual_Relation) → Pyramidal Roof Form",
+          "Meighen Gardens → defined by (Spatial_Massing_&_Conceptual_Relation) → Canvas-Covered Columns"
+        ],
+        "meso_level": [
+          "Main Lobby → encircles (Circulation_FOH) → Thrust Stage Auditorium",
+          "Horseshoe-Shaped Drive → guides access to (Circulation_FOH) → Open Civic Entrance",
+          "New Sound and Light Locks → provide acoustic buffer between (Acoustic_Buffer) → Main Lobby",
+          "Performer Areas → dedicatedly separated from (Circulation_BOH) → Public Gathering Areas"
+        ],
+        "micro_level": [
+          "Acoustical Canopy Overhead → suspended above (Interface_Tectonic) → Thrust Stage",
+          "Timber Interior → lines the interior surface of (Interface_Tectonic) → Main Auditorium",
+          "New Connections → bridge between (Interface_Tectonic) → Existing Vomitories",
+          "Multi-Level Audience Galleries → structural integrated with (Interface_Tectonic) → Seating Bowl"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Concentric_Layers",
+        "boh_foh_segregation_topology_primary_type": "Clear_Radial_Division",
+        "typological_supplementary_tags": [
+          "Landscape_Embedded",
+          "Thrust_Core",
+          "Civic_Pavilion"
+        ],
+        "typology_diagram_note": "以歷史伸展舞台為幾何核心，前台公眾空間呈同心圓層向外擴展包裹，與環境景觀交融。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Opaque_Monolithic_Shell",
+          "Glass_Curtain_Wall_Entrance"
+        ],
+        "material_taxonomy": [
+          "Wood",
+          "Glass",
+          "Metal_Roofing"
+        ],
+        "envelope_to_structure_relation_logic": "Exposed_Structure",
+        "structure_integration_detail_note": "低水平體量上方覆蓋金屬金字塔屋頂，中央設採光天窗，木構造界面於室內外部分外露。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Fluid_Horizontal_Concourse",
+            "Multi_Level_Sculptural_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Warm_Timber",
+            "Civic_Light",
+            "Luminous_Canvas"
+          ],
+          "experience_note": "觀眾自馬蹄形花園步道與發光柱列引導進大廳，空間氛圍溫暖且具備開闊的市民聚集感。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Acoustic_Isolation"
+          ],
+          "experience_note": "通過全新配置的聲光鎖與調整後的通道，壓縮空間尺度並徹底屏蔽外側大廳的光線與噪音。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Festival Theatre",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering",
+              "Surround_Audience_Three_Sides"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Intimate_Timber",
+              "Speech_Oriented_Warmth"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Traditional_Orthogonal_Reflector"
+            ],
+            "acoustic_material_integration": "運用舞台上方懸吊之聲學天棚與校正後的木質側牆，強化話劇語音反射與親密包裹感。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Honesty_表裡如一",
+        "interstitial_volume_ratio_tag": "Minimal_Skin_Tight",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "外部屋頂與體量形式直接呼應內部單一核心劇場的馬蹄形圍合幾何與放射狀層次。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "演出前後與中場休息時在花園階梯露台、噴泉旁放鬆交流，放大戲劇觀賞體驗"
+        },
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "將劇院的景觀花園與公共前庭作為文化校園中的日常散步與市民聚集場所"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "新增的聲學反射天棚與重組的觀眾席牆面有效提升了傳統莎劇演出的聲學清晰度"
+        },
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "發光柱列組成的馬蹄形車道與花園景觀成功重塑了劇院的入口意象與儀式感"
+        }
+      ]
+    }
+  }
+}

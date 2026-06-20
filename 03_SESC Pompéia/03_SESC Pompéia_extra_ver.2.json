@@ -1,0 +1,206 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "SESC Pompéia龐培亞文化體育中心 (Centro de Lazer Fábrica da Pompéia)",
+        "theater_scale_hierarchy": "社區中心型建築與地方綜合型劇院",
+        "gross_floor_area": "未知"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "SESC Pompéia Theatre Hall",
+          "seating_capacity": "300-1000 席（低置信度推測）",
+          "stage_type": "Flexible Stage 可變式舞台",
+          "primary_performance_type": "話劇/舞台劇 Drama、實驗性跨領域劇場 Experimental Art、社區文化活動 Community Events",
+          "key_hardware_&_acoustic_conditions": "大型工業廠房跨距大廳改造、外露式金屬與鋼結構屋架、無固定式幾何聲學面板、配備無靠背硬質全木椅（意圖營造中世紀廣場布萊希特式的劇場疏離與參與體感）"
+        }
+      ],
+      "location_&_context": {
+        "continent": "南美洲",
+        "country": "巴西",
+        "city": "聖保羅 (São Paulo)",
+        "urban_context": "聖保羅郊外 Pompéia 藍領階級工人社區，原為 1920 年代英國工業風格的舊鋼桶製作工廠廠區"
+      },
+      "participants_&_operation": {
+        "architect": "Lina Bo Bardi",
+        "client": "SESC (巴西商業社會服務部)（推測）",
+        "end_user": "當地社區居民、特定會員及其家庭、青年、演職人員",
+        "consultants": [
+          "巴西本土無建造經驗之基層工人（現場即興共創團隊）"
+        ],
+        "operator": "SESC (龐培亞文化體育中心實際營運管理單位)"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "廢棄工業遺產轉化為高可達性之社區文化與運動基礎設施",
+          "architectural_metaphor_concept": "工業考古學與現代主義反思",
+          "tectonic_strategy": "完整保留舊廠房磚牆與屋架，以「粗獷建築」手法的極低物質介入植入機能"
+        },
+        {
+          "target_issue": "地下黑水溪排洪道導致基地大面積成為永久不可建地帶",
+          "architectural_metaphor_concept": "空中擁抱的防禦性孤獨城堡",
+          "tectonic_strategy": "機能垂直堆疊為兩座粗野混凝土高塔，以跨距25米之立體預應力天橋空中互聯"
+        },
+        {
+          "target_issue": "杜絕封閉中產階級空調環境，打破消費社會劇場的虛假舒適",
+          "architectural_metaphor_concept": "史前洞穴與巴西大眾非制度自由",
+          "tectonic_strategy": "取消空調與玻璃窗板，操作變形蟲狀不規則開口維持常態性自然穿堂風與硬質木椅"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "flexible stage",
+          "exposed steel roof",
+          "large span hall",
+          "flexible interior volume",
+          "wooden theatre seating"
+        ],
+        "front_of_house_foh": [
+          "public hall",
+          "open gathering space",
+          "internal public street",
+          "cafe",
+          "restaurant",
+          "bar",
+          "reading and resting areas",
+          "children play zones",
+          "art gallery",
+          "large open deck",
+          "outdoor shower waterfall"
+        ],
+        "back_of_house_boh": [
+          "technical support spaces",
+          "service areas",
+          "backstage support",
+          "art workshops",
+          "tower dressing rooms"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Industrial Warehouses → converted to house (Spatial_Massing_&_Conceptual_Relation) → Multi_Program_Cultural_Facility",
+          "Concrete Sports Towers → clustered alongside (Spatial_Massing_&_Conceptual_Relation) → Reused_Brick_Factory_Campus",
+          "Cylindrical Water Tower → acts as visual landmark for (Spatial_Massing_&_Conceptual_Relation) → Urban_Neighborhood_Context"
+        ],
+        "meso_level": [
+          "Internal Public Street → horizontally cuts through (Circulation_FOH) → Reused_Industrial_Halls",
+          "Diagonal Concrete Walkways → bridge the aerial gap between (Circulation_BOH) → Concrete_Tower_Volumes",
+          "Large Open Floor → facilitates direct access to (Circulation_FOH) → SESC_Pompéia_Theatre_Hall",
+          "Technical Support Spaces → integrated into perimeter of (Circulation_BOH) → Flexible_Performance_Volume",
+          "Non_Buildable_Groundwater_Zone → acts as open deck between (Other_Meso_Programmatic_Buffer) → Concrete_Tower_Structures"
+        ],
+        "micro_level": [
+          "Exposed Steel Roof Structure → spans across upper volume of (Interface_Tectonic) → Theatre_Hall_Enclosure",
+          "Unpadded Wooden Seats → define the tactile contact with (Interface_Tectonic) → Audience_Area",
+          "Amoeba_Shaped_Windows → puncture the rough facades of (Interface_Tectonic) → Concrete_Sports_Towers",
+          "Prestressed Concrete Walkways → anchor onto flanking walls of (Interface_Tectonic) → Tower_Blocks"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Adaptive_Reuse",
+          "Industrial_Hall_Conversion",
+          "Campus_Urbanism",
+          "Non_Monumental_Architecture"
+        ],
+        "typology_diagram_note": "舊工業大跨度巴西廠房水平並置轉為日常文化街道，新建運動體量因應地下水文限制垂直高塔化"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Opaque_Monolithic_Shell",
+          "Exposed_Brick_Facade"
+        ],
+        "material_taxonomy": [
+          "Raw_Concrete",
+          "Red_Brick",
+          "Metal_Roofing"
+        ],
+        "envelope_to_structure_relation_logic": "Exposed_Structure",
+        "structure_integration_detail_note": "老廠房保留亨尼比克早期鋼筋混凝土結構與加固磚牆，新建雙塔以清水粗混凝土結構外露展現純粹構造手性"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Fluid_Horizontal_Concourse"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Raw_Concrete",
+            "Brick_Surfaces",
+            "Exposed_Infrastructure"
+          ],
+          "experience_note": "進入非定式大廳如步入室內公共街道，暖色舊磚牆與粗獷混凝土在日常喧鬧中展現市井生活的非正式性"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Raw_Concrete"
+          ],
+          "experience_note": "劇場入口無誇張巴洛克前廳，由喧囂的日常生活室內街道直接過渡至工業大客體，空間尺度無過度壓縮"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "SESC Pompéia Theatre Hall",
+            "seating_bowl_geometry_language": [
+              "Rectilinear"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Raw_Concrete"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Structural_Shell_Exposed"
+            ],
+            "acoustic_material_integration": "全木質裸露無面料硬質座椅，拒絕資產階級的精準聲學吸音包覆，以建築原始界面誠實反射音效"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Honesty_表裡如一",
+        "interstitial_volume_ratio_tag": "Minimal_Skin_Tight",
+        "interstitial_functional_tags": [
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "無多餘裝飾性外皮，老廠房內部大空間即為劇場體量，形式、構造與機能呈現高度本源性的表裡如一"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在室內街道、壁爐旁、戶外大甲板與瀑布下進行非正式的聚會、奔跑、燒烤與日常休閒"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "坐在毫無沙發軟墊的硬質木椅上觀看演出，拉近與舞台距離，以清醒批判眼光體驗自下而上的大眾文化"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在非非主流、非紀念性的無階級工業大空間內，進行高度彈性且具備高度實驗性的互動展演"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "在軍政府統治及現代主義低潮期，其粗野混凝土雙塔與天橋的強烈形體撞擊，在周邊都市紋理中帶來巨大震撼與獵奇感"
+        },
+        {
+          "issue_topic": "Comfort_and_Acoustics",
+          "public_polarity": "Positive_正評",
+          "summary_note": "大膽取消空調與玻璃窗，使用變形蟲採光洞與硬木椅的「貧窮建築」理念，被視為拉美對西方消費主義的本土批判傑作"
+        }
+      ]
+    }
+  }
+}

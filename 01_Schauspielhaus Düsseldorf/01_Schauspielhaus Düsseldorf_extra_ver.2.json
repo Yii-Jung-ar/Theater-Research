@@ -1,0 +1,226 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Schauspielhaus Düsseldorf (別稱: D'haus / 德國杜塞道夫戲劇院)",
+        "theater_scale_hierarchy": "地方綜合型與具歐洲重要地位之劇院群",
+        "gross_floor_area": "19,000 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (大劇院/主劇場)",
+          "seating_capacity": "未知",
+          "stage_type": "Proscenium-like Stage (鏡框式舞台)",
+          "primary_performance_type": "Drama (話劇/舞台劇)",
+          "key_hardware_&_acoustic_conditions": "扇形座席幾何配置 (Fan-shaped)，主舞台位於端部 (End-stage)，形式與物理聲學反射高度對位，曾於2010/11年由Jörg Friedrich進行整修"
+        },
+        {
+          "hall_name": "Secondary Auditorium (次級劇場/實驗劇場)",
+          "seating_capacity": "未知",
+          "stage_type": "Black Box (黑盒子/推測)",
+          "primary_performance_type": "Experimental Art (實驗性跨領域劇場/推測)",
+          "key_hardware_&_acoustic_conditions": "相鄰於主劇場體量，屬於次級 performance venue，配置獨立的次級劇場足跡空間"
+        }
+      ],
+      "location_&_context": {
+        "continent": "Europe (歐洲)",
+        "country": "Germany (德國)",
+        "city": "Düsseldorf (杜塞道夫)",
+        "urban_context": "高密度都市中心 (位於 Gustaf-Gründgens-Platz 廣場，緊鄰 Dreischeibenhaus 與 Kö-Bogen II，與 Hofgarten 公園界接之文化核心區)"
+      },
+      "participants_&_operation": {
+        "architect": "ingenhoven associates (整修主導建築師) / 原作建築師為 Bernhard Pfau",
+        "client": "屋頂與表皮整修：City of Düsseldorf；公共區域翻新：Neue Schauspiel GmbH",
+        "end_user": "目標觀眾、劇院演職人員",
+        "consultants": [
+          "屋頂與表皮結構及建築物理：Werner Sobek AG",
+          "公共區域結構：VDS Statik und konstruktiver Ingenieurbau",
+          "燈光設計：Tropp Lighting Design GmbH",
+          "公共區域建築物理：ISRW Dr.-Ing. Klapdor GmbH",
+          "色彩分析與顧問：Farb-Bau Prof. Friedrich Schmuck",
+          "室內織品與窗簾設計：Petra Blaisse (推測)"
+        ],
+        "operator": "Neue Schauspiel GmbH"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "歷史劇院入口轉向導致都市界面封閉且與公園脫節",
+          "architectural_metaphor_concept": "流動的都市編織",
+          "tectonic_strategy": "拆除加蓋票亭並置入全透明雙層玻璃前庭，實現360度全面向都市開放"
+        },
+        {
+          "target_issue": "原長向鋼板皮層無縫構造老化毀損且難以滿足現代熱工標準",
+          "architectural_metaphor_concept": "輕盈的白色動態雕塑",
+          "tectonic_strategy": "完全拆除舊有鋼板，全面更換為新型輕量化鋁合金面盤與複層綠化屋頂系統"
+        },
+        {
+          "target_issue": "古蹟修復中新舊介入界面的識別性與歷史氛圍重現",
+          "architectural_metaphor_concept": "時空質感的和諧對位",
+          "tectonic_strategy": "修復暴露清水混凝土，新設後勤設施均採用暗黑色調以對比原版明亮色彩"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "main auditorium",
+          "secondary auditorium",
+          "auditorium volume",
+          "fly tower"
+        ],
+        "front_of_house_foh": [
+          "theatre entrance",
+          "lobby",
+          "foyer",
+          "cloakroom",
+          "cafe / restaurant",
+          "public plaza",
+          "grand stair",
+          "promenade ramp (推測)",
+          "round pavilion"
+        ],
+        "back_of_house_boh": [
+          "backstage / support zones",
+          "service circulation",
+          "artists’ entrance",
+          "delivery zone",
+          "box office / parking entry"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Auditorium Volume → encased by (Spatial_Massing_&_Conceptual_Relation) → Curved building envelope",
+          "White Theatre Mass → contrasts with (Spatial_Massing_&_Conceptual_Relation) → Rectilinear Urban Context"
+        ],
+        "meso_level": [
+          "Foyer and Lobby System → connects (Circulation_FOH) → Main Auditorium and Secondary Auditorium",
+          "Glazed Ground-Floor Frontage → visual continuity between (Circulation_FOH) → Exterior Public Plaza",
+          "Artists’ Entrance → strictly segregated from (Circulation_BOH) → Delivery zone",
+          "Service Circulation Corridors → separated from (Circulation_BOH) → Public Foyer Spaces",
+          "Concrete Visual Screen → visually blocks (Other_Meso_Visual_Segregation) → Artists' Entrance from Delivery Zone"
+        ],
+        "micro_level": [
+          "Lightweight Aluminum Panels → attached to (Interface_Tectonic) → Facade Substructure Clamps",
+          "Ribbed Ceiling Beams → articulation of (Interface_Tectonic) → Interior Foyer Ceiling",
+          "Clear Glass Panels → replace (Interface_Tectonic) → Original Bronze-Tinted Glazing",
+          "Characterful Curtains by Petra Blaisse → hang as wall coverings on (Interface_Tectonic) → Interior Wall Surfaces"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Landscape_Infrastructural",
+          "Civic_Sculpture",
+          "Urban_Park_Integration",
+          "Historic_Preservation"
+        ],
+        "typology_diagram_note": "雙劇場核心水平並置包覆於流線型外殼，前台大廳以水平高透明度玻璃介面全面向都市廣場與歷史公園流暢延伸。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Opaque_Monolithic_Shell",
+          "Transparent_Glass_Curtain_Wall"
+        ],
+        "material_taxonomy": [
+          "Aluminium_Cladding",
+          "Clear_Double_Glazed_Vestibule",
+          "Fair_Faced_Concrete",
+          "Planted_Green_Roof"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "外牆採用新型輕量化鋁合金面板，透過特製的副結構卡榫系統與主體構造脫開掛接，完美再現原17米無縫鋼板面盤之起伏曲線。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Fluid_Horizontal_Concourse",
+            "Horizontally_Compressed_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Raw_Concrete",
+            "Polished_Terrazzo_Flooring",
+            "Warm_Refined_Lighting",
+            "Clear_Glass_Transparency"
+          ],
+          "experience_note": "觀眾步入水平延展的大廳，視線穿透清透玻璃直達戶外花園，低矮起伏的肋狀天花與拋光地面營造流暢的漫步體驗。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Double_Glazed_Vestibule",
+            "Curved_Interior_Circulation_Walls"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Matt_Black_Finishes",
+            "Characterful_Curtains"
+          ],
+          "experience_note": "通過由大廳向內收束的弧形牆面與暗黑色調的過渡前庭，空間尺度產生壓縮，引導觀眾進行進入座席前的心理沉澱。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Main Auditorium",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering",
+              "Fan_shaped_Audience_Geometry"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Warm_Timber_Acoustic_Panels (推測)",
+              "Refined_Dramatic_Lighting"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "劇場座席呈扇形展開，內部界面幾何形式與物理聲學反射緊密對位，提供極致的包裹感。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Interlocking_相互交織",
+        "interstitial_volume_ratio_tag": "Moderate_Cavity",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "透過裙樓全明玻璃皮層與屋頂綠化，將夾縫大廳轉化為公共景觀走廊，使封閉的劇院核心與外部都市活動產生交織。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在劇院新設的透明玻璃前庭、圓形票亭 pavilion 與都市廣場交界處聚集，重新建立日常休憩活動。"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在水平延展的前台大廳漫步，透過清透玻璃直視外部 Gustaf-Gründgens-Platz 與 Hofgarten 公園美景。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "經由重新規劃、增設混凝土視覺圍欄的後勤卸貨與藝術家專屬入口安全進出劇院。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "修復後的流線型白色金屬外殼與輕盈的浮動感獲得肯定，成功再現1970年歷史文化地標的標誌性風采。"
+        },
+        {
+          "issue_topic": "Urban_Integration",
+          "public_polarity": "Positive_正評",
+          "summary_note": "徹底解決1960年代因交通考量造成的入口轉向遺留問題，使文化建築全面向都市與市民開放。"
+        },
+        {
+          "issue_topic": "Tectonic_Innovation",
+          "public_polarity": "Positive_正評",
+          "summary_note": "成功以現代輕量化鋁合金面盤與特殊扣件系統，克服了原版長達16-17公尺無縫鋼板極難修復的構造挑戰。"
+        }
+      ]
+    }
+  }
+}

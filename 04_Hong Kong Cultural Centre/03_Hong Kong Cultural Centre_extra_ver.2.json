@@ -1,0 +1,245 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Hong Kong Cultural Centre (香港文化中心)",
+        "theater_scale_hierarchy": "國家級/地標型多劇場文化綜合體 (推測)",
+        "gross_floor_area": "82,231 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Concert Hall (音樂廳)",
+          "seating_capacity": "1971 席",
+          "stage_type": "Arena 圓形/環抱式",
+          "primary_performance_type": "Symphonic Performance, Orchestral Concerts, Music Performance",
+          "key_hardware_&_acoustic_conditions": "配備可調式音響反射板 (adjustable acoustic canopy, 7.50-12.00m)、186席合唱團座椅、Rieger管風琴、高質量橡木飾面"
+        },
+        {
+          "hall_name": "Grand Theatre (大劇院)",
+          "seating_capacity": "1734 席",
+          "stage_type": "Proscenium 鏡框式",
+          "primary_performance_type": "Opera, Dance, Musicals, Large-scale Drama, Chinese Opera",
+          "key_hardware_&_acoustic_conditions": "具備大型可調鏡框、配備主舞台台口升降機 (可容納102/53座之活動式樂池)、後舞台配有直徑11.20m之旋轉舞台車 (revolve wagon)、電腦化懸吊系統"
+        },
+        {
+          "hall_name": "Studio Theatre (劇場)",
+          "seating_capacity": "303至496 席",
+          "stage_type": "Black Box 黑盒子",
+          "primary_performance_type": "Flexible Programming, Experimental Performance, Small Scale Productions, Drama, Dance",
+          "key_hardware_&_acoustic_conditions": "具備可變動座位形態，支援 Arena (496席)、Thrust (303席)、Transverse (382席)、End Stage (321席) 四種傳統劇場類型拓撲，設有大型貨運升降機直達"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲",
+        "country": "中國",
+        "city": "香港",
+        "urban_context": "尖沙咀海濱中心區，鄰近天星碼頭與舊火車站鐘樓，具高顯著性濱水重劃地標脈絡"
+      },
+      "participants_&_operation": {
+        "architect": "Jose Lei (雷信顧) - 建築署資深政府建築師",
+        "client": "香港政府 / 市政局",
+        "end_user": "公眾、國際與本地表演藝術團體",
+        "consultants": [
+          "專業顧問團隊 (涵蓋結構工程師、劇場與聲學專家，未知具體單位)"
+        ],
+        "operator": "康樂及文化事務署 (LCSD)"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "尖沙咀海濱精華地段缺乏具備國際地標形象之大型演藝設施",
+          "architectural_metaphor_concept": "雕塑感無窗巨型滑雪道",
+          "tectonic_strategy": "以巨大的L形無窗實體量塊與斜度屋頂，形塑高辨識度雕塑意象"
+        },
+        {
+          "target_issue": "突破傳統精英文化宮殿的隔閡感，於高密度都市中導入大眾公共生活",
+          "architectural_metaphor_concept": "市民漫步立體街道",
+          "tectonic_strategy": "設計貫通式全開放中庭大廳連結外部階梯廣場，使公共流線延續至海濱"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "proscenium stage",
+          "orchestra pit",
+          "acoustic canopy",
+          "seating bowl",
+          "choir stalls",
+          "rear stage wagon",
+          "revolve",
+          "flying bar",
+          "grave trap",
+          "side stage"
+        ],
+        "front_of_house_foh": [
+          "grand foyer",
+          "main lobby",
+          "public concourse",
+          "waterfront plaza",
+          "grand stairs",
+          "exterior terrace",
+          "outdoor amphitheatre"
+        ],
+        "back_of_house_boh": [
+          "backstage dressing room",
+          "loading platform lift",
+          "cargo lift",
+          "orchestra assembly area",
+          "dimmer room",
+          "control room",
+          "running wardrobe",
+          "green room"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Concert Hall Volume → grouped within (Spatial_Massing_&_Conceptual_Relation) → L-shaped Floor Plan",
+          "Grand Theatre Volume → grouped within (Spatial_Massing_&_Conceptual_Relation) → L-shaped Floor Plan",
+          "Ancillary Support Buildings → positioned at the perimeter of (Spatial_Massing_&_Conceptual_Relation) → L-shaped Floor Plan"
+        ],
+        "meso_level": [
+          "Main Lobby Foyer → encased between (Spatial_Massing_&_Conceptual_Relation) → Concert Hall and Grand Theatre Wings",
+          "Shared Public Atrium → strictly segregated from (Acoustic_Buffer) → Theater Core Boxes",
+          "Waterfront Plaza → continuous with (Circulation_FOH) → Main Lobby Foyer",
+          "Backstage Dressing Room Zone → strictly segregated from (Acoustic_Buffer) → FOH Public Lobby",
+          "Orchestra Assembly Area → directly connected to (Circulation_BOH) → Stage Platform via Double Doors",
+          "Loading Platform Lift → directly accesses (Circulation_BOH) → Side Stage Loading Gate"
+        ],
+        "micro_level": [
+          "Adjustable Acoustic Canopy → suspended over (Interface_Tectonic) → Concert Platform",
+          "High Quality Oak Panels → line the interior of (Interface_Tectonic) → Concert Hall Seating Bowl",
+          "Exterior Ceramic Tiles → continue into the interior of (Interface_Tectonic) → Main Lobby Atrium",
+          "Removable Seating Podiums → adjust the configuration of (Interface_Tectonic) → Studio Theatre Floor",
+          "Automated Flying Bars → suspended within the upper grid of (Interface_Tectonic) → Proscenium Stage"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Waterfront_Cultural_Complex",
+          "Multi_Venue_Container",
+          "Windowless_Monolithic_Volume",
+          "Civic_Infrastructure_Plaza"
+        ],
+        "typology_diagram_note": "三大核心劇場以L形平面平行並置，中央夾入通透中庭形成都市漫步通道，後勤則包覆於外部邊緣。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Opaque_Monolithic_Shell",
+          "Windowless_Blank_Wall",
+          "Terraced_Massing"
+        ],
+        "material_taxonomy": [
+          "Ceramic_Tiles",
+          "Concrete",
+          "Stone_Cladding"
+        ],
+        "envelope_to_structure_relation_logic": "Load_Bearing_Wall",
+        "structure_integration_detail_note": "採用全封閉式混凝土與石材承重外殼，刻意阻斷開窗，內部鋼筋混凝土結構與外層飾面合一。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Vertically_Chambered_Atrium",
+            "Multi_Level_Sculptural_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Exposed_Concrete",
+            "Continuous_Façade_Tiles",
+            "Bratallist_Superimposition"
+          ],
+          "experience_note": "海濱面磚語彙延伸至挑高大廳，透過混凝土體量的粗獷交疊與宏偉大樓梯，形塑具備動態流暢感的市民儀式空間。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Compressed_Dark_Corridor",
+            "Acoustic_Detachment_Zone"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Tight_Corridor_Acoustics"
+          ],
+          "experience_note": "觀眾自開敞的中庭，經由環繞劇場邊緣的緊湊、低矮暗色弧形廊道，完成進入觀眾席前的心理尺度壓縮與聲學過渡。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Concert Hall",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering",
+              "Terraced_Vineyard_Podiums"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Danish_White_Oak"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "全廳滿鋪高質量橡木，配合上方大型可調式懸空聲學吊頂，完美包裹360度環抱座席。"
+          },
+          {
+            "hall_name": "Grand Theatre",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Crimson_Velvet_Cladding",
+              "Deep_Theater_Darkwood"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Traditional_Orthogonal_Reflector"
+            ],
+            "acoustic_material_integration": "採用深色牆面面料配合紅絲絨座椅，三層挑台面向鏡框式舞台，達成古典吸音與奢華包裹感。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Moderate_Cavity",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "外部巨型無窗外殼與內部劇場機能盒子完全脫開，夾縫處作為立體觀眾前廳與聲學防護空腔。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "將全開放的底層中庭作為穿越至海濱的日常通道，並於炎熱夏季在此休息聚集"
+        },
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "外籍家庭傭工與市民於週末利用外部階梯廣場及梯田狀露台進行社交聚會"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在缺乏獨立行政聲譽的體制下進行常態性調度演出，前後台動線因官僚結構缺乏彈性"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Negative_負評",
+          "summary_note": "因完全封閉、毫無開窗且外牆鋪設粉色磁磚，被謔稱為「無窗浴室」或「毫無個性的巨大滑雪道」"
+        },
+        {
+          "issue_topic": "Management_Bureaucracy",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "因官僚化管理將二層以上露台與前廳劃為「持票者專區」，阻斷了設計初始預想的立體公共活力"
+        },
+        {
+          "issue_topic": "Urban_Revaluation",
+          "public_polarity": "Positive_正評",
+          "summary_note": "近年透過節慶雷射投影與海濱公共空間微改造，市民逐漸發掘其素面外牆的再生價值，批判聲音趨緩"
+        }
+      ]
+    }
+  }
+}

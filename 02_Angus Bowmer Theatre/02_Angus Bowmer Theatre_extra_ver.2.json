@@ -1,0 +1,208 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Angus Bowmer Theatre",
+        "theater_scale_hierarchy": "區域劇團話劇表演劇場 (Regional Repertory Theatre)",
+        "gross_floor_area": "未知"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Angus Bowmer Theatre",
+          "seating_capacity": "600 席",
+          "stage_type": "Thrust 伸展式",
+          "primary_performance_type": "話劇/舞台劇 Drama、莎士比亞劇作演出 Shakespeare Performance",
+          "key_hardware_&_acoustic_conditions": "配備 30 組可變布景吊桿塔飛升系統 (Fly System)、3 組橫跨舞台上空之電動絞車燈光橋 (Electric Winched Bridges)、一組位於舞台前方之 173 平方英尺梯形液壓升降舞台 (Trapezoidal Hydraulic Stage Lift) 可下潛至下方兩層陷阱室 (Trap Rooms)、兩側配置可旋轉調變舞台空間之 20 英尺長旋轉八字牆 (Splay Walls)。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲（推測）",
+        "country": "美國（推測）",
+        "city": "阿什蘭 (Ashland)",
+        "urban_context": "藝文校園與文化園區紋理 (Performing Arts Campus / Cultural Complex)"
+      },
+      "participants_&_operation": {
+        "architect": "Kirk, Wallace and McKinley, AIA of Seattle",
+        "client": "俄勒岡莎士比亞藝術節 (Oregon Shakespeare Festival, OSF)",
+        "end_user": "目標觀眾、俄勒岡莎士比亞藝術節駐團演職人員",
+        "consultants": [
+          "Richard L. Hay (Primary Design Consultant)"
+        ],
+        "operator": "俄勒岡莎士比亞藝術節 (Oregon Shakespeare Festival, OSF)"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "解決藝術節因票房極度供不應求而急需擴建劇場容量之都市經濟挑戰",
+          "architectural_metaphor_concept": "十六世紀與現代劇場融合",
+          "tectonic_strategy": "以包覆伸展式舞台之高陡坡看台座席與大容積飛升舞台塔建構形體"
+        },
+        {
+          "target_issue": "如何在大型劇院中維持高親密感之演員與觀眾互動關係",
+          "architectural_metaphor_concept": "圍合感觀眾碗",
+          "tectonic_strategy": "利用高 raked 階梯座席將 600 席觀眾以三面環抱形式圍繞伸展舞台"
+        },
+        {
+          "target_issue": "在施工期遭遇嚴重惡劣嚴冬及惡性通貨膨脹導致木材價格暴漲的危機",
+          "architectural_metaphor_concept": "減法構造",
+          "tectonic_strategy": "在維持核心結構下砍除鋪面、景觀與非核心設備以確保春季如期開檔"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "thrust stage",
+          "fly tower",
+          "seating bowl",
+          "trapezoidal hydraulic stage lift",
+          "trap rooms",
+          "splay walls",
+          "voms",
+          "electric winched bridges"
+        ],
+        "front_of_house_foh": [
+          "lobby",
+          "audience galleries",
+          "balconies",
+          "public circulation",
+          "box office"
+        ],
+        "back_of_house_boh": [
+          "scenic storage dock",
+          "stage support areas",
+          "backstage",
+          "technical spaces",
+          "loading dock（推測）"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Auditorium Volume → dominates the building form of (Spatial_Massing_&_Conceptual_Relation) → Whole Theatre Structure",
+          "Fly Volume → vertically protrudes from (Spatial_Massing_&_Conceptual_Relation) → Stage House Box"
+        ],
+        "meso_level": [
+          "FOH Public Lobby → distributed entry through perimeter into (Circulation_FOH) → Main Audience Seating",
+          "BOH Backstage Zone → directly accesses via dedicated pathways (Circulation_BOH) → Stage Support Areas",
+          "Scenic Storage Dock → positioned directly behind (Circulation_BOH) → Main Stage Area",
+          "Stage Support Areas → separated from (Acoustic_Buffer) → Main Auditorium"
+        ],
+        "micro_level": [
+          "Timber Expression → lines the multi-level walls of (Interface_Tectonic) → Audience Galleries",
+          "Acoustic Finishes → integrate with the seating bowl surfaces of (Interface_Tectonic) → Main Auditorium",
+          "Splay Walls → pivot from downstage endpoints of (Interface_Tectonic) → Main Stage Area",
+          "Trapezoidal Hydraulic Stage Lift → vertically travels down to (Interface_Tectonic) → Trap Rooms"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Audience-Enclosure_Organization",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Campus_Integrated",
+          "Thrust_Stage_Identity",
+          "Single-Core"
+        ],
+        "typology_diagram_note": "觀眾席量體主導建築形式，三面座席以馬蹄形環抱向前突出的伸展舞台，後勤與飛升體量集中於舞台後側。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Opaque_Monolithic_Shell",
+          "Timber_Expression_Facade"
+        ],
+        "material_taxonomy": [
+          "Wood",
+          "Steel",
+          "Timber"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "主體結構採用西北森林木材與鋼結構混合，大廳與外殼副結構順應內部劇場碗狀看台的放射幾何進行包裹。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Multi_Level_Sculptural_Foyer",
+            "Fluid_Horizontal_Concourse"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Timber_Expression",
+            "Exposed_Infrastructure"
+          ],
+          "experience_note": "前台大廳透過多層次露台與公共迴路交織，呈現溫暖的木質調性，並引導人群向劇場各層外圍滲透。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Absorptive_Finishes（推測）"
+          ],
+          "experience_note": "大廳進入看台前，透過環狀分佈的聲鎖與暗廊壓縮感官尺度，形成進入戲劇演出的心理轉折防護膜。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Angus Bowmer Theatre",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering",
+              "Enveloping_Audience_Bowl"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Collective_and_Immersive"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "室內結合木質構造與聲學反射面料，以陡峭的歐式無走道大陸式座席形塑緊湊、話劇導向的語音清晰度環境。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Honesty_表裡如一",
+        "interstitial_volume_ratio_tag": "Minimal_Skin_Tight",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "外部建築體量高度忠實反映內部劇場與舞台塔的幾何高低，並以緊湊皮層包覆劇場碗，夾縫供大廳流線穿梭。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在不超過 55 英尺的超近距離內，與舞台演員產生強烈的視線與情感集體沉浸經驗。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "利用 voms 通道與前舞台升降梯進行多點立體化出入場表演，並利用可變八字牆調變舞台空間。"
+        },
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在藝術節園區的廣場、重新對齊的行人街道及週邊景觀化的停車場間聚集與漫步。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Budget_Overrun",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "因冬季惡劣氣候與全國木材、劇院設備物價暴漲，導致項目面臨嚴重預算赤字，一度需大量削減次要設計與裝修。"
+        },
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "開局即成功使表演場次與座位容量倍增，其融合 16 世紀與現代劇場的親密設計被譽為全國頂尖劇場之一。"
+        },
+        {
+          "issue_topic": "Structural_Failure",
+          "public_polarity": "Negative_負評",
+          "summary_note": "2011 年主樑發生從頭到尾的嚴重裂縫導致劇院於旺季被迫關閉六週，劇團被迫在公園帳篷及社區場地移地演出。"
+        }
+      ]
+    }
+  }
+}

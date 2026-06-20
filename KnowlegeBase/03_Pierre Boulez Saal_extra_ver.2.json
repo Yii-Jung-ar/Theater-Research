@@ -1,0 +1,182 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Pierre Boulez Saal (皮耶·布萊茲音樂廳)",
+        "theater_scale_hierarchy": "室內樂與音樂教育專用音樂廳 (附屬於 Barenboim-Said Akademie)",
+        "gross_floor_area": "1,022 平方公尺"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Pierre Boulez Hall (皮耶·布萊茲廳)",
+          "seating_capacity": "683 席 (亦有記載為 700 席)",
+          "stage_type": "Arena 圓形/環抱式 (中央舞台包圍式配置)",
+          "primary_performance_type": "Chamber Music 室內樂、Recitals 獨奏會、Small Ensemble Performance 小型合奏、Music Education Events 音樂教育活動",
+          "key_hardware_&_acoustic_conditions": "配備中央演奏台 (Central Concert Platform)、雙卵形不對稱懸挑環形樓座、全木質聲學內襯圍護結構，最遠座位距舞台中央僅 14 公尺"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "德國",
+        "city": "柏林",
+        "urban_context": "米特區 (Mitte) 歷史與文化核心都市紋理，位於菩提樹下國家歌劇院前倉庫 (Magazin) 內部"
+      },
+      "participants_&_operation": {
+        "architect": "Frank Gehry (弗蘭克·蓋里)",
+        "client": "Barenboim-Said Akademie (巴倫波因-薩伊德學院)",
+        "end_user": "學院師生、年輕中東音樂人才、Boulez Ensemble、音樂會觀眾",
+        "consultants": [
+          "Yasuhisa Toyota (豐田泰久 / Nagata Acoustics 聲學顧問)"
+        ],
+        "operator": "Barenboim-Said Akademie (巴倫波因-薩伊德學院)"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "在歷史保護建築方正外殼中置入高親密感現代音樂廳",
+          "architectural_metaphor_concept": "卵形重疊三維律動",
+          "tectonic_strategy": "採「盒子中的盒子」策略，於矩形舊鋼筋混凝土結構內植入獨立雙橢圓體量"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "Pierre Boulez Hall",
+          "Central Performance Platform",
+          "Balcony Seating",
+          "Timber Acoustic Interior"
+        ],
+        "front_of_house_foh": [
+          "Entrance",
+          "Lobby",
+          "Foyer",
+          "Bar",
+          "Audience Circulation Ring",
+          "Balcony Access"
+        ],
+        "back_of_house_boh": [
+          "Artist Office",
+          "Practice Room",
+          "Seminar Room",
+          "Recording Studio",
+          "Technical Spaces",
+          "Administrative Functions"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Oval Auditorium → inserted within (Spatial_Massing_&_Conceptual_Relation) → Historic Building Shell",
+          "Embedded Performance Volume → encased by (Spatial_Massing_&_Conceptual_Relation) → Rectilinear Magazin Building"
+        ],
+        "meso_level": [
+          "Audience Circulation Ring → surrounds the perimeter of (Circulation_FOH) → Pierre Boulez Hall",
+          "Ancillary Functions → occupy the perimeter between (Other_Meso_Programmatic_Zoning) → Oval Hall and Exterior Walls",
+          "Upper Level Practice Rooms → vertically segregated from (Acoustic_Buffer) → Lower Level Performance Hall",
+          "Dedicated Support Rooms → directly connected to (Circulation_BOH) → Central Performance Platform"
+        ],
+        "micro_level": [
+          "Timber Acoustic Interior → lines the interior surface of (Interface_Tectonic) → Oval Auditorium",
+          "Continuous Balcony Ring → integrated into the upper volume of (Interface_Tectonic) → Pierre Boulez Hall"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Volume-in-Volume",
+        "boh_foh_segregation_topology_primary_type": "Vertical_Zoning_Separation",
+        "typological_supplementary_tags": [
+          "Adaptive_Reuse",
+          "Historic_Infill",
+          "Surround_Auditorium"
+        ],
+        "typology_diagram_note": "將獨立的卵形表演體量置入矩形歷史外殼，後勤教學空間垂直疊構於上層與周邊夾縫。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Opaque_Monolithic_Shell",
+          "Historic_Masonry_Facade"
+        ],
+        "material_taxonomy": [
+          "Historic_Masonry",
+          "Plaster",
+          "Wood",
+          "Steel"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "外觀維持 Richard Paulick 設計的歷史砌體牆，內部橢圓音樂廳與環狀樓座採獨立鋼結構與懸挑梁脫開掛接。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Fluid_Horizontal_Concourse",
+            "Multi_Level_Sculptural_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Historic_Masonry",
+            "Plaster",
+            "Warm_Timber"
+          ],
+          "experience_note": "觀眾自充滿歷史厚重感的舊倉庫大廳進入，隨環狀流線漫步，光影逐漸由外牆開窗導向內部核心。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Acoustic_Enclosure"
+          ],
+          "experience_note": "經過圍繞卵形音樂廳四周的聲學過渡廊道，透過空間尺度的微幅壓縮與屏蔽，建立進入觀演前的心理緩衝。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Pierre Boulez Hall",
+            "seating_bowl_geometry_language": [
+              "Terraced_Oval_Hybrid",
+              "Continuous_Balcony_Ring"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Immersive_Light_Wood"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "全木質曲面內襯與波浪形懸挑樓座完美契合豐田泰久的物理聲學設計，創造極致包裹感。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Moderate_Cavity",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "運用正方外殼與卵形核心間的幾何夾縫，轉化為公共流線與聲學防護的立體空腔。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在距舞台14米內的極近距離內，與演奏者建立高親密性的300度環抱觀演體驗。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在高度靈活的中央演奏台進行跨學科、多編制的室內樂排練、教學與跨文化交流演藝。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Spatial_Intimacy_&_Acoustics",
+          "public_polarity": "Positive_正評",
+          "summary_note": "輿論盛讚 Gehry 與豐田泰久的合作，完美在緊湊體量中兼顧了聲學的溫潤通透與極致的感官親密感。"
+        }
+      ]
+    }
+  }
+}
