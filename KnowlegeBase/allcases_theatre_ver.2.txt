@@ -1,0 +1,491 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "臺北表演藝術中心 (Taipei Performing Arts Center, TPAC)",
+        "theater_scale_hierarchy": "國家級/首都旗艦級複合型劇院群",
+        "gross_floor_area": "58,658 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "大劇院 (Grand Theater)",
+          "seating_capacity": "1,500 席",
+          "stage_type": "Asymmetrical Flexible Stage (非標準鞋盒形不對稱平面)",
+          "primary_performance_type": "各式表演藝術類型 (different performing arts genres)",
+          "key_hardware_&_acoustic_conditions": "舞台、主觀眾席與樓座整合為延續之折疊地形型態"
+        },
+        {
+          "hall_name": "球劇場 / 鏡框式中劇場 (Globe Playhouse / Proscenium Playhouse)",
+          "seating_capacity": "800 席",
+          "stage_type": "Proscenium 鏡框式 (懸浮球體劇場)",
+          "primary_performance_type": "實驗性舞台鏡框與當代劇場 (experimentation with stage framing)",
+          "key_hardware_&_acoustic_conditions": "具備由裡層與外層構成的雙層球殼結構，與中央立方體交接面形成獨特活動式鏡框開口"
+        },
+        {
+          "hall_name": "藍盒子 / 多形式中劇場 (Blue Box / Multiform Theatre)",
+          "seating_capacity": "800 席",
+          "stage_type": "Black Box 黑盒子 / Flexible Stage",
+          "primary_performance_type": "最具實驗性的前衛表演 (most experimental performances)",
+          "key_hardware_&_acoustic_conditions": "與大劇院位於同一層相對位置，內部配置可完全轉換、調整或與大劇院合併"
+        },
+        {
+          "hall_name": "超級大劇場 (Super Theater)",
+          "seating_capacity": "2,300 席（推測）",
+          "stage_type": "Coupled Factory-like Monumental Stage (連通型超長舞台)",
+          "primary_performance_type": "巨型史詩級劇作或非正規空間之特定場域演出 (e.g., Die Soldaten)",
+          "key_hardware_&_acoustic_conditions": "由大劇院與藍盒子對位耦合對接而成，具備工業工廠特性的巨型連續空間，可提供長達 100 米的表演舞台"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲",
+        "country": "臺灣",
+        "city": "臺北市",
+        "urban_context": "士林區高密度都市中心，緊鄰捷運劍潭站與充滿街頭文化活力的士林夜市紋理"
+      },
+      "participants_&_operation": {
+        "architect": "OMA 大都會建築事務所（主導建築師：Rem Koolhaas, David Gianotten；項目總監：林家如）+ 大元聯合建築師事務所（姚仁喜 | 大元建築工場）",
+        "client": "臺北市政府文化局、代辦機關：臺北市政府捷運工程局（第一區工程處）、臺北市政府工務局（新建工程處）",
+        "end_user": "普羅大眾、國內外表演藝術團體、特定駐團與訪客",
+        "consultants": [
+          "劇場顧問：dUCKS scéno, 行式管理顧問",
+          "聲學顧問：DHV, Theo Raijmakers (Level Acoustics & Vibration), SMW",
+          "景觀及室內設計：Inside Outside",
+          "結構/機電/建築物理/消防工程：Arup, 永峻工程顧問公司（結構）, 恆開工程顧問（機電）, IS Leng and Associates（機電）, 台灣建築與都市防災顧問（消防）",
+          "燈光顧問：大公照明設計顧問",
+          "外牆工程：ABT, CDC Inc.",
+          "永續性設計顧問：澄毓綠建築設計顧問",
+          "地質技術工程：富國大地",
+          "交通顧問：易緯工程顧問"
+        ],
+        "operator": "台北市文化基金會 / 臺北表演藝術中心營運團隊（推測）"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "當代展演中心流於功能單一、空間公式化，且內部運作守舊封閉",
+          "architectural_metaphor_concept": "魔術方塊內部實驗",
+          "tectonic_strategy": "將三座劇場的核心舞台與後勤集中於中央立方體，使劇場體量向外頂出"
+        },
+        {
+          "target_issue": "在夜市旁的高密度極小都市基地內容納三座獨立大型劇院",
+          "architectural_metaphor_concept": "緊湊型機械機芯",
+          "tectonic_strategy": "運用極致的緊湊與體量重疊操作，釋放地面層以形成遮陽擋風的景觀廣場"
+        },
+        {
+          "target_issue": "傳統劇場流於文人雅仕專屬，與市民日常生活和基層紋理脫節",
+          "architectural_metaphor_concept": "破除第四面牆",
+          "tectonic_strategy": "將立方體抬高，置入一條貫穿劇場基建、對未持票大眾開放的立體公共參觀迴路"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "Stage",
+          "Backstage",
+          "Seating Bowl",
+          "Sphere Hall",
+          "Proscenium",
+          "Fly Tower",
+          "Inner Shell",
+          "Outer Shell",
+          "Technical Spaces",
+          "Service Corridors"
+        ],
+        "front_of_house_foh": [
+          "Main Entrance",
+          "Lobby",
+          "Foyer",
+          "Public Circulation Corridor",
+          "Site Plaza",
+          "Staircase",
+          "Elevator",
+          "Bridge",
+          "Terrace",
+          "Public Platform System",
+          "Atrium"
+        ],
+        "back_of_house_boh": [
+          "Backstage Service Zones",
+          "Dressing Rooms",
+          "Technical Rooms",
+          "Storage Areas",
+          "Rehearsal Rooms"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Three Theater Volumes → plugged into (Spatial_Massing_&_Conceptual_Relation) → Central Cube",
+          "Spherical Theater Volume → embedded within (Spatial_Massing_&_Conceptual_Relation) → Rectilinear Building Massing",
+          "Central Cube → elevated over (Spatial_Massing_&_Conceptual_Relation) → Site Plaza"
+        ],
+        "meso_level": [
+          "Public Loop Corridor → penetrates through (Circulation_FOH) → Central Cube Theater Infrastructure",
+          "Backstage Service Zones → strictly separated from (Acoustic_Buffer) → Public Circulation Corridor",
+          "Dual Shell Circulation Void → brings audience to (Circulation_FOH) → Sphere Hall Seating Bowl",
+          "Dedicated Backstage Circulation → directly serves (Circulation_BOH) → Stage and Dressing Rooms"
+        ],
+        "micro_level": [
+          "Inner Shell and Central Cube Intersection → forms (Interface_Tectonic) → Unique Convertible Proscenium",
+          "Continuous Folded Plane → unifies (Interface_Tectonic) → Stage Level, Parterre, and Balcony",
+          "Corrugated Glass Wall → encases the exterior of (Interface_Tectonic) → Central Cube Structural Frame",
+          "Secondary Steel Members → support the curved system of (Interface_Tectonic) → Perforated Metal Skin"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Inside_Out_Protrusion",
+        "boh_foh_segregation_topology_primary_type": "Strict_3D_Interleaving",
+        "typological_supplementary_tags": [
+          "Sphere_in_Box",
+          "Compact_Cluster",
+          "Urban_Infrastructure_Plug_in",
+          "Coupled_Super_Theater"
+        ],
+        "typology_diagram_note": "將三劇院之核心後勤共用化並高度壓縮於中央立方體，使三大劇場體量朝不同面向懸挑突出演繹 programmatic wealth。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Corrugated_Glass_Curtain_Wall",
+          "Opaque_Monolithic_Shell",
+          "Perforated_Metal_Skin",
+          "Layered_Façade"
+        ],
+        "material_taxonomy": [
+          "Corrugated_Glass",
+          "Steel",
+          "Metal_Cladding",
+          "Exposed_Steel_Structure"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "中央立方體採波浪玻璃帷幕外包鋼結構，外凸的三座劇場則以獨立鋼桁架、太空桁架與次級構件完全脫開懸掛掛接。"
+      }
+    },
+    "d2_interior_space_sequence_experience": {
+      "foyer_promenade_phenomenology": {
+        "spatial_scale_tags": [
+          "Multi_Level_Sculptural_Foyer",
+          "Vertically_Chambered_Atrium"
+        ],
+        "material_atmosphere_vocabulary": [
+          "Raw_Concrete",
+          "Exposed_Infrastructure",
+          "Blue_Theatrical_Lighting"
+        ],
+        "experience_note": "大廳以誠實赤裸的石膏板、裸露管線與結構展現基建性，透過波浪玻璃漫射出的動態光影引導市民進入劇場內部。"
+      },
+      "acoustic_transition_threshold": {
+        "transition_mechanism_tags": [
+          "Dual_Shell_Circulation_Void",
+          "Compressed_Dark_Corridor"
+        ],
+        "material_atmosphere_vocabulary": [
+          "Low_Lux_Shadows",
+          "Opaque_Monolithic_Enclosure"
+        ],
+        "experience_note": "觀眾需在球劇場型態獨特的雙層球殼夾縫動線中穿梭，透過光影尺度的極致壓縮與心理鋪陳，過渡至核心座席區。"
+      },
+      "auditorium_interior_enclosure": [
+        {
+          "hall_name": "大劇院 (Grand Theater)",
+          "seating_bowl_geometry_language": [
+            "Continuous_Asymmetric_Folded_Plane"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Industrial_Gray",
+            "Minimalist_Metallic"
+          ],
+          "acoustic_geometry_alignment_logic": [
+            "Parametric_Acoustic_Surface"
+          ],
+          "acoustic_material_integration": "不對稱折疊地形界面消解傳統包廂階層，面料順應聲學並整合於連續鋼構折面內。"
+        },
+        {
+          "hall_name": "球劇場 (Globe Playhouse)",
+          "seating_bowl_geometry_language": [
+            "Continuous_Spherical_Enclosure"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Deep_Theater_Blue",
+            "Theatrical_Glow"
+          ],
+          "acoustic_geometry_alignment_logic": [
+            "Parametric_Acoustic_Surface"
+          ],
+          "acoustic_material_integration": "內殼交匯處形成獨特鏡框，球體弧形曲面與座位面料緊密整合，創造極具包裹感的向心聲學圍合。"
+        }
+      ]
+    },
+    "d3_inside_out_integration_strategy": {
+      "formal_alignment_type": "Disjunction_皮肉分離",
+      "interstitial_volume_ratio_tag": "Maximal_Urban_Void",
+      "interstitial_functional_tags": [
+        "Circulation_Promenade_Ramp",
+        "Civic_Spectacle_Window",
+        "Other_Acoustic_Detachment_Shell_Void"
+      ],
+      "strategy_diagram_note": "利用雙層皮層及量體嵌合所產生的巨型空腔置入公共參觀迴路與交通動線，使內部基建成為無門檻的都市景觀延伸。"
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民與夜市訪客",
+          "spatial_behavior_action": "即使未持票亦可透過公共迴路路徑自由穿梭於劇場深處，或在抬高的地面層架空廣場與市民大眾聚集日常活動。"
+        },
+        {
+          "user_group": "Performer_演職人員與導演",
+          "spatial_behavior_action": "利用連通耦合的超級大劇院 factory 尺度嘗試全新劇作形式，於宇宙中心的向心舞台與觀眾近距離激發能量。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "其極端且前衛的幾何形態（方塊插接球體與不透光懸浮體）在都市景觀中引發大眾極端的愛恨兩極輿論評價。"
+        },
+        {
+          "issue_topic": "Tectonic_Honesty",
+          "public_polarity": "Positive_正評",
+          "summary_note": "刻意保留拼湊石膏板與裸露管線，誠實直白地展現十年的建造過程與台灣生猛草根味，被譽為一場精采的建築展演。"
+        }
+      ]
+    }
+  }
+}
+
+
+
+
+
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Oslo Opera House (挪威國家歌劇院與芭蕾舞團)",
+        "theater_scale_hierarchy": "國家級音樂與劇場機構",
+        "gross_floor_area": "38,500 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Auditorium (大劇院)",
+          "seating_capacity": "1,370 席",
+          "stage_type": "Proscenium 鏡框式",
+          "primary_performance_type": "歌劇 Opera、芭蕾舞 Ballet",
+          "key_hardware_&_acoustic_conditions": "配備活動式下沉樂池（三組獨立升降機）、可調式 proscenium 寬度移動塔、50mm 實木歌劇院型迴響結構與 100mm 凸面反射背板，音響效果媲美傳統古典劇場。"
+        },
+        {
+          "hall_name": "Stage 2 (中劇院/多功能廳)",
+          "seating_capacity": "400 席",
+          "stage_type": "Flexible 黑盒子",
+          "primary_performance_type": "歌劇 Opera、芭蕾舞 Ballet、宴會 functions、搖滾音樂會 Rock Concerts、實驗性劇場 Experimental Art、兒童劇",
+          "key_hardware_&_acoustic_conditions": "配備大卡車移動式座椅台車與 2 組大型升降梯，無傳統布景吊桿塔，改採全電動滑輪吊掛系統，配置高密閉 9 米高後台滑動隔音門與可調式吸音門扇。"
+        },
+        {
+          "hall_name": "Rehearsal Room 1 (排練廳 1 / 實驗劇場)",
+          "seating_capacity": "150 席",
+          "stage_type": "Black Box 黑盒子",
+          "primary_performance_type": "實驗性跨領域劇場 Experimental Art、排練 Rehearsal",
+          "key_hardware_&_acoustic_conditions": "具備專屬南側公眾通道，可兼作實驗性公共表演空間，牆面配置高性能隔音與可調式聲學板。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲",
+        "country": "挪威",
+        "city": "奧斯陸 (Oslo)",
+        "urban_context": "濱水重劃區 (Bjørvika 半島前工業造船廠碼頭)"
+      },
+      "participants_&_operation": {
+        "architect": "Snøhetta",
+        "client": "Ministry of Church and Cultural Affairs / Statsbygg (興建專責單位)",
+        "end_user": "The Norwegian Opera and Ballet (挪威國家歌劇與芭蕾舞團)",
+        "consultants": [
+          "Brekke & Strand Akustikk (聲學顧問)",
+          "Arup Acoustics (聲學顧問)",
+          "Theatre Projects (劇場顧問)",
+          "Reinertsen Engineering (結構工程)",
+          "Ingeniør Per Rasmussen AS (電氣工程)",
+          "NGI (地質工程)"
+        ],
+        "operator": "The Norwegian Opera and Ballet"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "將工業遺址碼頭轉型為市民共享的開放性民主濱水都市公共空間。",
+          "architectural_metaphor_concept": "地毯與白色雪山",
+          "tectonic_strategy": "運用白色大理石斜坡屋頂打造出連續延伸至海平面的可步行都市景觀地景。"
+        },
+        {
+          "target_issue": "在高度複雜的劇場藝術機能與都市日常公共生活間建立清晰的對話門檻。",
+          "architectural_metaphor_concept": "波浪牆",
+          "tectonic_strategy": "以有機凹凸幾何的橡木波浪牆作為大廳核心，既是聲學反射體亦為內外跨越的機能邊界。"
+        },
+        {
+          "target_issue": "高效率且具備高度彈性的庞大劇場後勤生產與道具製作工藝流程流線。",
+          "architectural_metaphor_concept": "自給自足工廠",
+          "tectonic_strategy": "設計大跨度且由東向西橫穿的中央卸貨碼頭，理性劃分硬質與軟質作坊，直接插接舞台。"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "proscenium stage",
+          "orchestra pit",
+          "seating bowl",
+          "balcony seating",
+          "fly tower",
+          "side stage",
+          "rear stage",
+          "scenery hall",
+          "acoustic panels",
+          "oval ceiling reflector"
+        ],
+        "front_of_house_foh": [
+          "grand foyer",
+          "ticketing box",
+          "promenade ramp",
+          "public plaza",
+          "waterfront plaza",
+          "roofscape",
+          "exterior terrace",
+          "brasserie",
+          "restaurant"
+        ],
+        "back_of_house_boh": [
+          "loading dock",
+          "scenery workshop",
+          "backstage dressing room",
+          "rehearsal hall",
+          "green room",
+          "opera street",
+          "green courtyard"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Theater Core Box → encased by (Spatial_Massing_&_Conceptual_Relation) → Curvilinear Envelope",
+          "Accessible Roofscape → extends directly into (Spatial_Massing_&_Conceptual_Relation) → Waterfront Promenade"
+        ],
+        "meso_level": [
+          "Opera Street Corridor → strictly segregates (Acoustic_Buffer) → BOH Production Zone FROM FOH Public Lobby",
+          "Loading Dock → directly connects to (Circulation_BOH) → Rear Stage Area",
+          "Grand Staircase → peeled out from (Circulation_FOH) → Public Galleries",
+          "Low Iron Glass Façade → visually exposes (Circulation_FOH) → Timber Wave Wall"
+        ],
+        "micro_level": [
+          "Acoustic Timber Panels → line the interior of (Interface_Tectonic) → Seating Bowl",
+          "Convex MDF Panels → diffuse sound within (Other_Micro_Acoustic_Geometry_Alignment // 用於說明材料微紋理形狀與物理聲學反射之對位) → Seating Bowl Back Walls",
+          "Glass Fins with Sandwiched Fixings → support the weight of (Interface_Tectonic) → High Glass Façade",
+          "Perforated Illuminated Cladding → wraps the exterior of (Interface_Tectonic) → Public Toilet Volumes"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Landscape_Infrastructural",
+          "Waterfront_Integrated"
+        ],
+        "typology_diagram_note": "劇場核心嵌入中央，西側大廳被公共地景與地毯坡道完整包裹，東側則水平展開理性高效的工廠體量。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Wave_Glass_Curtain_Wall",
+          "Opaque_Monolithic_Shell",
+          "Punch_Aluminium_Cladding"
+        ],
+        "material_taxonomy": [
+          "Carrara_Marble",
+          "Ice_Green_Granite",
+          "Aluminium_Cladding",
+          "Low_Iron_Glass"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "大理石屋頂獨立抬高，15米高低鐵玻璃面採隱蔽式夾心鋼件與玻璃肋組成的副結構獨立系統承托。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Multi_Level_Sculptural_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Raw_Concrete",
+            "Exposed_Infrastructure",
+            "Warm_Oak_Lining"
+          ],
+          "experience_note": "公眾由壓低的白色屋頂下緩步進入大廳，強烈日光透過15米高玻璃帷幕映射於宏偉的溫潤橡木波浪牆。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Ammonia_Treated_Dark_Oak"
+          ],
+          "experience_note": "觀眾穿過完全屏蔽外部光線的深色雙層隔音閘門，空間尺度由大廳的開敞感急遽壓縮，完成觀演心理緩衝。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Main Auditorium",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Crimson_Velvet_Cladding"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "採多曲率 50mm 實木橡木欄河與微紋理凸面背板，完全整合物理聲學擴散要求。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Interlocking_相互交織",
+        "interstitial_volume_ratio_tag": "Maximal_Urban_Void",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "斜屋頂與劇場本體間夾縫轉化為巨大的玻璃中庭大廳與攀爬地景，使公共漫步迴路與高雅藝術完全交織。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在可步行的斜坡屋頂上進行極限滑板、冬日滑雪橇、日光浴與自發性聚集，屋頂平臺最多聚集1.5萬人。"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在非演出時段自由進出 keyless 開放式大廳，利用其劇院級聲學空間參與室內音樂會與libretto字幕選讀。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在與大舞台等比例的南向通透排練廳中進行完整帶景排練，並在環繞中央內庭的舒適個人休息椅上休憩。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "評論家盛讚其為具有民主精神的「建築地景先驅」，成功將濱水工業遺址轉化為回饋城市的巨大公共禮物。"
+        },
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "傳統古典馬蹄形配置配合現代參數化木構造表面，在未添加繁複古典裝飾下仍實現了完美的歌劇與芭蕾聲學品質。"
+        }
+      ]
+    }
+  }
+}

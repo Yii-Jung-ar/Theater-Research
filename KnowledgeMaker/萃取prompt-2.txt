@@ -1,0 +1,272 @@
+你是一位資深的建築語意分析師。請根據我給出的兩份資料進行語意解析與模組化建構，輸出該劇院/建築案例的 Precedent DNA，涵蓋四大模組（Gene A–D），並以條列式方式明確分類。
+
+請深度整合以下兩份輸入資料：
+1.文字說明：主要提供案例之基地條件、設計意圖、劇場機能設定、操作營運策略與空間整體觀。
+2.空間構成補充資料 (preprocess)：提供由建築平立剖面、照片及分析圖轉譯而來的空間語彙（Vocabulary）、語意關係（Semantic Relations）與整體空間印象（Overall Spatial Impression），主要用以支援 Gene_C 的建構。
+
+---
+
+請輸出下列五項 Gene（請以清單格式條列，分類清楚，語意精簡專業，使用建築專業術語）：
+
+Gene_A：Conditions 條件與脈絡
+
+說明此建築的外部邊界與基本設定，須包含以下子項（若無提及，請根據常識與建築經驗合理推測並註記「（推測）」）：
+
+l   Identity & Scale（定位與規模）：建築/劇場官方名稱與別稱、劇場總體定位層級（如國家級、地方綜合型、實驗性劇院群）、總樓地板面積 (GFA)。
+
+l   Halls Specification（多劇場規格）：個別劇場/音樂廳名稱（如大劇院、黑盒子）、個別座位數、舞台與觀眾席形式（請精準分類，如：Proscenium 鏡框式、Thrust 伸展式、Vineyard 葡萄園式、Arena 圓形/環抱式、Black Box 黑盒子、Shoebox 鞋盒式等）、主要服務之表演藝術類型、關鍵硬體與建築物理聲學條件。
+
+l   Location & Context（地點與環境）：洲別、國家、城市、基地所處的城市紋理或人口脈絡（如高密度都市中心、濱水重劃區）。
+
+l   Participants & Operation（參與者與營運）：主導建築師（及在地合作事務所）、業主單位、最終使用者、專業顧問團隊（如聲學、劇場顧問）、實際營運管理單位。
+
+ 
+
+Gene_B：Design Intentions 設計意圖
+
+剖析設計底層的論述與策略：
+
+l   Issue：此案面對的空間挑戰、都市議題、特殊機能限制（如高難度的劇場聲學隔離、極小基地內的動線分流、文化保存衝突、大眾運輸導向發展 (TOD) 整合）。
+
+l   Concept：核心的抽象設計理念、美學語彙或設計隱喻（例如：將開放式大廳視為都市公共廣場的延伸、場所精神的再現）。
+
+l   Strategy：為實踐理念所採取的具體空間構造或塊體操作策略（例如：巨型懸挑體量、雙層呼吸式幕牆皮層、垂直堆疊機能、大地測量穹頂）。
+
+
+
+Gene_C：Form Composition 空間構成與劇場類型學
+請精準消化圖面轉譯資料與文字，建構空間機能與體量配比的語意圖譜：
+
+C1: Vocabulary（空間語彙）：
+請列出案例中出現的重要空間元素，並精準區分為以下三類：
+
+劇場核心硬體：proscenium stage (鏡框式舞台), fly tower (布景吊桿塔), orchestra pit (樂池), acoustic panels (聲學反射板), seating bowl, sound lock...
+
+前台公眾 (FOH)：grand foyer (前台大廳), ticketing box, promenade ramp (建築漫步坡道), public plaza, cafe...
+
+後台後勤 (BOH)：backstage dressing room, loading dock (卸貨碼頭), rehearsal hall (排練廳), scenery workshop, green room...
+
+C2: Hierarchical Semantic Relations（層級化語意關係鏈）： 
+請依據空間尺度，由大到小分層標註關係鏈，請嚴格使用以下格式標註空間構成的語意關係（Subject 與 Object 必為單一空間元素，Relation 為單一明確動詞或短語，Relation Type 必須從下方分類中擇一）：
+
+格式：`[Subject] → [Relation (Relation Type)] → [Object]` 
+
+Relation Type 分類標準：
+
+
+Spatial_Massing_&_Conceptual_Relation（抽象設計理念與體量幾何關係，如：包裹、懸挑、外露、垂直堆疊）
+
+
+Circulation_FOH（觀眾流線、公共經驗與建築漫步動線）
+
+
+Circulation_BOH（演職人員與後勤貨運動線，需特別注意其與 FOH 的隔離度）
+
+
+Acoustic_Buffer（物理聲學防護、防噪空間分區或構造隔離）
+
+
+Interface_Tectonic（室內界面/表皮與結構主體的接合關係）
+
+Other_Macro_[自定義] / Other_Meso_[自定義] / Other_Micro_[自定義]（若上述分類不足以涵蓋，允許 AI 自行命名新類別，但必須根據尺度強制加上 Macro/Meso/Micro 前綴，並於後方備註說明其用途） 
+
+1. 【Macro-Level】(總體體量與都市界面) 
+著重核心體量與外部皮層、基地環境的關係。 
+Relation Type 限用: [Spatial_Massing_&_Conceptual_Relation] 或 [Other_Macro_[自定義]] 
+ 範例：Theater Core Box → encased by (Spatial_Massing_&_Conceptual_Relation) → Curvilinear Envelope 
+
+2. 【Meso-Level】(功能分區與動線界面) 
+著重 FOH、BOH 與劇場核心之間的流線、交界與隔離。 
+Relation Type 限用: [Circulation_FOH], [Circulation_BOH], [Acoustic_Buffer] 或 [Other_Meso_[自定義]] 
+範例：BOH Backstage Zone → strictly segregated from (Acoustic_Buffer) → FOH Public Lobby 
+
+3. 【Micro-Level】(構造、設備與界面物件) 
+著重單一空間內部的構造、硬體物件裝配或材料界面關係。 
+Relation Type 限用: [Interface_Tectonic] 或 [Other_Micro_[自定義]] 
+範例：Acoustic Timber Panels → line the interior of (Interface_Tectonic) → Seating Bowl 
+
+執行與數量限制： 
+1. 各層級「只能」使用該層級指定的 Relation Type（包含對應前綴的 Other 類別），絕對禁止越界混用。 
+2. 為確保建築知識圖譜的密度，【Macro-Level】必須至少輸出 2 組；【Meso-Level】必須至少輸出 4 組（且必須包含 BOH 與 FOH 關係）；【Micro-Level】必須至少輸出 4 組。
+3. 若資料庫輸入資料極其豐富，請盡可能窮舉所有可辨識的關係，不受上述最低數量限制。 
+總計整個案例必須輸出至少 10 組以上嚴格格式化的關係鏈。 
+
+C3: Typological Composition Logic（類型學構成邏輯）：
+
+Program Massing Ratio Strategy：分析核心劇場體量（Auditorium/Stage）與附屬空間（Foyer/Offices）的體量比例與配比關係（例如：巨型劇場核心頂出於低矮裙樓之上，或附屬空間環繞包裹著核心）。
+
+BOH/FOH Segregation Logic：空間上如何處理前後台的分流？（例如：公眾由前方地下/天橋立體動線進入，後勤由基地後方低矮層進入，兩者在舞台邊界處嚴格隔離）。
+
+
+
+Gene_D：Tectonic & Appearance Integration 構造與外型整合策略
+解密劇場嚴謹內部機能與奇特/多變外部形式之間的「Outside-In（由外而內）」整合手法：
+
+D1: Envelope Strategy（表皮策略）：
+
+Facade Typology：表皮類型（例如：Monolithic Shell 單一巨型外殼、Double-Skin Double-Curved 雙曲面雙層皮層、Screen/Louvers 遮陽格柵屏蔽）。
+
+Material & Texture：外殼材料與構造細部質感（例如：幾何拼貼的 GFRC 面板、穿孔鈦鋅板、大跨度無肋玻璃帷幕）。
+
+Envelope to Structure Relation：外殼與結構主體的幾何與物理關係（例如：外殼完全脫離主體結構並由獨立空間鋼桁架支撐、皮層與承重牆體合一）。
+
+D2: Interior Space Experience（室內空間經驗）：
+
+Foyer Phenomenology：前台大廳的感官與現象學品質（例如：利用不規則曲面導引光影、巨大的垂直挑空中庭、清水混凝土的幾何雕塑感）。
+
+Auditorium Interior Language：劇場內部的室內設計語彙，以及它如何回應聲學（例如：為了聲學反射而設計的參數化幾何木質格柵、與外部流線形式完全斷裂的正交古典裝飾）。
+
+D3: Inside-Out Integration Strategy（內外部整合邏輯）：
+
+Formal Relationship Type：內外部形式的對位關係分類（請精準判定並從中擇一）：
+
+Honesty (表裡如一)：外部形式即為內部空間的直接投影。
+
+Disjunction (皮肉分離)：奇特外殼與內部正交劇場完全脫開，幾何互不相關（衣服與盒子的關係）。
+
+Interlocking (相互交織)：內部劇場的局部體量穿透或咬合至外殼之外。
+
+Interstitial Space Utility：外殼與內部劇場脫開時，兩者之間產生的不規則「夾縫空間（Interstitial Space / Void）」是如何被積極活用轉化的？（例如：轉化為觀眾等候大廳、立體流線長廊、空中咖啡廳、或微氣候調節的緩衝帶）。
+
+
+
+Gene_E：Outcomes & Reflection 結果與回饋
+描述建築落成後的實際社會效應與空間表現：
+
+User Behavior（使用者行為反應）：觀眾、市民或演職人員的實際空間行為反應（例如在公共大廳停留、多廳同時演出時的人流分流狀況、前后台流線的實際運作流暢度）。
+
+Discourse & Criticism（社會評論與媒體反饋）：建築界的專業評論、大眾媒體反饋或爭議事件（如地標效應、預算超支、營運機能缺陷、某特定廳的聲學評價瑕疵或政治角力）。
+
+Tectonic Results（空間操作結果回顧）：設計者自身的回顧，或該空間在都市、文化層面所帶來的實際衝擊與視覺表現力。
+
+---
+
+# 核心邊界與防外洩指引
+1. 禁止聯網搜尋：執行此任務時，切勿上網搜尋任何外部資料。
+2. 僅限使用所提供的資料：你只能根據本提示詞最下方附帶的「文字說明」與「空間構成補充資料 (preprocess)」進行語意萃取。
+3. 推論邊界規範：
+   只有在「座位數、面積、年份、參與者、地點」等基礎客觀事實缺失時，允許你根據案例名稱與既有專業知識進行合理的低度推測，但必須在字尾加註「（推測）」，若完全無法推論請填入 `"未知"`。
+   對於空間構成（Gene_C）、設計策略（Gene_B）與空間關係，絕對禁止引用非提供文本中的外部描述。
+4. 空值阻斷機制：若為提供檔案名稱含有「文字說明」與「空間構成補充資料 (preprocess)」的檔案，請勿生成任何 Precedent DNA 內容，請直接且僅輸出以下錯誤 JSON 物件：`{"error": "No input data provided."}`。
+
+執行與輸出指引
+1.輸出規範：僅輸出一個有效的 Markdown JSON 程式碼區塊（即以 ```json 開頭與 ``` 結尾）。在區塊之外，不得包含任何前後對話、解釋性文字、Markdown 標題或客套話。
+2.建築與劇場專業術語：請務必使用精準的建築與劇場學術語（如：Proscenium, Thrust, Vineyard, Arena, Black Box, Horseshoe, Shoebox 等）。
+3.多劇場處理原則：若案例包含多個劇場/廳，請務必在 `halls_specification` 陣列中為每個廳建立獨立的物件。若只有單一劇場，該陣列內則僅保留一個物件。
+4.缺失資料處理：若某些資訊未在資料中明確提供，請根據建築經驗合理推論並在字尾加註「（推測）」，若完全無法推論請填入 `"未知"`。
+
+---
+
+# JSON Schema 架構
+請將分析結果精準填入以下 JSON 結構中：
+
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "建築/劇場案例的官方名稱與常見別稱",
+        "theater_scale_hierarchy": "劇場總體定位層級（如國家級、地方綜合型、實驗性劇院群）",
+        "gross_floor_area": "總樓地板面積 (GFA)，請註明單位"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "個別劇場/音樂廳名稱（例如：大劇院、中劇院、音樂廳、實驗劇場）",
+          "seating_capacity": "該廳總座位數（例如：1200 席）",
+          "stage_type": "舞台與觀眾席形式（請精準分類，如：Proscenium 鏡框式、Thrust 伸展式、Vineyard 葡萄園式、Arena 圓形/環抱式、Black Box 黑盒子、Shoebox 鞋盒式等）",
+          "primary_performance_type": "主要服務之表演藝術類型（例如：歌劇 Opera、交響樂 Symphony、芭蕾舞 Ballet、話劇/舞台劇 Drama、音樂劇 Musical、實驗性跨領域劇場 Experimental Art）",
+          "key_hardware_&_acoustic_conditions": "該廳關鍵之硬體與建築物理聲學條件描述（例如：配備 50 組自動化布景吊桿塔 (Fly Tower)、可變音響反射板 (Acoustic Shell)、活動式下沉樂池等）"
+        }
+      ],
+      "location_&_context": {
+        "continent": "所在洲別",
+        "country": "國家名稱",
+        "city": "城市名稱",
+        "urban_context": "基地所處的城市紋理或人口脈絡（如高密度都市中心、濱水重劃區）"
+      },
+      "participants_&_operation": {
+        "architect": "主導建築師/事務所名稱（及在地合作事務所 LDI）",
+        "client": "業主單位（如政府機關、私人開發商）",
+        "end_user": "最終使用者（如目標觀眾、特定駐團）",
+        "consultants": [
+          "專業顧問團隊列表，特別註明劇場顧問 (Theater Consultant) 與 聲學顧問 (Acoustician)"
+        ],
+        "operator": "實際營運管理單位"
+      }
+    },
+    "gene_b_design_intentions":  {
+      "issue": [
+        "此案面對的空間挑戰、都市議題或多廳機能整合限制（如各廳間的聲學噪音防護、極小基地多廳動線分流）"
+      ],
+      "concept": [
+        "核心的抽象設計理念、美學語彙或設計隱喻（例如：將多個劇場體量包裹於單一連續性皮層中）"
+      ],
+      "strategy": [
+        "為實踐理念所採取的具體空間構造、材料皮層或塊體操作策略（例如：3D 曲面不規則形體、巨型鋼構懸挑）"
+      ]
+    },
+
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "劇場核心硬體元素（如：proscenium stage, fly tower, orchestra pit, acoustic panels...）"
+        ],
+        "front_of_house_foh": [
+          "前台公眾空間元素（如：grand foyer, ticketing box, promenade ramp, public plaza...）"
+        ],
+        "back_of_house_boh": [
+          "後台後勤空間元素（如：backstage dressing room, loading dock, rehearsal hall...）"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "【格式要求：Subject → Relation (Relation Type) → Object】",
+          "【Relation Type 限用：Spatial_Massing_&_Conceptual_Relation 或 Other_Macro_[自定義]】",
+          "【數量限制：至少輸出 2 組關係鏈】",
+          "範例：Theater Core Box → encased by (Spatial_Massing_&_Conceptual_Relation) → Curvilinear Envelope"
+        ],
+        "meso_level": [
+          "【格式要求：Subject → Relation (Relation Type) → Object】",
+          "【Relation Type 限用：Circulation_FOH, Circulation_BOH, Acoustic_Buffer 或 Other_Meso_[自定義]】",
+          "【數量限制：至少輸出 4 組關係鏈，且須包含 BOH 與 FOH 關係】",
+          "範例：BOH Backstage Zone → strictly segregated from (Acoustic_Buffer) → FOH Public Lobby"
+        ],
+        "micro_level": [
+          "【格式要求：Subject → Relation (Relation Type) → Object】",
+          "【Relation Type 限用：Interface_Tectonic 或 Other_Micro_[自定義]】",
+          "【數量限制：至少輸出 4 組關係鏈】",
+          "範例：Acoustic Timber Panels → line the interior of (Interface_Tectonic) → Seating Bowl"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "program_massing_ratio_strategy": "分析核心劇場體量（Auditorium/Stage）與附屬空間（Foyer/Offices）的體量比例與配比關係描述",
+        "boh_foh_segregation_logic": "空間上如何處理前後台流線與出入口的嚴格分流與隔離操作邏輯描述"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_strategy": {
+        "facade_typology": "表皮類型（如：Monolithic Shell 單一巨型外殼、Double-Skin Double-Curved 雙曲面雙層皮層、Screen/Louvers 遮陽格柵屏蔽）",
+        "material_and_texture": "外殼材料與構造細部質感描述（如：幾何拼貼的 GFRC 面板、穿孔鈦鋅板）",
+        "envelope_to_structure_relation": "外殼與結構主體的幾何與物理關係描述（如：外殼完全脫離主體結構並由獨立空間鋼桁架支撐、皮層與承重牆體合一）"
+      },
+      "d2_interior_space_experience": {
+        "foyer_phenomenology": "前台大廳的感官與現象學品質描述（如：利用不規則曲面導引光影、巨大的垂直挑空中庭、清水混凝土的幾何雕塑感）",
+        "auditorium_interior_language": "劇場內部的室內設計語彙，以及它如何回應物理聲學反射要求描述（如：參數化幾何木質格柵）"
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_relationship_type": "內外部形式的對位關係分類（請精準判定並從中填入一項：'Honesty (表裡如一)', 'Disjunction (皮肉分離)', 'Interlocking (相互交織)'）",
+        "interstitial_space_utility": "外殼與內部劇場脫開時，兩者之間產生的不規則『夾縫空間 (Interstitial Space / Void)』是如何被積極活用轉化的策略描述"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "user_behavior": [
+        "觀眾、市民或演職人員的實際空間行為反應（例如在公共大廳停留、多廳同時演出時的人流分流狀況）"
+      ],
+      "discourse_&_criticism": [
+        "建築界的專業評論、大眾媒體反饋或爭議事件（如某特定廳的聲學評價瑕疵、多廳營運預算超支）"
+      ],
+      "tectonic_results": [
+        "設計者自身的回顧，或該空間在都市、文化層面所帶來的實際衝擊與視覺表現力"
+      ]
+    }
+  }
+}

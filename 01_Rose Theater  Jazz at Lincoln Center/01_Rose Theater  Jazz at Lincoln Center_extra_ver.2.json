@@ -1,0 +1,257 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Rose Theater / Jazz at Lincoln Center (Frederick P. Rose Hall)",
+        "theater_scale_hierarchy": "國家級/國際頂尖專業爵士與多功能表演藝術中心",
+        "gross_floor_area": "14,590 gross square meters (約 175,000 SF)"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Rose Theater",
+          "seating_capacity": "1,109 至 1,233 席 (另有文獻記載為 1,300 席)",
+          "stage_type": "Proscenium 鏡框式 / Theatre-in-the-round 圓形環抱式可變切換",
+          "primary_performance_type": "爵士樂 Jazz、歌劇 Opera、舞蹈/芭蕾 Dance/Ballet、話劇/舞台劇 Theater、電影播映 Film、交響/管弦樂 Orchestral Performances",
+          "key_hardware_&_acoustic_conditions": "具備 11 座可移動式舞台座椅塔樓 (Movable On-Stage Seating Towers)、可調式升降樂池 (Orchestra Pit)、可折疊收納式音樂廳天花反射板 (Retractable Concert Shell Ceiling)、可變聲學窗簾與橫幅系統 (Acoustical Curtain and Banner System)，整體採 Box-in-a-Box 懸浮防振構造達到 NC-1 極致靜音標準。"
+        },
+        {
+          "hall_name": "The Appel Room (亦稱 The Allen Room)",
+          "seating_capacity": "310 至 600 席 (另有文獻記載為 310 至 550 席)",
+          "stage_type": "Thrust 伸展式 / Amphitheater 希臘劇場式與宴會廳多模式切換",
+          "primary_performance_type": "爵士樂表演 Jazz、歌舞夜總會 Supper-Club、宴會/派對 Receptions/Banquet、企業活動/研討會 Events/Seminars",
+          "key_hardware_&_acoustic_conditions": "舞台後方配置 15.2 米高 (50' × 83') 城市景觀玻璃牆，玻璃面向上微傾斜以避免聲學硬反射；天花板設有幾何形高密度 Styrofoam 聲學擴散體，側牆覆蓋吸音與反射交錯的透聲織物；配備多層液壓升降座位梯級 (Mechanical Tiers) 與可拆卸式舞台。"
+        },
+        {
+          "hall_name": "Dizzy’s Club Coca-Cola",
+          "seating_capacity": "140 席",
+          "stage_type": "Arena 圓形/環抱式 (親密型爵士俱樂部)",
+          "primary_performance_type": "小編制爵士現場演奏 Live Jazz Performance、餐宴/私人聚會 Receptions/Meetings",
+          "key_hardware_&_acoustic_conditions": "採用流線型竹製弧形牆面 (Bamboo Walls) 優化微型空間聲場，設有面向中央公園與曼哈頓天際線的景觀視窗，天花與牆面配有專屬微型聲學擴散與吸音構造，並由全服務廚房後勤支援。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲",
+        "country": "美國 (USA)",
+        "city": "紐約市曼哈頓 (New York City, Manhattan)",
+        "urban_context": "高密度都市中心 (位於 Columbus Circle 的 Time Warner Center 綜合體五樓，緊鄰中央公園，上方為高層塔樓，下方緊鄰地鐵站與商業裙房)。"
+      },
+      "participants_&_operation": {
+        "architect": "Rafael Viñoly Architects PC (David Rockwell 負責 Ertegun Jazz Hall of Fame 室內設計)",
+        "client": "Jazz at Lincoln Center (林肯中心爵士樂協會)",
+        "end_user": "目標爵士與各類演出觀眾、市民、Lincoln Center Jazz Orchestra (林肯中心爵士交響樂團) 等駐團演職人員",
+        "consultants": [
+          "Theater Planning/Acoustic: Sound of Jazz (Artec Consultants, Inc. 與 Walters-Storyk Design Group, Inc. 之聯合體)",
+          "Structural Engineer: Dewhurst Macfarlane & Partners",
+          "MEP Engineer: Flack & Kurtz (WSP)",
+          "Lighting Consultant: Cline Bettridge Bernstein Lighting Design, Inc.",
+          "Construction Manager: Turner Construction Company",
+          "Food Service: Cini-Little International, Inc. / Post & Grossbard",
+          "Graphics: Animation + Images / Wojciechowski Design",
+          "Specifications Writer: Robert Schwartz & Associates",
+          "Vertical Transportation: Van Deusen & Associates, Inc."
+        ],
+        "operator": "Jazz at Lincoln Center"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "巨型商場與地鐵交匯處的強烈結構震動與高分貝都市噪音。",
+          "architectural_metaphor_concept": "懸浮的雙層盒",
+          "tectonic_strategy": "採用 Box within a box 構造，以鋼與新平橡胶墊將劇院整體懸浮隔離。"
+        },
+        {
+          "target_issue": "在高密度綜合體五層高空置入多個聲學排他的表演劇場。",
+          "architectural_metaphor_concept": "立體文化聚落",
+          "tectonic_strategy": "將大劇院、黑盒子與俱樂部垂直且水平緊湊交織於商場裙房頂部。"
+        },
+        {
+          "target_issue": "打破傳統古典音樂廳的階級感，建立具有互動精神的爵士場所。",
+          "architectural_metaphor_concept": "都市城市廣場",
+          "tectonic_strategy": "降低舞台高度並採用圍繞式多層看台，拉近觀眾與樂手距離至90英呎內。"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "main auditorium",
+          "performance stage",
+          "audience seating bowl",
+          "balcony seating",
+          "multiple balcony tiers",
+          "movable on-stage seating towers",
+          "orchestra pit",
+          "adjustable lift",
+          "retractable concert shell ceiling",
+          "acoustical curtain and banner system",
+          "sound lock",
+          "tilted glass wall",
+          "styrofoam acoustic diffusers",
+          "absorbers and reflectors"
+        ],
+        "front_of_house_foh": [
+          "Ertegun Atrium",
+          "main public lobby",
+          "public circulation corridors",
+          "vertical circulation cores",
+          "elevators",
+          "staircases",
+          "urban entrance plaza",
+          "double-height foyer",
+          "cantilevered viewing spaces",
+          "Ertegun Jazz Hall of Fame"
+        ],
+        "back_of_house_boh": [
+          "backstage support spaces",
+          "technical rooms",
+          "service circulation",
+          "loading/service areas",
+          "technical production systems",
+          "scenery workshop (推測)",
+          "backstage dressing room",
+          "combined rehearsal hall and recording studio",
+          "Irene Diamond Education Center",
+          "full-service kitchen"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Multiple Performance Venues → embedded within (Spatial_Massing_&_Conceptual_Relation) → Time Warner Center Mixed-use Structure",
+          "Rose Theater Box → encased by (Spatial_Massing_&_Conceptual_Relation) → Glass Facade Enclosure",
+          "Cultural Venue Volumes → layered vertically inside (Spatial_Massing_&_Conceptual_Relation) → Building Podium"
+        ],
+        "meso_level": [
+          "Technical Service Clusters → strictly segregated from (Acoustic_Buffer) → Ertegun Atrium Public Lobby",
+          "Rose Theater Core Box → isolated via floating steel and neoprene padding from (Acoustic_Buffer) → Subway Station and Commercial Complex",
+          "Ertegun Atrium Public Lobby → wraps around the perimeter of (Circulation_FOH) → Rose Theater Volume",
+          "Vertical Circulation Cores → connect through multiple levels to (Circulation_FOH) → Double-height Foyer",
+          "Backstage Support Spaces → occupy deeper interior zones adjacent to (Circulation_BOH) → Performance Stages"
+        ],
+        "micro_level": [
+          "Acoustic Timber Lining → line the interior of (Interface_Tectonic) → Audience Seating Bowl",
+          "Movable Seating Towers → track and curve on top of (Interface_Tectonic) → Performance Stage",
+          "Tilted Glass Wall → structurally frames the backdrop of (Interface_Tectonic) → The Appel Room Stage",
+          "Styrofoam Acoustic Diffusers → suspended directly above (Interface_Tectonic) → Amphitheater Audience Tiers",
+          "Acoustically Transparent Fabric → covers the checkerboard pattern of (Interface_Tectonic) → Side Absorbers and Reflectors"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Theatre_In_Building",
+          "Volume_In_Volume",
+          "Urban_Infrastructure_Integrated",
+          "City_Facing_Performance_Hall"
+        ],
+        "typology_diagram_note": "多劇場核心水平團聚於商場高層，前台公眾迴路環繞外圍，透過通透皮層將劇場轉化為面向都市的巨型文化景觀。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Transparent_Curtain_Wall",
+          "Glass_Enclosed_Theatre_Volume",
+          "Illuminated_Facade"
+        ],
+        "material_taxonomy": [
+          "Glass_Curtain_Walls",
+          "Metal_Structural_Components",
+          "Exposed_Structural_Trusses"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "外部通透玻璃皮層採用大跨度鋼桁架與主體結構脫開，內部劇場本體則採獨立的鋼桁架與複合阻尼墊完全懸浮隔離。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Double_Height_Foyer",
+            "Fluid_Horizontal_Concourse",
+            "Large_Civic_Interior_Spaces"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Natural_Daylight",
+            "Transparent_Glazing",
+            "Skyline_Backdrop",
+            "Exposed_Structural_Trusses"
+          ],
+          "experience_note": "大廳透過巨大落地窗引入極致的曼哈頓與中央公園街景，日光漫射下流線動線與結構桁架交織，展現強烈都市儀式感。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor (推測)"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Acoustic_Isolation_Enclosure",
+            "Low_Lux_Shadows (推測)"
+          ],
+          "experience_note": "由光亮的通透中庭穿過厚重的多重聲閘與懸浮界面，空間尺度與光線驟減，瞬間將都市喧囂完全過濾為純淨物理聲場。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Rose Theater",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering",
+              "Horseshoe_Fan_shaped_Hybrid",
+              "Three_Tier_Concentric_Balcony"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Warm_Timber_Auditorium_Finishes",
+              "Wood_Veneer_Boxes",
+              "Lit_Colored_Diamonds_Ceiling"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "參數化暖色木質飾面整合活動反音板，搭配頂部彩色發光鑽石裝置，調和溫潤緊湊的爵士包裹體感。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Maximal_Urban_Void",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Civic_Spectacle_Window",
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "運用巨大的外部玻璃空腔包裹獨立的懸浮劇場，空腔作為公共漫步廊道，使演藝活動向整座城市進行視覺播散。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在三層環抱看台與舞台間體驗不超過90英呎的超近距離親密互動，並在演出前後於玻璃中庭俯瞰城市夜景。"
+        },
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "通過第五層宏偉的沿街大窗自曼哈頓59街軸線、哥倫布圓環與街面直接視認內部的爵士展演活動。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "利用全區光纖網路在排練廳、教育中心或任一劇場進行全數位化的異地即時錄音、多軌廣播與網路遠距教學。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "專業媒體與樂界盛讚其為世界首座專為爵士樂量身打造的頂級聲學殿堂，成功兼顧了聲音清晰度與器樂溫潤感。"
+        },
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "被評為“宏大姿態的大師之作”，其通透的大型景觀落地窗將紐約天際線天衣無縫地轉化為爵士樂的立體舞台背景。"
+        },
+        {
+          "issue_topic": "Construction_Site_Challenge",
+          "public_polarity": "Positive_正評",
+          "summary_note": "成功克服在高密度高層商業建築五層高空以及極端的地鐵震動環境下，置入大型高標準表演廳的嚴苛基建工程挑戰。"
+        }
+      ]
+    }
+  }
+}
