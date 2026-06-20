@@ -1,0 +1,238 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Arena Stage at the Mead Center for American Theater",
+        "theater_scale_hierarchy": "Major Regional Performing Arts Institution",
+        "gross_floor_area": "200000 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Fichandler Stage",
+          "seating_capacity": "500-900 席",
+          "stage_type": "Thrust 伸展式",
+          "primary_performance_type": "Drama 話劇/舞台劇、Large Scale Theatre Productions",
+          "key_hardware_&_acoustic_conditions": "歷史劇場修復，具備馬蹄形 (Horseshoe) 座席幾何與環抱式觀眾席配置"
+        },
+        {
+          "hall_name": "Kreeger Theater",
+          "seating_capacity": "400-800 席",
+          "stage_type": "Proscenium 鏡框式",
+          "primary_performance_type": "Drama 話劇/舞台劇、Musical Theatre 音樂劇、Large Scale Performance",
+          "key_hardware_&_acoustic_conditions": "歷史劇場修復，具備扇形 (Fan-shaped) 座席幾何與正面式觀眾席配置"
+        },
+        {
+          "hall_name": "Arlene and Robert Kogod Cradle (Kogod Cradle)",
+          "seating_capacity": "100-300 席",
+          "stage_type": "Studio Theatre / Flexible Stage 實驗劇場/可變式舞台",
+          "primary_performance_type": "Experimental Theatre 實驗性跨領域劇場、Flexible Performance、Small Scale Productions",
+          "key_hardware_&_acoustic_conditions": "全新增建之實驗性劇場，具備非定型之混合式 (Hybrid) 觀眾席與矩形幾何配置"
+        }
+      ],
+      "location_&_context": {
+        "continent": "北美洲（推測）",
+        "country": "United States 美國",
+        "city": "Washington, D.C. 華盛頓特區",
+        "urban_context": "西南華盛頓社區 (SW Washington)，鄰近 Maine Avenue 軸線，具備帶動周邊重劃與社區發展之催化劑角色"
+      },
+      "participants_&_operation": {
+        "architect": "Bing Thom Architects (加拿大的冰建築師事務所)",
+        "client": "Arena Stage",
+        "end_user": "目標觀眾、特定駐團、西南華盛頓社區市民",
+        "consultants": [
+          "Heintges (Curtain Wall and Building Envelope Consultant 帷幕牆與建築外殼顧問)"
+        ],
+        "operator": "Arena Stage"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "整合兩座歷史劇場並增建新廳舍以擴大營運規模",
+          "architectural_metaphor_concept": "共享外殼下的劇場集群",
+          "tectonic_strategy": "以單一巨大的木構造與玻璃帷幕外殼包裹三座獨立的劇場體量"
+        },
+        {
+          "target_issue": "啟動都市社區更新並建立強烈的公民地標辨識性",
+          "architectural_metaphor_concept": "指向歷史紀念碑的懸挑屋頂",
+          "tectonic_strategy": "打造巨型自由懸臂屋頂，其末端逐漸收尖並精準對齊華盛頓紀念碑軸線"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "Thrust Stage",
+          "Proscenium Stage",
+          "Flexible Stage",
+          "Seating Bowl",
+          "Contained Theatre Volumes"
+        ],
+        "front_of_house_foh": [
+          "Central Lobby",
+          "Public Gathering Space",
+          "Foyer",
+          "Circulation Spine",
+          "Event Space",
+          "Glazed Envelope",
+          "Large Gathering Hall",
+          "Bars",
+          "Cafe"
+        ],
+        "back_of_house_boh": [
+          "Backstage Areas",
+          "Technical Support Spaces",
+          "Performer Facilities",
+          "Stage Support Areas",
+          "Subsurface Administration",
+          "Parking",
+          "Rehearsal Halls"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Contained Theatre Volumes → encased by (Spatial_Massing_&_Conceptual_Relation) → Glazed Envelope",
+          "Performance Cluster → topped by (Spatial_Massing_&_Conceptual_Relation) → Sculptural Cantilevered Roof"
+        ],
+        "meso_level": [
+          "Shared Public Foyer → serving multiple venues via (Circulation_FOH) → Contained Theatre Volumes",
+          "Central Lobby → fluidly links to (Circulation_FOH) → Public Gathering Space",
+          "Backstage Facilities → integrated and sharing with (Circulation_BOH) → Technical Support Spaces",
+          "Backstage Areas → strictly segregated from (Acoustic_Buffer) → Shared Public Foyer"
+        ],
+        "micro_level": [
+          "Wood Interior Finishes → line the interior of (Interface_Tectonic) → Seating Bowl",
+          "Parallam Wood Columns → structurally support (Interface_Tectonic) → Insulated Glass Curtain Wall",
+          "Branches of primary timber structure → support against wind forces on (Interface_Tectonic) → Glazed Facade",
+          "Glass-and-aluminum enclosure system → structurally glazed and coordinated with (Interface_Tectonic) → Supporting timber-and-cable structural system"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Vertical_Zoning_Separation",
+        "typological_supplementary_tags": [
+          "Volume_In_Volume",
+          "Shared_Lobby",
+          "Civic_Destination",
+          "Historic_Preservation_Integration"
+        ],
+        "typology_diagram_note": "將新舊三座獨立的劇場體量如微型城市般群聚，並以通透的玻璃大廳與巨型屋頂進行外在機能包裹與整合。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Inclined_Glass_Facade",
+          "Cable_Supported_Curtain_Wall"
+        ],
+        "material_taxonomy": [
+          "Parallam_Wood",
+          "Insulated_Glass",
+          "Aluminum",
+          "Architectural_Concrete"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "帷幕牆由鋼索與Parallam木柱支撐，並透過主結構木分枝抵抗風力，經有限元素分析 live load 位移。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Multi_Level_Sculptural_Foyer",
+            "Large_Gathering_Hall"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Exposed_Structure",
+            "Transparent_Public_Interface",
+            "Open_Civic_Communal"
+          ],
+          "experience_note": "高聳傾斜的玻璃帷幕引入極高的城市可視性，使兩座舊劇院與新劇院之間的過渡空間轉化為戲劇性的公共舞台。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber（推測）",
+            "Circulation_Spine"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Raw_Concrete（推測）",
+            "Low_Lux_Shadows（推測）"
+          ],
+          "experience_note": "自開敞、日光充沛的公共大廳，穿過獨立劇場的實體外牆邊界，心理尺度與光線壓縮，引導觀眾進入觀演狀態。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Fichandler Stage",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber（推測）"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "精緻木質內裝與環抱式觀眾席整合，提供親密且高度聚焦的戲劇觀演音響氛圍。"
+          },
+          {
+            "hall_name": "Kreeger Theater",
+            "seating_bowl_geometry_language": [
+              "Fan_shaped_Seating"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Warm_Timber_Panels（推測）"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Traditional_Orthogonal_Reflector"
+            ],
+            "acoustic_material_integration": "傳統鏡框式劇場配置，室內牆面與反射板結合，優化正面話劇與音樂劇的聲學傳播。"
+          },
+          {
+            "hall_name": "Kogod Cradle",
+            "seating_bowl_geometry_language": [
+              "Continuous_Asymmetric_Folded_Plane（推測）"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Deep_Theater_Blue（推測）"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "實驗性黑盒子質感的黑調或深色木質編織，提供高度吸音與空間可變性的聲學調校。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Maximal_Urban_Void",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "利用巨型玻璃外殼與內部獨立劇場盒子脫開的空腔，創造出高透明度的市民交誼大廳與都市景觀框景。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在通透的中央大廳、咖啡廳與酒吧中聚集，將劇院轉化為日常的社區公共催化劑與文化聚集點。"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在三座劇場間的戲劇性流線空間中漫步，體驗從城市、大廳到不同觀演容器的感官序列。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "大膽的木與玻璃帷幕系統及巨型懸臂屋頂成功塑照出強烈的社區新地標形象。"
+        },
+        {
+          "issue_topic": "Tectonic_Efficiency",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "木構造與玻璃牆接合面需極複雜的有限元素分析與打樣測試，其高昂的構造特殊性引發業界關注。"
+        }
+      ]
+    }
+  }
+}

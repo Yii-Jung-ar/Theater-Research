@@ -1,0 +1,227 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Chichester Festival Theatre",
+        "theater_scale_hierarchy": "國家級/具重要歷史意義之地方綜合型劇院群（推測）",
+        "gross_floor_area": "4600 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Chichester Festival Theatre Main Auditorium",
+          "seating_capacity": "1300 席以上",
+          "stage_type": "Thrust 伸展式",
+          "primary_performance_type": "話劇/舞台劇 Drama、定目劇/巡演劇目 Repertory Theatre、現場表演 Live Performance",
+          "key_hardware_&_acoustic_conditions": "設置有穿透既有屋架之新照明橋燈光基礎架構 (Lighting Bridges)，為避免輕量化屋頂受力，設計有承載舞台工程系統之獨立結構架構。聲學條件方面，此廳具備緊湊的觀眾席圍護界面 (Compact Audience Enclosure)，其伸展式舞台配置專為話劇口白表演進行了聲學優化。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲（推測）",
+        "country": "United Kingdom",
+        "city": "Chichester",
+        "urban_context": "公園綠地環境 (Parkland Setting)、公園中的展館 (Pavilion in the Park)"
+      },
+      "participants_&_operation": {
+        "architect": "Haworth Tompkins（原 1962 年設計：Powell and Moya）",
+        "client": "由在地居民 Leslie Evershed Martin 發起並由公眾認購籌資 (Paid for by Public Subscription)",
+        "end_user": "目標觀眾、劇組演職人員、地方社區",
+        "consultants": [
+          "Theatre Consultant: Charcoalblue",
+          "Acoustic Engineer: Gillieron Scott Acoustic Design",
+          "Landscape Architect: Camlin Lonsdale Landscape Architects",
+          "Transport Consultant: Mayer Brown",
+          "BREEAM Assessors: Price & Myers",
+          "Service Engineer: Skelly & Couch",
+          "Project Manager: Deloitte",
+          "Quantity Surveyor: Gardiner & Theobald",
+          "Structural Engineer: Price & Myers",
+          "Cdm Coordinator: Gardiner & Theobald",
+          "Collaborating Artist: Antoni Malinowski",
+          "Fire Consultant: Trenton Fire Ltd",
+          "Access Consultant: Babel",
+          "Building Control: Approved Inspector Services"
+        ],
+        "operator": "Chichester劇院管理單位（推測）"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "歷史增建削弱原始空間清晰度且後台機能不足",
+          "architectural_metaphor_concept": "公園中的展館與材質對話",
+          "tectonic_strategy": "拆除非原創構造，新建耐候鋼後台體量以呼應既有粗糙混凝土"
+        },
+        {
+          "target_issue": "老舊歷史建築體量不符現代無障礙與前台大廳空間容量",
+          "architectural_metaphor_concept": "透明公共邊界與景觀融合",
+          "tectonic_strategy": "擴大前台並置入通透咖啡廳增建，局部打開樓梯圍護以引入自然光"
+        },
+        {
+          "target_issue": "既有輕量化屋頂無法承載現代化劇場技術設備之荷重",
+          "architectural_metaphor_concept": "獨立結構機能插接",
+          "tectonic_strategy": "在表演區上方設計獨立支撐結構承載舞台工程，並將燈光橋穿插於既有屋架"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "Thrust Stage",
+          "Trap Room",
+          "Seating Rakes",
+          "Lighting Bridges",
+          "Roof Trusses"
+        ],
+        "front_of_house_foh": [
+          "Main Foyer",
+          "Cafe",
+          "Terrace Bar",
+          "Main Bar",
+          "Ticketing",
+          "Audience Circulation",
+          "Public Gathering Space",
+          "External Cafe Terraces"
+        ],
+        "back_of_house_boh": [
+          "Stage",
+          "Wardrobe",
+          "Dressing Rooms",
+          "Scenery Lift",
+          "Scene Dock",
+          "Production Offices",
+          "Technical Spaces",
+          "Green Room Garden",
+          "Service Yard"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Main Auditorium Core Box → encased by (Spatial_Massing_&_Conceptual_Relation) → Peripheral Support Ring",
+          "Centralized Theatre Volume → sheltered by (Spatial_Massing_&_Conceptual_Relation) → Lightweight Cable-Tied Roof"
+        ],
+        "meso_level": [
+          "BOH Backstage Zone → completely segregated from (Acoustic_Buffer) → FOH Public Lobby",
+          "Audience Circulation Flow → symmetrically wraps around (Circulation_FOH) → Main Auditorium Perimeter",
+          "Performers Access Route → directly connects with (Circulation_BOH) → Stage Infrastructure",
+          "New BOH Extension → aligned with and complementary to (Spatial_Massing_&_Conceptual_Relation) → Original Hexagonal Brutalist Concrete Frame"
+        ],
+        "micro_level": [
+          "New Infrastructure of Lighting Bridges → threaded through (Interface_Tectonic) → Existing Roof Trusses",
+          "Independent Steel Structure → carries stage engineering systems above (Interface_Tectonic) → Thrust Stage Area",
+          "Specially Commissioned Trapezoidal Concrete Flagstones → differentiate the carpeted layout of (Interface_Tectonic) → Extended Foyer Spaces",
+          "Timber Interior Finishes → line the inner surfaces of (Interface_Tectonic) → Horseshoe Seating Bowl"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Clear_Horizontal_Division",
+        "typological_supplementary_tags": [
+          "Landscape_Infrastructural",
+          "Hexagonal_Geometry",
+          "Centralized_Auditorium"
+        ],
+        "typology_diagram_note": "核心伸展式舞台劇場位於幾何中心，前后台機能呈同心圓狀向外環繞擴展並融入公園景觀。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Transparent_Glass_Curtain_Wall",
+          "Opaque_Monolithic_Shell",
+          "Brutalist_Exposed_Concrete_Frame"
+        ],
+        "material_taxonomy": [
+          "Cor-Ten_Weathering_Steel",
+          "Exposed_Aggregate_Concrete",
+          "High_Performance_Double_Glazing"
+        ],
+        "envelope_to_structure_relation_logic": "Exposed_Structure",
+        "structure_integration_detail_note": "主體採混凝土懸臂結構與輕量化纜索屋頂外露，新後台擴建外牆則以獨立鋼構掛接耐候鋼板。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Fluid_Horizontal_Concourse",
+            "Multi_Level_Sculptural_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Raw_Concrete",
+            "Hand_Painted_Ceilings",
+            "Natural_Daylight"
+          ],
+          "experience_note": "明亮開放的流暢大廳，透過手繪天花牆面與新設採光中庭，將外部公園的幾何與景觀感知引入室內。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Acoustic_Timber_Doors"
+          ],
+          "experience_note": "經由兩側樓梯與走道進行尺度壓縮，配合聲學閘門與光線屏蔽，在進入高密度劇場前建立心理緩衝。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Chichester Festival Theatre Main Auditorium",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering",
+              "Steepened_Seating_Rakes"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Intimate_Collective_Darkness"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "運用陡峭的三面環抱馬蹄形座席與溫暖木質面料，完美對位口白劇目的物理聲學反射要求。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Interlocking_相互交織",
+        "interstitial_volume_ratio_tag": "Moderate_Cavity",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "中央劇場體量向外延伸頂入前台公共大廳，使觀演動線與結構空隙轉化為立體交織的公共經驗。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在通透的擴建咖啡廳與戶外露臺聚集，經由改善的視線與陡峭座席獲得更強烈的觀演親密感。"
+        },
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "於重新恢復步行化設計的公園綠地與 approached roads 周邊進行日常休閒與社交集會。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在全新修復的後台擴建區、排練化妝室與專屬的演員花園中進行高效、私密的排練與備場。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Architectural_Heritage_Preservation",
+          "public_polarity": "Positive_正評",
+          "summary_note": "成功清除歷年零碎的非原創增建，使這棟二級星二登錄建築恢復了 1962 年 Powell and Moya 原始設計的清晰度與現代感。"
+        },
+        {
+          "issue_topic": "Acoustic_&_Technical_Upgrade",
+          "public_polarity": "Positive_正評",
+          "summary_note": "顯著提升了劇院內部的視線與劇場張力，並在極其緊湊的既有外殼內完美整合了高水平的現代化機電與聲學系統。"
+        },
+        {
+          "issue_topic": "Sustainability_&_Energy_Performance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "藉由導入地下水地源熱泵系統與全面性的熱工性能升級，使歷史建築在不破壞外觀的前提下滿足 10% 的綠色再生能源需求。"
+        }
+      ]
+    }
+  }
+}

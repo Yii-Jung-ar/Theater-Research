@@ -1,0 +1,238 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Helsinki Music Centre (Musiikkitalo)",
+        "theater_scale_hierarchy": "國家級與城市級古典音樂廳、高等音樂學府綜合體",
+        "gross_floor_area": "36000 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Main Concert Hall",
+          "seating_capacity": "1500-2000 席（官方競圖要求 1500 席）",
+          "stage_type": "Vineyard 葡萄園式",
+          "primary_performance_type": "交響樂與古典音樂管弦樂演出 (Symphonic and orchestral performance)",
+          "key_hardware_&_acoustic_conditions": "葡萄園式聲學音樂廳 (Vineyard Concert Hall)、中央固定式音樂演奏台 (Central Concert Platform)、環抱式多層觀眾席、溫暖木質聲學內裝"
+        },
+        {
+          "hall_name": "Secondary Hall A",
+          "seating_capacity": "未知",
+          "stage_type": "Multipurpose Hall (推測)",
+          "primary_performance_type": "多功能表演與排練",
+          "key_hardware_&_acoustic_conditions": "位於建築周邊的獨立多功能空間 (推測)"
+        },
+        {
+          "hall_name": "Secondary Hall B",
+          "seating_capacity": "未知",
+          "stage_type": "Multipurpose Hall (推測)",
+          "primary_performance_type": "多功能表演與排練",
+          "key_hardware_&_acoustic_conditions": "位於建築周邊的獨立多功能空間 (推測)"
+        },
+        {
+          "hall_name": "Secondary Hall C",
+          "seating_capacity": "未知",
+          "stage_type": "Black Box / Studio (推測)",
+          "primary_performance_type": "工作室、排練與實驗音樂演出",
+          "key_hardware_&_acoustic_conditions": "高彈性潛在工作室或排練場地 (推測)"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲 (Europe)",
+        "country": "芬蘭 (Finland)",
+        "city": "赫爾辛基 (Helsinki)",
+        "urban_context": "城市心臟地帶，舊鐵路編組站基地，周邊圍繞國會大廈、芬蘭蒂亞大廈及 Kiasma 當代藝術館等關鍵文化地標"
+      },
+      "participants_&_operation": {
+        "architect": "LPR Architects",
+        "client": "芬蘭政府 (The Finnish Government)、赫爾辛基市政府 (City of Helsinki)、芬蘭廣播公司 (Finnish Broadcasting Company)",
+        "end_user": "西貝流士音樂學院 (Sibelius Academy) 全體師生、古典樂觀眾、市民",
+        "consultants": [
+          "Yasuhisa Toyota / Nagata Acoustics (永田音響設計，推測)",
+          "專業劇場與聲學顧問團隊 (未知)"
+        ],
+        "operator": "赫爾辛基音樂中心營運管理單位、西貝流士音樂學院及駐地樂團共同營運 (推測)"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "在眾多歷史與文化地標環繞的極高敏感核心都市脈絡中植入龐大體量。",
+          "architectural_metaphor_concept": "A Mezza Voce（半聲、溫和的中庸之聲）",
+          "tectonic_strategy": "降低建築高度，部分體量下沉，以綠色斜屋頂和通透玻璃融入公園紋理。"
+        },
+        {
+          "target_issue": "如何平衡古典音樂廳嚴格的聲學封閉性與現代公民建築的開放通透性。",
+          "architectural_metaphor_concept": "Volume-in-Volume（盒中盒、核與殼）",
+          "tectonic_strategy": "將主廳作為核心置於幾何中心，周邊包裹全玻璃幕牆大廳，形成明暗緩衝。"
+        },
+        {
+          "target_issue": "回應周邊異質的都市網格系統（矩陣國會大廈與自由形式的公園）。",
+          "architectural_metaphor_concept": "都市網格協調體",
+          "tectonic_strategy": "建築主體雙面平行於芬蘭蒂亞大廈與國會大廈，高點向綠帶延伸。"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "central concert platform",
+          "seating bowl",
+          "terraced seating",
+          "multi-level balconies",
+          "timber acoustic interior",
+          "acoustic shell (推測)"
+        ],
+        "front_of_house_foh": [
+          "main lobby",
+          "public foyer",
+          "circulation spine",
+          "public gathering areas",
+          "entrance plaza",
+          "inclined deck",
+          "event square"
+        ],
+        "back_of_house_boh": [
+          "support rooms",
+          "technical areas",
+          "backstage areas",
+          "service circulation",
+          "rehearsal or multipurpose rooms",
+          "facilities for Sibelius Academy"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Main Concert Hall Volume → encased by (Spatial_Massing_&_Conceptual_Relation) → Peripheral Venue Cluster",
+          "Central Performance Core → wrapped by (Spatial_Massing_&_Conceptual_Relation) → Glass Façade Envelope",
+          "Inclined Park Deck → descends towards south to respect (Spatial_Massing_&_Conceptual_Relation) → Kiasma Museum"
+        ],
+        "meso_level": [
+          "Public Foyer → distributed around the perimeter of (Circulation_FOH) → Main Concert Hall",
+          "Service Circulation → strictly segregated from (Acoustic_Buffer) → Main Lobby",
+          "Entrance Plaza → guides visitor movement via pedestrian path into (Circulation_FOH) → Public Gathering Areas",
+          "Secondary Performance Spaces → acoustically detached from (Acoustic_Buffer) → Main Concert Hall",
+          "Backstage Areas → directly serves (Circulation_BOH) → Central Concert Platform"
+        ],
+        "micro_level": [
+          "Timber Acoustic Interior → lines the interior surface of (Interface_Tectonic) → Seating Bowl",
+          "Terraced Auditorium Seating → frames and surrounds (Interface_Tectonic) → Central Concert Platform",
+          "Pre-patinated Copper Sheets → attached via composite technique to (Interface_Tectonic) → Street-side Façade Frame",
+          "Point-fixed Glazing → forms the transparent enclosure of (Interface_Tectonic) → Lobby Area"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Central_Core_with_Peripheral_Cluster",
+        "boh_foh_segregation_topology_primary_type": "Concentric_Concourse_Separation",
+        "typological_supplementary_tags": [
+          "Volume_in_Volume",
+          "Landscape_Infrastructural",
+          "Sunken_Performance_Core",
+          "Urban_Grid_Alignment"
+        ],
+        "typology_diagram_note": "主音樂廳作為獨立實體沉入幾何中心，周邊由通透公共大廳與邊界機能盒環繞包裹。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Transparent_Glass_Curtain_Wall",
+          "Perforated_Metal_Monolithic_Shell",
+          "Point_Fixed_Glazing_System"
+        ],
+        "material_taxonomy": [
+          "Pre-patinated_Corrugated_Copper",
+          "Point-fixed_Glass",
+          "Structural_Steel_Frame"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "大廳採點支承玻璃幕牆脫開掛接，街景側則以1.5mm壓紋預錨銅板透過複合安裝技術固定於主結構框。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Fluid_Horizontal_Concourse",
+            "Multi_Level_Sculptural_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Daylit_Transparency",
+            "Urban_Visual_Connection",
+            "Civic_Openness"
+          ],
+          "experience_note": "全透明大廳引入充沛日光，視線毫無阻隔地投射至外部歷史公園與國會大廈，形成強烈都市漫步感。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Peripheral_Buffer_Zone"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Acoustic_Quietness"
+          ],
+          "experience_note": "由明亮且極具尺度感的通透大廳穿過暗色調的聲學過渡閘門，空間尺度收縮，心理與聽覺隨之沉靜。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Main Concert Hall",
+            "seating_bowl_geometry_language": [
+              "Terraced_Vineyard_Podiums",
+              "Surround_Audience_Tiers"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Warm_Timber_Wrapping",
+              "Immersive_Acoustic_Focus",
+              "Tactile_Wood_Grain"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "溫暖木質面板呈現參數化折面與微紋理，360度環抱舞台，完美整合物理反射與包裹體感。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Maximal_Urban_Void",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Acoustic_Detachment_Zone",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "利用外層大尺度玻璃空腔與綠色景觀斜坡，將嚴苛封閉的聲學黑盒轉化為市民漫步的公共景觀延伸。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在與當代藝術館相連的景觀斜坡與活動廣場聚集，觀看戶外音樂會及大螢幕轉播。"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在中介的全透明公共大廳交談聚集，在進入音樂廳前享受對望城市地標的視覺經驗。"
+        },
+        {
+          "user_group": "Performer_演職人員 (及音樂學院師生)",
+          "spatial_behavior_action": "在周邊配屬的次級多功能排練廳與專屬後勤設施中進行高密度的教學與排練活動。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "建築採取低調優雅且 courtesy 的姿態融入敏感的歷史與文化公園核心區，獲得專業輿論高度讚賞。"
+        },
+        {
+          "issue_topic": "Urban_Engagement",
+          "public_polarity": "Positive_正評",
+          "summary_note": "成功利用透明立面與下沉戶外廣場，將古典音樂中心與市民日常生活流線和都市綠帶深度縫合。"
+        },
+        {
+          "issue_topic": "Acoustic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "採用高品質葡萄園式佈局與獨立雙層殼體構造，確保了卓越的交響樂古典古典音樂聲學品質。"
+        }
+      ]
+    }
+  }
+}

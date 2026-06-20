@@ -1,0 +1,213 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Guthrie Theater",
+        "theater_scale_hierarchy": "Major Regional Theatre Institution",
+        "gross_floor_area": "285,000 square feet (or 26,400 m2)"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Wurtele Thrust Stage",
+          "seating_capacity": "1,100 seats",
+          "stage_type": "Thrust Stage",
+          "primary_performance_type": "Drama, Classical Theatre, Large Scale Stage Productions",
+          "key_hardware_&_acoustic_conditions": "7-sided stage (1,120 sq ft) thrusting into audience, asymmetric shell-shaped configuration, fiery polychrome irregular polygons, and acoustic ceilings dancers"
+        },
+        {
+          "hall_name": "McGuire Proscenium Stage",
+          "seating_capacity": "700 seats",
+          "stage_type": "Proscenium Theatre",
+          "primary_performance_type": "Drama, Musical Performance, Large Scale Theatre",
+          "key_hardware_&_acoustic_conditions": "Traditional frontal arrangement distinguishing between secular public space and sacred representation, designed for contemporary repertoire"
+        },
+        {
+          "hall_name": "Dowling Studio",
+          "seating_capacity": "250 seats",
+          "stage_type": "Studio Theatre",
+          "primary_performance_type": "Experimental Performance, Flexible Theatre, Contemporary Productions",
+          "key_hardware_&_acoustic_conditions": "Theatrical laboratory containing movable seats for experimental plays, adjoined by a yellow/orange glass box foyer sequence"
+        }
+      ],
+      "location_&_context": {
+        "continent": "North America (推測)",
+        "country": "United States",
+        "city": "Minneapolis",
+        "urban_context": "Industrial riverfront context (Mill District), surrounded by historic mills, silos, agricultural ruins, factories, and adjacent to the Mississippi River"
+      },
+      "participants_&_operation": {
+        "architect": "Jean Nouvel (主導建築師), Architectural Alliance (在地合作事務所)",
+        "client": "Guthrie Theater Board of Directors",
+        "end_user": "Audiences, Citizens, Actors, and Theater Company Personnel",
+        "consultants": [
+          "劇場顧問 (Theater Consultant) (未知)",
+          "聲學顧問 (Acoustician) (未知)"
+        ],
+        "operator": "Guthrie Theater"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "整合分散的劇院機能與工業歷史遺址紋理之對話",
+          "architectural_metaphor_concept": "工業磨坊與筒倉的當代演繹",
+          "tectonic_strategy": "以半圓形及矩形體量對應周邊筒倉與磨坊意象，並以懸挑鋼桁架構築延伸至河面"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "thrust stage",
+          "proscenium stage",
+          "flexible stage",
+          "acoustic ceilings dancers",
+          "semi-cylindrical volume",
+          "rectangular volume"
+        ],
+        "front_of_house_foh": [
+          "Main Lobby",
+          "Public Gathering Space",
+          "Foyer",
+          "Observation Terrace",
+          "Vertical Circulation",
+          "Public Bridge",
+          "Endless Bridge",
+          "orange box",
+          "escalators",
+          "restaurants",
+          "bars"
+        ],
+        "back_of_house_boh": [
+          "Backstage",
+          "Dressing Rooms",
+          "Technical Support Areas",
+          "Loading Facilities",
+          "Production Spaces",
+          "Stage Support Areas",
+          "skyway",
+          "rehearsal rooms",
+          "classrooms",
+          "offices"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Semi-cylindrical Volume → evoking the shapes of (Spatial_Massing_&_Conceptual_Relation) → Adjacent Grain Elevators",
+          "Rectework/Rectangular Volume → in harmony with (Spatial_Massing_&_Conceptual_Relation) → Nearby Flour Mills",
+          "Endless Bridge Cantilevered Structure → extending 178 feet from (Spatial_Massing_&_Conceptual_Relation) → Main Building Volume"
+        ],
+        "meso_level": [
+          "Escalators → providing visitors coherent spatial sequence to (Circulation_FOH) → Foyers and Performance Venues",
+          "Public Bridge / Endless Bridge → accessed without purchasing a ticket by (Circulation_FOH) → Citizen and Theatergoers",
+          "Skyway across Second Street → links core theater building to (Circulation_BOH) → Production and Support Facilities",
+          "BOH Backstage and Technical Areas → segregated from (Other_Meso_Programmatic_Separation) → FOH Public Foyers and Gathering Spaces"
+        ],
+        "micro_level": [
+          "Fiery Polychrome Irregular Polygons → break the rigidity of geometry in (Interface_Tectonic) → Wurtele Thrust Stage Auditorium",
+          "CENTRIA Formawall Dimension Panels → clad the exterior of (Interface_Tectonic) → Building Facade Walls",
+          "Supergraphic Images of Playwrights → screen printed on (Interface_Tectonic) → Metal Panels at Entrance Level",
+          "Mirrored Steel Frames → frame and refract city views at (Interface_Tectonic) → Windows"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Vertical_Stacking",
+        "boh_foh_segregation_topology_primary_type": "Vertical_Zoning_Separation",
+        "typological_supplementary_tags": [
+          "Riverfront_Landmark",
+          "Volume_in_volume_strategy",
+          "Industrial_Context_Response",
+          "Floating_Volume"
+        ],
+        "typology_diagram_note": "獨立劇場體量垂直堆疊，核心舞台幾何誠實外顯於皮層，並由巨大的都市公共懸挑橋橫向穿插。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Opaque_Monolithic_Shell",
+          "Large_Glazed_Openings",
+          "Industrial_Expression"
+        ],
+        "material_taxonomy": [
+          "Dark_Blue_Metal_Panels",
+          "CENTRIA_Formawall_Dimension_Series",
+          "Glass",
+          "Mirrored_Panels"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "主體外殼包裹內部劇院盒子，端部 Endless Bridge 為獨立的懸挑鋼桁架結構（178英尺）外挑於基地。"
+      },
+    "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Multi_Level_Sculptural_Foyer",
+            "Fluid_Horizontal_Concourse"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Exposed_Infrastructure",
+            "Dark_Blue_Metal_Panels",
+            "Long_Industrial_Escalators"
+          ],
+          "experience_note": "超長電梯模擬穀物輸送帶，由暗轉明引導至前台，透過大窗與深藍、黃色玻璃渲染出不真實的都市全景。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Low_Lux_Shadows",
+            "Ghostly_Silhouettes_Walls"
+          ],
+          "experience_note": "觀眾在進入劇場前，於印有劇照剪影的牆面與低明度過渡空間中感受尺度的壓縮，完成觀劇前的心理緩衝。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Wurtele Thrust Stage",
+            "seating_bowl_geometry_language": [
+              "Continuous_Asymmetric_Folded_Plane",
+              "Symmetrical_Horseshoe_Tiering"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Fiery_Polychrome_Polygons"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "不規則多邊形與舞動的吸音天花板，打破幾何剛性並完美回應不對稱的物理聲學反射要求。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Honesty_表裡如一",
+        "interstitial_volume_ratio_tag": "Moderate_Cavity",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "藉由外部筒倉與磨坊形體誠實揭示內部劇場核心的排列，並利用夾縫空腔置入宛如工業步道的公共流線。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "無需購買劇院門票即可自由進入 Endless Bridge 與黃色觀景盒，捕捉密西西比河與都市景觀。"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "在演出前後或中場休息時聚集於公共連通大廳、酒吧與露台，形成高度互動的社交與觀劇經驗。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Positive_正評",
+          "summary_note": "建築成功演繹當地工業遺產紋理，帶動周邊老舊磨坊與筒倉的都市更新，建立全新的都市文化區。"
+        }
+      ]
+    }
+  }
+}

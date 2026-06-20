@@ -1,0 +1,227 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "Royal National Theatre (國家皇家劇院)",
+        "theater_scale_hierarchy": "國家級 (National Performing Arts Institution)",
+        "gross_floor_area": "未知"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "Olivier Theatre (奧立佛劇場)",
+          "seating_capacity": "800-1500 席",
+          "stage_type": "Thrust 伸展式",
+          "primary_performance_type": "話劇/舞台劇 Drama、大型劇場製作 (Large Scale Theatre Production)",
+          "key_hardware_&_acoustic_conditions": "五向半伸展式舞台 (five-sided semi-thrust stage)、階梯馬蹄形座席幾何 (Terraced Horseshoe)、非對稱多面體型布景吊桿塔 (fly tower)、室內板模混凝土表面具備誇張紋理以進行聲學擴散與折射 (exaggerated textures to baffle sound)"
+        },
+        {
+          "hall_name": "Lyttelton Theatre (利特爾頓劇場)",
+          "seating_capacity": "500-1200 席",
+          "stage_type": "Proscenium 鏡框式",
+          "primary_performance_type": "話劇/舞台劇 Drama、大型劇目演出 (Large Scale Theatre)",
+          "key_hardware_&_acoustic_conditions": "傳統鏡框式舞台 (Proscenium Stage)、扇形座席幾何 (Fan-shaped)、獨立箱體式布景吊桿塔 (fly tower)"
+        },
+        {
+          "hall_name": "Dorfman Theatre (多夫曼劇場)",
+          "seating_capacity": "100-500 席",
+          "stage_type": "Studio Theatre 實驗劇場 / 混合式",
+          "primary_performance_type": "實驗性劇場 Experimental Theatre、彈性劇場製作 (Flexible Productions)、當代表演 (Contemporary Performance)",
+          "key_hardware_&_acoustic_conditions": "可變動式與彈性舞台 (Flexible Stage)、矩陣式/直線幾何座席 (Rectilinear)、具備高度空間機能可變轉化性"
+        }
+      ],
+      "location_&_context": {
+        "continent": "歐洲 (推測)",
+        "country": "United Kingdom (英國)",
+        "city": "London (倫敦)",
+        "urban_context": "濱水重劃與文化區 (South Bank 泰晤士河南岸濱水文化區、鄰近滑鐵盧橋)"
+      },
+      "participants_&_operation": {
+        "architect": "Denys Lasdun (主導建築師)；Haworth Tompkins (2015年敏感性修復與改建建築師)",
+        "client": "政府機關 / 國家劇院籌建委員會 (Building Committee) (推測)",
+        "end_user": "目標觀眾、市民大眾、演職人員、特定駐團",
+        "consultants": [
+          "Laurence Olivier 與劇院建築委員會 (Theatre Consultant 角色，主導奧立佛劇場為期三年的空間形式研發)"
+        ],
+        "operator": "Royal National Theatre (皇家國家劇院管理單位)"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "拒絕傳統單一正面巨大量體，將巨大容積化整為零融入都市空間。",
+          "architectural_metaphor_concept": "建築即都市地景",
+          "tectonic_strategy": "以層狀交錯的露台、飛塔與空腔，構築出具有地形感的可漫步立體地景。"
+        },
+        {
+          "target_issue": "在單一建築本體內置入三座截然不同類型學的劇場核心與後勤基建。",
+          "architectural_metaphor_concept": "多劇場市民巨型結構",
+          "tectonic_strategy": "將獨立的劇場核心體量嵌入共享的公共大廳、水平地層平台與後勤系統中。"
+        },
+        {
+          "target_issue": "打破傳統封閉封鎖的劇院空間，建立市民階級共享的日常核心場所。",
+          "architectural_metaphor_concept": "第四劇場/城市廣場",
+          "tectonic_strategy": "將室外平台 strata 轉化為室內看台序列，使前台公共大廳成為市民展演日常生活的舞台。"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "proscenium stage",
+          "fly tower",
+          "seating bowl",
+          "thrust stage",
+          "flexible stage",
+          "acoustic concrete texture"
+        ],
+        "front_of_house_foh": [
+          "main foyers",
+          "public terraces",
+          "entrance pavilion",
+          "cafe",
+          "bar",
+          "learning centre",
+          "public gathering spaces",
+          "undercrofts"
+        ],
+        "back_of_house_boh": [
+          "workshops",
+          "production building",
+          "backstage areas",
+          "technical support spaces",
+          "performer facilities",
+          "service circulation"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Olivier Fly Tower → oriented 45 degrees from (Spatial_Massing_&_Conceptual_Relation) → Orthogonal Main Grid",
+          "Two Dark Fly Towers → rise asymmetrically from (Spatial_Massing_&_Conceptual_Relation) → Stratified Terraces Base",
+          "Layered Public Platforms → command and engage the curvature of (Spatial_Massing_&_Conceptual_Relation) → Thames Riverfront"
+        ],
+        "meso_level": [
+          "BOH Production Building → shared and structurally decoupled from (Acoustic_Buffer) → Three Independent Auditoria",
+          "Extensive Foyer Network → seamlessly interconnects (Circulation_FOH) → Multiple Theatre Venues",
+          "Public Terraces → extend outward to guide pedestrian flow from (Circulation_FOH) → Embankment and Waterloo Bridge",
+          "Service Circulation → strictly separated via lower level levels from (Circulation_BOH) → FOH Public Gathering Spaces"
+        ],
+        "micro_level": [
+          "Concrete Parapet Walls → line the exterior perimeter edge of (Interface_Tectonic) → Horizontal Terraces",
+          "Exaggerated Board-Form Wood Textures → line the interior of (Interface_Tectonic) → Seating Bowl",
+          "Low Lux Shadows → characterize the recessed edges of (Interface_Tectonic) → Glass Facades",
+          "Tall Metal Railings → fixed atop for safety onto (Interface_Tectonic) → Low Concrete Parapet Walls"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Vertical_Zoning_Separation",
+        "typological_supplementary_tags": [
+          "Civic_Megastructure",
+          "Landscape_Infrastructural",
+          "Volume_in_volume",
+          "Waterfront_Proximity"
+        ],
+        "typology_diagram_note": "多座獨立劇院體量如巨石般嵌入層疊互鎖的水平台地地景，共享低層區後勤基建與中高層的立體公共前台。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Opaque_Monolithic_Shell",
+          "Deeply_Recessed_Glass_Curtain_Wall",
+          "Expressed_Concrete_Massing"
+        ],
+        "material_taxonomy": [
+          "Untreated_Pale_Grey_Concrete",
+          "Timber_Board_Formwork",
+          "Glass",
+          "Metal_Railings"
+        ],
+        "envelope_to_structure_relation_logic": "Exposed_Structure",
+        "structure_integration_detail_note": "主體採用未處理的板模混凝土展現結構理性，外露的承重巨型剪力牆與飛塔結構直接構成建築立面體量。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Multi_Level_Sculptural_Foyer",
+            "Layered_Public_Platforms"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Raw_Concrete",
+            "Timber_Board_Form",
+            "Low_Lux_Shadows",
+            "Civic_Generosity"
+          ],
+          "experience_note": "室外平台地層延伸至大廳內部，轉化為看台般的階梯與露台，透過深邃的陰影與光線引導形塑立體都市漫步。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Sound_Lock_Chamber",
+            "Compressed_Dark_Corridor"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Exposed_Structural_Expression",
+            "Raw_Concrete_Texture"
+          ],
+          "experience_note": "大廳與席位間設有明確的聲學防護過渡閘門，空間尺度經歷壓縮，光線照度降低以完成心理與感官的觀演觀劇緩衝。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "Olivier Theatre",
+            "seating_bowl_geometry_language": [
+              "Terraced_Horseshoe",
+              "Surround"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Parametric_Warm_Timber",
+              "Exaggerated_Concrete_Texture",
+              "Focused_and_Immersive"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Structural_Shell_Exposed"
+            ],
+            "acoustic_material_integration": "牆面延續粗獷的木板模混凝土，利用誇張的微紋理凹凸起伏結構來散射與 baffle 聲音。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Honesty_表裡如一",
+        "interstitial_volume_ratio_tag": "Minimal_Skin_Tight",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Civic_Spectacle_Window"
+        ],
+        "strategy_diagram_note": "劇場內部的挑高看台 strata 直接外推轉化為建築立面的水平地層，形式與機能達到構造與論述的表裡如一。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民 / Audience_觀眾",
+          "spatial_behavior_action": "在寬敞的公共大廳與水平跨越的室外露台漫步、聚集、遠眺泰晤士河與聖保羅大教堂。"
+        },
+        {
+          "user_group": "Citizen_滑板運動者",
+          "spatial_behavior_action": "佔據原先被視為消極空間的架空層與底層陰影空腔(undercrofts)，將其轉化為非正式的都市公共催化劑。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "External_Appearance",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "粗獷的未處理混凝土量體曾被查爾斯王子嘲諷為在倫敦市中心建造的核電廠，引發美學兩極化爭議。"
+        },
+        {
+          "issue_topic": "Social_Symbolism",
+          "public_polarity": "Negative_負評",
+          "summary_note": "在1970年代國家經濟蕭條背景下落成， heavy concrete 被部分輿論批評為服務社會精英的過時殿堂。"
+        },
+        {
+          "issue_topic": "Civic_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "歷史學家與大眾高度讚賞其宏大卻不失人性尺度的空間，寬敞的公共前台開創了開放劇院的市民先河。"
+        }
+      ]
+    }
+  }
+}

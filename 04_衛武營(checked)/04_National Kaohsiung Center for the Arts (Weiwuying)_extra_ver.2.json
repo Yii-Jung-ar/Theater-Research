@@ -1,0 +1,281 @@
+{
+  "precedent_dna": {
+    "gene_a_conditions": {
+      "identity_&_scale": {
+        "project_name": "衛武營國家藝術文化中心 (National Kaohsiung Centre for the Arts, Weiwuying)",
+        "theater_scale_hierarchy": "國家級旗艦表演場館",
+        "gross_floor_area": "141,000 m²"
+      },
+      "halls_specification": [
+        {
+          "hall_name": "歌劇院 (Opera House / Lyric Theatre)",
+          "seating_capacity": "2,236 席",
+          "stage_type": "Proscenium 鏡框式",
+          "primary_performance_type": "西方歌劇 Opera、大型芭蕾舞體 Ballet、傳統戲曲 Chinese Opera、大型話劇與舞台劇劇目 Drama",
+          "key_hardware_&_acoustic_conditions": "配備可調整調音功能的懸吊式聲學反射帷幕 (Acoustic Canopy)，觀眾席採歷史著名的馬蹄形 (Horseshoe) 布置並設有三層環抱看台，可容納超過 70 人的大型管弦樂池。"
+        },
+        {
+          "hall_name": "音樂廳 (Concert Hall)",
+          "seating_capacity": "1,981 席",
+          "stage_type": "Vineyard 葡萄園式",
+          "primary_performance_type": "交響樂 Symphonic Music、管弦樂演奏 Orchestral Performance",
+          "key_hardware_&_acoustic_conditions": "採用梯田葡萄園式幾何布置，以矮牆分隔階梯區塊以縮短聲響反射距離，配備亞洲最大規模的音樂廳管風琴（由德國 Klais 打造），室內背景噪音值達到極其嚴格的 NC15 高規格標準。"
+        },
+        {
+          "hall_name": "戲劇院 (Playhouse)",
+          "seating_capacity": "1,210 席（亦載為 1,243 席）",
+          "stage_type": "Thrust 伸展式",
+          "primary_performance_type": "各種話劇、舞台劇 Drama、當代舞蹈與現代舞劇 Dance",
+          "key_hardware_&_acoustic_conditions": "具備高度彈性與可變式舞台配置，可自標準的鏡框式舞台（觀眾席位於正前方）調整切換為三面觀眾席圍繞的伸展式舞台 (Thrust Stage)，整體色調為特色 Mecanoo Blue。"
+        },
+        {
+          "hall_name": "表演廳 (Recital Hall / 演奏廳)",
+          "seating_capacity": "434 席（亦載為 470 席）",
+          "stage_type": "Shoebox 鞋盒式（推測）",
+          "primary_performance_type": "室內樂 Chamber Music、獨奏與獨唱音樂會 Recitals",
+          "key_hardware_&_acoustic_conditions": "採取非對稱的兩層式座席空間幾何構成，具有親切微型尺度。上部空間圍繞一圈具備吸音效果的調音布幔 (Sound Absorbing Curtains)，可針對不同音樂類型微調殘響時間，空間背景噪音達 NC15 標準。"
+        },
+        {
+          "hall_name": "戶外劇場 (Open-air Theatre)",
+          "seating_capacity": "5,000 席",
+          "stage_type": "Arena 圓形/環抱式（推測）",
+          "primary_performance_type": "大眾流行音樂會 Popular Concerts、非正式草地演出、街頭與環境劇場表演 Informal Acts",
+          "key_hardware_&_acoustic_conditions": "利用屋頂與鋼外殼局部向下平緩延伸觸及地面的大面階梯狀曲面地形作為觀眾看台，並以周圍的綠意公園 landscape 直接作為天然的表演舞台與背景背景。"
+        }
+      ],
+      "location_&_context": {
+        "continent": "亞洲 Asia",
+        "country": "臺灣 Taiwan",
+        "city": "高雄市 Kaohsiung City",
+        "urban_context": "原都市軍事新兵訓練營區舊址，現轉型為高達 47 公頃的大型都會亞熱帶公園綠地脈絡 (Wei-Wu-Ying Metropolitan Park)。"
+      },
+      "participants_&_operation": {
+        "architect": "麥肯諾建築師事務所 Mecanoo Architecten（主導建築師：Francine Houben）+ 瀚亞建築師事務所 Archasia Design Group（在地合作 LDI）",
+        "client": "中華民國文化部（衛武營藝術文化中心籌備處）",
+        "end_user": "臺灣及國際當代舞蹈與戲劇團隊、中西交響樂團、在地市民與海內外遊客群體",
+        "consultants": [
+          "結構工程顧問：超偉工程 Supertech",
+          "聲學顧問：Albert Xu (Xu-Acoustique)",
+          "劇院顧問：Theateradvies / 奕太 Yi Tai",
+          "舞台機械系統：Waagner-Biro",
+          "帷幕牆與屋頂立面顧問：CDC / CWI",
+          "3D 數位建模顧問：利道 Lead Dao",
+          "燈光照明顧問：月河 CMA Lighting Design",
+          "機電空調與消防顧問：元太 Yuan Tai / 恆開 Heng Kai / 巨將 Ju Jiang",
+          "管風琴顧問與匠師：Olivier Latry / Klais, Bonn",
+          "交通顧問：Su International",
+          "主體結構與鋼外殼承包商：建國工程 Chien Kuo Construction / 春源鋼鐵 / 慶富造船 / Centraal Staal"
+        ],
+        "operator": "衛武營國家藝術文化中心（藝術總監簡文斌）"
+      }
+    },
+    "gene_b_design_intentions_matrix": {
+      "intentions_diagram_couples": [
+        {
+          "target_issue": "將高密度多機能巨型劇場群融入亞熱帶都會公園",
+          "architectural_metaphor_concept": "繁茂榕樹林樹冠造型",
+          "tectonic_strategy": "以高聳結構體為樹幹支撐起一張起伏如小丘的連續屋簷地形"
+        },
+        {
+          "target_issue": "回應在地港口造船歷史及因應颱風、強震、高溫之極端氣候",
+          "architectural_metaphor_concept": "陸上大货輪意象",
+          "tectonic_strategy": "異業結合作業，利用高雄造船廠在地三維冷彎鋼板焊接技術打造一體化鋼外殼"
+        },
+        {
+          "target_issue": "翻轉過去軍事禁地的封閉感，打破菁英文化與日常生活的邊界",
+          "architectural_metaphor_concept": "大榕樹下的公共原型",
+          "tectonic_strategy": "利用曲面下沉與懸挑形式創造出全天候、穿透開放的榕樹廣場半戶外中介空腔"
+        }
+      ]
+    },
+    "gene_c_form_composition_&_theatrical_typology": {
+      "c1_vocabulary": {
+        "theater_core_hardware": [
+          "proscenium stage",
+          "central concert platform",
+          "orchestra pit",
+          "acoustic shell",
+          "acoustic canopy",
+          "seating bowl",
+          "stepped vineyard podiums",
+          "sound absorbing curtains",
+          "box-in-box steel springs"
+        ],
+        "front_of_house_foh": [
+          "Banyan Plaza",
+          "grand public covered space",
+          "main lobby",
+          "public concourse",
+          "foyer",
+          "internal public street",
+          "promenade spiral ramps",
+          "outdoor amphitheatre",
+          "restaurants",
+          "art gallery"
+        ],
+        "back_of_house_boh": [
+          "backstage area",
+          "dressing rooms",
+          "technical support areas",
+          "production spaces",
+          "underground service floor",
+          "loading facilities",
+          "stage building workshops",
+          "rehearsal/education halls"
+        ]
+      },
+      "c2_hierarchical_semantic_relations": {
+        "macro_level": [
+          "Integrated Auditorium Volumes → encased by (Spatial_Massing_&_Conceptual_Relation) → Continuous Roofscape",
+          "Banyan Plaza → slides down to wrap around (Spatial_Massing_&_Conceptual_Relation) → Elliptically Shaped Theaters",
+          "Continuous Architectural Canopy → rolls like hills over (Spatial_Massing_&_Conceptual_Relation) → Multi-Venue Cultural Landscape"
+        ],
+        "meso_level": [
+          "Banyan Plaza → serves as a covered protected retreat from (Circulation_FOH) → Urban Environment",
+          "Foyer Space in the Roof → distributes public access to (Circulation_FOH) → Independent Performance Venues",
+          "Underground Service Floor → houses and isolates backstage circulation for (Circulation_BOH) → Each Independent Theatre Core",
+          "Box-in-Box Structural Interstices → strictly insulates sensitive auditoria via springs from (Acoustic_Buffer) → External Banyan Plaza Noise",
+          "Continuous Open Edge Canopy → allows free sub-tropical cooling wind to blow through (Other_Meso_Microclimate_Circulation) → Public Gathering Space"
+        ],
+        "micro_level": [
+          "3D Curved Steel Plates → are welded and structurally anchored to form (Interface_Tectonic) → Banyan Plaza Shell",
+          "Oak Panels → line the interior acoustic surfaces of (Interface_Tectonic) → Concert Hall Seating Bowl",
+          "Standing Seam Aluminum Roof Sheets → layer parallelly on top of (Interface_Tectonic) → Structural Steel Frame",
+          "Red and Purple Taiwanese Flower Fabric → upholsters the seating configuration within (Other_Micro_Interior_Furnishing) → Lyric Theatre Interior"
+        ]
+      },
+      "c3_typological_composition_logic": {
+        "massing_composition_primary_type": "Horizontal_Clustering",
+        "boh_foh_segregation_topology_primary_type": "Vertical_Zoning_Separation",
+        "typological_supplementary_tags": [
+          "Landscape_Infrastructural",
+          "Volume_in_Volume",
+          "Single_Roof_Covered_Civic_Void",
+          "Hybrid_Block_Complex"
+        ],
+        "typology_diagram_note": "四大獨立劇場量體水平集聚，其頂部與底部透過前台公共大廳屋頂以及地下後勤層向外水平延伸並加以拉接，上方扣上單一巨大的連續地形外殼。"
+      }
+    },
+    "gene_d_tectonic_&_appearance_integration": {
+      "d1_envelope_morphology": {
+        "facade_typology_tags": [
+          "Continuous_Undulating_Roofscape",
+          "Opaque_Monolithic_Ship_Skin",
+          "Curvilinear_Steel_Canopy",
+          "Fifth_Facade"
+        ],
+        "material_taxonomy": [
+          "3D_Cold_Bent_Steel_Plates",
+          "Standing_Seam_Aluminum_Sheets",
+          "Reinforced_Concrete_PU_Flooring"
+        ],
+        "envelope_to_structure_relation_logic": "Independent_Space_Frame",
+        "structure_integration_detail_note": "精細內裝和自由曲面外殼採幾何分離設計。主體鋼結構撐起屋面鋁板系統，而下方的鋼表皮外殼與劇場主結構間則設有大型防震鋼彈簧與隔震橡膠，使皮層與核心獨立脫開晃動。"
+      },
+      "d2_interior_space_sequence_experience": {
+        "foyer_promenade_phenomenology": {
+          "spatial_scale_tags": [
+            "Cave_Like_Interior",
+            "Fluid_Horizontal_Concourse",
+            "Multi_Venue_Shared_Foyer"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Neutral_White_Steel",
+            "Changing_Projections_Mood",
+            "Suspended_Twelve_Chandeliers"
+          ],
+          "experience_note": "純白、無縫流動的巨大洞穴空腔，光影隨時間變化，清風自由吹拂，民眾在宛如巨船腹部的超大尺度天篷下自由漫步與進行自發演出。"
+        },
+        "acoustic_transition_threshold": {
+          "transition_mechanism_tags": [
+            "Box_In_Box_Isolator",
+            "Spiraling_Access_Ramps",
+            "Sound_Lock_Vestibule"
+          ],
+          "material_atmosphere_vocabulary": [
+            "Acoustic_Rubber_Dampers",
+            "Atmospheric_Transition_Threshold"
+          ],
+          "experience_note": "大廳群眾藉由盤旋上升的弧形踏階或坡道緩步接近各劇院核心，穿過設有防震彈簧的盒中盒隔音構造界面，經歷尺度與心理上的雙重收斂。"
+        },
+        "auditorium_interior_enclosure": [
+          {
+            "hall_name": "音樂廳 (Concert Hall)",
+            "seating_bowl_geometry_language": [
+              "Terraced_Vineyard_Podiums",
+              "Symmetrical_Surround_Balconies"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Golden_Champagne_Seats",
+              "Warm_Oak_Lining",
+              "Monumental_Klais_Organ"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "利用層層錯落的梯田矮牆縮短早期反射距離，牆面均採用溫暖的橡木板面料包覆以完美傳遞殘響音質。"
+          },
+          {
+            "hall_name": "歌劇院 (Lyric Theatre)",
+            "seating_bowl_geometry_language": [
+              "Symmetrical_Horseshoe_Tiering",
+              "Three_Circled_Balconies"
+            ],
+            "material_atmosphere_vocabulary": [
+              "Crimson_And_Purple_Velvet",
+              "Darker_Acoustic_Walls",
+              "Taiwanese_Flower_Patterns"
+            ],
+            "acoustic_geometry_alignment_logic": [
+              "Parametric_Acoustic_Surface"
+            ],
+            "acoustic_material_integration": "暗色吸音牆面搭襯花卉紋樣絨布椅，搭配頂端可變音響反射帷幕，藉此吸收並彈性調節全頻殘響表現。"
+          }
+        ]
+      },
+      "d3_inside_out_integration_strategy": {
+        "formal_alignment_type": "Disjunction_皮肉分離",
+        "interstitial_volume_ratio_tag": "Maximal_Urban_Void",
+        "interstitial_functional_tags": [
+          "Circulation_Promenade_Ramp",
+          "Microclimate_Passive_Buffer",
+          "Acoustic_Detachment_Zone"
+        ],
+        "strategy_diagram_note": "藉由最大化屋頂外殼與室內劇場黑盒子間的夾縫空腔，創造出可自由呼吸、防雨防曬的市民活動大客廳，完美整合流線、聲學緩衝與微氣候調節。"
+      }
+    },
+    "gene_e_outcomes_&_reflection": {
+      "stakeholder_behavior_responses": [
+        {
+          "user_group": "Citizen_市民",
+          "spatial_behavior_action": "在不需購買表演門票的前提下，全天候自由穿梭於榕樹廣場，進行慢跑、練太極拳或進行即興演藝活動。"
+        },
+        {
+          "user_group": "Audience_觀眾",
+          "spatial_behavior_action": "藉由旋轉坡道被引導進入葡萄園或馬蹄形大廳，在具世界級聲學品質的封閉內部享受沉浸式藝術表演。"
+        },
+        {
+          "user_group": "Performer_演職人員",
+          "spatial_behavior_action": "在完全與公眾流線分流的地下服務層與排練用後勤區，進行高效率、免受外界雜音干擾的排練與道具製作。"
+        }
+      ],
+      "discourse_polarity_criticism": [
+        {
+          "issue_topic": "Construction_Tectonic_Challenge",
+          "public_polarity": "Positive_正評",
+          "summary_note": "成功挑戰前所未有的異業合作，利用高雄在地傳統造船工業技術，完美精準實踐三維不規則鋼板曲面的「陸上造船」壯舉。"
+        },
+        {
+          "issue_topic": "Acoustic_Performance_Quality",
+          "public_polarity": "Positive_正評",
+          "summary_note": "各廳透過 Albert Xu 精密調校及隔震「盒中盒」工法，讓背景噪音水準達到超越以往標竿之 NC15 極致聲學成就。"
+        },
+        {
+          "issue_topic": "BIM_Coordination_And_Process_Conflict",
+          "public_polarity": "Controversial_高度爭議",
+          "summary_note": "因快捷工法引發分包介面整合困難，且部分協力廠商對特殊工法理解不足（如將管線埋入排練室浮動地板），頻繁導致現場工序爭議。"
+        }
+      ]
+    }
+  }
+}
