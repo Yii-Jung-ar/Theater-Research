@@ -1,0 +1,50 @@
+{
+  "transformability_types": {
+    "Fixed": {
+      "description": "No evidence of reconfiguration."
+    },
+
+    "Flexible": {
+      "description": "Performance setup can change."
+    },
+
+    "Retractable": {
+      "description": "Movable seating or stage systems."
+    },
+
+    "Variable": {
+      "description": "Multiple audience or stage configurations."
+    },
+
+    "Mergeable": {
+      "description": "Two or more theatres can physically connect."
+    }
+  },
+
+  "mergeable_theatre_evidence": [
+    "Movable Wall",
+    "Retractable Partition",
+    "Operable Acoustic Wall",
+    "Shared Stage Zone",
+    "Shared Backstage",
+    "Connecting Opening",
+    "Removable Boundary",
+    "Expandable Seating Area"
+  ],
+
+  "analysis_rule": {
+    "high_confidence": [
+      "Movable wall clearly shown",
+      "Connection opening visible",
+      "Diagram explicitly indicates combination mode"
+    ],
+
+    "medium_confidence": [
+      "Shared backstage and shared stage edge visible"
+    ],
+
+    "low_confidence": [
+      "Possible connection inferred from plan geometry"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "theatre_typology": {
+    "Proscenium Theatre": {
+      "description": "Stage framed by a proscenium arch.",
+      "typical_audience_configuration": "End-stage",
+      "typical_stage_form": "Proscenium Stage"
+    },
+
+    "Thrust Theatre": {
+      "description": "Stage projects into the audience.",
+      "typical_audience_configuration": "Three-sided"
+    },
+
+    "Arena Theatre": {
+      "description": "Audience surrounds the stage.",
+      "typical_audience_configuration": "Surround"
+    },
+
+    "Black Box Theatre": {
+      "description": "Flexible performance space.",
+      "typical_stage_form": "Flexible"
+    },
+
+    "Studio Theatre": {
+      "description": "Small-scale performance venue."
+    },
+
+    "Concert Hall": {
+      "description": "Venue optimized for music performance."
+    },
+
+    "Opera House": {
+      "description": "Venue optimized for opera and large-scale stage productions."
+    },
+
+    "Multipurpose Hall": {
+      "description": "Venue designed for multiple event types."
+    },
+
+    "Experimental Theatre": {
+      "description": "Venue designed for non-traditional performance formats."
+    }
+  }
+}

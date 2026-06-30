@@ -1,0 +1,376 @@
+{
+  "project_name": "National Theatre",
+  "analysis_type": "Theatre Architecture Knowledge Base Entry",
+  "source_basis": "Analysis based on visible site/location diagrams, sections, elevations, exploded axonometric drawings, exterior photographs, auditorium photographs, and annotated redevelopment diagrams contained in the uploaded image set.",
+
+  "image_classification": {
+    "P1_Architectural_Drawings": [
+      {
+        "type": "Site and Location Plan",
+        "evidence": "Annotated campus diagram showing National Theatre within a larger cultural district."
+      },
+      {
+        "type": "Building Sections",
+        "evidence": "Multiple sectional drawings illustrating auditorium volumes, foyers, terraces, and backstage organization."
+      },
+      {
+        "type": "Elevations",
+        "evidence": "South elevation studies showing existing and redeveloped conditions."
+      },
+      {
+        "type": "Exploded Axonometric",
+        "evidence": "Programmatic decomposition of public spaces, theatres, workshops, learning facilities, and landscape."
+      }
+    ],
+
+    "P2_Photographs_Renderings": [
+      {
+        "type": "Exterior Photographs",
+        "evidence": "Building massing, terraces, civic plazas, and urban presence."
+      },
+      {
+        "type": "Interior Auditorium Photographs",
+        "evidence": "Audience seating, stage relationships, and theatre atmosphere."
+      }
+    ],
+
+    "P3_Diagrams": [
+      {
+        "type": "Redevelopment Diagram",
+        "evidence": "Annotated diagram identifying theatre facilities, public amenities, and support spaces."
+      }
+    ]
+  },
+
+  "architectural_analysis": {
+    "building_type": "Multi-Venue Performing Arts Centre",
+
+    "primary_program": "Drama and Theatre Performance",
+
+    "architectural_vocabulary": {
+      "FOH": [
+        "Main Foyers",
+        "Public Terraces",
+        "Entrance Pavilion",
+        "Cafe",
+        "Bar",
+        "Learning Centre",
+        "Public Gathering Spaces"
+      ],
+
+      "BOH": [
+        "Workshops",
+        "Production Building",
+        "Backstage Areas",
+        "Technical Support Spaces",
+        "Performer Facilities",
+        "Service Circulation"
+      ],
+
+      "performance_spaces": [
+        "Large Theatre",
+        "Medium Theatre",
+        "Studio Theatre"
+      ]
+    },
+
+    "spatial_organization": {
+      "organizational_strategy": "Multi-Theatre Civic Megastructure",
+
+      "description": "Several independent performance venues are embedded within a large interconnected building that combines public circulation, terraces, education facilities, production infrastructure, and theatre operations.",
+
+      "public_private_separation": "Strong",
+
+      "circulation_structure": "Extensive foyer and terrace network connects multiple theatre venues and public amenities."
+    },
+
+    "overall_spatial_logic": {
+      "type": "Clustered Theatre Complex",
+
+      "description": "Multiple auditoria are organized within a unified architectural framework supported by shared public and backstage systems."
+    },
+
+    "vertical_organization": {
+      "lower_levels": [
+        "Technical Infrastructure",
+        "Production Areas",
+        "Service Functions"
+      ],
+
+      "middle_levels": [
+        "Theatres",
+        "Foyers",
+        "Public Circulation"
+      ],
+
+      "upper_levels": [
+        "Terraces",
+        "Learning Facilities",
+        "Public Amenities"
+      ]
+    }
+  },
+
+  "photographic_analysis": {
+    "design_vocabulary": [
+      "Terraced Architecture",
+      "Expressed Concrete Massing",
+      "Layered Public Platforms",
+      "Monumental Civic Form",
+      "Exposed Structural Expression",
+      "Embedded Theatre Volumes"
+    ],
+
+    "materiality": [
+      "Concrete",
+      "Glass",
+      "Metal",
+      "Timber Interior Finishes"
+    ],
+
+    "atmosphere": {
+      "public_spaces": "Open, civic, and highly social",
+      "auditoria": "Focused and immersive",
+      "urban_character": "Cultural landmark"
+    },
+
+    "contextual_relationship": {
+      "riverfront_or_waterfront_proximity": true,
+      "cultural_district": true,
+      "urban_landmark": true
+    }
+  },
+
+  "theatre_detection": {
+    "total_detected_venues": 3,
+
+    "detected_venues": [
+      {
+        "theatre_id": "T1",
+        "venue_name": "Olivier Theatre",
+        "evidence": "Large principal auditorium visible in sections and auditorium imagery."
+      },
+      {
+        "theatre_id": "T2",
+        "venue_name": "Lyttelton Theatre",
+        "evidence": "Secondary major theatre volume visible in building sections and organizational drawings."
+      },
+      {
+        "theatre_id": "T3",
+        "venue_name": "Dorfman Theatre",
+        "evidence": "Explicitly identified in annotated exploded axonometric."
+      }
+    ],
+
+    "multi_theatre_complex": true,
+
+    "evidence_quality": "Direct Evidence"
+  },
+
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+      "theatre_name": "Olivier Theatre",
+      "theatre_typology": "Thrust Theatre",
+      "primary_function": [
+        "Drama",
+        "Large Scale Theatre Production"
+      ],
+      "estimated_capacity": {
+        "value": "800-1500",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+      "audience_configuration": "Surround",
+      "seating_geometry": "Terraced Horseshoe",
+      "stage_form": "Thrust Stage",
+      "auditorium_stage_relationship": "Thrust",
+      "transformability": {
+        "classification": "Fixed"
+      },
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    {
+      "theatre_id": "T2",
+      "theatre_name": "Lyttelton Theatre",
+      "theatre_typology": "Proscenium Theatre",
+      "primary_function": [
+        "Drama",
+        "Large Scale Theatre"
+      ],
+      "estimated_capacity": {
+        "value": "500-1200",
+        "unit": "seats",
+        "confidence": "Medium"
+      },
+      "audience_configuration": "End-stage",
+      "seating_geometry": "Fan-shaped",
+      "stage_form": "Proscenium Stage",
+      "auditorium_stage_relationship": "Frontal",
+      "transformability": {
+        "classification": "Fixed"
+      },
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    {
+      "theatre_id": "T3",
+      "theatre_name": "Dorfman Theatre",
+      "theatre_typology": "Studio Theatre",
+      "primary_function": [
+        "Experimental Theatre",
+        "Flexible Productions",
+        "Contemporary Performance"
+      ],
+      "estimated_capacity": {
+        "value": "100-500",
+        "unit": "seats",
+        "confidence": "Low"
+      },
+      "audience_configuration": "Hybrid",
+      "seating_geometry": "Rectilinear",
+      "stage_form": "Flexible Stage",
+      "auditorium_stage_relationship": "Variable",
+      "transformability": {
+        "classification": "Variable"
+      },
+      "confidence_level": "Medium",
+      "evidence_quality": "Direct Evidence"
+    }
+  ],
+
+  "theatre_complex_analysis": {
+    "complex_type": "Multi-Theatre Performing Arts Centre",
+
+    "hierarchy": {
+      "main_hall": "T1 Olivier Theatre",
+      "secondary_hall": "T2 Lyttelton Theatre",
+      "studio_theatre": "T3 Dorfman Theatre"
+    },
+
+    "shared_infrastructure": [
+      "Foyers",
+      "Terraces",
+      "Learning Centre",
+      "Workshops",
+      "Production Building",
+      "Backstage Facilities",
+      "Technical Support Areas",
+      "Public Circulation"
+    ],
+
+    "operational_relationships": {
+      "venue_independence": true,
+      "shared_support": true,
+      "shared_public_space": true
+    },
+
+    "spatial_relationships": {
+      "organization": "Clustered Theatre System",
+      "venue_arrangement": "Multiple auditorium volumes embedded within a shared architectural framework"
+    }
+  },
+
+  "mergeable_theatre_analysis": {
+    "classification": "Not Evident",
+
+    "mergeable_theatre_system": false,
+
+    "evidence_checked": [
+      "Movable Wall",
+      "Retractable Partition",
+      "Operable Acoustic Wall",
+      "Shared Stage Zone",
+      "Connecting Opening",
+      "Expandable Seating"
+    ],
+
+    "confidence_level": "Medium"
+  },
+
+  "theatre_building_relationship": {
+    "theatre_cluster_organization": "Clearly Expressed",
+
+    "volume_in_volume_strategy": true,
+
+    "theatre_as_organizational_core": false,
+
+    "visibility_of_theatre_volume": "Clearly Expressed",
+
+    "description": "Distinct theatre volumes are embedded within a larger civic megastructure and organize much of the building section and circulation system."
+  },
+
+  "cultural_interpretation": {
+    "cultural_role": "National Performing Arts Institution",
+
+    "programmatic_role": "Drama production, education, public engagement, and cultural presentation",
+
+    "public_space_integration": {
+      "public_terraces": true,
+      "civic_destination": true,
+      "year_round_public_use": true
+    },
+
+    "architectural_expression_of_performance": {
+      "performance_embedded_in_architecture": true,
+      "public_visibility_of_culture": true,
+      "theatre_volumes_expressed": true
+    },
+
+    "spectatorship": {
+      "multiple_viewing_models": true,
+      "diverse_performance_formats": true,
+      "collective_experience": true
+    }
+  },
+
+  "confidence_assessment": {
+    "venue_count": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "multi_theatre_classification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "olivier_identification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "lyttelton_identification": {
+      "confidence": "Medium",
+      "evidence_quality": "Strong Inference"
+    },
+
+    "dorfman_identification": {
+      "confidence": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    "transformability": {
+      "confidence": "Low",
+      "evidence_quality": "Weak Inference"
+    }
+  },
+
+  "knowledge_tags": [
+    "National Theatre",
+    "Multi-Theatre Complex",
+    "Olivier Theatre",
+    "Lyttelton Theatre",
+    "Dorfman Theatre",
+    "Thrust Theatre",
+    "Proscenium Theatre",
+    "Studio Theatre",
+    "Civic Megastructure",
+    "Shared FOH Infrastructure",
+    "Volume-in-Volume",
+    "Performing Arts Centre"
+  ]
+}

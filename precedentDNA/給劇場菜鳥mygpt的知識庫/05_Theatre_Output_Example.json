@@ -1,0 +1,39 @@
+{
+  "theatre_inventory": [
+    {
+      "theatre_id": "T1",
+      "theatre_name": "Main Hall",
+      "theatre_typology": "Proscenium Theatre",
+      "estimated_capacity": 1200,
+      "audience_configuration": "End-stage",
+      "seating_geometry": "Fan-shaped",
+      "stage_form": "Proscenium Stage",
+      "transformability": "Fixed",
+      "confidence_level": "High",
+      "evidence_quality": "Direct Evidence"
+    },
+
+    {
+      "theatre_id": "T2",
+      "theatre_name": "Studio Theatre",
+      "theatre_typology": "Flexible Theatre",
+      "estimated_capacity": 300,
+      "audience_configuration": "Hybrid",
+      "seating_geometry": "Rectilinear",
+      "stage_form": "Flexible Stage",
+      "transformability": "Variable",
+      "confidence_level": "Medium",
+      "evidence_quality": "Strong Inference"
+    }
+  ],
+
+  "mergeable_theatre_analysis": {
+    "classification": "Mergeable Theatre System",
+    "affected_venues": [
+      "T1",
+      "T2"
+    ],
+    "connection_mechanism": "Operable partition wall",
+    "confidence_level": "High"
+  }
+}

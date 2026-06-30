@@ -1,0 +1,45 @@
+{
+  "FOH": [
+    "Lobby",
+    "Foyer",
+    "Ticketing",
+    "Cafe",
+    "Restaurant",
+    "Retail",
+    "Exhibition Space",
+    "Public Gathering Space",
+    "Public Plaza"
+  ],
+
+  "BOH": [
+    "Dressing Room",
+    "Green Room",
+    "Rehearsal Room",
+    "Workshop",
+    "Loading Dock",
+    "Storage",
+    "Technical Room",
+    "Performer Lounge",
+    "Stage Support Area"
+  ],
+
+  "Stage Components": [
+    "Proscenium",
+    "Fly Tower",
+    "Orchestra Pit",
+    "Side Stage",
+    "Back Stage",
+    "Stage Lift",
+    "Catwalk"
+  ],
+
+  "Building Components": [
+    "Lobby",
+    "Atrium",
+    "Courtyard",
+    "Bridge",
+    "Circulation Core",
+    "Elevator",
+    "Staircase"
+  ]
+}

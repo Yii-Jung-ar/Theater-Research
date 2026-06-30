@@ -1,0 +1,40 @@
+{
+  "audience_configuration": [
+    "End-stage",
+    "Arena",
+    "Surround",
+    "Traverse",
+    "Fan-shaped",
+    "Vineyard",
+    "Hybrid"
+  ],
+
+  "seating_geometry": [
+    "Fan-shaped",
+    "Horseshoe",
+    "Shoebox",
+    "Rectilinear",
+    "Terraced",
+    "Vineyard",
+    "Hybrid"
+  ],
+
+  "stage_form": [
+    "Proscenium Stage",
+    "Thrust Stage",
+    "Arena Stage",
+    "Flexible Stage",
+    "Modular Stage",
+    "Retractable Stage",
+    "Variable Stage"
+  ],
+
+  "auditorium_stage_relationship": [
+    "Frontal",
+    "Thrust",
+    "Surround",
+    "Immersive",
+    "Variable",
+    "Reconfigurable"
+  ]
+}
